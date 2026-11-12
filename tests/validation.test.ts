@@ -1,0 +1,13 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import { randomUUID } from 'node:crypto';
+import { tripSchema, credentialsSchema } from '../server/validation.js';
+import { destinations, places } from '../shared/catalog.js';
+const valid=()=>({id:randomUUID(),title:'My Kyoto adventure',country:'Japan',city:'Kyoto',days:3,startDate:'2026-12-01',stops:[{id:randomUUID(),placeId:'kyoto-1',day:2,time:'09:30',notes:'Bring a camera.'}]});
+test('valid itinerary and dates pass',()=>assert.equal(tripSchema.safeParse(valid()).success,true));
+test('rejects stops beyond trip length',()=>{const t=valid();t.stops[0].day=4;assert.equal(tripSchema.safeParse(t).success,false);});
+test('rejects a place from another destination',()=>{const t=valid();t.stops[0].placeId='paris-1';assert.equal(tripSchema.safeParse(t).success,false);});
+test('rejects duplicate stop identifiers',()=>{const t=valid();t.stops.push({...t.stops[0]});assert.equal(tripSchema.safeParse(t).success,false);});
+test('rejects invalid times, dates, and empty titles',()=>{for(const changes of [{startDate:'2026-02-30'},{title:'  '},{days:31}])assert.equal(tripSchema.safeParse({...valid(),...changes}).success,false);const t=valid();t.stops[0].time='29:90';assert.equal(tripSchema.safeParse(t).success,false);});
+test('normalizes email and enforces password length',()=>{assert.equal(credentialsSchema.parse({email:'Wanderer@Example.com',password:'secret-pass'}).email,'wanderer@example.com');assert.equal(credentialsSchema.safeParse({email:'bad',password:'short'}).success,false);});
+test('catalog contains unique, complete and geographically valid destinations',()=>{assert.equal(new Set(places.map(p=>p.id)).size,places.length);for(const d of destinations)for(const city of d.cities){const entries=places.filter(p=>p.city===city&&p.country===d.country);assert.ok(entries.some(p=>p.kind==='hidden'));assert.ok(entries.some(p=>p.kind==='iconic'));for(const p of entries){assert.ok(Math.abs(p.lat)<=90&&Math.abs(p.lng)<=180);assert.ok(p.transit&&p.driving&&p.description);}}});

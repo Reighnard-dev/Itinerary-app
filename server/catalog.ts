@@ -1,0 +1,14 @@
+import {places as handpicked} from '../shared/catalog.js';
+import imported from '../shared/expanded-places.json' with {type:'json'};
+import type {Place} from '../shared/types.js';
+import photoManifest from '../shared/place-images.json' with {type:'json'};
+import photoIdentities from '../shared/photo-identities.json' with {type:'json'};
+import webPhotos from '../shared/web-photo-candidates.json' with {type:'json'};
+import venuePhotos from '../shared/venue-photo-candidates.json' with {type:'json'};
+import entityPhotos from '../shared/entity-photo-candidates.json' with {type:'json'};
+import type {PlaceImage} from '../shared/types.js';
+const photos={...webPhotos,...venuePhotos,...entityPhotos,...photoManifest} as Record<string,PlaceImage>;
+const identities=photoIdentities as Record<string,NonNullable<Place['photoIdentity']>>;
+const key=(p:Place)=>`${p.country}:${p.city}:${p.name.normalize('NFKD').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'')}`;
+const known=new Set(handpicked.map(key));
+export const places:Place[]=[...handpicked,...(imported as Place[]).filter(p=>!known.has(key(p)))].map(place=>({...place,...(photos[place.id]?{photo:photos[place.id]}:{}),...(identities[place.id]?{photoIdentity:identities[place.id]}:{})}));

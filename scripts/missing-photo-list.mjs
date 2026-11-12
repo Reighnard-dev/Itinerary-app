@@ -1,0 +1,12 @@
+import {readFileSync,writeFileSync,existsSync,readdirSync} from 'node:fs';
+const originals=(await import('../dist-server/shared/catalog.js')).places;
+const expanded=JSON.parse(readFileSync('shared/expanded-places.json','utf8'));
+const photos=JSON.parse(readFileSync('shared/place-images.json','utf8'));
+const seen=new Set();const pending=[];
+for(const place of [...originals,...expanded]){const key=`${place.country}:${place.city}:${place.name.toLowerCase()}`;if(seen.has(key)||photos[place.id])continue;seen.add(key);pending.push({id:place.id,name:place.name,country:place.country,city:place.city,category:place.category,address:place.address||'',lat:place.lat,lng:place.lng});}
+pending.sort((a,b)=>Number(b.category==='Parks & gardens')-Number(a.category==='Parks & gardens'));
+const queueFile='data/photo-search-queue.json';if(!existsSync(queueFile))writeFileSync(queueFile,JSON.stringify(pending));
+const queue=JSON.parse(readFileSync(queueFile,'utf8'));const queued=new Set(queue.map(p=>p.id));const newlyMissing=pending.filter(p=>!queued.has(p.id));if(newlyMissing.length){queue.push(...newlyMissing);writeFileSync(queueFile,JSON.stringify(queue));}const checked=new Set(readdirSync('data/sources/image-search').map(f=>f.replace(/\.json$/,'')));
+if(existsSync('data/sources/image-search-groups'))for(const f of readdirSync('data/sources/image-search-groups')){const batch=JSON.parse(readFileSync(`data/sources/image-search-groups/${f}`,'utf8'));for(const p of batch.places)checked.add(p.id);}
+if(process.argv.includes('--single-pending')){const single=new Set(readdirSync('data/sources/image-search').map(f=>f.replace(/\.json$/,'')));const sourced=new Set([...Object.keys(JSON.parse(readFileSync('shared/web-photo-candidates.json','utf8'))),...Object.keys(JSON.parse(readFileSync('shared/venue-photo-candidates.json','utf8'))),...Object.keys(JSON.parse(readFileSync('shared/entity-photo-candidates.json','utf8')))]);const remaining=queue.filter(p=>!single.has(p.id)&&!sourced.has(p.id));console.log(JSON.stringify({total:queue.length,checked:queue.length-remaining.length,remaining:remaining.length,items:remaining.slice(0,Number(process.argv[3]||60))}));}
+else if(process.argv.includes('--count'))console.log(queue.length);else if(process.argv.includes('--pending'))console.log(JSON.stringify({total:queue.length,checked:checked.size,items:queue.filter(p=>!checked.has(p.id)).slice(0,Number(process.argv[3]||20))}));else {const offset=Number(process.argv[2]||0),count=Number(process.argv[3]||50);console.log(JSON.stringify(queue.slice(offset,offset+count)));}

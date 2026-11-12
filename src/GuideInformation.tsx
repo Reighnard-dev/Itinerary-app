@@ -1,0 +1,6 @@
+import {ArrowUp,Globe2,MapPin,Clock3} from 'lucide-react';
+import type {Place} from '../shared/types';
+export default function GuideInformation({place}:{place:Place}){
+ if(!place.source)return null;
+ return <div className="guide-information"><div className="guide-information-source"><Globe2 size={16}/><div><a href={place.source.url} target="_blank" rel="noreferrer">{place.source.name} <ArrowUp className="diagonal" size={12}/></a><span>Adapted guide excerpt · retrieved {new Date(place.source.retrievedAt).toLocaleDateString('en',{month:'short',day:'numeric',year:'numeric'})} · <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">CC BY-SA 4.0</a></span></div></div>{place.address&&<p><MapPin size={14}/><span>{place.address}</span></p>}{place.hours&&<p><Clock3 size={14}/><span><strong>Guide-listed hours:</strong> {place.hours}</span></p>}{place.phone&&<p><span>Guide-listed phone: {place.phone}</span></p>}{place.website&&<a className="venue-link" href={place.website} target="_blank" rel="noreferrer">Visit the venue’s website <ArrowUp className="diagonal" size={13}/></a>}<p className="guide-freshness">Community guide details can change. Confirm opening, prices, and reservations with the venue. Visit durations are planning suggestions.</p></div>;
+}
