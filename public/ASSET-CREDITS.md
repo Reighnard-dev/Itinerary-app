@@ -6,6 +6,8 @@ Researched photographs in `images/places/` have individual source credits shown 
 
 Additional venue and web-researched photographs are recorded in `shared/venue-photo-candidates.json` and `shared/web-photo-candidates.json`. Their original sources retain the rights; no Creative Commons license is claimed for these images. Each record preserves its source page and credit. Photos are cropped for display. Unmatched places are not assigned unrelated category stock photos.
 
+The 12 November 2026 additions retain individual source links and visible credits, including Lim Yaohui / The Straits Times (Garden Rhapsody), Destination BC / Heath Moffatt via Destination Vancouver (Stanley Park), André Heller via Fathom (ANIMA), Korea Tourism Organization via Trippose (Suyeong History Park), and Jakameshi via Jakarta Nippo (Lara Djonggrang). These credits identify the supplied source or photographer; they do not grant a Creative Commons license. The remaining additions retain their original website or venue credits in the manifest.
+
 City and country data: [GeoNames](https://www.geonames.org/), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Guide excerpts and listing details: Wikivoyage contributors, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Individual source revisions are linked from the app. Full provenance and transformations are documented in `DATA-SOURCES.md`.
 
 Destination photography is from [Unsplash](https://unsplash.com/license). Local photo filenames preserve the original Unsplash image IDs; the hero is `photo-1493976040374-85c8e12f0c0e`. A source image is available at `https://images.unsplash.com/IMAGE_ID`.

@@ -13,6 +13,7 @@ try{
  console.log(JSON.stringify({pageErrors:errors,mobileOverflow:await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),firstPhoto:await page.locator('.place-card img').first().getAttribute('src')}));
  const manifest=JSON.parse(readFileSync('shared/place-images.json','utf8'));const entries=Object.entries(manifest);const samples=[...entries.slice(0,8),...Array.from({length:24},(_,i)=>entries[Math.floor((i+1)*entries.length/25)])].filter(Boolean);
  const gallery=await browser.newPage({viewport:{width:1500,height:1400}});
+ await gallery.goto('http://127.0.0.1:3001/');
  const escape=s=>s.replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('"','&quot;');
  await gallery.setContent(`<html><body style="margin:0;padding:20px;font:12px system-ui;background:#faf9f1;display:grid;grid-template-columns:repeat(8,1fr);gap:12px">${samples.map(([id,photo])=>`<figure style="margin:0;min-width:0"><img src="http://127.0.0.1:3001${escape(photo.url)}" style="width:100%;height:150px;object-fit:cover;border-radius:5px"><figcaption style="margin-top:6px;font-size:9px;line-height:1.5;overflow-wrap:anywhere">${escape(id)}<br>${escape(photo.title)}</figcaption></figure>`).join('')}</body></html>`);
  await gallery.evaluate(()=>Promise.all([...document.images].map(img=>img.decode().catch(()=>{}))));await gallery.screenshot({path:'test-results/place-photo-contact-sheet.png',fullPage:true});

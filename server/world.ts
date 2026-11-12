@@ -2,6 +2,9 @@ import world from '../shared/world-cities.json' with {type:'json'};
 export interface GeoCity {id:string;name:string;nativeName:string;lat:number;lng:number;region:string;population:number;capital:boolean}
 export const worldCountries=world.countries;
 const countryMap=new Map(worldCountries.map(c=>[c.country,c]));
+const usa=countryMap.get('United States');
+if(usa){countryMap.set('USA',usa);countryMap.set('United States of America',usa);countryMap.set('US',usa);}
+export function canonicalCountry(country:string){return countryMap.get(country)?.country||country;}
 export const worldwideDestinations=worldCountries.map(c=>({country:c.country,code:c.code,cities:c.cities.map(city=>city.name)}));
 export function geoCity(country:string,city:string):GeoCity|undefined{return countryMap.get(country)?.cities.find(c=>c.name===city);}
 export function countryCode(country:string){return countryMap.get(country)?.code||'';}

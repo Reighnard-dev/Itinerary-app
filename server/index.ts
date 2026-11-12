@@ -5,7 +5,7 @@ import { existsSync, mkdirSync } from 'node:fs';
 import path from 'node:path';
 import { createClient, type SupabaseClient } from '@supabase/supabase-js';
 import { places } from './catalog.js';
-import {worldwideDestinations,geoCity} from './world.js';
+import {worldwideDestinations,geoCity,canonicalCountry} from './world.js';
 import {discoverGuide,type GuideResult} from './travel-guide.js';
 import { credentialsSchema, tripSchema } from './validation.js';
 import type { User } from '../shared/types.js';
@@ -43,7 +43,7 @@ app.use('/api/auth',(req,res,next)=>{
 app.get('/api/config',(_req,res)=>res.json({mode:cloud?'supabase':'local',supabaseUrl:url,supabaseAnonKey:key}));
 app.get('/api/health',(_req,res)=>res.json({status:'ok',mode:cloud?'supabase':'local'}));
 app.get('/api/destinations',(_req,res)=>res.json({destinations:worldwideDestinations,countryCount:worldwideDestinations.length,cityCount:worldwideDestinations.reduce((n,d)=>n+d.cities.length,0),placeCount:places.length}));
-app.get('/api/places',(req,res)=>res.json({places:places.filter(p=>(!req.query.country||p.country===req.query.country)&&(!req.query.city||p.city===req.query.city))}));
+app.get('/api/places',(req,res)=>{const targetCountry=typeof req.query.country==='string'?canonicalCountry(req.query.country):'';res.json({places:places.filter(p=>(!targetCountry||p.country===targetCountry)&&(!req.query.city||p.city===req.query.city))});});
 const photograph=photoService(db,dataDir,places);
 app.use('/api/photos',express.static(photograph.dir,{maxAge:'30d',immutable:true}));
 app.get('/api/place-image',async(req,res)=>{
@@ -55,7 +55,8 @@ app.get('/api/place-image',async(req,res)=>{
 const pendingGuides=new Map<string,Promise<GuideResult>>();
 const discoveryLimits=new Map<string,{count:number;until:number}>();
 app.get('/api/explore',async(req,res)=>{
- const country=typeof req.query.country==='string'?req.query.country:'',city=typeof req.query.city==='string'?req.query.city:'';
+ const rawCountry=typeof req.query.country==='string'?req.query.country:'',city=typeof req.query.city==='string'?req.query.city:'';
+ const country=canonicalCountry(rawCountry);
  if(!geoCity(country,city))return res.status(400).json({error:'Choose a city from the location suggestions.'});
  const cityKey=JSON.stringify([country,city]);
  const row=db.prepare('SELECT data,fetched_at FROM place_cache WHERE city_key=?').get(cityKey) as {data:string;fetched_at:string}|undefined;

@@ -1,4 +1,5 @@
-import {readFileSync,writeFileSync,existsSync,readdirSync} from 'node:fs';
+import {readFileSync,writeFileSync,existsSync,readdirSync,mkdirSync} from 'node:fs';
+mkdirSync('data/sources/image-search',{recursive:true});
 const originals=(await import('../dist-server/shared/catalog.js')).places;
 const expanded=JSON.parse(readFileSync('shared/expanded-places.json','utf8'));
 const photos=JSON.parse(readFileSync('shared/place-images.json','utf8'));
