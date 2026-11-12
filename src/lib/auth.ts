@@ -1,6 +1,6 @@
 import { getSupabase } from './supabase';
 export async function signUp(email: string, password: string, name?: string) {
-  const { data, error } = await getSupabase().auth.signUp({ email, password, options: { data: { name } } });
+  const { data, error } = await getSupabase().auth.signUp({ email, password, options: { data: { name }, emailRedirectTo: window.location.origin } });
   if (error) throw error;
   return data;
 }

@@ -4,6 +4,8 @@ import { ArrowDown, ArrowDownLeft, ArrowLeft, ArrowRight, ArrowUp, Bookmark, Cal
 import { images, places as handpicked } from '../shared/catalog';
 import type { Place, Stop, Trip, User } from '../shared/types';
 import { api, configure, supabase } from './api';
+import { getCurrentSession, getCurrentUser, signIn, signOut, signUp } from './lib/auth';
+import { listTrips, saveTrip, deleteTrip } from './lib/trips';
 import CityPicker from './CityPicker';
 import HeroSlideshow from './HeroSlideshow';
 import {useDiscovery} from './useDiscovery';
@@ -38,22 +40,121 @@ function App(){
  const [detail,setDetail]=useState<Place|null>(null),[auth,setAuth]=useState<'login'|'signup'|null>(null),[help,setHelp]=useState(false),[newTrip,setNewTrip]=useState(false),[mobileMenu,setMobileMenu]=useState(false);
  const [toast,setToast]=useState(''),[error,setError]=useState(''),[busy,setBusy]=useState(false),[sync,setSync]=useState('Saved on this device'),[confirmDelete,setConfirmDelete]=useState<Trip|null>(null);
  const [bookmarks,setBookmarks]=useState<string[]>(()=>readStorage('roam.bookmarks',[]));
- const storageKey=`roam.trips.${user?.id||'guest'}`;
- useEffect(()=>{let alive=true;let unsubscribe:(()=>void)|undefined;(async()=>{try{const config=await configure();if(!alive)return;setMode(config.mode);if(supabase){const {data}=await supabase.auth.getSession();if(data.session){const {user:u}=await api<{user:User}>('/me');if(alive)setUser(u);}const listener=supabase.auth.onAuthStateChange((_event,session)=>{if(alive)setUser(session?{id:session.user.id,email:session.user.email||'',name:session.user.user_metadata.name||'Traveler'}:null);});unsubscribe=()=>listener.data.subscription.unsubscribe();}else{try{const {user:u}=await api<{user:User}>('/me');if(alive)setUser(u);}catch{/* Guests can explore. */}}}catch(err){if(alive)setError((err as Error).message);}finally{if(alive)setReady(true);}})();return()=>{alive=false;unsubscribe?.();};},[]);
- useEffect(()=>{if(!ready)return;let active=true;const local=readStorage<Trip[]>(storageKey,[]);setSavedTrips(local);const previous=readStorage<Trip|null>(`roam.active.${user?.id||'guest'}`,null);if(previous){setTrip(previous);setCountry(previous.country);setCity(previous.city);setDays(previous.days);setDate(previous.startDate);setDay(1);}setOwner(storageKey);if(user){api<{trips:Trip[]}>('/trips').then(({trips})=>{if(active)setSavedTrips(prev=>[...prev,...trips.filter(t=>!prev.some(c=>c.id===t.id))]);}).catch(err=>{if(active)setError(err.message);});}return()=>{active=false;};},[user?.id,ready,storageKey]);
- useEffect(()=>{if(!ready||owner!==storageKey)return;try{localStorage.setItem(`roam.active.${user?.id||'guest'}`,JSON.stringify(trip));const local=readStorage<Trip[]>(storageKey,[]);localStorage.setItem(storageKey,JSON.stringify([trip,...local.filter(t=>t.id!==trip.id)]));setSavedTrips(prev=>[trip,...prev.filter(t=>t.id!==trip.id)]);setSync('Saved on this device');}catch{setSync('Device storage unavailable — save to your account');}},[trip,ready,storageKey,user?.id,owner]);
+ const storageKey='roam.trips.'+(user?.id||'guest');
+ const [cloudDirty,setCloudDirty]=useState(false);
+ const pendingCloudDraft=useRef<Trip|null>(null);
+ const activeTrip=useRef(trip);activeTrip.current=trip;
+ const activeUser=useRef(user?.id);activeUser.current=user?.id;
+ const deleting=useRef(new Set<string>());
+ useEffect(()=>{
+  let alive=true;let unsubscribe:(()=>void)|undefined;
+  (async()=>{try{
+   const config=await configure();if(!alive)return;setMode(config.mode);
+   if(supabase){
+    const listener=supabase.auth.onAuthStateChange((_event,session)=>{
+     if(alive)setUser(session?{id:session.user.id,email:session.user.email||'',name:session.user.user_metadata.name||'Traveler'}:null);
+    });unsubscribe=()=>listener.data.subscription.unsubscribe();
+    const session=await getCurrentSession();
+    if(session){const u=await getCurrentUser();if(alive&&u)setUser({id:u.id,email:u.email||'',name:u.user_metadata.name||'Traveler'});}
+   }else{try{const {user:u}=await api<{user:User}>('/me');if(alive)setUser(u);}catch{/* Guests can explore. */}}
+  }catch(err){if(alive)setError((err as Error).message);}finally{if(alive)setReady(true);}})();
+  return()=>{alive=false;unsubscribe?.();};
+ },[]);
+ useEffect(()=>{
+  if(!ready)return;
+  let active=true;setOwner(null);setCloudDirty(false);
+  if(user&&mode==='supabase'){
+   setSavedTrips([]);setSync('Loading your account…');
+   listTrips().then(trips=>{
+    if(!active)return;
+    setSavedTrips(trips);
+    const previous=readStorage<Trip|null>('roam.active.'+user.id,null);
+    const draft=pendingCloudDraft.current;pendingCloudDraft.current=null;
+    const selected=draft||trips.find(t=>t.id===previous?.id)||trips[0];
+    if(selected){setTrip(selected);setCountry(selected.country);setCity(selected.city);setDays(selected.days);setDate(selected.startDate);setDay(1);}
+    setCloudDirty(Boolean(draft)||!selected);
+    setOwner(storageKey);setSync(selected&&!draft?'Saved to your account':'Ready to save to your account');
+   }).catch(err=>{if(active){setError(err.message);setSync('Unable to load your account — reload to retry');}});
+  }else{
+   const local=readStorage<Trip[]>(storageKey,[]);setSavedTrips(local);
+   const previous=readStorage<Trip|null>('roam.active.'+(user?.id||'guest'),null);
+   if(previous){setTrip(previous);setCountry(previous.country);setCity(previous.city);setDays(previous.days);setDate(previous.startDate);setDay(1);}
+   setOwner(storageKey);
+   if(user)api<{trips:Trip[]}>('/trips').then(({trips})=>{if(active)setSavedTrips(prev=>[...prev,...trips.filter(t=>!prev.some(c=>c.id===t.id))]);}).catch(err=>{if(active)setError(err.message);});
+  }
+  return()=>{active=false;};
+ },[user?.id,ready,storageKey,mode]);
+ useEffect(()=>{
+  if(!ready||owner!==storageKey)return;
+  if(user&&mode==='supabase'){
+   try{localStorage.setItem('roam.active.'+user.id,JSON.stringify({id:trip.id}));}catch{/* Cloud records remain authoritative. */}
+   return;
+  }
+  try{
+   localStorage.setItem('roam.active.'+(user?.id||'guest'),JSON.stringify(trip));
+   const local=readStorage<Trip[]>(storageKey,[]);
+   localStorage.setItem(storageKey,JSON.stringify([trip,...local.filter(t=>t.id!==trip.id)]));
+   setSavedTrips(prev=>[trip,...prev.filter(t=>t.id!==trip.id)]);setSync('Saved on this device');
+  }catch{setSync('Device storage unavailable — save to your account');}
+ },[trip,ready,storageKey,user?.id,owner,mode]);
+ useEffect(()=>{
+  if(!ready||!user||mode!=='supabase'||owner!==storageKey||!cloudDirty||deleting.current.has(trip.id))return;
+  if(!trip.title.trim()){setSync('Enter a title to save');return;}
+  setSync('Saving to your account…');
+  const userId=user.id;
+  const timer=setTimeout(()=>{
+   saveTrip(trip).then(()=>{
+    if(activeUser.current!==userId||deleting.current.has(trip.id))return;
+    setSavedTrips(prev=>[trip,...prev.filter(t=>t.id!==trip.id)]);
+    if(activeTrip.current===trip){setCloudDirty(false);setSync('Saved to your account');}
+   }).catch(err=>{
+    if(activeUser.current===userId&&activeTrip.current===trip){setError(err.message);setSync('Not saved — use Save to account to retry');}
+   });
+  },800);
+  return()=>clearTimeout(timer);
+ },[trip,ready,user?.id,mode,owner,storageKey,cloudDirty]);
  useEffect(()=>{try{localStorage.setItem('roam.bookmarks',JSON.stringify(bookmarks));}catch{/* Nonessential preferences. */}},[bookmarks]);
  useEffect(()=>{if(!toast)return;const timer=setTimeout(()=>setToast(''),4500);return()=>clearTimeout(timer);},[toast]);
  const results=useMemo(()=>places.filter(p=>p.country===result.country&&p.city===result.city&&(filter==='all'||(filter==='saved'?bookmarks.includes(p.id):p.kind===filter))&&(category==='All experiences'||p.category===category)&&(!placeQuery||`${p.name} ${p.description} ${p.category}`.toLocaleLowerCase().includes(placeQuery.toLocaleLowerCase()))).sort((a,b)=>sort==='Top rated'?(b.rating??-1)-(a.rating??-1):sort==='Name: A–Z'?a.name.localeCompare(b.name):0),[places,result,filter,category,sort,bookmarks,placeQuery]);
- const patch=(changes:Partial<Trip>)=>setTrip(prev=>({...prev,...changes,updatedAt:new Date().toISOString()}));
+ const patch=(changes:Partial<Trip>)=>{setCloudDirty(true);setTrip(prev=>({...prev,...changes,updatedAt:new Date().toISOString()}));};
  const validDestination=()=>{if(!destinations.find(d=>d.country===country)?.cities.includes(city)){setToast('Choose a city from the location suggestions before searching.');return false;}return true;};
  const search=(e:FormEvent)=>{e.preventDefault();if(!validDestination())return;setResult({country,city});setFilter('all');setCategory('All experiences');setPlaceQuery('');setView('discover');if(!trip.stops.length){patch({country,city,days,startDate:date,title:`A little escape to ${city}`});setDay(1);}else if(trip.country===country){patch({days,startDate:date,stops:trip.stops.map(s=>s.day>days?{...s,day:days}:s)});setDay(Math.min(day,days));}setToast(`Your ${city} adventure starts here.`);};
  const add=(place:Place)=>{if(place.country!==trip.country){setCountry(place.country);setCity(place.city);setNewTrip(true);setToast(`Start a ${place.city} trip to add this place. Your current trip is kept in My itineraries.`);return;}if(trip.stops.some(s=>s.placeId===place.id&&s.day===day)){setToast(`Already on Day ${day}. Make room for another discovery.`);return;}patch({stops:[...trip.stops,{id:crypto.randomUUID(),placeId:place.id,place,day,time:'',notes:''}]});setToast(`${place.name} added to Day ${day}.`);};
- const save=async()=>{if(!user){setAuth('signup');return;}setBusy(true);setError('');try{await api(`/trips/${trip.id}`,{method:'PUT',body:JSON.stringify(trip)});setSync('Saved to your account');setToast('Trip saved. Your next adventure is waiting.');}catch(err){setError((err as Error).message);}finally{setBusy(false);}};
- const openTrip=(t:Trip)=>{setTrip(t);setCountry(t.country);setCity(t.city);setDays(t.days);setDate(t.startDate);setDay(1);setView('planner');};
- const startTrip=(e:FormEvent)=>{e.preventDefault();if(!validDestination())return;const t=makeTrip(country,city,days,date);setTrip(t);setDay(1);setResult({country,city});setFilter('all');setCategory('All experiences');setPlaceQuery('');setNewTrip(false);setView('discover');setToast(`A fresh page for ${city}. Let’s fill it with good things.`);};
- const logout=async()=>{try{if(supabase){const {error:err}=await supabase.auth.signOut();if(err)throw err;}else await api('/logout',{method:'POST'});setUser(null);setTrip(makeTrip());setSavedTrips([]);setView('discover');setToast('You’re signed out. See you on the next adventure.');}catch(err){setError((err as Error).message);}};
- const removeTrip=async()=>{if(!confirmDelete)return;try{if(user)await api(`/trips/${confirmDelete.id}`,{method:'DELETE'});const rest=savedTrips.filter(t=>t.id!==confirmDelete.id);localStorage.setItem(storageKey,JSON.stringify(rest));setSavedTrips(rest);if(trip.id===confirmDelete.id)setTrip(rest[0]||makeTrip());setConfirmDelete(null);setToast('Trip deleted.');}catch(err){setError((err as Error).message);}};
+ const save=async()=>{
+  if(!user){pendingCloudDraft.current=trip;setAuth('signup');return;}
+  if(mode==='supabase'&&owner!==storageKey){setError('Wait for your account to finish loading before saving.');return;}
+  const snapshot=trip,userId=user.id;setBusy(true);setError('');
+  try{
+   if(mode==='supabase')await saveTrip(snapshot);else await api('/trips/'+snapshot.id,{method:'PUT',body:JSON.stringify(snapshot)});
+   if(activeUser.current!==userId)return;
+   setSavedTrips(prev=>[snapshot,...prev.filter(t=>t.id!==snapshot.id)]);
+   if(activeTrip.current===snapshot){setCloudDirty(false);setSync('Saved to your account');}
+   setToast('Trip saved. Your next adventure is waiting.');
+  }catch(err){setError((err as Error).message);}finally{setBusy(false);}
+ };
+ const flushCloudDraft=async()=>{
+  if(user&&mode==='supabase'&&cloudDirty&&owner===storageKey){
+   await saveTrip(trip);
+   setSavedTrips(prev=>[trip,...prev.filter(t=>t.id!==trip.id)]);
+   setCloudDirty(false);
+  }
+ };
+ const openTrip=async(t:Trip)=>{try{await flushCloudDraft();}catch(err){setError((err as Error).message);return;}setCloudDirty(false);setTrip(t);setCountry(t.country);setCity(t.city);setDays(t.days);setDate(t.startDate);setDay(1);setView('planner');};
+ const startTrip=async(e:FormEvent)=>{e.preventDefault();if(!validDestination())return;try{await flushCloudDraft();}catch(err){setError((err as Error).message);return;}const t=makeTrip(country,city,days,date);setCloudDirty(true);setTrip(t);setDay(1);setResult({country,city});setFilter('all');setCategory('All experiences');setPlaceQuery('');setNewTrip(false);setView('discover');setToast('A fresh page for '+city+'. Let’s fill it with good things.');};
+ const logout=async()=>{try{await flushCloudDraft();if(supabase)await signOut();else await api('/logout',{method:'POST'});setCloudDirty(false);setUser(null);setTrip(makeTrip());setSavedTrips([]);setView('discover');setToast('You’re signed out. See you on the next adventure.');}catch(err){setError((err as Error).message);}};
+ const removeTrip=async()=>{
+  if(!confirmDelete)return;
+  const id=confirmDelete.id;
+  if(id!==trip.id){try{await flushCloudDraft();}catch(err){setError((err as Error).message);return;}}
+  deleting.current.add(id);setCloudDirty(false);
+  try{
+   if(user){if(mode==='supabase')await deleteTrip(id);else await api('/trips/'+id,{method:'DELETE'});}
+   const rest=savedTrips.filter(t=>t.id!==id);
+   if(mode!=='supabase'||!user)localStorage.setItem(storageKey,JSON.stringify(rest));
+   setSavedTrips(rest);if(trip.id===id)setTrip(rest[0]||makeTrip());
+   setConfirmDelete(null);setToast('Trip deleted.');
+  }catch(err){setError((err as Error).message);}finally{deleting.current.delete(id);}
+ };
  const toggleBookmark=(id:string)=>setBookmarks(prev=>prev.includes(id)?prev.filter(x=>x!==id):[...prev,id]);
  const selectCountry=(value:string)=>{const match=destinations.find(d=>d.country===value||(value==='USA'&&d.country==='United States'));const actualCountry=match?match.country:value;setCountry(actualCountry);setCity(match?.cities[0]||'');};
  const destinationFields=<><label className="field"><span>Country</span><select value={country} onChange={e=>selectCountry(e.target.value)}>{destinations.map(d=><option key={d.country} value={d.country}>{countryLabel(d.country)}</option>)}</select></label><label className="field"><span>Location</span><CityPicker cities={destinations.find(d=>d.country===country)?.cities||[]} value={city} onChange={setCity} label="New trip location"/></label><label className="field"><span>Start date <small>(optional)</small></span><input type="date" value={date} onChange={e=>setDate(e.target.value)}/></label><label className="field"><span>Trip length</span><select value={days} onChange={e=>setDays(Number(e.target.value))}>{Array.from({length:30},(_,i)=><option key={i} value={i+1}>{i+1} {i===0?'day':'days'}</option>)}</select></label></>;
@@ -90,7 +191,7 @@ function formatDate(value:string){return new Date(`${value}T12:00:00`).toLocaleD
 function MapPreview({place,all}:{place:Place;all?:Place[]}){const nearby=all?.length?all:[place];const minLat=Math.min(...nearby.map(p=>p.lat))-.015,maxLat=Math.max(...nearby.map(p=>p.lat))+.015,minLng=Math.min(...nearby.map(p=>p.lng))-.02,maxLng=Math.max(...nearby.map(p=>p.lng))+.02;const src=`https://www.openstreetmap.org/export/embed.html?bbox=${minLng},${minLat},${maxLng},${maxLat}&layer=mapnik&marker=${place.lat},${place.lng}`;return <div className="map-wrap"><iframe title={`Map of ${place.city}: ${place.name}`} src={src} loading="lazy" referrerPolicy="no-referrer"/><a href={`https://www.openstreetmap.org/?mlat=${place.lat}&mlon=${place.lng}#map=15/${place.lat}/${place.lng}`} target="_blank" rel="noreferrer">Open full map <ArrowUp className="diagonal" size={13}/></a>{all&&<p>Map centered on {place.name}. Open a place for its exact pin and directions.</p>}</div>;}
 function AuthModal({mode,kind,setKind,onClose,onSuccess}:{mode:string;kind:'login'|'signup';setKind:(kind:'login'|'signup')=>void;onClose:()=>void;onSuccess:(user:User)=>void}){
  const [loading,setLoading]=useState(false),[error,setError]=useState(''),[message,setMessage]=useState('');
- const submit=async(e:FormEvent<HTMLFormElement>)=>{e.preventDefault();setLoading(true);setError('');setMessage('');const form=new FormData(e.currentTarget);const email=String(form.get('email')),password=String(form.get('password')),name=String(form.get('name')||'');try{if(supabase){const {data,error:authError}=kind==='signup'?await supabase.auth.signUp({email,password,options:{data:{name},emailRedirectTo:window.location.origin}}):await supabase.auth.signInWithPassword({email,password});if(authError)throw authError;if(!data.session){setMessage('Check your email to confirm your account, then come back to log in.');return;}onSuccess({id:data.user!.id,email:data.user!.email!,name:data.user!.user_metadata.name||'Traveler'});}else{const {user}=await api<{user:User}>(`/auth/${kind}`,{method:'POST',body:JSON.stringify({email,password,...(kind==='signup'?{name}:{})})});onSuccess(user);}}catch(err){setError((err as Error).message);}finally{setLoading(false);}};
+ const submit=async(e:FormEvent<HTMLFormElement>)=>{e.preventDefault();setLoading(true);setError('');setMessage('');const form=new FormData(e.currentTarget);const email=String(form.get('email')),password=String(form.get('password')),name=String(form.get('name')||'');try{if(supabase){const data=kind==='signup'?await signUp(email,password,name):await signIn(email,password);if(!data.session){setMessage('Check your email to confirm your account, then come back to log in.');return;}onSuccess({id:data.user!.id,email:data.user!.email!,name:data.user!.user_metadata.name||'Traveler'});}else{const {user}=await api<{user:User}>(`/auth/${kind}`,{method:'POST',body:JSON.stringify({email,password,...(kind==='signup'?{name}:{})})});onSuccess(user);}}catch(err){setError((err as Error).message);}finally{setLoading(false);}};
  return <Modal title={kind==='signup'?'Create your Roam account':'Log in to Roam'} onClose={onClose}><div className="modal-heading-icon"><Compass size={28}/></div><div className="eyebrow">THE WORLD IS CALLING</div><h2>{kind==='signup'?'Good things start here.':'Welcome back, wanderer.'}</h2><p className="modal-intro">{kind==='signup'?'One account. A whole world of possibilities.':'Your next adventure is right where you left it.'}</p>{mode==='local'&&<div className="local-mode"><Globe2 size={15}/><span>Local demo · accounts and trips stay on this server.</span></div>}<form className="auth-form" onSubmit={submit}>{kind==='signup'&&<label className="field"><span>Your name</span><input name="name" autoComplete="name" placeholder="What should we call you?" required maxLength={80}/></label>}<label className="field"><span>Email address</span><input type="email" name="email" autoComplete="email" placeholder="you@somewhere.com" required maxLength={254}/></label><label className="field"><span>Password</span><input type="password" name="password" autoComplete={kind==='signup'?'new-password':'current-password'} placeholder="At least 8 characters" required minLength={8} maxLength={128}/></label>{error&&<p className="form-error" role="alert">{error}</p>}{message&&<p className="form-success" role="status">{message}</p>}<button type="submit" className="btn btn-yellow full" disabled={loading}>{loading?<LoaderCircle className="spin" size={18}/>:<>{kind==='signup'?'Create my account':'Let me in'}<ArrowRight size={17}/></>}</button></form><div className="auth-switch">{kind==='signup'?'Already part of the adventure?':'New around here?'} <button onClick={()=>{setKind(kind==='signup'?'login':'signup');setError('');setMessage('');}}>{kind==='signup'?'Log in':'Create an account'}</button></div></Modal>;
 }
 function PlaceDetail({place,trip,day,setDay,onAdd,onClose}:{place:Place;trip:Trip;day:number;setDay:(v:number)=>void;onAdd:()=>void;onClose:()=>void}){
