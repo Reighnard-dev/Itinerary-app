@@ -7,3 +7,10 @@ data/
 playwright-report/
 test-results/
 *.tsbuildinfo
+
+# Supabase local state
+supabase/.temp/
+supabase/.branches/
+
+.env*
+!.env.example
