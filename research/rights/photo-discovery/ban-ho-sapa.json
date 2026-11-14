@@ -1,0 +1,1330 @@
+{
+  "retrievedAt": "2026-11-14T01:05:44.943Z",
+  "searchTerms": "Ban Ho Sapa",
+  "batchcomplete": true,
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": [
+      {
+        "pageid": 91588021,
+        "ns": 6,
+        "title": "File:Afhandling om de wa?xter, som i Bibelen omtalas... (IA mobot31753002019955).pdf",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13784393,
+            "width": 3466,
+            "height": 5425,
+            "pagecount": 151,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Afhandling_om_de_wa%3Fxter%2C_som_i_Bibelen_omtalas..._%28IA_mobot31753002019955%29.pdf/page1-960px-Afhandling_om_de_wa%3Fxter%2C_som_i_Bibelen_omtalas..._%28IA_mobot31753002019955%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1252,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Afhandling_om_de_wa%3Fxter%2C_som_i_Bibelen_omtalas..._%28IA_mobot31753002019955%29.pdf/page1-1920px-Afhandling_om_de_wa%3Fxter%2C_som_i_Bibelen_omtalas..._%28IA_mobot31753002019955%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Afhandling_om_de_wa%3Fxter%2C_som_i_Bibelen_omtalas..._%28IA_mobot31753002019955%29.pdf/page1-960px-Afhandling_om_de_wa%3Fxter%2C_som_i_Bibelen_omtalas..._%28IA_mobot31753002019955%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1252,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Afhandling_om_de_wa%3Fxter%2C_som_i_Bibelen_omtalas..._%28IA_mobot31753002019955%29.pdf/page1-1920px-Afhandling_om_de_wa%3Fxter%2C_som_i_Bibelen_omtalas..._%28IA_mobot31753002019955%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Afhandling_om_de_wa%3Fxter%2C_som_i_Bibelen_omtalas..._%28IA_mobot31753002019955%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Afhandling_om_de_wa%3Fxter,_som_i_Bibelen_omtalas..._(IA_mobot31753002019955).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91588021",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-06-26 09:09:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nAfhandling om de wa?xter, som i Bibelen omtalas...</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Books with Wikidata item|PD US expired|Files from the Biodiversity Heritage Library|Books uploaded by Fæ|Books from the Biodiversity Heritage Library|Books with Wikidata item missing accession number|Artworks digital representation of unclassified work|Scanned Swedish texts|Swedish-language PDF files",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<dl><dd>Aurell, August,</dd>\n<dd>Axenborg, Pehr.</dd>\n<dd>Ekermark, Isaac Vilhelm.</dd>\n<dd>Ho?jer, Axel.</dd>\n<dd>Modin, Bengt Theodor,</dd>\n<dd>Sahlin, Lars Eric.</dd>\n<dd>Sunberg, Carl Magnus,</dd>\n<dd>Thunberg, Carl Peter,</dd>\n<dd>Varenius, Gustaf.</dd>\n<dd>Winblad, Jacob Emil.</dd></dl></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\nSubjects: Nature in the Bible</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/mobot31753002019955\">https://archive.org/details/mobot31753002019955</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/mobot31753002019955/mobot31753002019955.pdf\">https://archive.org/download/mobot31753002019955/mobot31753002019955.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.biodiversitylibrary.org/permissions\">https://www.biodiversitylibrary.org/permissions</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 108671216,
+        "ns": 6,
+        "title": "File:Il Nuovo Friuli - organo Partito progressista 77 (1876) (IA IlNuovoFriuli-77-1876).pdf",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 913925,
+            "width": 1435,
+            "height": 1991,
+            "pagecount": 4,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Il_Nuovo_Friuli_-_organo_Partito_progressista_77_%281876%29_%28IA_IlNuovoFriuli-77-1876%29.pdf/page1-960px-Il_Nuovo_Friuli_-_organo_Partito_progressista_77_%281876%29_%28IA_IlNuovoFriuli-77-1876%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1110,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Il_Nuovo_Friuli_-_organo_Partito_progressista_77_%281876%29_%28IA_IlNuovoFriuli-77-1876%29.pdf/page1-1280px-Il_Nuovo_Friuli_-_organo_Partito_progressista_77_%281876%29_%28IA_IlNuovoFriuli-77-1876%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Il_Nuovo_Friuli_-_organo_Partito_progressista_77_%281876%29_%28IA_IlNuovoFriuli-77-1876%29.pdf/page1-960px-Il_Nuovo_Friuli_-_organo_Partito_progressista_77_%281876%29_%28IA_IlNuovoFriuli-77-1876%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1110,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Il_Nuovo_Friuli_-_organo_Partito_progressista_77_%281876%29_%28IA_IlNuovoFriuli-77-1876%29.pdf/page1-1280px-Il_Nuovo_Friuli_-_organo_Partito_progressista_77_%281876%29_%28IA_IlNuovoFriuli-77-1876%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Il_Nuovo_Friuli_-_organo_Partito_progressista_77_%281876%29_%28IA_IlNuovoFriuli-77-1876%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Il_Nuovo_Friuli_-_organo_Partito_progressista_77_(1876)_(IA_IlNuovoFriuli-77-1876).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108671216",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-08-16 07:48:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nIl Nuovo Friuli - organo Partito progressista 77  (1876)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with no machine-readable author|Author died more than 70 years ago public domain images|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|PD-old missing SDC copyright status|Il Nuovo Friuli",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>Il Nuovo Friuli - organo Partito progressista\n</p>\n<br>Subjects: Friuli; Periodico; Il Nuovo Friuli</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/IlNuovoFriuli-77-1876\" class=\"extiw\" title=\"iarchive:IlNuovoFriuli-77-1876\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> IlNuovoFriuli-77-1876</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/IlNuovoFriuli-77-1876/Il%20Nuovo%20Friuli%20-%20organo%20Partito%20progressista%2077%20%20%281876%29.pdf\">https://archive.org/download/IlNuovoFriuli-77-1876/Il%20Nuovo%20Friuli%20-%20organo%20Partito%20progressista%2077%20%20%281876%29.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 134029138,
+        "ns": 6,
+        "title": "File:Vietnam-Sapa-Y Linh Ho village-P1070238.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1627438,
+            "width": 1620,
+            "height": 1080,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Vietnam-Sapa-Y_Linh_Ho_village-P1070238.jpg/960px-Vietnam-Sapa-Y_Linh_Ho_village-P1070238.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 533,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Vietnam-Sapa-Y_Linh_Ho_village-P1070238.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Vietnam-Sapa-Y_Linh_Ho_village-P1070238.jpg/960px-Vietnam-Sapa-Y_Linh_Ho_village-P1070238.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 533,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Vietnam-Sapa-Y_Linh_Ho_village-P1070238.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Vietnam-Sapa-Y_Linh_Ho_village-P1070238.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vietnam-Sapa-Y_Linh_Ho_village-P1070238.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=134029138",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-07-06 17:40:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vietnam-Sapa-Y Linh Ho village-P1070238",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tourists in Vietnam|People of Sa Pa|January 2018 in Vietnam|Flickr images reviewed by FlickreviewR 2|Files from mmmmngai Flickr stream",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Vietnam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-01-10 13:01:16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/12720221@N08/25541774927/\">https://www.flickr.com/photos/12720221@N08/25541774927/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "mmmmngai@rogers.com",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162448826,
+        "ns": 6,
+        "title": "File:Ta Van Muong Ha vallei (56941).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7439762,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ta_Van_Muong_Ha_vallei_%2856941%29.jpg/960px-Ta_Van_Muong_Ha_vallei_%2856941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ta_Van_Muong_Ha_vallei_%2856941%29.jpg/1920px-Ta_Van_Muong_Ha_vallei_%2856941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ta_Van_Muong_Ha_vallei_%2856941%29.jpg/960px-Ta_Van_Muong_Ha_vallei_%2856941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ta_Van_Muong_Ha_vallei_%2856941%29.jpg/1920px-Ta_Van_Muong_Ha_vallei_%2856941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ta_Van_Muong_Ha_vallei_%2856941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ta_Van_Muong_Ha_vallei_(56941).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162448826",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-19 20:51:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ta Van Muong Ha vallei (56941)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lao Cai|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-12|Muong Hoa River",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.309167",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.865556",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ta Van Muong Ha vallei Lao Chai San ii Bridge, Beautiful view of the mountains and valleys near the bridge at Lao Chai village in Sa Pa,,Rice terraces in Lao Chai Lao Chay _ Ta Van_ Y Linh Ho dorp om de etnische dorpen Mong en Dao, terrasrijstvelden en de levens van mensen in Sapa,",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "12 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andre_Hospers&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andre Hospers (page does not exist)\">Andre Hospers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162449063,
+        "ns": 6,
+        "title": "File:Ta Van Muong Ha vallei (77863).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6414138,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Ta_Van_Muong_Ha_vallei_%2877863%29.jpg/960px-Ta_Van_Muong_Ha_vallei_%2877863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1067,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Ta_Van_Muong_Ha_vallei_%2877863%29.jpg/1920px-Ta_Van_Muong_Ha_vallei_%2877863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Ta_Van_Muong_Ha_vallei_%2877863%29.jpg/960px-Ta_Van_Muong_Ha_vallei_%2877863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1067,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Ta_Van_Muong_Ha_vallei_%2877863%29.jpg/1920px-Ta_Van_Muong_Ha_vallei_%2877863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ta_Van_Muong_Ha_vallei_%2877863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ta_Van_Muong_Ha_vallei_(77863).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162449063",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-19 20:55:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ta Van Muong Ha vallei (77863)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lao Cai|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-12|Muong Hoa River",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.309167",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.865556",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ta Van Muong Ha vallei Lao Chai San ii Bridge, Beautiful view of the mountains and valleys from the bridge at Lao Chai village in Sapa,,Rice terraces in Lao Chai Lao Chay _ Ta Van_ Y Linh Ho dorp om de etnische dorpen Mong en Dao, terrasrijstvelden en de levens van mensen in Sapa,",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "12 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andre_Hospers&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andre Hospers (page does not exist)\">Andre Hospers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162449251,
+        "ns": 6,
+        "title": "File:Ta Van Muong Ha vallei (70294).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6005836,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Ta_Van_Muong_Ha_vallei_%2870294%29.jpg/960px-Ta_Van_Muong_Ha_vallei_%2870294%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Ta_Van_Muong_Ha_vallei_%2870294%29.jpg/1920px-Ta_Van_Muong_Ha_vallei_%2870294%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Ta_Van_Muong_Ha_vallei_%2870294%29.jpg/960px-Ta_Van_Muong_Ha_vallei_%2870294%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Ta_Van_Muong_Ha_vallei_%2870294%29.jpg/1920px-Ta_Van_Muong_Ha_vallei_%2870294%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ta_Van_Muong_Ha_vallei_%2870294%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ta_Van_Muong_Ha_vallei_(70294).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162449251",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-19 20:57:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ta Van Muong Ha vallei (70294)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lao Cai|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-12|Muong Hoa River",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.309167",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.865556",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ta Van Muong Ha vallei Beautiful view of the mountains and valleys from the bridge at Lao Chai village in Sapa,,Rice terraces in Lao Chai Lao Chay _ Ta Van_ Y Linh Ho dorp om de etnische dorpen Mong en Dao, terrasrijstvelden en de levens van mensen in Sapa,",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "12 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andre_Hospers&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andre Hospers (page does not exist)\">Andre Hospers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162489783,
+        "ns": 6,
+        "title": "File:Ta Van Muong Ha vallei bridge.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6324215,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Ta_Van_Muong_Ha_vallei_bridge.jpg/960px-Ta_Van_Muong_Ha_vallei_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Ta_Van_Muong_Ha_vallei_bridge.jpg/1920px-Ta_Van_Muong_Ha_vallei_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Ta_Van_Muong_Ha_vallei_bridge.jpg/960px-Ta_Van_Muong_Ha_vallei_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Ta_Van_Muong_Ha_vallei_bridge.jpg/1920px-Ta_Van_Muong_Ha_vallei_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ta_Van_Muong_Ha_vallei_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ta_Van_Muong_Ha_vallei_bridge.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162489783",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-20 09:40:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ta Van Muong Ha vallei bridge",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sa Pa|Self-published work|Uploaded with Mobile/Android|Photographs taken on 2025-03-12",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ta Van Muong Ha vallei,Rice terraces in Lao Chai Lao Chay _ Ta Van_ Y Linh Ho dorp om de etnische dorpen Mong en Dao, terrasrijstvelden en de levens van mensen in Sapa,",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "12 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andre_Hospers&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andre Hospers (page does not exist)\">Andre Hospers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162615989,
+        "ns": 6,
+        "title": "File:Cau May tenoosten van SaPa bij Lao Cai (80944).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4657104,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2880944%29.jpg/960px-Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2880944%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2880944%29.jpg/1920px-Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2880944%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2880944%29.jpg/960px-Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2880944%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2880944%29.jpg/1920px-Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2880944%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2880944%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_(80944).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162615989",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 11:08:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cau May tenoosten van SaPa bij Lao Cai (80944)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Mountains of Vietnam|Sa Pa|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Overcast in Vietnam|Panoramics in Sa Pa|Photographs taken on 2025-03-12",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.324041",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.851316",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Cau May tenoosten van SaPa bij Lao Cai,,Rice terraces in Lao Chai Lao Chay _ Ta Van_ Y Linh Ho dorp om de etnische dorpen Mong en Dao, terrasrijstvelden en de levens van mensen in Sapa, Rice terraces in Lao Chai",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "12 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andre_Hospers&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andre Hospers (page does not exist)\">Andre Hospers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162616028,
+        "ns": 6,
+        "title": "File:Cau May tenoosten van SaPa bij Lao Cai (98140).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4983494,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2898140%29.jpg/960px-Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2898140%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2898140%29.jpg/1920px-Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2898140%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2898140%29.jpg/960px-Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2898140%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2898140%29.jpg/1920px-Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2898140%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2898140%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_(98140).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162616028",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 11:09:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cau May tenoosten van SaPa bij Lao Cai (98140)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Mountains of Vietnam|Sa Pa|Self-published work|Uploaded with Mobile/Android|Overcast in Vietnam|Panoramics in Sa Pa|Photographs taken on 2025-03-12",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Cau May tenoosten van SaPa bij Lao Cai, ,Rice terraces in Lao Chai Lao Chay _ Ta Van_ Y Linh Ho dorp om de etnische dorpen Mong en Dao, terrasrijstvelden en de levens van mensen in Sapa,Rice terraces in Lao Chai",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "12 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andre_Hospers&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andre Hospers (page does not exist)\">Andre Hospers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162616107,
+        "ns": 6,
+        "title": "File:Cau May tenoosten van SaPa bij Lao Cai (45004).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4470441,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2845004%29.jpg/960px-Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2845004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2845004%29.jpg/1920px-Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2845004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2845004%29.jpg/960px-Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2845004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2845004%29.jpg/1920px-Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2845004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_%2845004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cau_May_tenoosten_van_SaPa_bij_Lao_Cai_(45004).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162616107",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 11:11:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cau May tenoosten van SaPa bij Lao Cai (45004)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Mountains of Vietnam|Sa Pa|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Overcast in Vietnam|Panoramics in Sa Pa|Photographs taken on 2025-03-12",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.312053",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.872321",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Cau May tenoosten van SaPa bij Lao Cai,Rice terraces in Lao Chai Lao Chay _ Ta Van_ Y Linh Ho dorp om de etnische dorpen Mong en Dao, terrasrijstvelden en de levens van mensen in Sapa,",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "12 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andre_Hospers&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andre Hospers (page does not exist)\">Andre Hospers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 199726249,
+        "ns": 6,
+        "title": "File:Manoscritto n. P MSS 1195 Fondo Principale (Biblioteca 'Joppi' - Udine) (IA P MSS 1195).pdf",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10946610,
+            "width": 1454,
+            "height": 2058,
+            "pagecount": 351,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Manoscritto_n._P_MSS_1195_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1195%29.pdf/page1-960px-Manoscritto_n._P_MSS_1195_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1195%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1132,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Manoscritto_n._P_MSS_1195_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1195%29.pdf/page1-1280px-Manoscritto_n._P_MSS_1195_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1195%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Manoscritto_n._P_MSS_1195_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1195%29.pdf/page1-960px-Manoscritto_n._P_MSS_1195_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1195%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1132,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Manoscritto_n._P_MSS_1195_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1195%29.pdf/page1-1280px-Manoscritto_n._P_MSS_1195_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1195%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Manoscritto_n._P_MSS_1195_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1195%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Manoscritto_n._P_MSS_1195_Fondo_Principale_(Biblioteca_%27Joppi%27_-_Udine)_(IA_P_MSS_1195).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199726249",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-09-18 07:19:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nManoscritto n. P_MSS_1195 Fondo Principale (Biblioteca 'Joppi' - Udine)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-70-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|PD-old missing SDC copyright status|Folkscanomy collection",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nBiblioteca Civica 'Joppi' Udine</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>Biblioteca Civica 'Vincenzo Joppi' Udine\nInventario dei manoscritti del Fondo Principale\n</p><p>1195 Libro di conti autografi di Giovanni di Udine, con qualche pagina scritta dei manoscritti fissi (1652), rilegato in pergamena, di 31x39, contenuto a parte con la ripasti perle giudizio a scrittura contenuti. Presa notatura, poi ha Immenzo di Udine ho scritture i decesciti, ma il non registrazioni e motto.\n</p><p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.techeudine.it/manoscritti\">https://www.techeudine.it/manoscritti</a>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://www.techeudine.it/fondo-principale\">https://www.techeudine.it/fondo-principale</a>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/inventario-del-fondo-principale/Inventario%20del%20Fondo%20Principale/\">https://archive.org/details/inventario-del-fondo-principale/Inventario%20del%20Fondo%20Principale/</a>\n</p>\n<br>Subjects: Fondo Principale; Biblioteca Civica 'Joppi' Udine; Manoscritti; Techeudine; Pergamene</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/P_MSS_1195\" class=\"extiw\" title=\"iarchive:P MSS 1195\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> P_MSS_1195</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/P_MSS_1195/P_MSS_1195.pdf\">https://archive.org/download/P_MSS_1195/P_MSS_1195.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 199979576,
+        "ns": 6,
+        "title": "File:বাংলাদেশ গেজেট, অতিরিক্ত, ২০১৭-১১-০১ - পরিকল্পনা মন্ত্রণালয় (৪).pdf",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1645536,
+            "width": 1275,
+            "height": 1650,
+            "pagecount": 153,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%97%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%9F%2C_%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%A4%2C_%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AD-%E0%A7%A7%E0%A7%A7-%E0%A7%A6%E0%A7%A7_-_%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A6%BE_%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC_%28%E0%A7%AA%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1035,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%97%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%9F%2C_%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%A4%2C_%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AD-%E0%A7%A7%E0%A7%A7-%E0%A7%A6%E0%A7%A7_-_%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A6%BE_%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC_%28%E0%A7%AA%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1035
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%97%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%9F%2C_%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%A4%2C_%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AD-%E0%A7%A7%E0%A7%A7-%E0%A7%A6%E0%A7%A7_-_%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A6%BE_%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC_%28%E0%A7%AA%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%97%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%9F,_%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%A4,_%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AD-%E0%A7%A7%E0%A7%A7-%E0%A7%A6%E0%A7%A7_-_%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A6%BE_%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC_(%E0%A7%AA).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199979576",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-09-22 07:50:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "বাংলাদেশ গেজেট, অতিরিক্ত, ২০১৭-১১-০১ - পরিকল্পনা মন্ত্রণালয় (৪)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Uploaded with pypan|Bangladesh Gazette files without Wikidata item|Bangladesh Extraordinary Gazette from 2017 by Ministry of Planning",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "সড়কসমূহের অনুমোদিত শ্রেণীবিন্যাস অনুযায়ী স্থানীয় সরকার প্রকৌশল অধিদপ্তরের (এলজিইডি) আওতাধীন বরিশাল বিভাগের গ্রাম সড়ক টাইপ-‘বি’ এর হালনাগাদ তালিকা।",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-11-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.dpp.gov.bd/upload_file/gazettes/23568_16396.pdf\">dpp.gov.bd</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/http://www.dpp.gov.bd/upload_file/gazettes/23568_16396.pdf\">archive</a>)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Ministry_of_Planning_(Bangladesh)\" class=\"extiw\" title=\"w:en:Ministry of Planning (Bangladesh)\"><span title=\"government ministry of Bangladesh\">Ministry of Planning</span></a>\n</bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "EdictGov-Bangladesh",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "EdictGov-Bangladesh",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      }
+    ]
+  }
+}

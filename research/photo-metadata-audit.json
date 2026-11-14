@@ -1,0 +1,1392 @@
+{
+  "checkedAt": "2026-11-12T20:00:30.695Z",
+  "requested": 11625,
+  "checked": 11625,
+  "failedBatches": 0,
+  "rejectedCount": 188,
+  "rejected": [
+    {
+      "file": "Ambadevi Rock Painting - Animal zoo.jpg",
+      "ids": [
+        "guide-in-f3743e2b6601d5c92d38"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Stained glass window from Baltic Exchange.jpg",
+      "ids": [
+        "guide-gb-a34fe51515a75c3f88df"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Antigua - Iglesia de San Francisco.jpg",
+      "ids": [
+        "guide-gt-3c9baab61c3529c44ebf"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Zaire kisangani stroom 11 copy.jpg",
+      "ids": [
+        "guide-cd-88afce911d63e3c4a8b7"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Tvrtko and his brother Vuk.PNG",
+      "ids": [
+        "guide-me-da62504882bd7e497ce8"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Secretariat Building, Yangon.jpg",
+      "ids": [
+        "guide-mm-f28fb9bcb5ac822f7b64"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "La Habana 1983 02.jpg",
+      "ids": [
+        "guide-cu-bbda819db2e2787cba8e"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Tripoli Tower of Lions edit.jpg",
+      "ids": [
+        "guide-lb-603f1588b49ba38e2b11",
+        "guide-lb-3c37f8d27208dc4cb34e"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Samara spiralovity minaret rijen1973.jpg",
+      "ids": [
+        "guide-iq-f9713298d585947c300c"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Kano Mosque in 1960.jpg",
+      "ids": [
+        "guide-ng-3094775cafd3a229fd28"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "WW2-Holocaust-Poland.PNG",
+      "ids": [
+        "geo-by-13715102"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Raghunath Temple Jammu.JPG",
+      "ids": [
+        "guide-in-52068010d9ecfd45d78d"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "FortDiamant-04.jpg",
+      "ids": [
+        "guide-gf-06cea5827e38e7ee28b7"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "CastleCornet.png",
+      "ids": [
+        "guide-gg-93c67f917728ba475d83"
+      ],
+      "reason": "Visual/source review: an 1814 print, not a location photograph."
+    },
+    {
+      "file": "Unge-1.jpg",
+      "ids": [
+        "guide-gq-60fbe47d26b694a3069d"
+      ],
+      "reason": "Visual review: university crest/logo rather than a view of the campus."
+    },
+    {
+      "file": "Montserrat — National Museum of Montserrat (sign).JPG",
+      "ids": [
+        "geo-ms-10280555"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Camayenne, jardin botanique - btv1b53207132p.jpg",
+      "ids": [
+        "guide-gn-5cd5bc910ee5913d2304"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "ATS Stadium 1954.jpg",
+      "ids": [
+        "guide-lr-5ddb66618371e217f732"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Mamelon de Sikasso (Mali).JPG",
+      "ids": [
+        "guide-ml-c3bf1407ae406ac45855"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "VitiLevu2021OSM.png",
+      "ids": [
+        "guide-fj-9206054ec0f9f0cbc43d"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Fortier 361 Timbuktu Sidi-Yabya Mosque.jpg",
+      "ids": [
+        "guide-ml-4c64c38692ea63be93e4"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Kościół świętego Hieronima w Herceg Novi.jpg",
+      "ids": [
+        "guide-me-2a2c58b989a37c27d6ca"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Fort of São João Baptista de Ajudá (1890).jpg",
+      "ids": [
+        "guide-bj-b778b622272011500c1e"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Aankomst in Afrika Hall nr 18 , nr 17 Beatrix en Claus lopen door het geb, Bestanddeelnr 922-0446.jpg",
+      "ids": [
+        "guide-et-9c30cefc06aae0f67f2b"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Narva fortress.jpg",
+      "ids": [
+        "guide-ee-8bb6a670847d7f7513f8"
+      ],
+      "reason": "Visual review: a map/plan rather than a photograph of the bastions."
+    },
+    {
+      "file": "JardBotEala.jpg",
+      "ids": [
+        "geo-cd-9518155"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Cregneash Folk Museum 1988.jpg",
+      "ids": [
+        "guide-im-15dcb3b52352b695a6b6"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Reportage van Poppe de Boer over Ethiopië, 1971 20-35.jpg",
+      "ids": [
+        "guide-et-ae6775746541b25ac1a8"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Ori Olokun.jpg",
+      "ids": [
+        "guide-ng-0c0e4f691dddc3f8e5e2"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Jubilee Palace.png",
+      "ids": [
+        "guide-et-34fac6fdc512c4beb34f"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "The Silk Museum.jpg",
+      "ids": [
+        "guide-lb-27797827aa60e290b2f8"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Kasa-Vubu, Iléo Government, and parliamentary deputies at a Catholic ceremony.jpg",
+      "ids": [
+        "guide-cd-663cc4a52dd41b488d3a"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Սբ․ Բեթղեհեմ և Սբ․ Աստւածածին.jpg",
+      "ids": [
+        "guide-ir-c95541e82bb5f667450e"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Crevecoeur and James Fort.png",
+      "ids": [
+        "guide-gh-a7ba5782e1063cc814e0"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Bogorodica Ljeviska1.jpg",
+      "ids": [
+        "guide-xk-f89e6ca72893203352aa"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Butre Litho 1709.png",
+      "ids": [
+        "guide-gh-c4d3fba7560edbf32a59"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "War Headquarters, Malta GM2310.jpg",
+      "ids": [
+        "guide-mt-4546a08fcd819ed26be7"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Eureka, 1890.jpg",
+      "ids": [
+        "guide-mu-c621be04df6fd8229e32"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Mosque built during the Dagbon Kingdom (Savelugu, Ghana 1910).png",
+      "ids": [
+        "guide-gh-665c6550a856f9e3d336",
+        "guide-gh-d30177feae64aaac44d5"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Carev most 1910s.jpg",
+      "ids": [
+        "guide-me-3afbb188fee819c0afc4"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Rustaveli museum.jpg",
+      "ids": [
+        "guide-ge-b3407a80fae26ca29a40"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Museo Arqueológico de La Serena.jpg",
+      "ids": [
+        "guide-cl-53088156b6f846b6dc60"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Tongeren Neremstraat 241 - 20950 - onroerenderfgoed.jpg",
+      "ids": [
+        "guide-be-db4f4c5b71c3566cb111"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Kerbela.JPG",
+      "ids": [
+        "guide-iq-29d6a26dc4f1c6ca6ea0"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Khan atshan.jpg",
+      "ids": [
+        "guide-iq-b4dc5e66e4af83458e0e"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Püspökladány vasútállomás.JPG",
+      "ids": [
+        "guide-hu-d5613a8aecc2037777f2"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Malta Opera House.jpg",
+      "ids": [
+        "guide-mt-2960ca3bec65807161f8"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Fredensborg Slot 124.JPG",
+      "ids": [
+        "guide-dk-2906af01095416537ab2"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Old city wall (4686345048).jpg",
+      "ids": [
+        "guide-ba-73db75ecdc077eb3b595"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Catholic church in Nairobi (3200378679).jpg",
+      "ids": [
+        "guide-ke-f507ec1fa18f267b295f"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Azadi Square & Azadi Tower, aerial view 1971.jpg",
+      "ids": [
+        "guide-ir-41dc67eb1e48b356f1e4"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Geometridae-Cleora acaciaria-male-10.jpg",
+      "ids": [
+        "guide-ng-0cfb0401a597a4d8e30f"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "PikiWiki Israel 5875 water Tower in Rishon lezion.jpg",
+      "ids": [
+        "guide-il-54aab1baa2e01500586a"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Albanian woolen cap shop.jpg",
+      "ids": [
+        "guide-xk-5b3d06469df3fb1c11a4"
+      ],
+      "reason": "Visual/source review: a 1936 archival view, not a present-day view of the bazaar."
+    },
+    {
+      "file": "LJB9 - Langemarck.jpg",
+      "ids": [
+        "guide-be-9d8d2198414d7b66dd65"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Grodno Ghetto, November 1941.jpg",
+      "ids": [
+        "geo-by-13714509"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "MountSorrel1916.jpg",
+      "ids": [
+        "guide-be-19fc50d5a573674eb68c"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Stee strøm.JPG",
+      "ids": [
+        "guide-no-495204b8d4ba1ade3a0b"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Jelačićevi Novi dvori - akvarel.jpg",
+      "ids": [
+        "geo-hr-3194385"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Shitta-Bey Mosque.jpg",
+      "ids": [
+        "guide-ng-757215149b0065309618"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Main bath house, rotorua.jpg",
+      "ids": [
+        "geo-nz-13631677"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Nat Museum Oron.jpg",
+      "ids": [
+        "guide-ng-cd18d0bb34aabfd53ba4"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Pola Porta Gemine 1900.jpg",
+      "ids": [
+        "guide-hr-4e9e82927ac0f246605e"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "MISTRAL MUSEUM IN VICUNA, CHILE.jpg",
+      "ids": [
+        "guide-cl-3153863085a818f7faca"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Marinkasernen Skatudden.jpg",
+      "ids": [
+        "guide-fi-4b8c374747d2874864cc"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Oscarsborg Fortress under air attack, 9 April, 1940.jpg",
+      "ids": [
+        "guide-no-384cfc3f18caf9c2e286"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Al Hasan of Basra Shrine.jpg",
+      "ids": [
+        "guide-iq-ec49bcea95b6106167a4"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Historical Museum of Bosnia and Herzegovina by architect Boris Magaš 1963.jpg",
+      "ids": [
+        "geo-ba-11468039"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Mair Park, Whangarei, February 1923 ATLIB 300264.png",
+      "ids": [
+        "geo-nz-6230955"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Mitchelstown Cave - A mighty column in The Garret (Irish Naturalist 15 Plate I).jpg",
+      "ids": [
+        "guide-ie-2a68f5096409f4ae3f6f"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Kamal-ud-din Bihzad - Construction of the fort of Kharnaq.jpg",
+      "ids": [
+        "guide-iq-573ae728add96c238368"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "1981-04 Rue Neuve, Bruxelles (11607627524).jpg",
+      "ids": [
+        "guide-be-5f16ae3f5bbc6483f06f"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "CAREME 7 - Photo Burny.jpg",
+      "ids": [
+        "guide-be-971d454c3f2fc446c783"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Norway - Bragdøya.png",
+      "ids": [
+        "guide-no-d228f9031a96dc924b3b"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Paraty Ocean.JPG",
+      "ids": [
+        "guide-br-87a10e74fd32e442e792"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "IAHGP.jpg",
+      "ids": [
+        "guide-br-eebd6f1acb5eb5a1bd7d"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Tomb of Baba Kuhi - 1974.png",
+      "ids": [
+        "guide-ir-3eca9e19bfaf33e41cf0"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Sopron Postapalota.jpg",
+      "ids": [
+        "guide-hu-3b15e0f216fde23f6ef7"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Ferdowsi-Ave-1962.jpg",
+      "ids": [
+        "guide-ir-3de039bab2d1915acd39"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Fortaleza bairro Praia de Iracema.png",
+      "ids": [
+        "geo-br-3411135"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Antoin Sevruguin zoorkhaneh.jpg",
+      "ids": [
+        "guide-ir-1da78a188645a3e481fa"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Bogstadveien.jpg",
+      "ids": [
+        "guide-no-e3c4a082c4f6bafcc99f"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Gisselfeld.jpg",
+      "ids": [
+        "guide-dk-f27c2d1fc534b18b2519"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Parque do Carmo.png",
+      "ids": [
+        "geo-br-12466925"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Burt-Castle-overlooking-Lough-Swilly-State-Papers-Ireland-1601 (cropped).png",
+      "ids": [
+        "geo-ie-11776363"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "National Museum of the Resistance2.JPG",
+      "ids": [
+        "guide-be-840286a82341c7f35ee7"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Tabgha Ein Sheva 1903.jpg",
+      "ids": [
+        "guide-il-903c91079acfd5444503"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Sopron Szent István templom.jpg",
+      "ids": [
+        "guide-hu-0ca0c4d892b144a45cda"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Marca urcamp.png",
+      "ids": [
+        "guide-br-bfdb25064cc2a8ba257b"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Samppalinna outdoor pool Turku Finland.jpg",
+      "ids": [
+        "guide-fi-97b0a5dc15f4e02feba8"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Indoor pool building, annex of student dormitory, Turku, Finland, architect Erik Bryggman 1954.jpg",
+      "ids": [
+        "guide-fi-0f733169ad8f50808d4d"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Tiberias4.jpg",
+      "ids": [
+        "guide-il-c6af5e54f949ff957467"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Kulttuuritalo Helsinki 28 toukokuuta 2013.JPG",
+      "ids": [
+        "guide-fi-eb38d771742a0fd2720b"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Kafr Sabt.jpg",
+      "ids": [
+        "geo-il-294602"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Hamama.jpg",
+      "ids": [
+        "geo-il-294911"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Soderkulla Mansion.jpg",
+      "ids": [
+        "guide-fi-44325089faeef7e2b2bf"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Insigne musei Bergense.png",
+      "ids": [
+        "geo-no-8378615"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Ranganath dol.jpg",
+      "ids": [
+        "guide-in-9b583ee229b8e0f1b623"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Statue of Regent John Hunyadi at the stairs of Schulek Frigyes. Close to the Fisherman's Bastion. - Buda Castle Quarter, Budapest.JPG",
+      "ids": [
+        "guide-hu-ad3cbadc7084d54cd489"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Kortrijk - Colruyt 1.jpg",
+      "ids": [
+        "guide-be-f0a670750e15a9861bca"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Vesikkoa.jpg",
+      "ids": [
+        "guide-fi-72ba17a6b473bccd2fef"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "20110909 embourg16.jpg",
+      "ids": [
+        "guide-be-044e885af0e9a4d4f99a"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Antvorskov Kloster.jpg",
+      "ids": [
+        "geo-dk-2624671"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Leo the Royal Cadet, Grand Theatre, Kingston Jun 3-5 1915.jpg",
+      "ids": [
+        "guide-ca-7dd74b1cd4a3b20f26c8"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Freska od Kučeviški manastir 02.jpg",
+      "ids": [
+        "guide-mk-d14f7ff9422baa6f92bf"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Europa Parlament 1985.jpg",
+      "ids": [
+        "guide-be-e6174e906d2f5a1b7c8c"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Hirschholm (Bruun).jpg",
+      "ids": [
+        "geo-dk-12514726"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Laukaa - rock painting.jpg",
+      "ids": [
+        "guide-fi-fd66df948b940c11e56a"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Црква Св.Пророк Илија с.Стенче горни Полог 1.JPG",
+      "ids": [
+        "guide-mk-03e4ebf5467e6088c147"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Saint Athanasius Church Fresco Northern Wall of the Naos 3.jpg",
+      "ids": [
+        "guide-mk-47359dab6276569072c1"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Verdenskortet ved Klejtrup Sø 001.jpg",
+      "ids": [
+        "guide-dk-854c5af35fb1b78b2dec"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Flüchtlingslager Oksbøl.jpg",
+      "ids": [
+        "guide-dk-a9b0d86a3db10b227c70"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Kossuth-muzeum1.jpg",
+      "ids": [
+        "guide-hu-3a423933384f1c4056d7"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Rapolanvuori piirros.jpg",
+      "ids": [
+        "guide-fi-0286342887f4f7d1e046"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Helsinki-districts-Uutela.png",
+      "ids": [
+        "geo-fi-843454"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Kasteel Stuyvenberg.jpg",
+      "ids": [
+        "geo-be-12047252"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Bhor Ghat (1870).jpg",
+      "ids": [
+        "guide-in-b5a244ef8ac3d145e707"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Grand Stand Malakpet 1880.jpg",
+      "ids": [
+        "guide-in-cfec655f972fcf307977"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Ristinkirkko 1989.jpg",
+      "ids": [
+        "guide-fi-ac01e268f6ad4f9827ff"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Maison de commune binche.JPG",
+      "ids": [
+        "guide-be-6f785bf784c67c0e8f20"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Rajiv Gandhi Memorial blast site.jpg",
+      "ids": [
+        "guide-in-6f8466af1522f1877d2f"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Kulsum Begum Mosque, Hyderabad.jpg",
+      "ids": [
+        "guide-in-ee811b30d18b879f2d18"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Public Gardens Secunderabad.jpg",
+      "ids": [
+        "guide-in-69156192567a98d95e84"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Musheerabad Masjid.jpg",
+      "ids": [
+        "guide-in-af146aae2dd0e5978f49"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Templom utca 20, az északi szárny az Iskola utca felől, 2018 Békásmegyer.jpg",
+      "ids": [
+        "guide-hu-39a89c6305e49317937b"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Boro Maa Naihati.jpg",
+      "ids": [
+        "guide-in-7fbe1075420d8d928384"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Tomalevski family house in Krushevo.JPG",
+      "ids": [
+        "guide-mk-a09e268c868b1b041c24"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Kala Ghoda Statue.jpg",
+      "ids": [
+        "guide-in-8555d97e7625482c93c6"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Reading worker & Radio Free Europe, 2016 Csepel-Erdőalja.jpg",
+      "ids": [
+        "guide-hu-887c3c5837aaba2f6dd2"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Radnóti Miklós House of Culture, 2016 Budapest.jpg",
+      "ids": [
+        "guide-hu-ade4cf9b8a5938308806"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Train Ride, Centreville.jpg",
+      "ids": [
+        "guide-ca-0b85fb1c630d1810bdab"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Budapest Babér u templom.IMG 0206.jpg",
+      "ids": [
+        "guide-hu-386b0ea90d7adabaeb5c"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Margaret's Isle, Budapest, Hungary, Austro-Hungary WDL2641.png",
+      "ids": [
+        "guide-hu-583366f7b79111348dae"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Bangalore. Wesleyan Church. East Parade.jpg",
+      "ids": [
+        "guide-in-884da95ffbd838e14126"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "A view of Roshanara Garden, tomb of Roshanara Begum, north Delhi.jpg",
+      "ids": [
+        "guide-in-7efdd955f22640bb4b8e"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Budapest, Budavári Palota, 2.jpg",
+      "ids": [
+        "guide-hu-c0473fa9efb86226f996"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "World's Tallest Totem Pole, Victoria, British Columbia.JPG",
+      "ids": [
+        "guide-ca-a6a8446af2033d1dc766"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Gingee Fort panorama.jpg",
+      "ids": [
+        "guide-in-473b3e2722f8edb677b9"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Tiszaigar címere.jpg",
+      "ids": [
+        "guide-hu-8e1581c1fd7222e258c8"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "HUN Rábaszentmiklós COA.jpg",
+      "ids": [
+        "guide-hu-faffb66e580c456aaddc"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Camp X Ontario 1943.jpg",
+      "ids": [
+        "guide-ca-abe6201ecdaa5599462f"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "PWOR.png",
+      "ids": [
+        "guide-ca-f055956bb694194ffc8d"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Battis Khamba, Agra.jpg",
+      "ids": [
+        "guide-in-01ea2f2bacf010772b9f"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Hazrat Khna's Tomb and Enclosure.jpg",
+      "ids": [
+        "guide-in-7600d19da14b06ac3888"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Bahlol Khan Gazi's Mosque 02.jpg",
+      "ids": [
+        "guide-in-254adb27be311b86c2ca"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Flórián tér, Flórián üzletközpont. Fortepan 93466.jpg",
+      "ids": [
+        "guide-hu-088715bcbf64430365be"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Walkerville Ontario LOC det.4a19916.jpg",
+      "ids": [
+        "guide-ca-61d69bb1cad73822b9c4"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Babaji-transparent.png",
+      "ids": [
+        "guide-in-0968128117fb6587bc41"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Ferenczy Béni Ülő nő Horváth-kert 002.JPG",
+      "ids": [
+        "guide-hu-66c557fb114bb9040b38"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Deshbandhu Museum at Darjeeling Town 01.jpg",
+      "ids": [
+        "guide-in-c7110afe0abefffe20f3"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Chiefs of the Six Nations at Brantford, Canada, explaining their wampum belts to Horatio Hale September 14, 1871.jpg",
+      "ids": [
+        "guide-ca-ce31506e7cff950d2cbc"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "TEMPLE OF NEMINATHA ON MOUNT GIRNAR.jpg",
+      "ids": [
+        "guide-in-a6f9dfb53a70ceca5d31"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "1858 Kanpur well monument.jpg",
+      "ids": [
+        "guide-in-5c7daf4bace93cded35f"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Nimtala burning ghat, Calcutta in 1945.jpg",
+      "ids": [
+        "guide-in-d8c7c75d1c3d7a0b141e"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Gyenesdias ThatchedKeramia 1896 50333.JPG",
+      "ids": [
+        "guide-hu-1034170414f3277c66fe"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Gresham Palace - Stierch 01.jpg",
+      "ids": [
+        "guide-hu-0c3b0813e4e974805512"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "PostatakarékpénztárBp.jpg",
+      "ids": [
+        "guide-hu-c8c74f80cf169daf34bf"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Budapest Deak teri ev templom P2220405-lev-1000.jpg",
+      "ids": [
+        "guide-hu-ca45d670bbde7ff7a7eb"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Senyei Vízcsorgató.jpg",
+      "ids": [
+        "guide-hu-d9d91d550315247514f3"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Klotild Palaces Budapest.jpg",
+      "ids": [
+        "guide-hu-cfc643ddc8c4ffcbedb2"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Worli Fort Mumbai.jpg",
+      "ids": [
+        "guide-in-192ef8d6621af99c696c"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Garden Flowers at Joseph Baptista Garden.jpg",
+      "ids": [
+        "guide-in-05df3cc956dfcdc7cdb2"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Hazar Duari palace.jpg",
+      "ids": [
+        "guide-in-64d95a3a77978375a381"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Vagohidi szobor bal PB040355-lev-1000.jpg",
+      "ids": [
+        "guide-hu-072e394246051c345245"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Lucas Cranach d.Ä. - Das Martyrium der heiligen Katarina (Ráday Library, Budapest).jpg",
+      "ids": [
+        "guide-hu-94db2094fd02f2b9b3ba"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Canal tower of Gangapur Dam India.jpg",
+      "ids": [
+        "guide-in-17b221ea47929e5278ef"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Devi Ghar.jpg",
+      "ids": [
+        "guide-in-0b50bc0e4ae46290202e"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Saraswati Mandir 1933.png",
+      "ids": [
+        "guide-in-e066f4b6fce1fdfdb995"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Benares- The Golden Temple, India, ca. 1915 (IMP-CSCNWW33-OS14-66).jpg",
+      "ids": [
+        "guide-in-e3e4614a3af0e40988bf"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Bhadra Fort in Ahmedabad, Gujarat, India - 1872.jpg",
+      "ids": [
+        "guide-in-ccfb63ea641115a5e741"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Calico Museum of Textiles, Ahmedabad, 1952.jpg",
+      "ids": [
+        "guide-in-d7c66164e3d44fc5b96b"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Belgachhia Pareshnath Mandir (1).jpg",
+      "ids": [
+        "guide-in-6903a6155014189f66bc"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Fatehpur Sikri Panch Mahal.jpg",
+      "ids": [
+        "guide-in-9141ecf164c77a43f5e5"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Residency House Bolarum.jpg",
+      "ids": [
+        "guide-in-8fac2fde79aae857b4d3"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Ruins of the Rudra Mala at Siddhpur, Gujarat, retouched.jpg",
+      "ids": [
+        "guide-in-bec545f90f06abd8aca8"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Manglen of Maharaja Bodhchandra inside the Kangla fort in Imphal.jpg",
+      "ids": [
+        "guide-in-acbd10fb3c9405166ed1"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "St Andrews Church - The Kirk.jpg",
+      "ids": [
+        "guide-in-33299745e6eda9792f41"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Santhome Basilica.jpg",
+      "ids": [
+        "guide-in-78cf7cde506c6b917508"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Kamarajar Salai and Marina Beach.jpg",
+      "ids": [
+        "guide-in-e1dc5f28eb93e37a51b7"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "St. John's Church, Bangalore (Penny, 1922, p.210).png",
+      "ids": [
+        "guide-in-99b1259682ed90b0e810"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "St. Marks Cathedral, Bangalore. (Old Postcard Re-print), India Post (2014).jpg",
+      "ids": [
+        "guide-in-e3107af8ba8b365a3489"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Jami Masjid, Dholka 01.jpg",
+      "ids": [
+        "guide-in-53f870e93c83cd30f716"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Sultanganj Buddha found.jpg",
+      "ids": [
+        "guide-in-860cf6ddfd99970f0f52"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Stamp of India - 1955 - Colnect 355041 - 1 - Chittaranjan Locomotive Works.jpeg",
+      "ids": [
+        "guide-in-5d3a020f39a58e3fe7bf"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Saroornagar Palace North View 1900 Lala Deen Dayal.jpg",
+      "ids": [
+        "guide-in-eb80b67efeab6234b741"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Opera House Churni Road4.JPG",
+      "ids": [
+        "guide-in-c17ca40cf9462af5c7a1"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Gaurisagar Shiva dol.jpg",
+      "ids": [
+        "guide-in-c08da72d7d5f1eb66174"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    },
+    {
+      "file": "Gaurisagar Vishnu dol.jpg",
+      "ids": [
+        "guide-in-ace8c55ee3a12000dafa"
+      ],
+      "reason": "Full metadata review: archival, non-photographic, or no longer acceptable source/license metadata."
+    }
+  ],
+  "visualSampleCount": 235,
+  "visualSampleCountries": 124,
+  "note": "Metadata screening covers the bulk checked files. Twelve selected photographs also received source, metadata, and visual review. The broader visual review was a sample, not a review of every photograph.",
+  "additionalManuallyReviewed": {
+    "guide-gg-93c67f917728ba475d83": {
+      "file": "Guernsey Castle Cornet.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guernsey_Castle_Cornet.jpg",
+      "reason": "Named-site photograph with source description and geographic coordinates, replacing an 1814 print."
+    },
+    "guide-xk-5b3d06469df3fb1c11a4": {
+      "file": "Atistic view from a street with grape, in the old bazaar of Gjakova.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atistic_view_from_a_street_with_grape,_in_the_old_bazaar_of_Gjakova.jpg",
+      "reason": "2018 photograph in the named bazaar category, replacing a 1936 archival view."
+    },
+    "guide-ee-8bb6a670847d7f7513f8": {
+      "file": "Victoria bastioni sisevaade.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Victoria_bastioni_sisevaade.jpg",
+      "reason": "Photograph of the interior of Victoria bastion in Narva, replacing a plan/map."
+    },
+    "guide-km-d66e4c55b311b17c27a4": {
+      "file": "Flickr - Woodlouse - Old Friday Mosque and harbour, Moroni.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flickr_-_Woodlouse_-_Old_Friday_Mosque_and_harbour,_Moroni.jpg",
+      "reason": "Named mosque in the source description; a source and visual check fills country photo gap."
+    },
+    "guide-sz-4fbf4c2655649c6b508e": {
+      "file": "Mlilwane Wildlife Sanctuary 02.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mlilwane_Wildlife_Sanctuary_02.jpg",
+      "reason": "Wildlife and landscape photographed in the named sanctuary."
+    },
+    "overture-ecb2415a-6db3-424f-9e43-c8a928e44e20": {
+      "file": "Kiribati Bairiki Betio Causeway.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kiribati_Bairiki_Betio_Causeway.jpg",
+      "reason": "Source identifies the Bairiki-Betio causeway constructed by Dai Nippon."
+    },
+    "guide-mh-4e646f1832700beb1aed": {
+      "file": "Eneko Islet 03.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eneko_Islet_03.JPG",
+      "reason": "Named islet and Majuro Atoll documented in the image description."
+    },
+    "geo-yt-10631844": {
+      "file": "Cascade de Soulou 4.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cascade_de_Soulou_4.JPG",
+      "reason": "Named waterfall photograph in the source file."
+    },
+    "guide-fm-e3ec378a209d43f7749f": {
+      "file": "Palikir Government Buildings.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palikir_Government_Buildings.jpg",
+      "reason": "April 2025 photograph of Congress and Supreme Court buildings at Palikir."
+    },
+    "guide-nu-329f7260ed1ffd618b99": {
+      "file": "Talava Arches 1, Niue.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Talava_Arches_1,_Niue.jpg",
+      "reason": "Source description identifies the named arches on Niue."
+    },
+    "wikidata-Q10856947": {
+      "file": "Hamoudi Mosque, Djibouti City (Jan. 2008).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamoudi_Mosque,_Djibouti_City_(Jan._2008).jpg",
+      "reason": "Named mosque in Djibouti City; matched to explicit geographic entity."
+    },
+    "wikidata-Q24249528": {
+      "file": "Roman Catholic Archdiocese of Maseru.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roman_Catholic_Archdiocese_of_Maseru.jpg",
+      "reason": "Cathedral photograph selected for the named Maseru cathedral after source and visual verification."
+    }
+  }
+}

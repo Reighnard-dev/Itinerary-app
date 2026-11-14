@@ -1,0 +1,1434 @@
+{
+  "retrievedAt": "2026-11-14T01:05:09.845Z",
+  "searchTerms": "Petite Ceinture Paris",
+  "batchcomplete": true,
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": [
+      {
+        "pageid": 326289,
+        "ns": 6,
+        "title": "File:Paris-petite-ceinture-13eme.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2085804,
+            "width": 2272,
+            "height": 1704,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Paris-petite-ceinture-13eme.jpg/960px-Paris-petite-ceinture-13eme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Paris-petite-ceinture-13eme.jpg/1920px-Paris-petite-ceinture-13eme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Paris-petite-ceinture-13eme.jpg/960px-Paris-petite-ceinture-13eme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Paris-petite-ceinture-13eme.jpg/1920px-Paris-petite-ceinture-13eme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Paris-petite-ceinture-13eme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paris-petite-ceinture-13eme.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=326289",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2005-09-16 06:32:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Paris-petite-ceinture-13eme",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon Digital IXUS 40|Petite Ceinture in Paris 13e arrondissement|Buildings called tower|Files with coordinates missing SDC location of creation (48° N, 2° E)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.821491",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "2.360843",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Former railway \"Petite ceinture\", Paris, 13ème arrondissement.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2005",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Photo taken by <a href=\"//commons.wikimedia.org/w/index.php?title=User:Thbz_Thierry_B%C3%A9zecourt&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Thbz Thierry Bézecourt (page does not exist)\">User:thbz Thierry Bézecourt</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 28985698,
+        "ns": 6,
+        "title": "File:Ligne Petite Ceinture parc Montsouris Paris.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8324372,
+            "width": 2773,
+            "height": 4159,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Ligne_Petite_Ceinture_parc_Montsouris_Paris.jpg/960px-Ligne_Petite_Ceinture_parc_Montsouris_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1200,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Ligne_Petite_Ceinture_parc_Montsouris_Paris.jpg/1920px-Ligne_Petite_Ceinture_parc_Montsouris_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Ligne_Petite_Ceinture_parc_Montsouris_Paris.jpg/960px-Ligne_Petite_Ceinture_parc_Montsouris_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1200,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Ligne_Petite_Ceinture_parc_Montsouris_Paris.jpg/1920px-Ligne_Petite_Ceinture_parc_Montsouris_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ligne_Petite_Ceinture_parc_Montsouris_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ligne_Petite_Ceinture_parc_Montsouris_Paris.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28985698",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-10-17 19:27:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ligne Petite Ceinture parc Montsouris Paris",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D90|Featured pictures of Paris|Self-published work|Information field template with formatting|Railway cuttings in France|Featured pictures by Myrabella|Files with coordinates missing SDC location of creation (48° N, 2° E)|Pictures of the Year/2013 (finalist)|Petite Ceinture in the Parc Montsouris|Tunnels of Petite Ceinture",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd|poty",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.821320",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "2.340670",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The <i><a href=\"https://en.wikipedia.org/wiki/Chemin_de_fer_de_Petite_Ceinture\" class=\"extiw\" title=\"en:Chemin de fer de Petite Ceinture\">Petite Ceinture</a></i> railway line (\"Little Belt railway\") passing through the <a href=\"https://en.wikipedia.org/wiki/Parc_Montsouris\" class=\"extiw\" title=\"en:Parc Montsouris\">parc Montsouris</a>, 14th arrondissement of Paris, France.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-09-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Myrabella\" title=\"User:Myrabella\">Myrabella</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Photo: <a href=\"//commons.wikimedia.org/wiki/User:Myrabella\" title=\"User:Myrabella\">Myrabella</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 29791467,
+        "ns": 6,
+        "title": "File:Paris 15e Petite Ceinture promenade.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3108339,
+            "width": 1500,
+            "height": 2000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Paris_15e_Petite_Ceinture_promenade.jpg/960px-Paris_15e_Petite_Ceinture_promenade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1067,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/35/Paris_15e_Petite_Ceinture_promenade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Paris_15e_Petite_Ceinture_promenade.jpg/960px-Paris_15e_Petite_Ceinture_promenade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1067,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/35/Paris_15e_Petite_Ceinture_promenade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Paris_15e_Petite_Ceinture_promenade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paris_15e_Petite_Ceinture_promenade.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29791467",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-11-23 09:09:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Paris 15e Petite Ceinture promenade",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D90|Petite Ceinture in Paris 15e arrondissement|Promenades in Paris|Self-published work|Information field template with formatting|September 2013 in Paris|2013 photographs of Paris|Rail tracks in Paris|Files with coordinates missing SDC location of creation (48° N, 2° E)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "valued",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.831850",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "2.292908",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The  <i> <a href=\"https://en.wikipedia.org/wiki/Chemin_de_fer_de_Petite_Ceinture\" class=\"extiw\" title=\"en:Chemin de fer de Petite Ceinture\">Petite Ceinture</a></i>  walkway in the 15th arrondissement of Paris, France.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-09-29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Myrabella\" title=\"User:Myrabella\">Myrabella</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Photo: <a href=\"//commons.wikimedia.org/wiki/User:Myrabella\" title=\"User:Myrabella\">Myrabella</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 29827469,
+        "ns": 6,
+        "title": "File:Paris 16e Petite Ceinture promenade.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11573605,
+            "width": 2753,
+            "height": 4129,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Paris_16e_Petite_Ceinture_promenade.jpg/960px-Paris_16e_Petite_Ceinture_promenade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1200,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Paris_16e_Petite_Ceinture_promenade.jpg/1920px-Paris_16e_Petite_Ceinture_promenade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Paris_16e_Petite_Ceinture_promenade.jpg/960px-Paris_16e_Petite_Ceinture_promenade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1200,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Paris_16e_Petite_Ceinture_promenade.jpg/1920px-Paris_16e_Petite_Ceinture_promenade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Paris_16e_Petite_Ceinture_promenade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paris_16e_Petite_Ceinture_promenade.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29827469",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-11-24 18:22:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Paris 16e Petite Ceinture promenade",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D90|Petite Ceinture du 16e (parc linéaire)|Self-published work|Summer in Paris|Information field template with formatting|Files with coordinates missing SDC location of creation (48° N, 2° E)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "valued",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.852410",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "2.262180",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The  <i> <a href=\"https://en.wikipedia.org/wiki/Chemin_de_fer_de_Petite_Ceinture\" class=\"extiw\" title=\"en:Chemin de fer de Petite Ceinture\">Petite Ceinture</a></i>  walkway in the 16th arrondissement of Paris, France.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-07-24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Myrabella\" title=\"User:Myrabella\">Myrabella</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Photo: <a href=\"//commons.wikimedia.org/wiki/User:Myrabella\" title=\"User:Myrabella\">Myrabella</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 31132155,
+        "ns": 6,
+        "title": "File:High-voltage warning sign near Petite Ceinture, Paris 15e 140212 1.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2302906,
+            "width": 3741,
+            "height": 2672,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/High-voltage_warning_sign_near_Petite_Ceinture%2C_Paris_15e_140212_1.jpg/960px-High-voltage_warning_sign_near_Petite_Ceinture%2C_Paris_15e_140212_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 571,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/High-voltage_warning_sign_near_Petite_Ceinture%2C_Paris_15e_140212_1.jpg/1920px-High-voltage_warning_sign_near_Petite_Ceinture%2C_Paris_15e_140212_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/High-voltage_warning_sign_near_Petite_Ceinture%2C_Paris_15e_140212_1.jpg/960px-High-voltage_warning_sign_near_Petite_Ceinture%2C_Paris_15e_140212_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 571,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/High-voltage_warning_sign_near_Petite_Ceinture%2C_Paris_15e_140212_1.jpg/1920px-High-voltage_warning_sign_near_Petite_Ceinture%2C_Paris_15e_140212_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/High-voltage_warning_sign_near_Petite_Ceinture%2C_Paris_15e_140212_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:High-voltage_warning_sign_near_Petite_Ceinture,_Paris_15e_140212_1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31132155",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-02-12 13:55:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "High-voltage warning sign near Petite Ceinture, Paris 15e 140212 1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Petite Ceinture in Paris 15e arrondissement|Railway signs in France|Uploaded with VicuñaUploader|High-voltage signs|Signs in Paris 15e arrondissement|Uploads by User:DXR in 2014|Uploads by User:DXR in Île-de-France|France photographs taken on 2014-02-12|White signs in Paris|Files with coordinates missing SDC location of creation (48° N, 2° E)|Danger de mort signs",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.835738",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "2.282267",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A French sign warning of nearby danger of death - <i>danger de mort</i> - caused by high voltage. The sign is located close to the former track of the Petite Ceinture in Paris",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-02-12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:DXR\" title=\"User:DXR\">DXR</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Daniel Vorndran / DXR",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 52700345,
+        "ns": 6,
+        "title": "File:Petite Ceinture du 13e @ Paris (30036004464).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9093618,
+            "width": 5472,
+            "height": 3648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Petite_Ceinture_du_13e_%40_Paris_%2830036004464%29.jpg/960px-Petite_Ceinture_du_13e_%40_Paris_%2830036004464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 533,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Petite_Ceinture_du_13e_%40_Paris_%2830036004464%29.jpg/1920px-Petite_Ceinture_du_13e_%40_Paris_%2830036004464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Petite_Ceinture_du_13e_%40_Paris_%2830036004464%29.jpg/960px-Petite_Ceinture_du_13e_%40_Paris_%2830036004464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 533,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Petite_Ceinture_du_13e_%40_Paris_%2830036004464%29.jpg/1920px-Petite_Ceinture_du_13e_%40_Paris_%2830036004464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Petite_Ceinture_du_13e_%40_Paris_%2830036004464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Petite_Ceinture_du_13e_@_Paris_(30036004464).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52700345",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-11-01 15:24:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Petite Ceinture du 13e @ Paris (30036004464)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Petite Ceinture in Paris 13e arrondissement|Flickr images reviewed by FlickreviewR|Graffiti in Paris|Paris photographs taken on 2016-10-30|Closed tunnel portals|Tunnels of Petite Ceinture",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Petite Ceinture du 13e @ Paris",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-10-30 10:26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/o_0/30036004464/\">Petite Ceinture du 13e @ Paris</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/22539273@N00\">Guilhem Vellut</a> from Paris, France",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 57218498,
+        "ns": 6,
+        "title": "File:Petite ceinture @ Paris 13 (33401996621).jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8901098,
+            "width": 3648,
+            "height": 5472,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Petite_ceinture_%40_Paris_13_%2833401996621%29.jpg/960px-Petite_ceinture_%40_Paris_13_%2833401996621%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1200,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Petite_ceinture_%40_Paris_13_%2833401996621%29.jpg/1920px-Petite_ceinture_%40_Paris_13_%2833401996621%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Petite_ceinture_%40_Paris_13_%2833401996621%29.jpg/960px-Petite_ceinture_%40_Paris_13_%2833401996621%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1200,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Petite_ceinture_%40_Paris_13_%2833401996621%29.jpg/1920px-Petite_ceinture_%40_Paris_13_%2833401996621%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Petite_ceinture_%40_Paris_13_%2833401996621%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Petite_ceinture_@_Paris_13_(33401996621).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57218498",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-03-19 17:21:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Petite ceinture @ Paris 13 (33401996621)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Rue Gandon (Paris)|Petite Ceinture in Paris 13e arrondissement|Flickr images reviewed by FlickreviewR|Uploaded by Paris 16|Paris photographs taken on 2017-03-19",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Petite ceinture @ Paris 13",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-03-19 11:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/o_0/33401996621/\">Petite ceinture @ Paris 13</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/22539273@N00\">Guilhem Vellut</a> from Paris, France",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 57475900,
+        "ns": 6,
+        "title": "File:Petite Ceinture @ Paris 13 (32846974334).jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9101749,
+            "width": 5472,
+            "height": 3648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Petite_Ceinture_%40_Paris_13_%2832846974334%29.jpg/960px-Petite_Ceinture_%40_Paris_13_%2832846974334%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 533,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Petite_Ceinture_%40_Paris_13_%2832846974334%29.jpg/1920px-Petite_Ceinture_%40_Paris_13_%2832846974334%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Petite_Ceinture_%40_Paris_13_%2832846974334%29.jpg/960px-Petite_Ceinture_%40_Paris_13_%2832846974334%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 533,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Petite_Ceinture_%40_Paris_13_%2832846974334%29.jpg/1920px-Petite_Ceinture_%40_Paris_13_%2832846974334%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Petite_Ceinture_%40_Paris_13_%2832846974334%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Petite_Ceinture_@_Paris_13_(32846974334).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57475900",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-03-28 10:11:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Petite Ceinture @ Paris 13 (32846974334)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Petite Ceinture in Paris 13e arrondissement|Flickr images reviewed by FlickreviewR|Uploaded by Paris 16|Files from Guilhem Vellut Flickr stream|Paris photographs taken on 2017-03-27",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Petite Ceinture @ Paris 13",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-03-27 12:40",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/o_0/32846974334/\">Petite Ceinture @ Paris 13</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/22539273@N00\">Guilhem Vellut</a> from Paris, France",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 196521407,
+        "ns": 6,
+        "title": "File:Petite Ceinture in Paris 19e arrondissement.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6666224,
+            "width": 4096,
+            "height": 3084,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Petite_Ceinture_in_Paris_19e_arrondissement.jpg/960px-Petite_Ceinture_in_Paris_19e_arrondissement.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 602,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Petite_Ceinture_in_Paris_19e_arrondissement.jpg/1920px-Petite_Ceinture_in_Paris_19e_arrondissement.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Petite_Ceinture_in_Paris_19e_arrondissement.jpg/960px-Petite_Ceinture_in_Paris_19e_arrondissement.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 602,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Petite_Ceinture_in_Paris_19e_arrondissement.jpg/1920px-Petite_Ceinture_in_Paris_19e_arrondissement.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Petite_Ceinture_in_Paris_19e_arrondissement.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Petite_Ceinture_in_Paris_19e_arrondissement.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196521407",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-30 14:55:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Petite Ceinture in Paris 19e arrondissement",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Quai de la Charente (Paris)|Galerie de la Villette (Paris)|Petite Ceinture in Paris 19e arrondissement|Porte de Pantin (Paris Metro)|Philharmonie de Paris|Champ de Mars Massacre|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation (48° N, 2° E)|Photographs taken on 2026-07-22",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.896269",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "2.379614",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Petite Ceinture in Paris 19e arrondissement (jardin public de Paris)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "22 July 2026 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Aliva_Sahoo\" title=\"User:Aliva Sahoo\">Aliva Sahoo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 202843861,
+        "ns": 6,
+        "title": "File:Paris Chemin de fer de Petite Ceinture-8981.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 35816278,
+            "width": 5464,
+            "height": 8192,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Paris_Chemin_de_fer_de_Petite_Ceinture-8981.jpg/960px-Paris_Chemin_de_fer_de_Petite_Ceinture-8981.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1199,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Paris_Chemin_de_fer_de_Petite_Ceinture-8981.jpg/1920px-Paris_Chemin_de_fer_de_Petite_Ceinture-8981.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Paris_Chemin_de_fer_de_Petite_Ceinture-8981.jpg/960px-Paris_Chemin_de_fer_de_Petite_Ceinture-8981.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1199,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Paris_Chemin_de_fer_de_Petite_Ceinture-8981.jpg/1920px-Paris_Chemin_de_fer_de_Petite_Ceinture-8981.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Paris_Chemin_de_fer_de_Petite_Ceinture-8981.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paris_Chemin_de_fer_de_Petite_Ceinture-8981.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=202843861",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-05 17:46:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Paris Chemin de fer de Petite Ceinture-8981",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Chemin de fer de Petite Ceinture|Petite Ceinture in Paris 14e arrondissement|Self-published work|Files with coordinates missing SDC location of creation (48° N, 2° E)|Bridges of Petite Ceinture|Taken with Canon EOS R5 Mark II|Taken with Canon RF 28-70mm F2.8 IS STM",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.826820",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "2.314055",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Paris Chemin de fer de Petite Ceinture",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-07-10 10:57:10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:GodeNehler\" title=\"User:GodeNehler\">GodeNehler</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 202843864,
+        "ns": 6,
+        "title": "File:Paris Chemin de fer de Petite Ceinture-8982.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 39633566,
+            "width": 8192,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Paris_Chemin_de_fer_de_Petite_Ceinture-8982.jpg/960px-Paris_Chemin_de_fer_de_Petite_Ceinture-8982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 534,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Paris_Chemin_de_fer_de_Petite_Ceinture-8982.jpg/1920px-Paris_Chemin_de_fer_de_Petite_Ceinture-8982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Paris_Chemin_de_fer_de_Petite_Ceinture-8982.jpg/960px-Paris_Chemin_de_fer_de_Petite_Ceinture-8982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 534,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Paris_Chemin_de_fer_de_Petite_Ceinture-8982.jpg/1920px-Paris_Chemin_de_fer_de_Petite_Ceinture-8982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Paris_Chemin_de_fer_de_Petite_Ceinture-8982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paris_Chemin_de_fer_de_Petite_Ceinture-8982.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=202843864",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-05 17:46:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Paris Chemin de fer de Petite Ceinture-8982",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Chemin de fer de Petite Ceinture|Petite Ceinture in Paris 14e arrondissement|Self-published work|Files with coordinates missing SDC location of creation (48° N, 2° E)|Bridges of Petite Ceinture|Taken with Canon EOS R5 Mark II|Taken with Canon RF 28-70mm F2.8 IS STM",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.826820",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "2.314055",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Paris Chemin de fer de Petite Ceinture",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-07-10 10:57:16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:GodeNehler\" title=\"User:GodeNehler\">GodeNehler</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 202843865,
+        "ns": 6,
+        "title": "File:Paris Chemin de fer de Petite Ceinture-8980.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 36132084,
+            "width": 8192,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Paris_Chemin_de_fer_de_Petite_Ceinture-8980.jpg/960px-Paris_Chemin_de_fer_de_Petite_Ceinture-8980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 534,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Paris_Chemin_de_fer_de_Petite_Ceinture-8980.jpg/1920px-Paris_Chemin_de_fer_de_Petite_Ceinture-8980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Paris_Chemin_de_fer_de_Petite_Ceinture-8980.jpg/960px-Paris_Chemin_de_fer_de_Petite_Ceinture-8980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 534,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Paris_Chemin_de_fer_de_Petite_Ceinture-8980.jpg/1920px-Paris_Chemin_de_fer_de_Petite_Ceinture-8980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Paris_Chemin_de_fer_de_Petite_Ceinture-8980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paris_Chemin_de_fer_de_Petite_Ceinture-8980.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=202843865",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-05 17:46:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Paris Chemin de fer de Petite Ceinture-8980",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Chemin de fer de Petite Ceinture|Petite Ceinture in Paris 14e arrondissement|Self-published work|Files with coordinates missing SDC location of creation (48° N, 2° E)|Bridges of Petite Ceinture|Taken with Canon EOS R5 Mark II|Taken with Canon RF 28-70mm F2.8 IS STM",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.826820",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "2.314055",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Paris Chemin de fer de Petite Ceinture",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-07-10 10:57:06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:GodeNehler\" title=\"User:GodeNehler\">GodeNehler</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

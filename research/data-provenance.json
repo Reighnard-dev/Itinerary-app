@@ -1,0 +1,1166 @@
+{
+  "createdAt": "2026-11-13T04:48:16.983Z",
+  "guideDump": {
+    "sourceUrl": "https://dumps.wikimedia.org/enwikivoyage/latest/enwikivoyage-latest-pages-articles.xml.bz2",
+    "bytes": 132561035,
+    "sha256": "df5aac6e6713cbdde73e805e9d10976a46850afc921b05d3e2cc022c9c8e1228",
+    "checkedAt": "2026-11-12T18:19:00.679Z"
+  },
+  "geonames": [
+    {
+      "countryCode": "AI",
+      "url": "https://download.geonames.org/export/dump/AI.zip",
+      "license": "CC BY 4.0",
+      "bytes": 16182,
+      "sha256": "87ecd1e15e15217bdd1ddd1f3d5475420756d640d9666573b8d8160bf15fef7d",
+      "retrievedAt": "2026-11-12T18:01:44.985Z"
+    },
+    {
+      "countryCode": "BB",
+      "url": "https://download.geonames.org/export/dump/BB.zip",
+      "license": "CC BY 4.0",
+      "bytes": 40421,
+      "sha256": "49ca663799e5bbedac71fba043c737d454593359ffa935411cda8f9d5b548bf9",
+      "retrievedAt": "2026-11-12T18:01:45.756Z"
+    },
+    {
+      "countryCode": "BY",
+      "url": "https://download.geonames.org/export/dump/BY.zip",
+      "license": "CC BY 4.0",
+      "bytes": 1425792,
+      "sha256": "f47765160af50111086ac2747cdbe67b10f44c568b2e96fa6b72fb9ef16512d5",
+      "retrievedAt": "2026-11-12T18:01:46.809Z"
+    },
+    {
+      "countryCode": "BE",
+      "url": "https://download.geonames.org/export/dump/BE.zip",
+      "license": "CC BY 4.0",
+      "bytes": 678386,
+      "sha256": "c4ea4f68f91aab7a873dbdffea8596d3f96b0ad49b1d225ed525d8637a618a62",
+      "retrievedAt": "2026-11-12T18:01:46.342Z"
+    },
+    {
+      "countryCode": "BZ",
+      "url": "https://download.geonames.org/export/dump/BZ.zip",
+      "license": "CC BY 4.0",
+      "bytes": 78384,
+      "sha256": "b2bff30c1bc73f929ddb6755059f467a51879f78d4207ad7fa5c7cc15550045f",
+      "retrievedAt": "2026-11-12T18:01:46.415Z"
+    },
+    {
+      "countryCode": "BJ",
+      "url": "https://download.geonames.org/export/dump/BJ.zip",
+      "license": "CC BY 4.0",
+      "bytes": 166520,
+      "sha256": "4f0f2ab77db46e5f87185ebf2e0eeb5fba0453c2691357674f862d5bb30a4eef",
+      "retrievedAt": "2026-11-12T18:01:46.684Z"
+    },
+    {
+      "countryCode": "BM",
+      "url": "https://download.geonames.org/export/dump/BM.zip",
+      "license": "CC BY 4.0",
+      "bytes": 24831,
+      "sha256": "527544ba8f81eb0591dc99d33fb184706f0b50fcc9490137aaf60a9397c2b0f1",
+      "retrievedAt": "2026-11-12T18:01:46.712Z"
+    },
+    {
+      "countryCode": "BT",
+      "url": "https://download.geonames.org/export/dump/BT.zip",
+      "license": "CC BY 4.0",
+      "bytes": 29897,
+      "sha256": "aacee16be35942522198e0ffd2c5218d2f033b2934306a8f8b88c4935f8ed3c4",
+      "retrievedAt": "2026-11-12T18:01:46.993Z"
+    },
+    {
+      "countryCode": "BO",
+      "url": "https://download.geonames.org/export/dump/BO.zip",
+      "license": "CC BY 4.0",
+      "bytes": 1073582,
+      "sha256": "a13460d3f1829d30de8fd93ecc7422e9b3ff6ba404ab0b1d06bf0dc85c67db32",
+      "retrievedAt": "2026-11-12T18:01:48.283Z"
+    },
+    {
+      "countryCode": "BQ",
+      "url": "https://download.geonames.org/export/dump/BQ.zip",
+      "license": "CC BY 4.0",
+      "bytes": 23930,
+      "sha256": "c321596fb3c41e76b7722cc7379a8c1ed7f1905633d15ae6179a0bf98672090b",
+      "retrievedAt": "2026-11-12T18:01:47.147Z"
+    },
+    {
+      "countryCode": "BA",
+      "url": "https://download.geonames.org/export/dump/BA.zip",
+      "license": "CC BY 4.0",
+      "bytes": 1349982,
+      "sha256": "5b9c4f6780e8394d37a2b1c7bfb6a7a93a6beb6b1be3e3dcc6a3e1eb837e38ca",
+      "retrievedAt": "2026-11-12T18:01:47.975Z"
+    },
+    {
+      "countryCode": "BW",
+      "url": "https://download.geonames.org/export/dump/BW.zip",
+      "license": "CC BY 4.0",
+      "bytes": 117329,
+      "sha256": "c7a65a640744037faf7a4a54dbb4e81e4f83b3f80575f04834d5ed153cb70ac1",
+      "retrievedAt": "2026-11-12T18:01:47.448Z"
+    },
+    {
+      "countryCode": "BR",
+      "url": "https://download.geonames.org/export/dump/BR.zip",
+      "license": "CC BY 4.0",
+      "bytes": 7182858,
+      "sha256": "6d3767b56ac83e0b259ef4bb88612e9ca8a8d0411def1b900b4f258ac5f672c5",
+      "retrievedAt": "2026-11-12T18:01:48.705Z"
+    },
+    {
+      "countryCode": "VG",
+      "url": "https://download.geonames.org/export/dump/VG.zip",
+      "license": "CC BY 4.0",
+      "bytes": 28436,
+      "sha256": "237003e8d348aa295acd93c4d4209644f35d029a24b17b67218822efddea35b1",
+      "retrievedAt": "2026-11-12T18:01:48.399Z"
+    },
+    {
+      "countryCode": "BN",
+      "url": "https://download.geonames.org/export/dump/BN.zip",
+      "license": "CC BY 4.0",
+      "bytes": 42417,
+      "sha256": "7ec8938319096d92686a7b651fc86cd14a8a46bfb2d130bebfcf311ecb23421a",
+      "retrievedAt": "2026-11-12T18:01:48.655Z"
+    },
+    {
+      "countryCode": "BG",
+      "url": "https://download.geonames.org/export/dump/BG.zip",
+      "license": "CC BY 4.0",
+      "bytes": 764028,
+      "sha256": "e084c473034b3af2c1dc6750827448d4151c1ec4edf9e151ed68c15a73656b18",
+      "retrievedAt": "2026-11-12T18:01:48.920Z"
+    },
+    {
+      "countryCode": "BF",
+      "url": "https://download.geonames.org/export/dump/BF.zip",
+      "license": "CC BY 4.0",
+      "bytes": 331473,
+      "sha256": "19d0bcbc10b1400e7184c2ec777081aacde5dd51b4ea83837e3910ba938940ad",
+      "retrievedAt": "2026-11-12T18:01:49.222Z"
+    },
+    {
+      "countryCode": "BI",
+      "url": "https://download.geonames.org/export/dump/BI.zip",
+      "license": "CC BY 4.0",
+      "bytes": 331144,
+      "sha256": "ff39edcc302654ad55aeb4cb430f29eaf24ab100cb82a00b8ec757cae152b4fb",
+      "retrievedAt": "2026-11-12T18:01:49.571Z"
+    },
+    {
+      "countryCode": "CV",
+      "url": "https://download.geonames.org/export/dump/CV.zip",
+      "license": "CC BY 4.0",
+      "bytes": 214870,
+      "sha256": "be5ab3b8a2aa522fb00cb72f5784914da78fdf667ae47d41f23a75cc00bd634b",
+      "retrievedAt": "2026-11-12T18:01:49.614Z"
+    },
+    {
+      "countryCode": "KH",
+      "url": "https://download.geonames.org/export/dump/KH.zip",
+      "license": "CC BY 4.0",
+      "bytes": 785547,
+      "sha256": "aa6150502f7f618cbd3ea6a7d48dc88069c09d3cbe0856d310acc374595dbf14",
+      "retrievedAt": "2026-11-12T18:01:49.698Z"
+    },
+    {
+      "countryCode": "CM",
+      "url": "https://download.geonames.org/export/dump/CM.zip",
+      "license": "CC BY 4.0",
+      "bytes": 575364,
+      "sha256": "5b58cb04635afa5af99f97659fcee14094924b4755cb9575a9b16baa72dfa166",
+      "retrievedAt": "2026-11-12T18:01:51.537Z"
+    },
+    {
+      "countryCode": "CA",
+      "url": "https://download.geonames.org/export/dump/CA.zip",
+      "license": "CC BY 4.0",
+      "bytes": 8111064,
+      "sha256": "7d84234f7cbfb34e6cd24f8f82d5976b325073e566f19c6619dc46c3bdea9a52",
+      "retrievedAt": "2026-11-12T18:01:55.192Z"
+    },
+    {
+      "countryCode": "KY",
+      "url": "https://download.geonames.org/export/dump/KY.zip",
+      "license": "CC BY 4.0",
+      "bytes": 18936,
+      "sha256": "dad5edcafb10a5ffcb31c72c9cfa714b86364c5c491d1a5aa924e543116653f0",
+      "retrievedAt": "2026-11-12T18:01:50.021Z"
+    },
+    {
+      "countryCode": "CF",
+      "url": "https://download.geonames.org/export/dump/CF.zip",
+      "license": "CC BY 4.0",
+      "bytes": 366475,
+      "sha256": "38e8e308b518737f89fc183e93aca57ebc0bc6dfa7c29af56c3d16614c39b2d4",
+      "retrievedAt": "2026-11-12T18:01:50.356Z"
+    },
+    {
+      "countryCode": "TD",
+      "url": "https://download.geonames.org/export/dump/TD.zip",
+      "license": "CC BY 4.0",
+      "bytes": 606493,
+      "sha256": "7f772c4f86bc764494b7c654d8a80475c0d6305a614296bcd536c5a7abba50a8",
+      "retrievedAt": "2026-11-12T18:01:50.726Z"
+    },
+    {
+      "countryCode": "CL",
+      "url": "https://download.geonames.org/export/dump/CL.zip",
+      "license": "CC BY 4.0",
+      "bytes": 1421434,
+      "sha256": "8bae955cc7d5d7d8edfd2b68dcdb9c2581212eca6e5e8157abf89af03dea834a",
+      "retrievedAt": "2026-11-12T18:01:51.289Z"
+    },
+    {
+      "countryCode": "CX",
+      "url": "https://download.geonames.org/export/dump/CX.zip",
+      "license": "CC BY 4.0",
+      "bytes": 9062,
+      "sha256": "9555e79d6d8adef4e5c999e9a5dc716b0bde4ed9a88cdfed422cc2cf286605aa",
+      "retrievedAt": "2026-11-12T18:01:51.645Z"
+    },
+    {
+      "countryCode": "CC",
+      "url": "https://download.geonames.org/export/dump/CC.zip",
+      "license": "CC BY 4.0",
+      "bytes": 8701,
+      "sha256": "9a1936e7a56ef48571b08794c1b87619e7a245c84f343c9568b7aabf2cb2a282",
+      "retrievedAt": "2026-11-12T18:01:51.867Z"
+    },
+    {
+      "countryCode": "CO",
+      "url": "https://download.geonames.org/export/dump/CO.zip",
+      "license": "CC BY 4.0",
+      "bytes": 2249028,
+      "sha256": "551756c27d457c9c9a26d9a2d5c1ed60ccb6769dde404a547bbac16f1311ffad",
+      "retrievedAt": "2026-11-12T18:01:52.122Z"
+    },
+    {
+      "countryCode": "KM",
+      "url": "https://download.geonames.org/export/dump/KM.zip",
+      "license": "CC BY 4.0",
+      "bytes": 38390,
+      "sha256": "22282df3cb26a026b1af8306c04ee02e4efdd953c8c1895d8188a17c3df0d754",
+      "retrievedAt": "2026-11-12T18:01:52.266Z"
+    },
+    {
+      "countryCode": "CK",
+      "url": "https://download.geonames.org/export/dump/CK.zip",
+      "license": "CC BY 4.0",
+      "bytes": 27767,
+      "sha256": "f4e29bbd1c1ada491415279634108be869d80d50a5fca121a547afd4bf4dd932",
+      "retrievedAt": "2026-11-12T18:01:52.548Z"
+    },
+    {
+      "countryCode": "CR",
+      "url": "https://download.geonames.org/export/dump/CR.zip",
+      "license": "CC BY 4.0",
+      "bytes": 586202,
+      "sha256": "a200990a71ce19126af46c4ffc8008b300ab3060dc67676d749914ae575871dd",
+      "retrievedAt": "2026-11-12T18:01:52.634Z"
+    },
+    {
+      "countryCode": "HR",
+      "url": "https://download.geonames.org/export/dump/HR.zip",
+      "license": "CC BY 4.0",
+      "bytes": 800371,
+      "sha256": "a671690c79ee866ea9abb06ab4e0e422add22b3f20290b33459d4d05c7bbcacd",
+      "retrievedAt": "2026-11-12T18:01:53.156Z"
+    },
+    {
+      "countryCode": "CU",
+      "url": "https://download.geonames.org/export/dump/CU.zip",
+      "license": "CC BY 4.0",
+      "bytes": 1172001,
+      "sha256": "0bfe57206e796525ba33dd56cd8d669a8be6f498250480716ef6d6c038761fa0",
+      "retrievedAt": "2026-11-12T18:01:53.045Z"
+    },
+    {
+      "countryCode": "CW",
+      "url": "https://download.geonames.org/export/dump/CW.zip",
+      "license": "CC BY 4.0",
+      "bytes": 18034,
+      "sha256": "0a999e69a2a567bf255645581fcbe1cacec193c76eee0609d093c3f9dd0db713",
+      "retrievedAt": "2026-11-12T18:01:53.398Z"
+    },
+    {
+      "countryCode": "CY",
+      "url": "https://download.geonames.org/export/dump/CY.zip",
+      "license": "CC BY 4.0",
+      "bytes": 292528,
+      "sha256": "e9fa7f5432aba841cd2bf19e54a82bc1bc0e4572ceefc92949ac818ef49fd595",
+      "retrievedAt": "2026-11-12T18:01:53.516Z"
+    },
+    {
+      "countryCode": "CD",
+      "url": "https://download.geonames.org/export/dump/CD.zip",
+      "license": "CC BY 4.0",
+      "bytes": 1583368,
+      "sha256": "92ed39921042a0f37c9365df0bca816a558276a035307250d09e1ce3495523af",
+      "retrievedAt": "2026-11-12T18:01:53.869Z"
+    },
+    {
+      "countryCode": "DK",
+      "url": "https://download.geonames.org/export/dump/DK.zip",
+      "license": "CC BY 4.0",
+      "bytes": 473601,
+      "sha256": "7fd537f75ed4f48252053d9d3847aee01a1aaf742eb746fd62c7c42fca86b487",
+      "retrievedAt": "2026-11-12T18:01:54.115Z"
+    },
+    {
+      "countryCode": "DJ",
+      "url": "https://download.geonames.org/export/dump/DJ.zip",
+      "license": "CC BY 4.0",
+      "bytes": 171819,
+      "sha256": "48fc55f892bab49db4b74aa7850438cd9923078d66eb0fb0571f7bd4663587d5",
+      "retrievedAt": "2026-11-12T18:01:54.253Z"
+    },
+    {
+      "countryCode": "DM",
+      "url": "https://download.geonames.org/export/dump/DM.zip",
+      "license": "CC BY 4.0",
+      "bytes": 26400,
+      "sha256": "f250658b43cb5e13411253e5573454c09187afc6f9a4c023ecd9a1614543f689",
+      "retrievedAt": "2026-11-12T18:01:54.447Z"
+    },
+    {
+      "countryCode": "DO",
+      "url": "https://download.geonames.org/export/dump/DO.zip",
+      "license": "CC BY 4.0",
+      "bytes": 1068125,
+      "sha256": "440165c459eb75b836951c978f98078c6adec8a58c6a061b3ea3b832dbcc0ba4",
+      "retrievedAt": "2026-11-12T18:01:54.631Z"
+    },
+    {
+      "countryCode": "EC",
+      "url": "https://download.geonames.org/export/dump/EC.zip",
+      "license": "CC BY 4.0",
+      "bytes": 633378,
+      "sha256": "1f38253059eb506c04c294a10b0c2d75163be08e8a25f166830e65b309c5bab8",
+      "retrievedAt": "2026-11-12T18:01:55.015Z"
+    },
+    {
+      "countryCode": "SV",
+      "url": "https://download.geonames.org/export/dump/SV.zip",
+      "license": "CC BY 4.0",
+      "bytes": 231952,
+      "sha256": "e12c529092eb1ae0185b2850e781326bfca45c5e0210c0d4f83a4f739ba4249c",
+      "retrievedAt": "2026-11-12T18:01:54.991Z"
+    },
+    {
+      "countryCode": "GQ",
+      "url": "https://download.geonames.org/export/dump/GQ.zip",
+      "license": "CC BY 4.0",
+      "bytes": 113680,
+      "sha256": "2c24aa14f05d7ce4cdafc01ef15ba542ca1bfd02fc66a62a4a4bf0cb4f38542a",
+      "retrievedAt": "2026-11-12T18:01:55.595Z"
+    },
+    {
+      "countryCode": "ER",
+      "url": "https://download.geonames.org/export/dump/ER.zip",
+      "license": "CC BY 4.0",
+      "bytes": 197184,
+      "sha256": "8cdf7afe5bba75b2a197bf6389cec483e59425bf4765c324234f9f80261b74e8",
+      "retrievedAt": "2026-11-12T18:01:55.600Z"
+    },
+    {
+      "countryCode": "EE",
+      "url": "https://download.geonames.org/export/dump/EE.zip",
+      "license": "CC BY 4.0",
+      "bytes": 557835,
+      "sha256": "78223b59bd8911a89efd65b2d558fc8b36dee9392056e93488f18ed45ab59527",
+      "retrievedAt": "2026-11-12T18:01:56.165Z"
+    },
+    {
+      "countryCode": "SZ",
+      "url": "https://download.geonames.org/export/dump/SZ.zip",
+      "license": "CC BY 4.0",
+      "bytes": 58761,
+      "sha256": "25adb5522ef98291c9f432cf95ddd81178e58a0df11d6f73c978d445d166d7f4",
+      "retrievedAt": "2026-11-12T18:01:55.952Z"
+    },
+    {
+      "countryCode": "ET",
+      "url": "https://download.geonames.org/export/dump/ET.zip",
+      "license": "CC BY 4.0",
+      "bytes": 598211,
+      "sha256": "6432ff882ca22c2de7ecf44cdba05305aefea900d8117e229a99b10c0c062074",
+      "retrievedAt": "2026-11-12T18:01:56.033Z"
+    },
+    {
+      "countryCode": "FK",
+      "url": "https://download.geonames.org/export/dump/FK.zip",
+      "license": "CC BY 4.0",
+      "bytes": 39573,
+      "sha256": "2ef0c94530caf6bdb06978b7423ff36043d4b5171583f9d0a5638a6f8c975a8e",
+      "retrievedAt": "2026-11-12T18:01:56.272Z"
+    },
+    {
+      "countryCode": "FO",
+      "url": "https://download.geonames.org/export/dump/FO.zip",
+      "license": "CC BY 4.0",
+      "bytes": 69987,
+      "sha256": "7541b4ad758b66913c7574f30a923605b478876d76028f5e8a375c6c7280887d",
+      "retrievedAt": "2026-11-12T18:01:56.384Z"
+    },
+    {
+      "countryCode": "FJ",
+      "url": "https://download.geonames.org/export/dump/FJ.zip",
+      "license": "CC BY 4.0",
+      "bytes": 458720,
+      "sha256": "dfcfa2d538e94c315cb63700dc31f3e5fbef6ceac5eb13af0202df673b7ddf16",
+      "retrievedAt": "2026-11-12T18:01:56.529Z"
+    },
+    {
+      "countryCode": "FI",
+      "url": "https://download.geonames.org/export/dump/FI.zip",
+      "license": "CC BY 4.0",
+      "bytes": 13940540,
+      "sha256": "45af210b70d1e1aa5d1c7e34d05f27d5d668bd69fe10570d821c6347a1ea7836",
+      "retrievedAt": "2026-11-12T18:02:04.901Z"
+    },
+    {
+      "countryCode": "GF",
+      "url": "https://download.geonames.org/export/dump/GF.zip",
+      "license": "CC BY 4.0",
+      "bytes": 118913,
+      "sha256": "42e987f4cf939a9f8db7511999f1f30e7e7409618e83068445a09ad7bf279b45",
+      "retrievedAt": "2026-11-12T18:01:56.710Z"
+    },
+    {
+      "countryCode": "PF",
+      "url": "https://download.geonames.org/export/dump/PF.zip",
+      "license": "CC BY 4.0",
+      "bytes": 128908,
+      "sha256": "8864a87f2d70a079cd9df5235128b8addeccdc84531a7644524c718fa8b816ba",
+      "retrievedAt": "2026-11-12T18:01:57.150Z"
+    },
+    {
+      "countryCode": "TF",
+      "url": "https://download.geonames.org/export/dump/TF.zip",
+      "license": "CC BY 4.0",
+      "bytes": 60211,
+      "sha256": "2e76e9648da8ffbf187cce1e15bb0bf86897beab557c8bfdef2832b81721436f",
+      "retrievedAt": "2026-11-12T18:01:57.034Z"
+    },
+    {
+      "countryCode": "GA",
+      "url": "https://download.geonames.org/export/dump/GA.zip",
+      "license": "CC BY 4.0",
+      "bytes": 171411,
+      "sha256": "8323b438a5fba6096b53334cecafc169a98221daba681e50a2f31efb34a114d3",
+      "retrievedAt": "2026-11-12T18:01:57.368Z"
+    },
+    {
+      "countryCode": "GM",
+      "url": "https://download.geonames.org/export/dump/GM.zip",
+      "license": "CC BY 4.0",
+      "bytes": 66655,
+      "sha256": "46a6edc3095642ba9a5caefb7223a596b688814dbc2fc0790f6e93e2303bff3a",
+      "retrievedAt": "2026-11-12T18:01:57.475Z"
+    },
+    {
+      "countryCode": "GE",
+      "url": "https://download.geonames.org/export/dump/GE.zip",
+      "license": "CC BY 4.0",
+      "bytes": 449126,
+      "sha256": "654ad4760951786b94df9a598857b8615e1a581d738c1acd1b20d87f518c5bc5",
+      "retrievedAt": "2026-11-12T18:01:57.734Z"
+    },
+    {
+      "countryCode": "GH",
+      "url": "https://download.geonames.org/export/dump/GH.zip",
+      "license": "CC BY 4.0",
+      "bytes": 605608,
+      "sha256": "b2a6390e73a0bdad259c773c03cee7fa884652d8796435562d261bd8cb67ca5d",
+      "retrievedAt": "2026-11-12T18:01:58.085Z"
+    },
+    {
+      "countryCode": "GI",
+      "url": "https://download.geonames.org/export/dump/GI.zip",
+      "license": "CC BY 4.0",
+      "bytes": 15499,
+      "sha256": "b3bbdec518d47512ceb18129955a857c0a2fb49a003adcfe4ad74dad706fa363",
+      "retrievedAt": "2026-11-12T18:01:58.065Z"
+    },
+    {
+      "countryCode": "GL",
+      "url": "https://download.geonames.org/export/dump/GL.zip",
+      "license": "CC BY 4.0",
+      "bytes": 224900,
+      "sha256": "3498c306edbf89f04b92076f3d694b2bf4366695a08a63183e390ae5c678f426",
+      "retrievedAt": "2026-11-12T18:01:58.413Z"
+    },
+    {
+      "countryCode": "GD",
+      "url": "https://download.geonames.org/export/dump/GD.zip",
+      "license": "CC BY 4.0",
+      "bytes": 31482,
+      "sha256": "9815d197556c1586006f09a279ce442518178b218f0542de7db58bb44ded6b71",
+      "retrievedAt": "2026-11-12T18:01:58.493Z"
+    },
+    {
+      "countryCode": "GP",
+      "url": "https://download.geonames.org/export/dump/GP.zip",
+      "license": "CC BY 4.0",
+      "bytes": 116156,
+      "sha256": "6ba178bc22092cdf8880623807a76985a228d7d6a61bafda3371887977d870bb",
+      "retrievedAt": "2026-11-12T18:01:58.751Z"
+    },
+    {
+      "countryCode": "GU",
+      "url": "https://download.geonames.org/export/dump/GU.zip",
+      "license": "CC BY 4.0",
+      "bytes": 52953,
+      "sha256": "ba5d883cb7f7dc048559be90a3c4f113a61f0d27494e31880dc8a7f94f29ecdc",
+      "retrievedAt": "2026-11-12T18:01:58.831Z"
+    },
+    {
+      "countryCode": "GT",
+      "url": "https://download.geonames.org/export/dump/GT.zip",
+      "license": "CC BY 4.0",
+      "bytes": 1047270,
+      "sha256": "1e768758864eb7d484c6f56be9f3ba1b8735e5d6b7ca9af9898b6663ffafc1ab",
+      "retrievedAt": "2026-11-12T18:01:59.822Z"
+    },
+    {
+      "countryCode": "GG",
+      "url": "https://download.geonames.org/export/dump/GG.zip",
+      "license": "CC BY 4.0",
+      "bytes": 28870,
+      "sha256": "b66fd98ea5bb9ad47798fe24389e7a0965edfd4017d0367bbe3537a3132f9382",
+      "retrievedAt": "2026-11-12T18:01:59.160Z"
+    },
+    {
+      "countryCode": "GN",
+      "url": "https://download.geonames.org/export/dump/GN.zip",
+      "license": "CC BY 4.0",
+      "bytes": 259300,
+      "sha256": "fcdb37205a4440376c2264649e642fb7ce8ebe221d9fe9567a7d14f483f4c2f6",
+      "retrievedAt": "2026-11-12T18:01:59.509Z"
+    },
+    {
+      "countryCode": "GW",
+      "url": "https://download.geonames.org/export/dump/GW.zip",
+      "license": "CC BY 4.0",
+      "bytes": 148075,
+      "sha256": "4b67d01d07f98f4e27c6c40044936b6bbf9f7104898cc3ebca67b4dbb10df27a",
+      "retrievedAt": "2026-11-12T18:01:59.847Z"
+    },
+    {
+      "countryCode": "GY",
+      "url": "https://download.geonames.org/export/dump/GY.zip",
+      "license": "CC BY 4.0",
+      "bytes": 174054,
+      "sha256": "512d2dc92d77ae189b661dfa0f6d3f1fbbc5e657d377ce4b34dc4b58f29e7f0a",
+      "retrievedAt": "2026-11-12T18:02:00.209Z"
+    },
+    {
+      "countryCode": "HT",
+      "url": "https://download.geonames.org/export/dump/HT.zip",
+      "license": "CC BY 4.0",
+      "bytes": 426213,
+      "sha256": "762ca63636386ddd350af65dc064c8272ee097a045aa1f400197eb815dbc25a5",
+      "retrievedAt": "2026-11-12T18:02:00.296Z"
+    },
+    {
+      "countryCode": "HN",
+      "url": "https://download.geonames.org/export/dump/HN.zip",
+      "license": "CC BY 4.0",
+      "bytes": 483381,
+      "sha256": "34c2cc9cfc7a558521fd29022d2d1cd54578f83662ed0f19f3f3dad4f85d686f",
+      "retrievedAt": "2026-11-12T18:02:00.827Z"
+    },
+    {
+      "countryCode": "HK",
+      "url": "https://download.geonames.org/export/dump/HK.zip",
+      "license": "CC BY 4.0",
+      "bytes": 121034,
+      "sha256": "a5e6f251de7652cb8127b756e58cfdbba69dcd50d97349fba1308fb50329c642",
+      "retrievedAt": "2026-11-12T18:02:00.647Z"
+    },
+    {
+      "countryCode": "HU",
+      "url": "https://download.geonames.org/export/dump/HU.zip",
+      "license": "CC BY 4.0",
+      "bytes": 701655,
+      "sha256": "7f81989e2a80cbc0010e74076bdb9cf950d49326ade9a3598a19d365f0b98bdb",
+      "retrievedAt": "2026-11-12T18:02:01.065Z"
+    },
+    {
+      "countryCode": "IS",
+      "url": "https://download.geonames.org/export/dump/IS.zip",
+      "license": "CC BY 4.0",
+      "bytes": 469659,
+      "sha256": "f83d3e236b555728ec1b89e0c862a57b6cfede8e085fe459542d3bfbc505f4d1",
+      "retrievedAt": "2026-11-12T18:02:01.564Z"
+    },
+    {
+      "countryCode": "IN",
+      "url": "https://download.geonames.org/export/dump/IN.zip",
+      "license": "CC BY 4.0",
+      "bytes": 15755152,
+      "sha256": "fa6d874bafba6600c56065fda4ed0977b95df237d0b6674097983d378327183d",
+      "retrievedAt": "2026-11-12T18:02:03.437Z"
+    },
+    {
+      "countryCode": "IR",
+      "url": "https://download.geonames.org/export/dump/IR.zip",
+      "license": "CC BY 4.0",
+      "bytes": 13671430,
+      "sha256": "d9807960052424e4e533a54907668f95bd449ef03bfa76bb05092f4c170dd88e",
+      "retrievedAt": "2026-11-12T18:02:10.970Z"
+    },
+    {
+      "countryCode": "IQ",
+      "url": "https://download.geonames.org/export/dump/IQ.zip",
+      "license": "CC BY 4.0",
+      "bytes": 2801101,
+      "sha256": "18d22996a2500ea167ae1d13271b791eff313c61ccad6883d63089f2f5102132",
+      "retrievedAt": "2026-11-12T18:02:05.595Z"
+    },
+    {
+      "countryCode": "IE",
+      "url": "https://download.geonames.org/export/dump/IE.zip",
+      "license": "CC BY 4.0",
+      "bytes": 817601,
+      "sha256": "dc25314489451714990337e299eaf2b22ffc3ef0274a3604cd3b4bfa101bbb39",
+      "retrievedAt": "2026-11-12T18:02:06.499Z"
+    },
+    {
+      "countryCode": "IM",
+      "url": "https://download.geonames.org/export/dump/IM.zip",
+      "license": "CC BY 4.0",
+      "bytes": 12733,
+      "sha256": "8bd5bc30e83da166016f687aefc36cf175bdb49fcee3972f72ac2c04fc0ef765",
+      "retrievedAt": "2026-11-12T18:02:06.083Z"
+    },
+    {
+      "countryCode": "IL",
+      "url": "https://download.geonames.org/export/dump/IL.zip",
+      "license": "CC BY 4.0",
+      "bytes": 585456,
+      "sha256": "3c9c122d07ba62de071bc1000a259d8df2c266225dc06e1e6f9c2363444843af",
+      "retrievedAt": "2026-11-12T18:02:06.520Z"
+    },
+    {
+      "countryCode": "CI",
+      "url": "https://download.geonames.org/export/dump/CI.zip",
+      "license": "CC BY 4.0",
+      "bytes": 545405,
+      "sha256": "e0df350626affd124df0d48db41df058561197193e6d98c7be030cdebcdde0ee",
+      "retrievedAt": "2026-11-12T18:02:07.173Z"
+    },
+    {
+      "countryCode": "JM",
+      "url": "https://download.geonames.org/export/dump/JM.zip",
+      "license": "CC BY 4.0",
+      "bytes": 236672,
+      "sha256": "82c76d4bf9bf70d861cd2a2bf8d2a8d52c5b50efe59b4c77d28ed1ca8c934a59",
+      "retrievedAt": "2026-11-12T18:02:07.014Z"
+    },
+    {
+      "countryCode": "JE",
+      "url": "https://download.geonames.org/export/dump/JE.zip",
+      "license": "CC BY 4.0",
+      "bytes": 19808,
+      "sha256": "0c09776a55a97265df66f4fd7e81f07eeff850365adfa932787cf3002e074fd1",
+      "retrievedAt": "2026-11-12T18:02:07.376Z"
+    },
+    {
+      "countryCode": "JO",
+      "url": "https://download.geonames.org/export/dump/JO.zip",
+      "license": "CC BY 4.0",
+      "bytes": 693127,
+      "sha256": "95510e86b81e268cbbd09521463f5f96f86783645aa612de747e357ccec7e9ae",
+      "retrievedAt": "2026-11-12T18:02:07.810Z"
+    },
+    {
+      "countryCode": "KZ",
+      "url": "https://download.geonames.org/export/dump/KZ.zip",
+      "license": "CC BY 4.0",
+      "bytes": 2721882,
+      "sha256": "66d3a3bceff32fc4dbc880102c7d2701945bceba886c72d792731335de08c93e",
+      "retrievedAt": "2026-11-12T18:02:08.252Z"
+    },
+    {
+      "countryCode": "KE",
+      "url": "https://download.geonames.org/export/dump/KE.zip",
+      "license": "CC BY 4.0",
+      "bytes": 859709,
+      "sha256": "88eefc8385deea102adbe2be77dfa738ef28f3cacb6e15debaacab8344ce9be9",
+      "retrievedAt": "2026-11-12T18:02:08.498Z"
+    },
+    {
+      "countryCode": "KI",
+      "url": "https://download.geonames.org/export/dump/KI.zip",
+      "license": "CC BY 4.0",
+      "bytes": 40716,
+      "sha256": "c99ea8dff948dc093951d6f26095289c3b9fe476b4c7c4fccdefd03d6d7b3fa3",
+      "retrievedAt": "2026-11-12T18:02:08.710Z"
+    },
+    {
+      "countryCode": "XK",
+      "url": "https://download.geonames.org/export/dump/XK.zip",
+      "license": "CC BY 4.0",
+      "bytes": 221995,
+      "sha256": "3f142523eff8745cf078899e56fd5684a09521c32e87dbcee4f9ceb5f8555603",
+      "retrievedAt": "2026-11-12T18:02:08.921Z"
+    },
+    {
+      "countryCode": "KW",
+      "url": "https://download.geonames.org/export/dump/KW.zip",
+      "license": "CC BY 4.0",
+      "bytes": 58077,
+      "sha256": "2ee25890a42336f4c878a4647b7d60d78b51d50c427e922499c48ca03a7beb18",
+      "retrievedAt": "2026-11-12T18:02:09.079Z"
+    },
+    {
+      "countryCode": "KG",
+      "url": "https://download.geonames.org/export/dump/KG.zip",
+      "license": "CC BY 4.0",
+      "bytes": 346577,
+      "sha256": "649b2a0515659576d3ebeed0aa13d0066f29037c4e29d8029d727014bd169a04",
+      "retrievedAt": "2026-11-12T18:02:09.327Z"
+    },
+    {
+      "countryCode": "LA",
+      "url": "https://download.geonames.org/export/dump/LA.zip",
+      "license": "CC BY 4.0",
+      "bytes": 716852,
+      "sha256": "c86cc509d1088e0cf97695a3d0836a61722dc0c919c57ab67996e4d3527b4a23",
+      "retrievedAt": "2026-11-12T18:02:09.561Z"
+    },
+    {
+      "countryCode": "LV",
+      "url": "https://download.geonames.org/export/dump/LV.zip",
+      "license": "CC BY 4.0",
+      "bytes": 1070462,
+      "sha256": "18528b5a6c41b315b7d72cb1b98f8da26c2ba3ac12b1b0adb4483e774e568b53",
+      "retrievedAt": "2026-11-12T18:02:10.201Z"
+    },
+    {
+      "countryCode": "LB",
+      "url": "https://download.geonames.org/export/dump/LB.zip",
+      "license": "CC BY 4.0",
+      "bytes": 1141461,
+      "sha256": "4136d78aebeaee0a9e62950dc7ae9220afb8720b798129c8e4b932ddcf664464",
+      "retrievedAt": "2026-11-12T18:02:10.192Z"
+    },
+    {
+      "countryCode": "LS",
+      "url": "https://download.geonames.org/export/dump/LS.zip",
+      "license": "CC BY 4.0",
+      "bytes": 51585,
+      "sha256": "251fac05dad0e099ea9065150c82280ce45c0a8488eebbc5a055c5f33ada6354",
+      "retrievedAt": "2026-11-12T18:02:10.638Z"
+    },
+    {
+      "countryCode": "LR",
+      "url": "https://download.geonames.org/export/dump/LR.zip",
+      "license": "CC BY 4.0",
+      "bytes": 250124,
+      "sha256": "877c9e3e79c43dee9c11596e47129b122ba2a9fb78cc7b230676087289e4c35d",
+      "retrievedAt": "2026-11-12T18:02:10.758Z"
+    },
+    {
+      "countryCode": "LY",
+      "url": "https://download.geonames.org/export/dump/LY.zip",
+      "license": "CC BY 4.0",
+      "bytes": 973894,
+      "sha256": "69ba294308b09022a4b794db274a06d34aebe58319ad1d9d8d33d64daefeec89",
+      "retrievedAt": "2026-11-12T18:02:11.306Z"
+    },
+    {
+      "countryCode": "LI",
+      "url": "https://download.geonames.org/export/dump/LI.zip",
+      "license": "CC BY 4.0",
+      "bytes": 52204,
+      "sha256": "9d05b7dc22c3322355a99235fd6a1ce898b0fcb87f0c9ab7c6a9a1aa1c2f3812",
+      "retrievedAt": "2026-11-12T18:02:11.299Z"
+    },
+    {
+      "countryCode": "LT",
+      "url": "https://download.geonames.org/export/dump/LT.zip",
+      "license": "CC BY 4.0",
+      "bytes": 1298428,
+      "sha256": "5e221f9b0e2291dfd369b6bec5031933a09b9dda180b6d13fe2127bd5a5172f6",
+      "retrievedAt": "2026-11-12T18:02:12.556Z"
+    },
+    {
+      "countryCode": "LU",
+      "url": "https://download.geonames.org/export/dump/LU.zip",
+      "license": "CC BY 4.0",
+      "bytes": 54938,
+      "sha256": "453e2668a12d33b3960428ea033829f5d2ea10153a48f068eb8c048c19d5cff0",
+      "retrievedAt": "2026-11-12T18:02:11.920Z"
+    },
+    {
+      "countryCode": "MO",
+      "url": "https://download.geonames.org/export/dump/MO.zip",
+      "license": "CC BY 4.0",
+      "bytes": 15536,
+      "sha256": "200b1b005f337c494a2c4de00680918643611fc020a47386c94273930f2d7ed4",
+      "retrievedAt": "2026-11-12T18:02:12.070Z"
+    },
+    {
+      "countryCode": "MG",
+      "url": "https://download.geonames.org/export/dump/MG.zip",
+      "license": "CC BY 4.0",
+      "bytes": 1383062,
+      "sha256": "6c8499d369812763b3ad3bd23c2d3e506ccd345c6d96041b46ffa5993eb50855",
+      "retrievedAt": "2026-11-12T18:02:12.893Z"
+    },
+    {
+      "countryCode": "MW",
+      "url": "https://download.geonames.org/export/dump/MW.zip",
+      "license": "CC BY 4.0",
+      "bytes": 343490,
+      "sha256": "1ecabb0434e7bae7adc0d2bd7e02236424768fd918ccbba206991632c5c9957f",
+      "retrievedAt": "2026-11-12T18:02:12.736Z"
+    },
+    {
+      "countryCode": "MV",
+      "url": "https://download.geonames.org/export/dump/MV.zip",
+      "license": "CC BY 4.0",
+      "bytes": 70832,
+      "sha256": "9adc48e2c3cf52e1b12f955934ac9d0ee2efa4a2bd189519d59c918d5d907af0",
+      "retrievedAt": "2026-11-12T18:02:12.989Z"
+    },
+    {
+      "countryCode": "ML",
+      "url": "https://download.geonames.org/export/dump/ML.zip",
+      "license": "CC BY 4.0",
+      "bytes": 690108,
+      "sha256": "5341f98792738c3f601fca3fd8c9eb789dc7958b5f80c1132f6d9cdee8c6de88",
+      "retrievedAt": "2026-11-12T18:02:13.394Z"
+    },
+    {
+      "countryCode": "MT",
+      "url": "https://download.geonames.org/export/dump/MT.zip",
+      "license": "CC BY 4.0",
+      "bytes": 106116,
+      "sha256": "c9ff33c3e8a66d4d0695760c91cb828684adb7a79eb094e1dc32c65e227c4c55",
+      "retrievedAt": "2026-11-12T18:02:13.355Z"
+    },
+    {
+      "countryCode": "MH",
+      "url": "https://download.geonames.org/export/dump/MH.zip",
+      "license": "CC BY 4.0",
+      "bytes": 61507,
+      "sha256": "949ae74a248b5480d5b3692a8385bd5d08bc5b845a52f031da8a01faf2987e45",
+      "retrievedAt": "2026-11-12T18:02:13.532Z"
+    },
+    {
+      "countryCode": "MQ",
+      "url": "https://download.geonames.org/export/dump/MQ.zip",
+      "license": "CC BY 4.0",
+      "bytes": 97869,
+      "sha256": "99f8bb082614223d6dbec7a18ae91e66dc20690890f4cf973d0e87751b861a20",
+      "retrievedAt": "2026-11-12T18:02:13.766Z"
+    },
+    {
+      "countryCode": "MR",
+      "url": "https://download.geonames.org/export/dump/MR.zip",
+      "license": "CC BY 4.0",
+      "bytes": 556109,
+      "sha256": "9c17c17ff2ef4f94235bba582067bc1e0540cee74ac6a011e8d4e5cd148b2666",
+      "retrievedAt": "2026-11-12T18:02:14.155Z"
+    },
+    {
+      "countryCode": "MU",
+      "url": "https://download.geonames.org/export/dump/MU.zip",
+      "license": "CC BY 4.0",
+      "bytes": 64131,
+      "sha256": "366de3fc572122e753a2e01ca3825b52e4e8ffe219b028b3fe7f74522a27a135",
+      "retrievedAt": "2026-11-12T18:02:14.013Z"
+    },
+    {
+      "countryCode": "YT",
+      "url": "https://download.geonames.org/export/dump/YT.zip",
+      "license": "CC BY 4.0",
+      "bytes": 26234,
+      "sha256": "3d13037db9256fc8c16241786f4745f3f5130dc973124f30d1ac6e541e321796",
+      "retrievedAt": "2026-11-12T18:02:14.160Z"
+    },
+    {
+      "countryCode": "FM",
+      "url": "https://download.geonames.org/export/dump/FM.zip",
+      "license": "CC BY 4.0",
+      "bytes": 104994,
+      "sha256": "31fa0b83c490e3d2cd70bdda94cbb9b73ec470c5ce5adb295cac659c91dd3788",
+      "retrievedAt": "2026-11-12T18:02:14.417Z"
+    },
+    {
+      "countryCode": "MD",
+      "url": "https://download.geonames.org/export/dump/MD.zip",
+      "license": "CC BY 4.0",
+      "bytes": 155022,
+      "sha256": "41d652556dfcaa01918f38e133b81aa700ac088b8888f5fde5c2cb7d9090b88c",
+      "retrievedAt": "2026-11-12T18:02:14.574Z"
+    },
+    {
+      "countryCode": "MC",
+      "url": "https://download.geonames.org/export/dump/MC.zip",
+      "license": "CC BY 4.0",
+      "bytes": 9035,
+      "sha256": "58f18e0284490b54ab06d0a908047f4c2e2c3e6ce2ef6a78294ee3b3f0157f25",
+      "retrievedAt": "2026-11-12T18:02:14.714Z"
+    },
+    {
+      "countryCode": "MN",
+      "url": "https://download.geonames.org/export/dump/MN.zip",
+      "license": "CC BY 4.0",
+      "bytes": 306815,
+      "sha256": "2aab9dd62ed1401d17e6d7afdc43a4418a862d590d7393afaef45837b7f14ac8",
+      "retrievedAt": "2026-11-12T18:02:14.848Z"
+    },
+    {
+      "countryCode": "ME",
+      "url": "https://download.geonames.org/export/dump/ME.zip",
+      "license": "CC BY 4.0",
+      "bytes": 376330,
+      "sha256": "d2c1d6df6c94f9c132d2695feeb423acfe1515eb7244f7b47b0cddfed1b8c539",
+      "retrievedAt": "2026-11-12T18:02:15.002Z"
+    },
+    {
+      "countryCode": "MS",
+      "url": "https://download.geonames.org/export/dump/MS.zip",
+      "license": "CC BY 4.0",
+      "bytes": 14550,
+      "sha256": "fd4f7a52b72226167cb25e8600dd34ddb1e89c6bee928494d3a9188a8bd6a1de",
+      "retrievedAt": "2026-11-12T18:02:15.157Z"
+    },
+    {
+      "countryCode": "MA",
+      "url": "https://download.geonames.org/export/dump/MA.zip",
+      "license": "CC BY 4.0",
+      "bytes": 4201009,
+      "sha256": "4c1bb8a8dea02466c6b7de3b0a1bf9fb0f5b45169d87f7141f73cdc0791ae383",
+      "retrievedAt": "2026-11-12T18:02:15.981Z"
+    },
+    {
+      "countryCode": "MZ",
+      "url": "https://download.geonames.org/export/dump/MZ.zip",
+      "license": "CC BY 4.0",
+      "bytes": 1216084,
+      "sha256": "ae5775340eb34681488f96ac43c5fc4aff84c462b78e1927bf613ee5c3c91c10",
+      "retrievedAt": "2026-11-12T18:02:16.205Z"
+    },
+    {
+      "countryCode": "MM",
+      "url": "https://download.geonames.org/export/dump/MM.zip",
+      "license": "CC BY 4.0",
+      "bytes": 1936158,
+      "sha256": "2e991be5385f15f5ec5174dfc716db4bdad9842bfc49995b4b3ef924c14f129a",
+      "retrievedAt": "2026-11-12T18:02:16.503Z"
+    },
+    {
+      "countryCode": "NA",
+      "url": "https://download.geonames.org/export/dump/NA.zip",
+      "license": "CC BY 4.0",
+      "bytes": 360365,
+      "sha256": "7b0e5940af5888bf64e3bb3396924b3119f2bcdff5272b4428d227ebc17fb11d",
+      "retrievedAt": "2026-11-12T18:02:16.891Z"
+    },
+    {
+      "countryCode": "NR",
+      "url": "https://download.geonames.org/export/dump/NR.zip",
+      "license": "CC BY 4.0",
+      "bytes": 14893,
+      "sha256": "e9cee23fff923acb966767cd11df3c91c72bc241c290cbfe8dc1cb5e1a57a187",
+      "retrievedAt": "2026-11-12T18:02:16.755Z"
+    },
+    {
+      "countryCode": "NP",
+      "url": "https://download.geonames.org/export/dump/NP.zip",
+      "license": "CC BY 4.0",
+      "bytes": 3459538,
+      "sha256": "cd1bce385fbe4ee2a056f560c5fccf66ef61b6210580e347a8662e4d989761d5",
+      "retrievedAt": "2026-11-12T18:02:17.848Z"
+    },
+    {
+      "countryCode": "NC",
+      "url": "https://download.geonames.org/export/dump/NC.zip",
+      "license": "CC BY 4.0",
+      "bytes": 144402,
+      "sha256": "d5c856d1d1186a06e1357935e92dbc95eb214d6fca0e86335066c532ae760253",
+      "retrievedAt": "2026-11-12T18:02:17.152Z"
+    },
+    {
+      "countryCode": "NZ",
+      "url": "https://download.geonames.org/export/dump/NZ.zip",
+      "license": "CC BY 4.0",
+      "bytes": 1434853,
+      "sha256": "569f3daeba6d5818ebdaee286d33ce0c670e647adccb42d3656fb4f29c887c86",
+      "retrievedAt": "2026-11-12T18:02:17.877Z"
+    },
+    {
+      "countryCode": "NI",
+      "url": "https://download.geonames.org/export/dump/NI.zip",
+      "license": "CC BY 4.0",
+      "bytes": 234882,
+      "sha256": "823155d25023acd0dc44a443ee2bbaefbd7b9365f95f65e2202a137acd13326a",
+      "retrievedAt": "2026-11-12T18:02:17.657Z"
+    },
+    {
+      "countryCode": "NE",
+      "url": "https://download.geonames.org/export/dump/NE.zip",
+      "license": "CC BY 4.0",
+      "bytes": 641180,
+      "sha256": "5415816e2048fcd6720d870ce7579f51aa94a5715f162f2a60a35eac582562d4",
+      "retrievedAt": "2026-11-12T18:02:18.219Z"
+    },
+    {
+      "countryCode": "NG",
+      "url": "https://download.geonames.org/export/dump/NG.zip",
+      "license": "CC BY 4.0",
+      "bytes": 1957820,
+      "sha256": "d65590dfd4013b581338cdf2cf746a9e99381873ce5cdbdad10685c9b272c968",
+      "retrievedAt": "2026-11-12T18:02:19.367Z"
+    },
+    {
+      "countryCode": "NU",
+      "url": "https://download.geonames.org/export/dump/NU.zip",
+      "license": "CC BY 4.0",
+      "bytes": 12176,
+      "sha256": "3aa12d9b119390da98ba90bcfd3a707cc8cb6df967bce4f0ba1e8380befcce83",
+      "retrievedAt": "2026-11-12T18:02:18.593Z"
+    },
+    {
+      "countryCode": "NF",
+      "url": "https://download.geonames.org/export/dump/NF.zip",
+      "license": "CC BY 4.0",
+      "bytes": 8696,
+      "sha256": "c9f83c45ab18afddee8137616d0fabd71ee310b4cd16bf5c20d0eef60b1e2ba4",
+      "retrievedAt": "2026-11-12T18:02:18.752Z"
+    },
+    {
+      "countryCode": "KP",
+      "url": "https://download.geonames.org/export/dump/KP.zip",
+      "license": "CC BY 4.0",
+      "bytes": 2589904,
+      "sha256": "fb8d89ffcc7bbe059edbc6930540f882b4583fca76256a180853870563d67ebd",
+      "retrievedAt": "2026-11-12T18:02:19.649Z"
+    },
+    {
+      "countryCode": "MK",
+      "url": "https://download.geonames.org/export/dump/MK.zip",
+      "license": "CC BY 4.0",
+      "bytes": 926931,
+      "sha256": "8645aa1beff6a4d6243373ea690fcf6a842bd9598f04af837a328cfdc48e82d3",
+      "retrievedAt": "2026-11-12T18:02:19.400Z"
+    },
+    {
+      "countryCode": "MP",
+      "url": "https://download.geonames.org/export/dump/MP.zip",
+      "license": "CC BY 4.0",
+      "bytes": 46681,
+      "sha256": "b41b6e049506e6630e56aecf2cae66dc55006b48c1bdc64db25a8a2a4ffdddfe",
+      "retrievedAt": "2026-11-12T18:02:19.956Z"
+    },
+    {
+      "countryCode": "NO",
+      "url": "https://download.geonames.org/export/dump/NO.zip",
+      "license": "CC BY 4.0",
+      "bytes": 15772224,
+      "sha256": "10eb7f82a8395eea9a297b5a367ea2587f94842d05c85edb98647a45f0be5307",
+      "retrievedAt": "2026-11-12T18:02:21.933Z"
+    },
+    {
+      "countryCode": "OM",
+      "url": "https://download.geonames.org/export/dump/OM.zip",
+      "license": "CC BY 4.0",
+      "bytes": 587840,
+      "sha256": "d3146babd9bb0a506ec1bf2df7bdc80370c5a031ae3a3fec0c54fc1d44a0916c",
+      "retrievedAt": "2026-11-12T18:02:20.286Z"
+    },
+    {
+      "countryCode": "PN",
+      "url": "https://download.geonames.org/export/dump/PN.zip",
+      "license": "CC BY 4.0",
+      "bytes": 7586,
+      "sha256": "35f36836af13f2ae39613d74551633eb0f0a38986997f83406fc0e72f34ab997",
+      "retrievedAt": "2026-11-13T04:26:22.202Z"
+    },
+    {
+      "countryCode": "RE",
+      "url": "https://download.geonames.org/export/dump/RE.zip",
+      "license": "CC BY 4.0",
+      "bytes": 68388,
+      "sha256": "2be5838787b69da91fc884ec189a2e1e4ac61eaaba3ce0b82ff07aebdbe27aa7",
+      "retrievedAt": "2026-11-13T04:26:23.283Z"
+    },
+    {
+      "countryCode": "BL",
+      "url": "https://download.geonames.org/export/dump/BL.zip",
+      "license": "CC BY 4.0",
+      "bytes": 10803,
+      "sha256": "55119b1eeb93258f593fe044136e34f66bb27570a731b9e67e4de1ce8167c564",
+      "retrievedAt": "2026-11-13T04:26:22.760Z"
+    },
+    {
+      "countryCode": "LC",
+      "url": "https://download.geonames.org/export/dump/LC.zip",
+      "license": "CC BY 4.0",
+      "bytes": 53682,
+      "sha256": "3c3beb910af20f7871f487736b0c0b368e37d4a12f2079c5f12c6ed45fb107e8",
+      "retrievedAt": "2026-11-13T04:26:22.895Z"
+    },
+    {
+      "countryCode": "SX",
+      "url": "https://download.geonames.org/export/dump/SX.zip",
+      "license": "CC BY 4.0",
+      "bytes": 12831,
+      "sha256": "afbbdead15c2eb1992bf6c14128789d916bab18a10c5087cccf0a4eb200540e1",
+      "retrievedAt": "2026-11-13T04:26:23.186Z"
+    },
+    {
+      "countryCode": "TC",
+      "url": "https://download.geonames.org/export/dump/TC.zip",
+      "license": "CC BY 4.0",
+      "bytes": 24347,
+      "sha256": "d782d37351cb31b509018171dcc24d1489e0006fb439f73a87507b8800570d3a",
+      "retrievedAt": "2026-11-13T04:26:23.255Z"
+    },
+    {
+      "countryCode": "TV",
+      "url": "https://download.geonames.org/export/dump/TV.zip",
+      "license": "CC BY 4.0",
+      "bytes": 18754,
+      "sha256": "85e2c5918c49c87cb743607601b376820e5d7b5c79eefef98e42cf64762f16fd",
+      "retrievedAt": "2026-11-13T04:26:23.598Z"
+    },
+    {
+      "countryCode": "UA",
+      "url": "https://download.geonames.org/export/dump/UA.zip",
+      "license": "CC BY 4.0",
+      "bytes": 2395636,
+      "sha256": "20d7a286abddc94bfa5b8c4873aab29cba78ecab034f8674f7a9e111c5dd81e6",
+      "retrievedAt": "2026-11-13T04:26:25.100Z"
+    },
+    {
+      "countryCode": "UM",
+      "url": "https://download.geonames.org/export/dump/UM.zip",
+      "license": "CC BY 4.0",
+      "bytes": 21124,
+      "sha256": "3f5cc0ec3684baa812bd38e92ebd094b1f8119ed4f85e1724d553723f2aa8eb0",
+      "retrievedAt": "2026-11-13T04:26:23.714Z"
+    },
+    {
+      "countryCode": "WF",
+      "url": "https://download.geonames.org/export/dump/WF.zip",
+      "license": "CC BY 4.0",
+      "bytes": 23568,
+      "sha256": "807f0834237fd6e939b9358dc835e1099b045b05329bb939818f0cd4438bfaf8",
+      "retrievedAt": "2026-11-13T04:26:24.007Z"
+    }
+  ],
+  "photographs": "Individual file source URLs, authors, licenses and matching methods are retained in shared/place-images.json. Newly matched photographs are screened by metadata and a visual sample; this does not constitute visual review of every file.",
+  "overture": "See overture-provenance.json and the bundled public/licenses/overture-places.txt. Raw query results and the local analytical database remain in ignored data/sources/world-expansion/.",
+  "mapSources": "OpenStreetMap contributors, ODbL 1.0. Country imports were limited by public-server availability; individual feature URLs remain in shared/map-places.json."
+}

@@ -1,0 +1,1213 @@
+{
+  "retrievedAt": "2026-11-14T01:06:11.234Z",
+  "searchTerms": "Sun Plaza Sapa",
+  "batchcomplete": true,
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": [
+      {
+        "pageid": 95436951,
+        "ns": 6,
+        "title": "File:El padre del hijo de mi mujer - despropósito cómico en un acto y en prosa (IA elpadredelhijode00calv).pdf",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1872076,
+            "width": 633,
+            "height": 1083,
+            "pagecount": 32,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/El_padre_del_hijo_de_mi_mujer_-_desprop%C3%B3sito_c%C3%B3mico_en_un_acto_y_en_prosa_%28IA_elpadredelhijode00calv%29.pdf/page1-500px-El_padre_del_hijo_de_mi_mujer_-_desprop%C3%B3sito_c%C3%B3mico_en_un_acto_y_en_prosa_%28IA_elpadredelhijode00calv%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1369,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/El_padre_del_hijo_de_mi_mujer_-_desprop%C3%B3sito_c%C3%B3mico_en_un_acto_y_en_prosa_%28IA_elpadredelhijode00calv%29.pdf/page1-500px-El_padre_del_hijo_de_mi_mujer_-_desprop%C3%B3sito_c%C3%B3mico_en_un_acto_y_en_prosa_%28IA_elpadredelhijode00calv%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1369
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/El_padre_del_hijo_de_mi_mujer_-_desprop%C3%B3sito_c%C3%B3mico_en_un_acto_y_en_prosa_%28IA_elpadredelhijode00calv%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:El_padre_del_hijo_de_mi_mujer_-_desprop%C3%B3sito_c%C3%B3mico_en_un_acto_y_en_prosa_(IA_elpadredelhijode00calv).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95436951",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-10-25 06:12:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nEl padre del hijo de mi mujer : despropósito cómico en un acto y en prosa</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Scans from the University of North Carolina at Chapel Hill|1858 books from Madrid|PD-US missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nCalvacho, Carlos, 1834-1885</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>On cover: El Museo Literario</dd>\n<dd>No. 29, in vol. 92 with binder's title: Teatro Español : serie A</dd></dl>\n<br>Subjects:</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/elpadredelhijode00calv\" class=\"extiw\" title=\"iarchive:elpadredelhijode00calv\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> elpadredelhijode00calv</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/elpadredelhijode00calv/elpadredelhijode00calv.pdf\">https://archive.org/download/elpadredelhijode00calv/elpadredelhijode00calv.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 108578182,
+        "ns": 6,
+        "title": "File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 78 (1897) (IA IlFriuli-78 1897).pdf",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1370668,
+            "width": 1514,
+            "height": 2077,
+            "pagecount": 4,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._78_%281897%29_%28IA_IlFriuli-78_1897%29.pdf/page1-960px-Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._78_%281897%29_%28IA_IlFriuli-78_1897%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1097,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._78_%281897%29_%28IA_IlFriuli-78_1897%29.pdf/page1-1280px-Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._78_%281897%29_%28IA_IlFriuli-78_1897%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._78_%281897%29_%28IA_IlFriuli-78_1897%29.pdf/page1-960px-Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._78_%281897%29_%28IA_IlFriuli-78_1897%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1097,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._78_%281897%29_%28IA_IlFriuli-78_1897%29.pdf/page1-1280px-Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._78_%281897%29_%28IA_IlFriuli-78_1897%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._78_%281897%29_%28IA_IlFriuli-78_1897%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._78_(1897)_(IA_IlFriuli-78_1897).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108578182",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-08-15 03:25:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nIl Friuli _ giornale politico-amministrativo-letterario-commerciale n. 78  (1897)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Author died more than 70 years ago public domain images|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|PD-old missing SDC copyright status|Il Friuli",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nIl Friuli</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>Il Friuli  - giornale politico-amministrativo-letterario-commerciale\n</p>\n<br>Subjects: Friuli; Periodico;</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/IlFriuli-78_1897\" class=\"extiw\" title=\"iarchive:IlFriuli-78 1897\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> IlFriuli-78_1897</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/IlFriuli-78_1897/Il%20Friuli%20_%20giornale%20politico-amministrativo-letterario-commerciale%20n.%2078%20%20%281897%29.pdf\">https://archive.org/download/IlFriuli-78_1897/Il%20Friuli%20_%20giornale%20politico-amministrativo-letterario-commerciale%20n.%2078%20%20%281897%29.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 108631332,
+        "ns": 6,
+        "title": "File:Il Friuli giornale politico-amministrativo-letterario-commerciale n. 232 (1892) (IA IlFriuli 232 1892).pdf",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3672862,
+            "width": 1452,
+            "height": 2068,
+            "pagecount": 4,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._232_%281892%29_%28IA_IlFriuli_232_1892%29.pdf/page1-960px-Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._232_%281892%29_%28IA_IlFriuli_232_1892%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1139,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._232_%281892%29_%28IA_IlFriuli_232_1892%29.pdf/page1-1280px-Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._232_%281892%29_%28IA_IlFriuli_232_1892%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._232_%281892%29_%28IA_IlFriuli_232_1892%29.pdf/page1-960px-Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._232_%281892%29_%28IA_IlFriuli_232_1892%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1139,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._232_%281892%29_%28IA_IlFriuli_232_1892%29.pdf/page1-1280px-Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._232_%281892%29_%28IA_IlFriuli_232_1892%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._232_%281892%29_%28IA_IlFriuli_232_1892%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._232_(1892)_(IA_IlFriuli_232_1892).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108631332",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-08-15 17:32:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nIl Friuli _ giornale politico-amministrativo-letterario-commerciale n. 232 (1892)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Author died more than 70 years ago public domain images|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|PD-old missing SDC copyright status|Il Friuli",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nIl Friuli</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>Il Friuli  - giornale politico-amministrativo-letterario-commerciale\n</p>\n<br>Subjects: Friuli; Periodico;</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/IlFriuli_232_1892\" class=\"extiw\" title=\"iarchive:IlFriuli 232 1892\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> IlFriuli_232_1892</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/IlFriuli_232_1892/Il%20Friuli%20_%20giornale%20politico-amministrativo-letterario-commerciale%20n.%20232%20%281892%29.pdf\">https://archive.org/download/IlFriuli_232_1892/Il%20Friuli%20_%20giornale%20politico-amministrativo-letterario-commerciale%20n.%20232%20%281892%29.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 133908826,
+        "ns": 6,
+        "title": "File:Screenland 1925-11.pdf",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 21371003,
+            "width": 5697,
+            "height": 7906,
+            "pagecount": 88,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Screenland_1925-11.pdf/page1-960px-Screenland_1925-11.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1110,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Screenland_1925-11.pdf/page1-1920px-Screenland_1925-11.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Screenland_1925-11.pdf/page1-960px-Screenland_1925-11.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1110,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Screenland_1925-11.pdf/page1-1920px-Screenland_1925-11.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Screenland_1925-11.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Screenland_1925-11.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133908826",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-07-03 16:47:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Screenland 1925-11",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US expired|Screenland, 1925|Uploads by User:ReneeWrites|Screenland PDF files",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Screenland, November, 1925",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1925-11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/Screenland-1925-11-Vol-12-No-1\">The Internet Archive</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Various",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 137588796,
+        "ns": 6,
+        "title": "File:Ollanta An Ancient Ynca Drama.pdf",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2573429,
+            "width": 783,
+            "height": 1125,
+            "pagecount": 140,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Ollanta_An_Ancient_Ynca_Drama.pdf/page1-500px-Ollanta_An_Ancient_Ynca_Drama.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1149,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Ollanta_An_Ancient_Ynca_Drama.pdf/page1-500px-Ollanta_An_Ancient_Ynca_Drama.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1149
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ollanta_An_Ancient_Ynca_Drama.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ollanta_An_Ancient_Ynca_Drama.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137588796",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-09-14 16:36:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ollanta An Ancient Ynca Drama",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-70-expired|Ollantay (play)|Quechua-language works|CC-PD-Mark|Books by Clements Markham|Translations from Quechua",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Scan of \"Ollanta: An Ancient Ynca Drama,\" published by Trübner &amp; Company (London) in 1871.  Quechua transcription and English translation by Clements R. Markham.  Play is also known as \"Ollantay.\"",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1871",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.google.com/books/edition/Ollanta/Wk9KAAAAcAAJ\">https://www.google.com/books/edition/Ollanta/Wk9KAAAAcAAJ</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Markham, Clements Robert",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 194739981,
+        "ns": 6,
+        "title": "File:Diverse memorie ed osservazioni chimiche e fisiologiche sull'Ipecacuana sopra i di Lei succedanei e sopra alcune nuove sue preparazioni (IA diversememoriee00dibn).pdf",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 49046375,
+            "width": 2739,
+            "height": 3908,
+            "pagecount": 88,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Diverse_memorie_ed_osservazioni_chimiche_e_fisiologiche_sull%27Ipecacuana_sopra_i_di_Lei_succedanei_e_sopra_alcune_nuove_sue_preparazioni_%28IA_diversememoriee00dibn%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1141,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Diverse_memorie_ed_osservazioni_chimiche_e_fisiologiche_sull%27Ipecacuana_sopra_i_di_Lei_succedanei_e_sopra_alcune_nuove_sue_preparazioni_%28IA_diversememoriee00dibn%29.pdf/page1-1920px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Diverse_memorie_ed_osservazioni_chimiche_e_fisiologiche_sull%27Ipecacuana_sopra_i_di_Lei_succedanei_e_sopra_alcune_nuove_sue_preparazioni_%28IA_diversememoriee00dibn%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1141,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Diverse_memorie_ed_osservazioni_chimiche_e_fisiologiche_sull%27Ipecacuana_sopra_i_di_Lei_succedanei_e_sopra_alcune_nuove_sue_preparazioni_%28IA_diversememoriee00dibn%29.pdf/page1-1920px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Diverse_memorie_ed_osservazioni_chimiche_e_fisiologiche_sull%27Ipecacuana_sopra_i_di_Lei_succedanei_e_sopra_alcune_nuove_sue_preparazioni_%28IA_diversememoriee00dibn%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Diverse_memorie_ed_osservazioni_chimiche_e_fisiologiche_sull%27Ipecacuana_sopra_i_di_Lei_succedanei_e_sopra_alcune_nuove_sue_preparazioni_(IA_diversememoriee00dibn).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194739981",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-06-28 15:46:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nDiverse memorie ed osservazioni chimiche e fisiologiche sull'Ipecacuana sopra i di Lei succedanei e sopra alcune nuove sue preparazioni</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|PD-old missing SDC copyright status|Books at the Smithsonian Institution Libraries",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nDibner, Bern</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>79 pages ; 23 cm</dd>\n<dd>Articles and notes on ipecac, its substitutes, and new preparations for it, published in the B̲u̲l̲l̲e̲t̲i̲n̲ and the J̲o̲u̲r̲n̲a̲l̲ d̲e̲ P̲h̲a̲r̲m̲a̲c̲i̲e̲ of Paris between 1809 and 1817 ; translated into Italian by G.F.[?]. Authors include P.A. Masson-Tour, T.L.A. Loiseleur Deslongchamps, and Vittore Poadein</dd>\n<dd>Gift; Bern Dibner</dd></dl>\n<br>Subjects: Drugs; Research; Ipecac; Pharmacy; Science; History; Technology; Drugs -- Research; Pharmacy -- Research; Science -- History; Technology -- History</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/diversememoriee00dibn\" class=\"extiw\" title=\"iarchive:diversememoriee00dibn\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> diversememoriee00dibn</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/diversememoriee00dibn/diversememoriee00dibn.pdf\">https://archive.org/download/diversememoriee00dibn/diversememoriee00dibn.pdf</a></dd></dl>\n<ul><li>IA digitizing sponsor: Smithsonian Libraries</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 195788863,
+        "ns": 6,
+        "title": "File:Mundial No. 321.pdf",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 76439947,
+            "width": 1383,
+            "height": 1972,
+            "pagecount": 60,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Mundial_No._321.pdf/page1-960px-Mundial_No._321.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1141,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Mundial_No._321.pdf/page1-1280px-Mundial_No._321.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Mundial_No._321.pdf/page1-960px-Mundial_No._321.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1141,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Mundial_No._321.pdf/page1-1280px-Mundial_No._321.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Mundial_No._321.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mundial_No._321.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195788863",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-17 04:33:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mundial No. 321",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US|PD-Peru-organization|PD-US missing SDC copyright status|Files from UNMSM|Issues of Mundial, 1926",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "(1.326.pdf)<br><br><b>Resumen:</b><br>Publicación periódica de 1926, que contiene artículos de variedad, realidad nacional y cultura",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1926-08-06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "CEDOC UNMSM",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Aramburú Salinas, Andrés Avelino, dir. (Director).",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 199224718,
+        "ns": 6,
+        "title": "File:Libro 0026. Cuentas de la administración de los bienes del Real Seminario de San Telmo. Años 1728-1729 (IA AHUSLibro0026).pdf",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 44880045,
+            "width": 1368,
+            "height": 1997,
+            "pagecount": 485,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Libro_0026._Cuentas_de_la_administraci%C3%B3n_de_los_bienes_del_Real_Seminario_de_San_Telmo._A%C3%B1os_1728-1729_%28IA_AHUSLibro0026%29.pdf/page1-960px-Libro_0026._Cuentas_de_la_administraci%C3%B3n_de_los_bienes_del_Real_Seminario_de_San_Telmo._A%C3%B1os_1728-1729_%28IA_AHUSLibro0026%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1168,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Libro_0026._Cuentas_de_la_administraci%C3%B3n_de_los_bienes_del_Real_Seminario_de_San_Telmo._A%C3%B1os_1728-1729_%28IA_AHUSLibro0026%29.pdf/page1-1280px-Libro_0026._Cuentas_de_la_administraci%C3%B3n_de_los_bienes_del_Real_Seminario_de_San_Telmo._A%C3%B1os_1728-1729_%28IA_AHUSLibro0026%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Libro_0026._Cuentas_de_la_administraci%C3%B3n_de_los_bienes_del_Real_Seminario_de_San_Telmo._A%C3%B1os_1728-1729_%28IA_AHUSLibro0026%29.pdf/page1-960px-Libro_0026._Cuentas_de_la_administraci%C3%B3n_de_los_bienes_del_Real_Seminario_de_San_Telmo._A%C3%B1os_1728-1729_%28IA_AHUSLibro0026%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1168,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Libro_0026._Cuentas_de_la_administraci%C3%B3n_de_los_bienes_del_Real_Seminario_de_San_Telmo._A%C3%B1os_1728-1729_%28IA_AHUSLibro0026%29.pdf/page1-1280px-Libro_0026._Cuentas_de_la_administraci%C3%B3n_de_los_bienes_del_Real_Seminario_de_San_Telmo._A%C3%B1os_1728-1729_%28IA_AHUSLibro0026%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Libro_0026._Cuentas_de_la_administraci%C3%B3n_de_los_bienes_del_Real_Seminario_de_San_Telmo._A%C3%B1os_1728-1729_%28IA_AHUSLibro0026%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Libro_0026._Cuentas_de_la_administraci%C3%B3n_de_los_bienes_del_Real_Seminario_de_San_Telmo._A%C3%B1os_1728-1729_(IA_AHUSLibro0026).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199224718",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-09-09 21:40:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nLibro 0026. Cuentas de la administración de los bienes del Real Seminario de San Telmo. Años 1728-1729</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-70-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|PD-old missing SDC copyright status|Folkscanomy collection",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nGómez Barreda, Francisco</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p class=\"MsoNormal\">Más detalles:</p>\n<p class=\"MsoNormal\">DESCRIPCIÓN:  476 folios</p><p class=\"mw-empty-elt\"></p>\n<p class=\"MsoNormal\">SIGNATURA: AHUS Libro 25</p><p class=\"mw-empty-elt\"></p>\n<p class=\"MsoNormal\">PRODUCTOR:<span>  </span><span style=\"font-size:12pt;line-height:107%;\">Real Colegio Seminario de San Telmo</span></p><p class=\"mw-empty-elt\"></p>\n<p class=\"MsoNormal\">IDENTIFICADOR DE LA INSTITUCIÓN: 41091 AHUS</p><p class=\"mw-empty-elt\"></p>\n<p class=\"MsoNormal\">INSTITUCIÓN ARCHIVÍSTICA: Archivo Histórico de la\nUniversidad de Sevilla (AHUS)</p><p class=\"mw-empty-elt\"></p>\n<p class=\"MsoNormal\"></p><p> </p>\n<p class=\"MsoNormal\">Serie: &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://ahus.us.es/index.php/libros-de-cuentas-real-seminario-san-telmo\">https://ahus.us.es/index.php/libros-de-cuentas-real-seminario-san-telmo</a>\" rel=\"ugc nofollow\"&gt;<a rel=\"nofollow\" class=\"external free\" href=\"https://ahus.us.es/index.php/libros-de-cuentas-real-seminario-san-telmo\">https://ahus.us.es/index.php/libros-de-cuentas-real-seminario-san-telmo</a>&lt;/a&gt;</p><p class=\"mw-empty-elt\"></p>\n<p class=\"MsoNormal\"></p><p> </p>\n<p class=\"MsoNormal\">Unidades de descripción relacionadas: Guía del Archivo\nHistórico Universitario, pág. 158-160.</p><p class=\"mw-empty-elt\"></p>\n<p class=\"MsoNormal\"></p><p> </p>\n<p class=\"MsoNormal\"><u>Registro en el Catálogo del AHUS</u>: </p><p class=\"mw-empty-elt\"></p>&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://ahus.us.es/index.php/ahuslibro0026\">https://ahus.us.es/index.php/ahuslibro0026</a>\" rel=\"ugc nofollow\"&gt;\n<p><a rel=\"nofollow\" class=\"external free\" href=\"https://ahus.us.es/index.php/ahuslibro0026\">https://ahus.us.es/index.php/ahuslibro0026</a>&lt;/a&gt;\n</p>\n<br>Subjects: Cuentas del Colegio de San Telmo; Real Colegio Seminario de San Telmo; Contabilidad del Colegio de San Telmo</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/AHUSLibro0026\" class=\"extiw\" title=\"iarchive:AHUSLibro0026\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> AHUSLibro0026</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/AHUSLibro0026/AHUSLibro0026.pdf\">https://archive.org/download/AHUSLibro0026/AHUSLibro0026.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 199237389,
+        "ns": 6,
+        "title": "File:Libro 0330. Cartas originales de los apoderados en Cádiz del ... Colegio de San Telmo y Universidad de Mareantes. 1761. (IA AHUSLibro0330).pdf",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 29552150,
+            "width": 1335,
+            "height": 1935,
+            "pagecount": 280,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Libro_0330._Cartas_originales_de_los_apoderados_en_C%C3%A1diz_del_..._Colegio_de_San_Telmo_y_Universidad_de_Mareantes._1761._%28IA_AHUSLibro0330%29.pdf/page1-960px-Libro_0330._Cartas_originales_de_los_apoderados_en_C%C3%A1diz_del_..._Colegio_de_San_Telmo_y_Universidad_de_Mareantes._1761._%28IA_AHUSLibro0330%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1160,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Libro_0330._Cartas_originales_de_los_apoderados_en_C%C3%A1diz_del_..._Colegio_de_San_Telmo_y_Universidad_de_Mareantes._1761._%28IA_AHUSLibro0330%29.pdf/page1-1280px-Libro_0330._Cartas_originales_de_los_apoderados_en_C%C3%A1diz_del_..._Colegio_de_San_Telmo_y_Universidad_de_Mareantes._1761._%28IA_AHUSLibro0330%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Libro_0330._Cartas_originales_de_los_apoderados_en_C%C3%A1diz_del_..._Colegio_de_San_Telmo_y_Universidad_de_Mareantes._1761._%28IA_AHUSLibro0330%29.pdf/page1-960px-Libro_0330._Cartas_originales_de_los_apoderados_en_C%C3%A1diz_del_..._Colegio_de_San_Telmo_y_Universidad_de_Mareantes._1761._%28IA_AHUSLibro0330%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1160,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Libro_0330._Cartas_originales_de_los_apoderados_en_C%C3%A1diz_del_..._Colegio_de_San_Telmo_y_Universidad_de_Mareantes._1761._%28IA_AHUSLibro0330%29.pdf/page1-1280px-Libro_0330._Cartas_originales_de_los_apoderados_en_C%C3%A1diz_del_..._Colegio_de_San_Telmo_y_Universidad_de_Mareantes._1761._%28IA_AHUSLibro0330%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Libro_0330._Cartas_originales_de_los_apoderados_en_C%C3%A1diz_del_..._Colegio_de_San_Telmo_y_Universidad_de_Mareantes._1761._%28IA_AHUSLibro0330%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Libro_0330._Cartas_originales_de_los_apoderados_en_C%C3%A1diz_del_..._Colegio_de_San_Telmo_y_Universidad_de_Mareantes._1761._(IA_AHUSLibro0330).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199237389",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-09-10 05:20:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nLibro 0330. Cartas originales de los apoderados en Cádiz del ... Colegio de San Telmo y Universidad de Mareantes. 1761.</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-70-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|PD-old missing SDC copyright status|Folkscanomy collection",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nColegio de San Telmo</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p class=\"MsoNormal\">Más detalles:</p>\n<p class=\"MsoNormal\">DESCRIPCIÓN: 1 unidad de instalación</p><p class=\"MsoNormal\"></p>\n<p class=\"MsoNormal\">SIGNATURA: AHUS Libro 0330<br></p>\n<p class=\"MsoNormal\">PRODUCTOR:<span> \n</span>Universidad de Sevilla</p>\n<p class=\"MsoNormal\">IDENTIFICADOR DE LA INSTITUCIÓN: 41091 AHUS</p>\n<p class=\"MsoNormal\">INSTITUCIÓN ARCHIVÍSTICA: Archivo Histórico de la\nUniversidad de Sevilla (AHUS)</p>\n<p><br>\n</p>\n<p class=\"MsoNormal\"><u>Registro en el Catálogo del AHUS</u>:</p>&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://ahus.us.es/index.php/ahuslibro0330\">https://ahus.us.es/index.php/ahuslibro0330</a>\" rel=\"ugc nofollow\"&gt;<a rel=\"nofollow\" class=\"external free\" href=\"https://ahus.us.es/index.php/ahuslibro0330\">https://ahus.us.es/index.php/ahuslibro0330</a>&lt;/a&gt;\n<br>Subjects: Correspondencia del Colegio de San Telmo; Cartas del Colegio de San Telmo; Real Colegio Seminario de San Telmo</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/AHUSLibro0330\" class=\"extiw\" title=\"iarchive:AHUSLibro0330\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> AHUSLibro0330</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/AHUSLibro0330/AHUSLibro0330.pdf\">https://archive.org/download/AHUSLibro0330/AHUSLibro0330.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 199729406,
+        "ns": 6,
+        "title": "File:Manoscritto n. P MSS 1282 Fondo Principale (Biblioteca 'Joppi' - Udine) (IA P MSS 1282).pdf",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5920510,
+            "width": 1454,
+            "height": 2058,
+            "pagecount": 215,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Manoscritto_n._P_MSS_1282_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1282%29.pdf/page1-960px-Manoscritto_n._P_MSS_1282_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1282%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1132,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Manoscritto_n._P_MSS_1282_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1282%29.pdf/page1-1280px-Manoscritto_n._P_MSS_1282_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1282%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Manoscritto_n._P_MSS_1282_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1282%29.pdf/page1-960px-Manoscritto_n._P_MSS_1282_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1282%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1132,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Manoscritto_n._P_MSS_1282_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1282%29.pdf/page1-1280px-Manoscritto_n._P_MSS_1282_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1282%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Manoscritto_n._P_MSS_1282_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1282%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Manoscritto_n._P_MSS_1282_Fondo_Principale_(Biblioteca_%27Joppi%27_-_Udine)_(IA_P_MSS_1282).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199729406",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-09-18 08:25:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nManoscritto n. P_MSS_1282 Fondo Principale (Biblioteca 'Joppi' - Udine)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-70-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|PD-old missing SDC copyright status|Folkscanomy collection",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nBiblioteca Civica 'Joppi' Udine</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>Biblioteca Civica 'Vincenzo Joppi' Udine\nInventario dei manoscritti del Fondo Principale\n</p><p>1282 Atti degli istromenti, istromenti, lasciti e argomenti delle Scuole di Palma - Volume rilegato in tavolette in cuoio lavorato, di 25 1/2x17, di pagine 101. Riformano agli anni 1639-1669.\n</p><p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.techeudine.it/manoscritti\">https://www.techeudine.it/manoscritti</a>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://www.techeudine.it/fondo-principale\">https://www.techeudine.it/fondo-principale</a>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/inventario-del-fondo-principale/Inventario%20del%20Fondo%20Principale/\">https://archive.org/details/inventario-del-fondo-principale/Inventario%20del%20Fondo%20Principale/</a>\n</p>\n<br>Subjects: Fondo Principale; Biblioteca Civica 'Joppi' Udine; Manoscritti; Techeudine</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/P_MSS_1282\" class=\"extiw\" title=\"iarchive:P MSS 1282\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> P_MSS_1282</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/P_MSS_1282/P_MSS_1282.pdf\">https://archive.org/download/P_MSS_1282/P_MSS_1282.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 199736479,
+        "ns": 6,
+        "title": "File:Manoscritto n. P MSS 1514 Fondo Principale (Biblioteca 'Joppi' - Udine) (IA P MSS 1514).pdf",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 21227318,
+            "width": 1454,
+            "height": 2058,
+            "pagecount": 1149,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Manoscritto_n._P_MSS_1514_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1514%29.pdf/page1-960px-Manoscritto_n._P_MSS_1514_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1514%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1132,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Manoscritto_n._P_MSS_1514_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1514%29.pdf/page1-1280px-Manoscritto_n._P_MSS_1514_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1514%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Manoscritto_n._P_MSS_1514_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1514%29.pdf/page1-960px-Manoscritto_n._P_MSS_1514_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1514%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1132,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Manoscritto_n._P_MSS_1514_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1514%29.pdf/page1-1280px-Manoscritto_n._P_MSS_1514_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1514%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Manoscritto_n._P_MSS_1514_Fondo_Principale_%28Biblioteca_%27Joppi%27_-_Udine%29_%28IA_P_MSS_1514%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Manoscritto_n._P_MSS_1514_Fondo_Principale_(Biblioteca_%27Joppi%27_-_Udine)_(IA_P_MSS_1514).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199736479",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-09-18 10:55:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nManoscritto n. P_MSS_1514 Fondo Principale (Biblioteca 'Joppi' - Udine)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-70-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|PD-old missing SDC copyright status|Folkscanomy collection",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nBiblioteca Civica 'Joppi' Udine</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>Biblioteca Civica 'Vincenzo Joppi' Udine\nInventario dei manoscritti del Fondo Principale\n</p><p>1514 Accademia d'Udine - Cartolare contenente 25 fascicoli di lettere di prose e di versi letti all'Accademia dal 1770 al 1818; e altre poche carte meno notevoli. - *cartaceo, 1*\n</p><p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.techeudine.it/manoscritti\">https://www.techeudine.it/manoscritti</a>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://www.techeudine.it/fondo-principale\">https://www.techeudine.it/fondo-principale</a>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/inventario-del-fondo-principale/Inventario%20del%20Fondo%20Principale/\">https://archive.org/details/inventario-del-fondo-principale/Inventario%20del%20Fondo%20Principale/</a>\n</p>\n<br>Subjects: Fondo Principale; Biblioteca Civica 'Joppi' Udine; Manoscritti; Techeudine; Corrispondenza; Poesia; Documenti d'archivio</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/P_MSS_1514\" class=\"extiw\" title=\"iarchive:P MSS 1514\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> P_MSS_1514</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/P_MSS_1514/P_MSS_1514.pdf\">https://archive.org/download/P_MSS_1514/P_MSS_1514.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 201719373,
+        "ns": 6,
+        "title": "File:Ekonomi politik (IA ekonomipolitik00ahme).pdf",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7751196,
+            "width": 606,
+            "height": 968,
+            "pagecount": 282,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Ekonomi_politik_%28IA_ekonomipolitik00ahme%29.pdf/page1-500px-Ekonomi_politik_%28IA_ekonomipolitik00ahme%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1278,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Ekonomi_politik_%28IA_ekonomipolitik00ahme%29.pdf/page1-500px-Ekonomi_politik_%28IA_ekonomipolitik00ahme%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1278
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ekonomi_politik_%28IA_ekonomipolitik00ahme%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ekonomi_politik_(IA_ekonomipolitik00ahme).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=201719373",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-10-14 05:07:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nEkonomi politik</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|Scans from University of Toronto|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nAhmet Mithat, 1844-1912</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>52\n</p>\n<br>Subjects: Economics</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/ekonomipolitik00ahme\" class=\"extiw\" title=\"iarchive:ekonomipolitik00ahme\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> ekonomipolitik00ahme</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/ekonomipolitik00ahme/ekonomipolitik00ahme.pdf\">https://archive.org/download/ekonomipolitik00ahme/ekonomipolitik00ahme.pdf</a></dd></dl>\n<ul><li>IA contributor: Robarts - University of Toronto</li>\n<li>IA digitizing sponsor: University of Toronto</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      }
+    ]
+  }
+}

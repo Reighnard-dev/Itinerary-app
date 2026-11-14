@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-11-13T04:44:56.113Z",
+  "endpoint": "https://qlever.dev/api/wikidata",
+  "source": "Wikidata",
+  "license": "CC0 1.0",
+  "citiesChecked": 0,
+  "requestedCities": 27,
+  "landmarks": 1010,
+  "matching": "Exact GeoNames city identifier (P1566), administrative containment (P131), geographic coordinates (P625) within 20 km, and explicit attraction/place type. English labels preferred with language fallback.",
+  "note": "The main public query endpoint returned a gateway error. The QLever mirror is listed by Wikidata as an alternative endpoint. Individual records link to Wikidata."
+}

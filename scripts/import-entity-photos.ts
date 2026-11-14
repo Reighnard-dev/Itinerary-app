@@ -26,7 +26,7 @@ for(const [q,places] of groups){try{
 }catch{}checked++;if(checked%25===0)console.log(`Checked ${checked}/${groups.size} identities · ${candidates.length} additional photographic candidates`);}
 const files=[...new Set(candidates.map(c=>c.file))];const info=new Map<string,NonNullable<ReturnType<typeof commonsPhoto>>>();
 for(let i=0;i<files.length;i+=30){const batch=files.slice(i,i+30);try{
- const params={action:'query',titles:batch.map(f=>`File:${f}`).join('|'),prop:'imageinfo',iiprop:'url|mime|size|extmetadata',iiurlwidth:'640',iiextmetadatafilter:'Artist|Credit|LicenseShortName|LicenseUrl|UsageTerms|Categories'};
+ const params={action:'query',titles:batch.map(f=>`File:${f}`).join('|'),prop:'imageinfo',iiprop:'url|mime|size|extmetadata',iiurlwidth:'640',iiextmetadatafilter:'Artist|Credit|LicenseShortName|LicenseUrl|UsageTerms|Categories|Restrictions|Attribution|Copyright|DateTimeOriginal|ImageDescription'};
  const cache=`data/sources/photos/entities/meta-${createHash('sha256').update(JSON.stringify(params)).digest('hex')}.json`;
  const data=existsSync(cache)?JSON.parse(readFileSync(cache,'utf8')):await wikiRequest<{query?:{pages:CommonsImage[]}}>('commons.wikimedia.org',params);if(!existsSync(cache))writeFileSync(cache,JSON.stringify(data));
  for(const page of data.query?.pages||[]){const photo=commonsPhoto(page,'Exact place identity linked by the travel guide');if(photo)info.set(normalName(page.title.replace(/^File:/,'')),photo);}

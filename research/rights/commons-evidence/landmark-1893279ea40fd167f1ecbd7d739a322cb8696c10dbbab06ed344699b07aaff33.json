@@ -1,0 +1,132 @@
+{
+  "retrievedAt": "2026-11-14T01:39:20.885Z",
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 41603,
+        "ns": 6,
+        "title": "File:VaticanMuseumStaircase.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 638781,
+            "width": 3039,
+            "height": 2000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/VaticanMuseumStaircase.jpg/960px-VaticanMuseumStaircase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 526,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/VaticanMuseumStaircase.jpg/1920px-VaticanMuseumStaircase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/VaticanMuseumStaircase.jpg/960px-VaticanMuseumStaircase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 526,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/VaticanMuseumStaircase.jpg/1920px-VaticanMuseumStaircase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/VaticanMuseumStaircase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:VaticanMuseumStaircase.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41603",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2005-01-12 15:11:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "VaticanMuseumStaircase",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Minolta 9000|Gray|Self-published work|Andreas Tille|Formerly featured pictures on Wikimedia Commons|Featured pictures on Wikipedia, Azeri|Featured pictures on Wikipedia, Turkish|Files with coordinates missing SDC location of creation|Taken on Fuji Velvia|Walking people in Vatican|Spiral exit staircase by Giuseppe Momo (Vatican Museums)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "valued|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "41.906506",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "12.453611",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Staircase\" class=\"mw-redirect\" title=\"Staircase\">Staircase</a> in <a href=\"//commons.wikimedia.org/wiki/Vatican\" class=\"mw-redirect\" title=\"Vatican\">Vatican</a> Museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "22 May 2004 11:00–12:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tillea\" title=\"User:Tillea\">Andreas Tille</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

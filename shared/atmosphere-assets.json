@@ -1,0 +1,56 @@
+[
+  {
+    "key": "mountain",
+    "url": "/images/atmosphere/mountain.jpg",
+    "sha256": "d492bd5e390faa8ef7a6099278b3019ad0e03a09dc5999cd254937ef38888175",
+    "provenance": "Generated for Roam using the built-in image-generation tool",
+    "prompt": "Use case: photorealistic-natural. Asset type: wide travel-app card atmosphere image. Create a photorealistic editorial landscape: layered green mountain ridges and a deep valley in misty early morning, subtropical highlands, naturally imperfect foliage and stone, soft warm light breaking through clouds. Wide 3:2 composition, real camera texture, restrained natural color grading, crisp foreground with atmospheric distance. This is a fictional scenic mood image, not a reconstruction of any named landmark. No people, buildings, distinctive copyrighted artworks, logos, lettering, watermark, illustration, painting or CGI styling.",
+    "generatedAt": "2026-11-13T14:28:13.591Z",
+    "disclosure": "AI-generated atmosphere; fictional scene, not a photograph of the named place"
+  },
+  {
+    "key": "terraces",
+    "url": "/images/atmosphere/terraces.jpg",
+    "sha256": "0f996c4b268364a880f0bac4a580593935f79b17f53c13108f9016cbd7d252b3",
+    "provenance": "Generated for Roam using the built-in image-generation tool",
+    "prompt": "Use case: photorealistic-natural. Asset type: wide travel-app card atmosphere image. Create a photorealistic editorial travel photograph: A lush highland valley with sweeping rice terraces curving around the slopes, tiny unbranded rural timber houses far in the distance, warm late-afternoon sun, natural emerald and golden foliage, humid atmospheric depth. Fictional northern Southeast Asian highland atmosphere, not a depiction of a named village. Wide 3:2 composition, real camera textures, tactile details, restrained natural color grading. Original fictional scenic mood image, not a reconstruction of any named landmark. No logos, lettering, watermarks, artwork, illustration, painting or CGI styling.",
+    "generatedAt": "2026-11-13T14:28:13.594Z",
+    "disclosure": "AI-generated atmosphere; fictional scene, not a photograph of the named place"
+  },
+  {
+    "key": "forest",
+    "url": "/images/atmosphere/forest.jpg",
+    "sha256": "2fe4824016e62bc70b2be36d9b658dc4b5231edb94c7bec36a09d08a8f90e1e4",
+    "provenance": "Generated for Roam using the built-in image-generation tool",
+    "prompt": "Use case: photorealistic-natural. Asset type: wide travel-app card atmosphere image. Create a photorealistic editorial travel photograph: A quiet woodland walking trail winding between mature broadleaf trees, mossy stones and dappled morning sun, natural imperfect leaves, no people or identifiable structures. Fictional temperate forest atmosphere. Wide 3:2 composition, real camera textures, tactile details, restrained natural color grading. Original fictional scenic mood image, not a reconstruction of any named landmark. No logos, lettering, watermarks, artwork, illustration, painting or CGI styling.",
+    "generatedAt": "2026-11-13T14:28:13.596Z",
+    "disclosure": "AI-generated atmosphere; fictional scene, not a photograph of the named place"
+  },
+  {
+    "key": "coast",
+    "url": "/images/atmosphere/coast.jpg",
+    "sha256": "d67fa6ceee71fc3b66e366a5f874dbca728ed827c8628d8c152d845cc255fc51",
+    "provenance": "Generated for Roam using the built-in image-generation tool",
+    "prompt": "Use case: photorealistic-natural. Asset type: wide travel-app card atmosphere image. Create a photorealistic editorial travel photograph: A sunlit sheltered coastline with turquoise water, weathered pale rocks, a sandy cove, distant green headlands and natural sea haze. Fictional coastal atmosphere, no famous rock formations, buildings, boats or people. Wide 3:2 composition, real camera textures, tactile details, restrained natural color grading. Original fictional scenic mood image, not a reconstruction of any named landmark. No logos, lettering, watermarks, artwork, illustration, painting or CGI styling.",
+    "generatedAt": "2026-11-13T14:28:13.598Z",
+    "disclosure": "AI-generated atmosphere; fictional scene, not a photograph of the named place"
+  },
+  {
+    "key": "heritage",
+    "url": "/images/atmosphere/heritage.jpg",
+    "sha256": "6c5f2491a7e772fd04566df223e1675696c2d3a31f057d128145181798ead0ae",
+    "provenance": "Generated for Roam using the built-in image-generation tool",
+    "prompt": "Use case: photorealistic-natural. Asset type: wide travel-app card atmosphere image. Create a photorealistic editorial travel photograph: An intimate old village lane, weathered lime-plaster walls, plain timber doors and terracotta roof edges, stone paving, potted greenery, warm morning light. Fictional architectural atmosphere without identifiable monuments, religious art, murals, sculptures, signage or people. Wide 3:2 composition, real camera textures, tactile details, restrained natural color grading. Original fictional scenic mood image, not a reconstruction of any named landmark. No logos, lettering, watermarks, artwork, illustration, painting or CGI styling.",
+    "generatedAt": "2026-11-13T14:28:13.600Z",
+    "disclosure": "AI-generated atmosphere; fictional scene, not a photograph of the named place"
+  },
+  {
+    "key": "garden",
+    "url": "/images/atmosphere/garden.jpg",
+    "sha256": "c452a7204f376db0a73bddb158779a56e035b4ecad076fd86a53bec7b953abe8",
+    "provenance": "Generated for Roam using the built-in image-generation tool",
+    "prompt": "Use case: photorealistic-natural. Asset type: wide travel-app card atmosphere image. Create a photorealistic editorial travel photograph: A beautiful public-garden-like green landscape, a curving gravel path, flowering borders, mature trees and soft morning sunlight with dew, subtle natural colors, no identifiable structures, sculpture or people. Wide 3:2 composition, real camera textures, tactile details, restrained natural color grading. Original fictional scenic mood image, not a reconstruction of any named landmark. No logos, lettering, watermarks, artwork, illustration, painting or CGI styling.",
+    "generatedAt": "2026-11-13T14:28:13.602Z",
+    "disclosure": "AI-generated atmosphere; fictional scene, not a photograph of the named place"
+  }
+]

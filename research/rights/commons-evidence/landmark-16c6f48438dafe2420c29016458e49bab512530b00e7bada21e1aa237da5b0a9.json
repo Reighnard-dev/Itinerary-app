@@ -1,0 +1,127 @@
+{
+  "retrievedAt": "2026-11-14T01:40:10.266Z",
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 38836442,
+        "ns": 6,
+        "title": "File:Cadman's Cottage - The Rocks NSW (12866070094).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1581126,
+            "width": 1920,
+            "height": 1440,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Cadman%27s_Cottage_-_The_Rocks_NSW_%2812866070094%29.jpg/960px-Cadman%27s_Cottage_-_The_Rocks_NSW_%2812866070094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cadman%27s_Cottage_-_The_Rocks_NSW_%2812866070094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Cadman%27s_Cottage_-_The_Rocks_NSW_%2812866070094%29.jpg/960px-Cadman%27s_Cottage_-_The_Rocks_NSW_%2812866070094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cadman%27s_Cottage_-_The_Rocks_NSW_%2812866070094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cadman%27s_Cottage_-_The_Rocks_NSW_%2812866070094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cadman%27s_Cottage_-_The_Rocks_NSW_(12866070094).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38836442",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-03-10 11:50:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cadman's Cottage - The Rocks NSW (12866070094)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Cadmans Cottage|Flickr images reviewed by FlickreviewR|Photographs by sv1ambo|Files with coordinates missing SDC location of creation (34° S, 151° E)|Plaques in Sydney|January 2014 in The Rocks, New South Wales",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-33.858891",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "151.209168",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>Cadman's Cottage - The Rocks NSW. Built 1816 as the Coxswains Barracks, it gets its name from John Cadman, the longest serving and final Coxswain to reside there from 1827 to 1846. It was located on the original shoreline of Semi-Circular Quay, as it was then known. From 1846 it was the headquarters of the Water Police up until the construction of the Water Police Courts in Philip Street.\nIt continued to be used as a lockup by the Water Police, and in 1864 became the residence of the Superintendent of the Sailor's Home next door. It was vacant by 1962 and in 1970 it was acquired by the Sydney Cove Redevelopment Authority. It is the third oldest building in Sydney. Located on George Street.\n</p>\n<a rel=\"nofollow\" class=\"external text\" href=\"http://www.environment.nsw.gov.au/heritageapp/ViewHeritageItemDetails.aspx?ID=5045539\">www.environment.nsw.gov.au/heritageapp/ViewHeritageItemDe...</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-01-23 10:57",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/50415738@N04/12866070094/\">Cadman's Cottage - The Rocks NSW</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/50415738@N04\">sv1ambo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

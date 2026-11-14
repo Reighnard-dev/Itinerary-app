@@ -1,7 +1,10 @@
 import type { Place } from './types.js';
-const photo = (id: string) => `/images/${id}.jpg`;
+import featuredData from './featured-photos.json' with {type:'json'};
+import type {PlaceImage} from './types.js';
+const featured=featuredData as {places:Record<string,PlaceImage>;heroes:{image:string;label:string;photo:PlaceImage;credit:{label:string;url:string;licenseUrl:string}}[]};
+const photo = (_legacyId: string) => '/images/photo-unavailable.svg';
 export const images = {
-  hero: '/images/hero.jpg',
+  hero: featured.heroes[0]?.image||'/images/photo-unavailable.svg',
   kyoto: photo('photo-1478436127897-769e1b3f0f36'),
   bamboo: photo('photo-1717060773524-e4a73c4b014a'),
   temple: photo('photo-1748334037968-650e1f0a7771'),
@@ -16,7 +19,7 @@ export const images = {
 };
 type Entry = [string, string, Place['category'], Place['kind'], number, number, string, string, string, string, string, string];
 function destination(country: string, city: string, entries: Entry[]): Place[] {
-  return entries.map(([name, image, category, kind, lat, lng, description, duration, price, bestTime, transit, driving], i) => ({ id: `${city.toLowerCase().replaceAll(' ', '-')}-${i + 1}`, name, country, city, image, category, kind, lat, lng, description, duration, price, bestTime, transit, driving, rating: [4.9, 4.8, 4.9, 4.7, 4.8, 4.9][i % 6] }));
+  return entries.map(([name, _legacyImage, category, kind, lat, lng, description, duration, price, bestTime, transit, driving], i) => {const id=`${city.toLowerCase().replaceAll(' ', '-')}-${i + 1}`;return {id,name,country,city,image:'/images/photo-unavailable.svg',...(featured.places[id]?{photo:featured.places[id]}:{}),category,kind,lat,lng,description,duration,price,bestTime,transit,driving,rating:[4.9,4.8,4.9,4.7,4.8,4.9][i%6]};});
 }
 export const places: Place[] = [
  ...destination('Japan','Kyoto',[
@@ -70,16 +73,5 @@ export const places: Place[] = [
   ['Osmeña Peak',photo('osmena-peak'),'Adventure','hidden',9.8209,123.4425,'A short climb with a big reward: rolling limestone hills and wide views over southern Cebu.','2 hours','Paid entry / guide','Clear early morning','Bus to Dalaguete, then arrange local transport to the trailhead.','Arrange a driver to the designated trailhead; mountain roads are steep.'],
  ]),
 ];
-export const heroSlides = [
-  { image: '/images/places/2e6ae6a7426d0b9ec20eb39d.jpg', label: 'Marina Bay, Singapore', credit: {label:'Supanut Arunoprayote · CC BY 4.0',url:'https://commons.wikimedia.org/wiki/File:Marina_Bay_Sands_(I).jpg'} },
-  { image: '/images/hero-machu-picchu.jpg', label: 'Machu Picchu, Peru' },
-  { image: '/images/hero-tokyo.jpg', label: 'Tokyo, Japan' },
-  { image: '/images/hero-paris.jpg', label: 'Paris, France' },
-  { image: images.bali, label: 'Bali, Indonesia' },
-  { image: '/images/hero-new-york.jpg', label: 'New York, USA' },
-  { image: images.hero, label: 'Kyoto, Japan' },
-  { image: images.rome, label: 'Rome, Italy' },
-  { image: images.swiss, label: 'Interlaken, Switzerland' },
-  { image: images.bangkok, label: 'Bangkok, Thailand' },
-];
+export const heroSlides=featured.heroes;
 export const destinations = [...new Set(places.map(p => p.country))].map(country => ({country, cities: [...new Set(places.filter(p => p.country === country).map(p => p.city))]}));

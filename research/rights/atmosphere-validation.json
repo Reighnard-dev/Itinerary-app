@@ -1,0 +1,13 @@
+{
+  "generatedAssets": 6,
+  "generationMode": "Built-in image-generation tool; fictional photorealistic scenic scenes",
+  "build": "npm run build passed; final theme-selection adjustment passed TypeScript and Vite build",
+  "unitTests": "Theme-selection test passed, including Sa Pa valley-versus-mountain wording",
+  "browserTests": {"passed": 4, "failed": 0, "coverage": ["cards/details/itinerary disclosure", "ten destination photo/fallback behavior", "quarantined URL blocking and verified photo priority", "two-connection background lookup limit"]},
+  "releaseAudit": {"releaseIssues": 0, "unapprovedAssets": 0, "registeredPublicAssets": 13263},
+  "livePreview": {"url": "http://localhost:3001/", "verified": true, "mobileHorizontalOverflow": false, "observed": "Fansipan and Muong Hoa Valley retain verified real photos; Ta Phin Village uses visibly labeled generated terrace atmosphere."},
+  "screenshots": ["test-results/atmosphere-preview-desktop.png", "test-results/atmosphere-preview-mobile.png"],
+  "assetDirectory": "public/images/atmosphere/",
+  "promptsAndProvenance": "shared/atmosphere-assets.json",
+  "quarantinedAssetsRestored": 0
+}

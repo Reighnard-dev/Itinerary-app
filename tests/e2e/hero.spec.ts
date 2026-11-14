@@ -1,7 +1,7 @@
 import {test,expect} from '@playwright/test';
 test('hero crossfades above an opaque background and never obscures or remounts the heading',async({page})=>{
  await page.goto('/');const heading=page.getByRole('heading',{name:'Your next somewhere.'});await expect(heading).toBeVisible();
- const before=await heading.boundingBox();await heading.evaluate(el=>{el.setAttribute('data-original-heading','true');});
+ await page.evaluate(()=>document.fonts.ready.then(()=>undefined));const before=await heading.boundingBox();await heading.evaluate(el=>{el.setAttribute('data-original-heading','true');});
  await page.waitForFunction(()=>Boolean(document.querySelector('.hero-slide[data-incoming="true"]')),{},{timeout:12000});
  expect(await page.locator('.hero-slide[data-active="true"]').evaluate(el=>getComputedStyle(el).opacity)).toBe('1');
  const layers=await page.evaluate(()=>({images:Number(getComputedStyle(document.querySelector('.hero-slides')!).zIndex),text:Number(getComputedStyle(document.querySelector('.hero-copy')!).zIndex),opacity:getComputedStyle(document.querySelector('.hero-copy')!).opacity}));expect(layers.text).toBeGreaterThan(layers.images);expect(layers.opacity).toBe('1');

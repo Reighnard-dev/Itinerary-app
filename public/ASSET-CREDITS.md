@@ -1,21 +1,11 @@
 # Asset credits
 
-Marina Bay header photograph: [Supanut Arunoprayote, Marina Bay Sands (I)](https://commons.wikimedia.org/wiki/File:Marina_Bay_Sands_(I).jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), cropped for display. The Bali header uses the existing local Unsplash photograph `photo-1537996194471-e657df975ab4`.
+[Complete photograph credits](/photo-credits.html) cover all bundled photographs, including hero slides, cards and saved-trip thumbnails. Source file pages, creators, individual reuse licenses, retained source notices and display cropping are listed there. No venue/news/search-result image is licensed merely by crediting its source.
 
-Researched photographs in `images/places/` have individual source credits shown on cards and in place details. Wikimedia Commons photographs are recorded in `shared/place-images.json` and `shared/entity-photo-candidates.json`, with photographer, file page, license, and matching method. Their individual Creative Commons or public-domain terms are linked in the metadata.
+Fonts: official Google Fonts DM Sans and Manrope, SIL Open Font License; full notices in /licenses/DM-Sans-OFL.txt and /licenses/Manrope-OFL.txt. Exact upstream revisions and hashes: research/rights/upstream-evidence.json.
 
-Additional venue and web-researched photographs are recorded in `shared/venue-photo-candidates.json` and `shared/web-photo-candidates.json`. Their original sources retain the rights; no Creative Commons license is claimed for these images. Each record preserves its source page and credit. Photos are cropped for display. Unmatched places are not assigned unrelated category stock photos.
+Favicon and absence panel: newly authored basic geometry and text in scripts/remediate-rights.ts. No category illustrations are displayed. Icons: Lucide; see /licenses/software-notices.txt for ISC and bundled feather-icon MIT notices.
 
-The 12 November 2026 additions retain individual source links and visible credits, including Lim Yaohui / The Straits Times (Garden Rhapsody), Destination BC / Heath Moffatt via Destination Vancouver (Stanley Park), André Heller via Fathom (ANIMA), Korea Tourism Organization via Trippose (Suyeong History Park), and Jakameshi via Jakarta Nippo (Lara Djonggrang). These credits identify the supplied source or photographer; they do not grant a Creative Commons license. The remaining additions retain their original website or venue credits in the manifest.
+Data and software: /credits.html. Unresolved former assets are held in the private, gitignored data/rights-quarantine directory and must not be deployed.
 
-City and country data: [GeoNames](https://www.geonames.org/), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Guide excerpts and listing details: Wikivoyage contributors, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Individual source revisions are linked from the app. Full provenance and transformations are documented in `DATA-SOURCES.md`.
-
-Destination photography is from [Unsplash](https://unsplash.com/license). Local photo filenames preserve the original Unsplash image IDs; the hero is `photo-1493976040374-85c8e12f0c0e`. A source image is available at `https://images.unsplash.com/IMAGE_ID`.
-
-Otagi Nenbutsu-ji photograph: [Orkhan Farmanli on Unsplash](https://unsplash.com/photos/5JNzfBWt4EE), `photo-1748334037968-650e1f0a7771`.
-
-Arashiyama Bamboo Forest photograph: [Johannes Mändle on Unsplash](https://unsplash.com/photos/HtEwFnbxGEc), `photo-1717060773524-e4a73c4b014a`.
-
-DM Sans and Manrope are distributed under the SIL Open Font License. Their license files are included in `fonts/`.
-
-Maps use OpenStreetMap embeds with their built-in attribution. Directions link to Google Maps. Icons are from Lucide, distributed under the ISC license via the npm package.
+Six photorealistic AI-generated scenic atmosphere assets are bundled under images/atmosphere/. They are fictional and visibly labeled, with no claim that they document a named landmark or carry a Creative Commons photo license. See /atmosphere.html and shared/atmosphere-assets.json for disclosure, prompts, generation provenance and byte hashes. Verified location photographs always take priority.

@@ -5,4 +5,6 @@ import './styles.css';
 import './discovery.css';
 import './hero.css';
 import './place-photos.css';
+import './explore.css';
+import './itinerary-stay.css';
 createRoot(document.getElementById('root')!).render(<React.StrictMode><App /></React.StrictMode>);

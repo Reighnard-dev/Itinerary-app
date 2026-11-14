@@ -1,0 +1,114 @@
+{
+  "retrievedAt": "2026-11-14T01:39:37.323Z",
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 2068305,
+        "ns": 6,
+        "title": "File:Carrer Montcada1-Barcelona(Catalonia).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2038357,
+            "width": 1920,
+            "height": 2560,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Carrer_Montcada1-Barcelona%28Catalonia%29.jpg/960px-Carrer_Montcada1-Barcelona%28Catalonia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1067,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Carrer_Montcada1-Barcelona%28Catalonia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Carrer_Montcada1-Barcelona%28Catalonia%29.jpg/960px-Carrer_Montcada1-Barcelona%28Catalonia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1067,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Carrer_Montcada1-Barcelona%28Catalonia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Carrer_Montcada1-Barcelona%28Catalonia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Carrer_Montcada1-Barcelona(Catalonia).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2068305",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-05-06 21:30:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Carrer Montcada1-Barcelona(Catalonia)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration completed|Self-published work|Cultural heritage monuments in Spain with known IDs|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Cultural heritage monuments in Carrer Montcada|Buildings in carrer Montcada",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Montcada street in Barcelona (Catalonia)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Puigalder",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

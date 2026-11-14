@@ -1,15 +1,15 @@
 import { z } from 'zod';
-import { places } from './catalog.js';
+import {placeById} from './catalog.js';
 import {geoCity} from './world.js';
 const webUrl=z.url().max(2000).refine(value=>/^https?:\/\//.test(value),'Use an HTTP or HTTPS URL.');
 export const placeSnapshotSchema=z.object({
  id:z.string().max(100),name:z.string().trim().min(1).max(160),country:z.string().min(1).max(120),city:z.string().min(1).max(200),
- category:z.enum(['Culture','Nature','Food & drink','Adventure','Restaurants','Parks & gardens','Activities','Shopping','Beaches']),kind:z.enum(['iconic','hidden','local']),
+ category:z.enum(['Culture','Nature','Food & drink','Adventure','Restaurants','Parks & gardens','Activities','Shopping','Beaches','Hotels']),kind:z.enum(['iconic','hidden','local']),
  description:z.string().max(1000),image:z.string().regex(/^\/(images|illustrations)\/[\w.-]+\.(jpg|svg)$/),lat:z.number().min(-90).max(90),lng:z.number().min(-180).max(180),rating:z.number().min(0).max(5).nullable(),
  duration:z.string().max(80),price:z.string().max(120),bestTime:z.string().max(120),transit:z.string().max(700),driving:z.string().max(700),
  source:z.object({name:z.string().max(100),url:webUrl,retrievedAt:z.iso.datetime(),license:z.string().max(50).optional()}).optional(),
  website:webUrl.optional(),address:z.string().max(300).optional(),hours:z.string().max(300).optional(),phone:z.string().max(100).optional(),listingUpdated:z.string().max(80).optional()
- ,photo:z.object({url:z.string().regex(/^\/(images\/places|api\/photos)\/[a-f0-9]{24}\.jpg$/),title:z.string().max(500),sourceUrl:webUrl,author:z.string().max(300),license:z.string().max(100),licenseUrl:webUrl,match:z.string().max(150),provider:z.enum(['wikimedia','venue','web']).optional()}).optional(),photoIdentity:z.object({wikidataId:z.string().regex(/^Q\d+$/).optional(),wikipediaTitle:z.string().max(300).optional()}).optional()
+ ,photo:z.object({url:z.string().regex(/^\/(images\/places|api\/photos)\/[a-f0-9]{24}\.jpg$/),title:z.string().max(500),sourceUrl:webUrl,author:z.string().max(300),license:z.string().max(100),licenseUrl:webUrl,match:z.string().max(150),provider:z.enum(['wikimedia','venue','web']).optional(),notices:z.array(z.string().max(20000)).max(10).optional()}).optional(),photoIdentity:z.object({wikidataId:z.string().regex(/^Q\d+$/).optional(),wikipediaTitle:z.string().max(300).optional(),commonsFile:z.string().max(500).optional()}).optional()
 });
 export const credentialsSchema = z.object({email:z.email().max(254).transform(v=>v.toLowerCase()),password:z.string().min(8).max(128),name:z.string().trim().min(1).max(80).optional()});
 export const tripSchema = z.object({
@@ -22,10 +22,14 @@ export const tripSchema = z.object({
  const ids=new Set<string>();
  for(const stop of trip.stops){
   if(stop.day>trip.days) ctx.addIssue({code:'custom',message:'A stop is outside your trip dates.'});
-  const known=places.find(p=>p.id===stop.placeId);
+  const known=placeById.get(stop.placeId);
   const snapshot=stop.place;
-  const sourceValid=snapshot?.source?.name==='Wikivoyage contributors'&&snapshot.source.url.startsWith('https://en.wikivoyage.org/');
-  const valid=known?known.country===trip.country:Boolean(snapshot&&snapshot.id===stop.placeId&&snapshot.country===trip.country&&geoCity(snapshot.country,snapshot.city)&&/^guide-[a-z]{2}-[a-f0-9]{20}$/.test(snapshot.id)&&sourceValid);
+  const sourceValid=snapshot?.source?.name==='Wikivoyage contributors'&&snapshot.source.url.startsWith('https://en.wikivoyage.org/')&&/^guide-[a-z]{2}-[a-f0-9]{20}$/.test(snapshot.id);
+  const mapSourceValid=snapshot?.source?.name==='OpenStreetMap contributors'&&/^osm-(node|way|relation)-(\d+)-[a-f0-9]{10}$/.test(snapshot.id)&&snapshot.source.url===`https://www.openstreetmap.org/${snapshot.id.split('-')[1]}/${snapshot.id.split('-')[2]}`;
+  const geographicSourceValid=snapshot?.source?.name==='GeoNames contributors'&&/^geo-[a-z]{2}-\d+$/.test(snapshot.id)&&snapshot.source.url===`https://www.geonames.org/${snapshot.id.split('-')[2]}/`;
+  const overtureSourceValid=snapshot?.source?.name==='Overture Maps Foundation'&&/^overture-[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}$/.test(snapshot.id)&&snapshot.source.url.startsWith(`https://explore.overturemaps.org/?mode=inspect&feature=places.place.${snapshot.id.slice(9)}#`);
+  const knowledgeSourceValid=snapshot?.source?.name==='Wikidata contributors'&&/^wikidata-Q\d+$/.test(snapshot.id)&&snapshot.source.url===`https://www.wikidata.org/wiki/${snapshot.id.slice(9)}`;
+  const valid=known?known.country===trip.country:Boolean(snapshot&&snapshot.id===stop.placeId&&snapshot.country===trip.country&&geoCity(snapshot.country,snapshot.city)&&(sourceValid||mapSourceValid||geographicSourceValid||overtureSourceValid||knowledgeSourceValid));
   if(!valid||(snapshot&&(snapshot.id!==stop.placeId||snapshot.country!==trip.country||(known&&snapshot.city!==known.city)))) ctx.addIssue({code:'custom',message:'A place does not belong to this destination.'});
   if(ids.has(stop.id)) ctx.addIssue({code:'custom',message:'Duplicate stop IDs are not allowed.'});
   ids.add(stop.id);

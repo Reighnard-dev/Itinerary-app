@@ -1,0 +1,10 @@
+import {readFileSync,writeFileSync,existsSync} from 'node:fs';
+import {createHash} from 'node:crypto';
+import {wikiRequest,commonsPhoto,type CommonsImage} from '../server/photo-search.js';
+const places=JSON.parse(readFileSync('shared/sapa-places.json','utf8')).filter((p:any)=>!['Indigo Cat','Good Morning Vietnam','Little Sapa','Sapa Clay House'].includes(p.name));
+const choices:Record<string,string>={'Muong Hoa Valley':'Ta Van Muong Ha vallei.jpg','Ta Phin Village':'Sapa Ta Phin.jpg','Lao Chai Village':'Sapa Ta Van hike near Sapa and bridge Ta Van.Lao Chai. Cau May.jpg','Ta Van Village':'Sapa Ta Van hike near Sapa and bridge Ta Van.Lao Chai. Cau May (41480).jpg','Cat Cat Village':'Cat Cat waterfall.jpg','Stone Church':'Stone church in Sapa.jpg','Ham Rong Mountain':'Vietnam-Sapa-Ham Rong Mountain-PANO 20180111 111620.jpg','Sa Pa Lake':'Sapa lake.jpg','Tram Ton Pass':'O Quy Ho pass.jpg'};
+for(const p of places){
+ if(p.photo){const old=p.photo.url;const file='/images/places/'+createHash('sha256').update(old).digest('hex').slice(0,24)+'.jpg';writeFileSync('public'+file,readFileSync('public'+old));p.photo.url=file;p.image=file;p.photo.author=p.photo.author.slice(0,300);}
+ if(choices[p.name])try{const d=await wikiRequest<{query?:{pages:CommonsImage[]}}>('commons.wikimedia.org',{action:'query',titles:'File:'+choices[p.name],prop:'imageinfo',iiprop:'url|mime|size|extmetadata',iiurlwidth:'500'});const photo=d.query?.pages.map(x=>commonsPhoto(x,'Named-site Commons photograph selected by source identity')).find(Boolean);if(!photo)throw Error('No accepted photo');const r=await fetch(photo.remoteUrl,{signal:AbortSignal.timeout(25000)});if(!r.ok)throw Error(String(r.status));const filename='/images/places/'+createHash('sha256').update(photo.remoteUrl).digest('hex').slice(0,24)+'.jpg';writeFileSync('public'+filename,Buffer.from(await r.arrayBuffer()));const {remoteUrl,...credit}=photo;p.photo={...credit,url:filename};p.image=filename;console.log(p.name,filename);}catch(e){console.log(p.name,(e as Error).message);}
+ writeFileSync('shared/sapa-places.json',JSON.stringify(places,null,2)+'\n');
+}

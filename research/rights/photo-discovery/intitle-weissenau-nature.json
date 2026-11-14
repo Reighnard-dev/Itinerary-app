@@ -1,0 +1,1410 @@
+{
+  "retrievedAt": "2026-11-13T16:30:19.570Z",
+  "query": {
+    "pages": [
+      {
+        "pageid": 35018828,
+        "ns": 6,
+        "title": "File:Wolfsberg Reinfelsdorf 20 Schloss Weissenau 29082014 777.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8425280,
+            "width": 4624,
+            "height": 3077,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Wolfsberg_Reinfelsdorf_20_Schloss_Weissenau_29082014_777.jpg/960px-Wolfsberg_Reinfelsdorf_20_Schloss_Weissenau_29082014_777.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 532,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Wolfsberg_Reinfelsdorf_20_Schloss_Weissenau_29082014_777.jpg/1920px-Wolfsberg_Reinfelsdorf_20_Schloss_Weissenau_29082014_777.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Wolfsberg_Reinfelsdorf_20_Schloss_Weissenau_29082014_777.jpg/960px-Wolfsberg_Reinfelsdorf_20_Schloss_Weissenau_29082014_777.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 532,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Wolfsberg_Reinfelsdorf_20_Schloss_Weissenau_29082014_777.jpg/1920px-Wolfsberg_Reinfelsdorf_20_Schloss_Weissenau_29082014_777.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Wolfsberg_Reinfelsdorf_20_Schloss_Weissenau_29082014_777.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wolfsberg_Reinfelsdorf_20_Schloss_Weissenau_29082014_777.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35018828",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-12-14 21:59:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wolfsberg Reinfelsdorf 20 Schloss Weissenau 29082014 777",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Schloss Weißenau, Wolfsberg|Self-published work|Cultural heritage monuments in Austria check done|Images by Johann Jaritz|Cultural heritage monuments in Austria with known IDs|Postprocessed by User:Hubertl",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "46.813444",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "14.806481",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Castle Weissenau at Reinfelsdorf #20, municipality <a href=\"https://en.wikipedia.org/wiki/Wolfsberg\" class=\"extiw\" title=\"en:Wolfsberg\">Wolfsberg</a>, district Wolfsberg, <a href=\"https://en.wikipedia.org/wiki/Carinthia\" class=\"extiw\" title=\"en:Carinthia\">Carinthia</a>, <a href=\"https://en.wikipedia.org/wiki/Austria\" class=\"extiw\" title=\"en:Austria\">Austria</a>, <a href=\"https://en.wikipedia.org/wiki/European_Union\" class=\"extiw\" title=\"en:European Union\">EU</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-08-29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Johann_Jaritz\" title=\"User:Johann Jaritz\">Johann Jaritz</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0 at",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0 at",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0-at",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 35022029,
+        "ns": 6,
+        "title": "File:Wolfsberg Reinfelsdorf 20 Wirtschaftsgebaeude von Schloss Weissenau 29082014 768.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8400199,
+            "width": 4696,
+            "height": 3125,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Wolfsberg_Reinfelsdorf_20_Wirtschaftsgebaeude_von_Schloss_Weissenau_29082014_768.jpg/960px-Wolfsberg_Reinfelsdorf_20_Wirtschaftsgebaeude_von_Schloss_Weissenau_29082014_768.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 532,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Wolfsberg_Reinfelsdorf_20_Wirtschaftsgebaeude_von_Schloss_Weissenau_29082014_768.jpg/1920px-Wolfsberg_Reinfelsdorf_20_Wirtschaftsgebaeude_von_Schloss_Weissenau_29082014_768.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Wolfsberg_Reinfelsdorf_20_Wirtschaftsgebaeude_von_Schloss_Weissenau_29082014_768.jpg/960px-Wolfsberg_Reinfelsdorf_20_Wirtschaftsgebaeude_von_Schloss_Weissenau_29082014_768.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 532,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Wolfsberg_Reinfelsdorf_20_Wirtschaftsgebaeude_von_Schloss_Weissenau_29082014_768.jpg/1920px-Wolfsberg_Reinfelsdorf_20_Wirtschaftsgebaeude_von_Schloss_Weissenau_29082014_768.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Wolfsberg_Reinfelsdorf_20_Wirtschaftsgebaeude_von_Schloss_Weissenau_29082014_768.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wolfsberg_Reinfelsdorf_20_Wirtschaftsgebaeude_von_Schloss_Weissenau_29082014_768.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35022029",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-12-14 22:00:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wolfsberg Reinfelsdorf 20 Wirtschaftsgebaeude von Schloss Weissenau 29082014 768",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Schloss Weißenau, Wolfsberg|Self-published work|Cultural heritage monuments in Austria check done|Images by Johann Jaritz|Cultural heritage monuments in Austria with known IDs|Postprocessed by User:Hubertl",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "46.814012",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "14.806990",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Estate building of castle Weissenau at Reinfelsdorf #20, municipality <a href=\"https://en.wikipedia.org/wiki/Wolfsberg\" class=\"extiw\" title=\"en:Wolfsberg\">Wolfsberg</a>, district Wolfsberg, <a href=\"https://en.wikipedia.org/wiki/Carinthia\" class=\"extiw\" title=\"en:Carinthia\">Carinthia</a>, <a href=\"https://en.wikipedia.org/wiki/Austria\" class=\"extiw\" title=\"en:Austria\">Austria</a>, <a href=\"https://en.wikipedia.org/wiki/European_Union\" class=\"extiw\" title=\"en:European Union\">EU</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-08-29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Johann_Jaritz\" title=\"User:Johann Jaritz\">Johann Jaritz</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0 at",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0 at",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0-at",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 98013241,
+        "ns": 6,
+        "title": "File:Unterseen Naturschutzgebiet Weissenau.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1223106,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Unterseen_Naturschutzgebiet_Weissenau.jpg/960px-Unterseen_Naturschutzgebiet_Weissenau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Unterseen_Naturschutzgebiet_Weissenau.jpg/1920px-Unterseen_Naturschutzgebiet_Weissenau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Unterseen_Naturschutzgebiet_Weissenau.jpg/960px-Unterseen_Naturschutzgebiet_Weissenau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Unterseen_Naturschutzgebiet_Weissenau.jpg/1920px-Unterseen_Naturschutzgebiet_Weissenau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Unterseen_Naturschutzgebiet_Weissenau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Unterseen_Naturschutzgebiet_Weissenau.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98013241",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-12-24 10:52:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Unterseen Naturschutzgebiet Weissenau",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Naturschutzgebiet Neuhaus-Weissenau",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Naturschutzgebiet Neuhaus-Weissenau, Unterseen BE, Schweiz",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-12-24 11:39:47",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Paebi\" title=\"User:Paebi\">Paebi</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 139080773,
+        "ns": 6,
+        "title": "File:Weissenau 01.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2604208,
+            "width": 3128,
+            "height": 2310,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Weissenau_01.jpg/960px-Weissenau_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 591,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Weissenau_01.jpg/1920px-Weissenau_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Weissenau_01.jpg/960px-Weissenau_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 591,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Weissenau_01.jpg/1920px-Weissenau_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Weissenau_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Weissenau_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=139080773",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-10-17 09:26:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Weissenau 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "IUCN Category IV|Alluvial sites of national importance (Switzerland)|Self-published work|Protected areas with known WDPA-ID|Files with coordinates missing SDC location of creation|Naturschutzgebiet Neuhaus-Weissenau",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "46.672008",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "7.828851",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Naturschutzgebiet Neuhaus-Weissenau bei Unterseen, Kanton Bern",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Arkelin\" title=\"User:Arkelin\">Arkelin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 148384440,
+        "ns": 6,
+        "title": "File:Inschriftstein 1 Naturschutzgebiet Weissenau-Neuhaus.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1580381,
+            "width": 1474,
+            "height": 2562,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Inschriftstein_1_Naturschutzgebiet_Weissenau-Neuhaus.jpg/960px-Inschriftstein_1_Naturschutzgebiet_Weissenau-Neuhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1391,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/98/Inschriftstein_1_Naturschutzgebiet_Weissenau-Neuhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Inschriftstein_1_Naturschutzgebiet_Weissenau-Neuhaus.jpg/960px-Inschriftstein_1_Naturschutzgebiet_Weissenau-Neuhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1391,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/98/Inschriftstein_1_Naturschutzgebiet_Weissenau-Neuhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Inschriftstein_1_Naturschutzgebiet_Weissenau-Neuhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Inschriftstein_1_Naturschutzgebiet_Weissenau-Neuhaus.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148384440",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-15 17:36:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Inschriftstein 1 Naturschutzgebiet Weissenau-Neuhaus",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Naturschutzgebiet Neuhaus-Weissenau",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Historische Kennzeichnung des Naturschutzgebiets Neuhaus-Weissenau (heute Weissenau-Neuhaus), Unterseen, Kanton Bern, Schweiz",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-05-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Arkelin\" title=\"User:Arkelin\">Arkelin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 148384444,
+        "ns": 6,
+        "title": "File:Inschriftstein 2 Naturschutzgebiet Weissenau-Neuhaus.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1485384,
+            "width": 1658,
+            "height": 2495,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Inschriftstein_2_Naturschutzgebiet_Weissenau-Neuhaus.jpg/960px-Inschriftstein_2_Naturschutzgebiet_Weissenau-Neuhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1204,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/32/Inschriftstein_2_Naturschutzgebiet_Weissenau-Neuhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Inschriftstein_2_Naturschutzgebiet_Weissenau-Neuhaus.jpg/960px-Inschriftstein_2_Naturschutzgebiet_Weissenau-Neuhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1204,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/32/Inschriftstein_2_Naturschutzgebiet_Weissenau-Neuhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Inschriftstein_2_Naturschutzgebiet_Weissenau-Neuhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Inschriftstein_2_Naturschutzgebiet_Weissenau-Neuhaus.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148384444",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-15 17:36:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Inschriftstein 2 Naturschutzgebiet Weissenau-Neuhaus",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Naturschutzgebiet Neuhaus-Weissenau",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Historische Kennzeichnung des Naturschutzgebiets Neuhaus-Weissenau (heute Weissenau-Neuhaus), Unterseen, Kanton Bern, Schweiz",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-05-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Arkelin\" title=\"User:Arkelin\">Arkelin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 148384448,
+        "ns": 6,
+        "title": "File:Uferweg Weissenau-Neuhaus.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2330993,
+            "width": 2726,
+            "height": 2385,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Uferweg_Weissenau-Neuhaus.jpg/960px-Uferweg_Weissenau-Neuhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 700,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Uferweg_Weissenau-Neuhaus.jpg/1920px-Uferweg_Weissenau-Neuhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Uferweg_Weissenau-Neuhaus.jpg/960px-Uferweg_Weissenau-Neuhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 700,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Uferweg_Weissenau-Neuhaus.jpg/1920px-Uferweg_Weissenau-Neuhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Uferweg_Weissenau-Neuhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Uferweg_Weissenau-Neuhaus.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148384448",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-15 17:36:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Uferweg Weissenau-Neuhaus",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Protected areas with known WDPA-ID|Files with coordinates missing SDC location of creation|Naturschutzgebiet Neuhaus-Weissenau",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "46.672269",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "7.831143",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Fussweg mit Tor, Naturschutzgebiet Weissenau-Neuhaus, Unterseen, Kanton Bern, Schweiz",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-05-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Arkelin\" title=\"User:Arkelin\">Arkelin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 148384451,
+        "ns": 6,
+        "title": "File:Weissenau 03.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2275429,
+            "width": 3450,
+            "height": 2552,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Weissenau_03.jpg/960px-Weissenau_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 592,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Weissenau_03.jpg/1920px-Weissenau_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Weissenau_03.jpg/960px-Weissenau_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 592,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Weissenau_03.jpg/1920px-Weissenau_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Weissenau_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Weissenau_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148384451",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-15 17:36:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Weissenau 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Protected areas with known WDPA-ID|Files with coordinates missing SDC location of creation|Naturschutzgebiet Neuhaus-Weissenau",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "46.672130",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "7.827790",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Naturschutzgebiet Weissenau-Neuhaus, Unterseen, Kanton Bern, Schweiz",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-05-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Arkelin\" title=\"User:Arkelin\">Arkelin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 148384452,
+        "ns": 6,
+        "title": "File:Weissenau 02.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3109822,
+            "width": 3506,
+            "height": 2674,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Weissenau_02.jpg/960px-Weissenau_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 610,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Weissenau_02.jpg/1920px-Weissenau_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Weissenau_02.jpg/960px-Weissenau_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 610,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Weissenau_02.jpg/1920px-Weissenau_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Weissenau_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Weissenau_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148384452",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-15 17:36:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Weissenau 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Naturschutzgebiet Neuhaus-Weissenau",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Naturschutzgebiet Weissenau-Neuhaus, Unterseen, Kanton Bern, Schweiz",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-05-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Arkelin\" title=\"User:Arkelin\">Arkelin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 148384453,
+        "ns": 6,
+        "title": "File:Weissenau 04.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1427559,
+            "width": 2748,
+            "height": 2282,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Weissenau_04.jpg/960px-Weissenau_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 664,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Weissenau_04.jpg/1920px-Weissenau_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Weissenau_04.jpg/960px-Weissenau_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 664,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Weissenau_04.jpg/1920px-Weissenau_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Weissenau_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Weissenau_04.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148384453",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-15 17:36:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Weissenau 04",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Protected areas with known WDPA-ID|Files with coordinates missing SDC location of creation|Naturschutzgebiet Neuhaus-Weissenau",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "46.672269",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "7.831143",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Verbotszeichen an einem Tor zum Fussweg durch das Naturschutzgebiet Weissenau-Neuhaus, Unterseen, Kanton Bern, Schweiz",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-05-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Arkelin\" title=\"User:Arkelin\">Arkelin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 148384454,
+        "ns": 6,
+        "title": "File:Weissenau 06.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3321332,
+            "width": 3280,
+            "height": 2662,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Weissenau_06.jpg/960px-Weissenau_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 649,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Weissenau_06.jpg/1920px-Weissenau_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Weissenau_06.jpg/960px-Weissenau_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 649,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Weissenau_06.jpg/1920px-Weissenau_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Weissenau_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Weissenau_06.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148384454",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-15 17:36:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Weissenau 06",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Protected areas with known WDPA-ID|Files with coordinates missing SDC location of creation|Naturschutzgebiet Neuhaus-Weissenau",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "46.671916",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "7.829099",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Naturschutzgebiet Weissenau-Neuhaus, Unterseen, Kanton Bern, Schweiz",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-05-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Arkelin\" title=\"User:Arkelin\">Arkelin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 148384458,
+        "ns": 6,
+        "title": "File:Weissenau 07 Beobachtungsstand.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2017380,
+            "width": 3079,
+            "height": 2308,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Weissenau_07_Beobachtungsstand.jpg/960px-Weissenau_07_Beobachtungsstand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Weissenau_07_Beobachtungsstand.jpg/1920px-Weissenau_07_Beobachtungsstand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Weissenau_07_Beobachtungsstand.jpg/960px-Weissenau_07_Beobachtungsstand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Weissenau_07_Beobachtungsstand.jpg/1920px-Weissenau_07_Beobachtungsstand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Weissenau_07_Beobachtungsstand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Weissenau_07_Beobachtungsstand.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148384458",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-15 17:36:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Weissenau 07 Beobachtungsstand",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Protected areas with known WDPA-ID|Files with coordinates missing SDC location of creation|Naturschutzgebiet Neuhaus-Weissenau",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "46.671914",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "7.828810",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Beobachtungsturm am Naturschutzgebiet Weissenau-Neuhaus, Unterseen, Kanton Bern, Schweiz",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-05-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Arkelin\" title=\"User:Arkelin\">Arkelin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  },
+  "batchcomplete": true,
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  }
+}

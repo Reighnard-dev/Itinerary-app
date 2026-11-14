@@ -1,0 +1,766 @@
+{
+  "generatedAt": "2026-11-13T09:43:54.545Z",
+  "scope": "All current non-symlink workspace files counted, including dependencies, ignored research and quarantine. Credentials/account content not read. Current application source hashed and scanned for provenance markers. Historical Git objects excluded; source plagiarism/ownership cannot be established by string scanning.",
+  "roots": {
+    "(root files)": {
+      "files": 18,
+      "bytes": 190104,
+      "extensions": {
+        "(no extension)": 2,
+        ".example": 1,
+        ".local": 1,
+        ".md": 4,
+        ".html": 1,
+        ".json": 5,
+        ".ts": 3,
+        ".tsbuildinfo": 1
+      }
+    },
+    "data": {
+      "files": 20144,
+      "bytes": 4376905063,
+      "extensions": {
+        ".ts": 9,
+        ".log": 16,
+        ".jpg": 17119,
+        ".sqlite": 3,
+        ".sqlite-shm": 3,
+        ".sqlite-wal": 3,
+        ".md": 3,
+        ".js": 2,
+        ".css": 2,
+        ".html": 14,
+        ".svg": 11,
+        ".txt": 9,
+        ".ttf": 11,
+        ".json": 2748,
+        ".zip": 146,
+        ".png": 26,
+        ".mjs": 3,
+        ".gz": 2,
+        ".xml": 1,
+        ".bz2": 1,
+        ".sql": 4,
+        ".duckdb": 1,
+        ".ddb": 1,
+        ".exe": 1,
+        ".duckdb_extension": 2,
+        ".info": 2,
+        "(no extension)": 1
+      }
+    },
+    "dist": {
+      "files": 13274,
+      "bytes": 1309194524,
+      "extensions": {
+        ".md": 1,
+        ".js": 2,
+        ".css": 2,
+        ".html": 3,
+        ".svg": 3,
+        ".txt": 9,
+        ".ttf": 2,
+        ".jpg": 13252
+      }
+    },
+    "dist-server": {
+      "files": 26,
+      "bytes": 23289002,
+      "extensions": {
+        ".js": 17,
+        ".json": 9
+      }
+    },
+    "node_modules": {
+      "files": 12563,
+      "bytes": 179852910,
+      "extensions": {
+        "(no extension)": 271,
+        ".cmd": 20,
+        ".ps1": 27,
+        ".json": 388,
+        ".js": 5062,
+        ".map": 3750,
+        ".md": 380,
+        ".cjs": 166,
+        ".ts": 2045,
+        ".flow": 6,
+        ".exe": 1,
+        ".mjs": 96,
+        ".cts": 161,
+        ".mts": 56,
+        ".node": 4,
+        ".tsbuildinfo": 7,
+        ".ico": 1,
+        ".png": 4,
+        ".txt": 24,
+        ".html": 10,
+        ".wasm": 2,
+        ".yml": 24,
+        ".gif": 1,
+        ".xml": 10,
+        ".iml": 2,
+        ".1": 1,
+        ".markdown": 2,
+        ".license": 6,
+        ".sh": 10,
+        ".css": 14,
+        ".ttf": 3,
+        ".svg": 7,
+        ".webmanifest": 1,
+        ".bnf": 1
+      }
+    },
+    "public": {
+      "files": 13270,
+      "bytes": 1308584307,
+      "extensions": {
+        ".md": 1,
+        ".html": 2,
+        ".svg": 3,
+        ".txt": 9,
+        ".ttf": 2,
+        ".css": 1,
+        ".jpg": 13252
+      }
+    },
+    "research": {
+      "files": 336,
+      "bytes": 141249381,
+      "extensions": {
+        ".csv": 2,
+        ".md": 5,
+        ".json": 322,
+        ".txt": 7
+      }
+    },
+    "scripts": {
+      "files": 66,
+      "bytes": 219351,
+      "extensions": {
+        ".ts": 40,
+        ".mjs": 26
+      }
+    },
+    "server": {
+      "files": 11,
+      "bytes": 62565,
+      "extensions": {
+        ".ts": 11
+      }
+    },
+    "shared": {
+      "files": 24,
+      "bytes": 113866042,
+      "extensions": {
+        ".ts": 6,
+        ".json": 17,
+        ".gz": 1
+      }
+    },
+    "src": {
+      "files": 18,
+      "bytes": 130733,
+      "extensions": {
+        ".ts": 8,
+        ".tsx": 6,
+        ".css": 4
+      }
+    },
+    "supabase": {
+      "files": 16,
+      "bytes": 28511,
+      "extensions": {
+        "(no extension)": 9,
+        ".json": 1,
+        ".toml": 1,
+        ".sql": 4,
+        ".md": 1
+      }
+    },
+    "test-results": {
+      "files": 7,
+      "bytes": 6298912,
+      "extensions": {
+        ".json": 1,
+        ".png": 6
+      }
+    },
+    "tests": {
+      "files": 12,
+      "bytes": 56250,
+      "extensions": {
+        ".ts": 12
+      }
+    }
+  },
+  "sourceFiles": [
+    {
+      "file": "scripts/add-sapa-dining.ts",
+      "sha256": "cb1188a4a5ba81d91cd7ffcc94557fb3501d8764d4e55f4e7736e6fe083783cb",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/assemble-image-search-batches.mjs",
+      "sha256": "a72a0640d437ab1d3720aefbfa48cd271cdbc0259c99d6d5e416509c14edfb81",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/audit-expansion-photo-metadata.ts",
+      "sha256": "606f6cab88b92b79f7f04154353cfe5c01af20143c744590fdb4399d335f8bf7",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/audit-expansion.ts",
+      "sha256": "cbc6cf4220d5b6d45283745c13dcd771152c0f9f90496bb2d68b736725c8dfdc",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/audit-final-countries.mjs",
+      "sha256": "88a74ba2d0453b2d09a619ae665a963d753a05ea98c4b1a006ebc645f45518ef",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/audit-final-photo-cache.ts",
+      "sha256": "b615076e9e93b2692fd342cbf3e029155a95968c3b45461b4ed9a4774a7e28e9",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/audit-photo-import.ts",
+      "sha256": "92d6b9c3cb164b8f07940e466d92b3a88dc689963deb19c62cd969ecad3cfcb9",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/audit-place-photos.mjs",
+      "sha256": "3f147045ba6fae8f3c62472e946e9e561293f4fcd1393a0ec31e9f2da21528b9",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/audit-rights.ts",
+      "sha256": "be2db4119b7998ccc49f2eb44f0e23d06975ba7054791d8fd5c85572b834655c",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/audit-wikimedia-subjects.ts",
+      "sha256": "b7afe6e90a8618e3beb9fce0c303eb5373d2e3c7989a0c86c50f296b48160077",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/build-sapa.ts",
+      "sha256": "716f92b4b689baf4161236087a8827f75700fff68cfa7dd449bcd048134aeee9",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/check-expansion-photos.ts",
+      "sha256": "a25dccf0e1ddc5490cd8addfb132a98b6b5319255b2ffd0ee06aa41e08b4debf",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/check-release-rights.ts",
+      "sha256": "f250f0cb7798407fc73e4040e41d3fe1bc216c2f40df951dd76c12bcc4c0cec6",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/check-resumed-photo-ui.mjs",
+      "sha256": "b0dac921a4f41b141706da33c9a4d51af89dac0622e964bd94e2f0ec90bae67a",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/check-sapa-live.mjs",
+      "sha256": "0efa09084859e993ca944f768d54c00e10adae6bd1848bb2395ae0d301768b0e",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/check-sapa.ts",
+      "sha256": "dd576d0a2426f1767a9638d86cc8c593b9aba93b1289e51c5062cf1236b9be3c",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/clean-photo-candidates.mjs",
+      "sha256": "d711fe6e4fee61f366b346345b525b4d4c25edbf946864e2b02dfa62ea43e176",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/create-place-illustrations.mjs",
+      "sha256": "ef46cb137bd8de4de8d21da2ddcc33de82705623600c7261f2ee07d5017ae273",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/download-guide-dump.mjs",
+      "sha256": "ed6f0d990740268585b99b7fcc497630cb3e50e29b7e0f3cca780a934f1f4a46",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/download-overture-tools.mjs",
+      "sha256": "07035ee1812c303a213c8fa9bd64284d697432309c46fea53897debe76dab73a",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/download-place-licenses.mjs",
+      "sha256": "091bcdcc75f1eb2623210f219ca87cd7d58b39803830c656fa521f92118bcb38",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/enrich-guide-coordinates.ts",
+      "sha256": "56c32c4bccd92a0dfb0a8171c3442ebbf9c523db24a13b96fca3c5924cb79886",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/fetch-rights-evidence.mjs",
+      "sha256": "a36172ca1eede4dc22c307a63353ec96e79d92530178c1153d760ac0dd28d080",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/fetch-sapa-sources.mjs",
+      "sha256": "d20e9bb11935d238e5bda57f291f1eec472be6e27c3fab7914eb54c8a9369c96",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/finalize-sapa.ts",
+      "sha256": "034e435925c9f3aca2fb5c2e9fe3f4b1f7bf18c0b308c2dda7f93dbee09a1156",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/import-commons-candidates.ts",
+      "sha256": "0c9d3c39095c34522ee42c2b74279cf311012bb0d0d0993a38b9fca0d2db61f4",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/import-country-maps.ts",
+      "sha256": "ce33ff5b51c9bc28e597752324be581a03df7e5768814c267855a6ec6cf8c11a",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/import-entity-photos.ts",
+      "sha256": "a7433fb06eaeb9eac4c1fba760d4ce073f56b26b7edd27e0f85425e90855b056",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/import-expansion-photos.ts",
+      "sha256": "0a279b3a09adebf5f6d820d7c8ee3d56fdc04edb93e732cfc47cbf149fd8bdd1",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/import-geographic-places.ts",
+      "sha256": "06055ab5d52f844dda31b0a3f644e073faf00842fa590d7857aff25b414b1d3f",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/import-guides.ts",
+      "sha256": "561aa9a2aabe540cd5194549001bf01e1de44adc00ef54e313f1be1ba4a4cd54",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/import-knowledge-places.ts",
+      "sha256": "d841d484a9c0783d9ba5223a512881cac89422f89c0f8123a15c2c3bac15e452",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/import-overture-places.ts",
+      "sha256": "b3902141e3cc8f7026406ac51ba25a51f8446107bdbecc5a1a8b74dc048ea2e7",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/import-place-photos.ts",
+      "sha256": "02cfa0b79f8abdec92e1d149ff12f24aaf4cefdd5b9058af980746234cda1a2c",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/import-refined-place-photos.ts",
+      "sha256": "e3d52afada8ef637f00cbf7d31c7d78e55590b3c15ac77a6913700201c1b8691",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/import-researched-landmarks.ts",
+      "sha256": "12df32bed2a6883a417e8c741916ac0c0a2849ff30606b2e4a22dd1bfd2f9860",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/import-review-replacements.ts",
+      "sha256": "ecdd883bc23d4cd6b989ec4ad9d1e982d2f52ae80a35642ed7c97d075b30cabb",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/import-sapa-selections.ts",
+      "sha256": "db734e1f6a3ac4c443a60a7352af56e610a7f02dca7251ba71ba58393f57c353",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/import-web-photo-batches.ts",
+      "sha256": "cc71bc4b2b97635446c9e2504b0993a582431f0a266ba06e3635cfb7d0ae1a2d",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/import-world-guides.ts",
+      "sha256": "728ffec8096470855c733eae8618597680c4a322dea7c03becc9ecab494abed7",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/import-world.mjs",
+      "sha256": "2447fbfe80a2d7d01490e3de80a78863375694d080753b558c04fa25bfdd7073",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/missing-photo-list.mjs",
+      "sha256": "3ba71f2e74127bf719282d01c2621edaaf0e2eb1736f53c770089d54deb6c825",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/photo-visual-check.mjs",
+      "sha256": "5a53c82bb23eaf5f006c5ea6e31e99627994ef3bedc03b33daa8baf95f7194b9",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/polish-sapa.mjs",
+      "sha256": "d740a885000ac80c79f333ecc064159f664b2174f5535377823481bfc6ee0f4d",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/prepare-overture-import.ts",
+      "sha256": "2f8d26474a94a00e5abe6c9fec9d4002706d82c3b728ecdaaa13909e4c0099d1",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/publish-rights.ts",
+      "sha256": "64865c1b27b4d6063fe56923f06dbe3d2f35bb962c9950ba28e68627c0c9ca59",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/record-remediated-assets.ts",
+      "sha256": "bdc8a6ca1f4e3492d5ddfe83952fd854fc6dd871d3e7e06af336f0f6d6e822e6",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/recover-place-photos.ts",
+      "sha256": "fc5704ac268f6cb160334d77eca93de33f688ceff43b318b24e8f5a4e6ad2902",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/remediate-rights.ts",
+      "sha256": "c7ebf97a291109edf6d865d76e0e256735527aba7daee816b9f87c70c90180b6",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/remove-archival-place-photos.mjs",
+      "sha256": "b182d89fd23f9cb1ddcc4fccb4bfa5f35ecdb8155511cd18bb7c848920dfdaed",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/replace-risky-photos.ts",
+      "sha256": "0f7fd3bc237a61de8721c5ddfd5e099ac534fb5373b05ea3e372c4a59aaf6f4a",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/research-commons-photos.ts",
+      "sha256": "6412a37a467d9c042b84d397fd42b2038d0b9556f462e0829034d9b33b13caff",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/research-sapa.ts",
+      "sha256": "a8a6190f74e964a694e0b23305c66cfe011e94f72207fe8da5f7375846812a5b",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/research-venue-photos.ts",
+      "sha256": "2a27e8a09062f631db021958c96b01de1b23abefabd858282613fbc09811bf5a",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/retain-photo-notice-links.ts",
+      "sha256": "3070b0561ad21752ed8c2b8aecf874a9bd705fe6643c56392bb34e7187e29dce",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/review-resumed-photos.mjs",
+      "sha256": "5449502ecb2173d4c1c986d3f6249e6f968b738d4df2521857bddb551a6395ec",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/run-tool-image-batch.mjs",
+      "sha256": "d012857556042afbf3212f41ef7f41e88893a31cb9913247c987e06aedc07f89",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/sapa-geocode.mjs",
+      "sha256": "c7d28431325f3caf8268a5ee93b0d2fa6c041ea7a6d36a691ba17129c97f61ad",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/sapa-photos.ts",
+      "sha256": "c9ed5be0b6489a3e9913ae0e74bf81eef018d997ece88685799dcaa537781038",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/scan-copyright-scope.mjs",
+      "sha256": "a65f32c6e9e8109155957042544bea98e5fdf3c27823a973715d6cf2c1bb0cdd",
+      "provenanceMarkers": [
+        {
+          "marker": "copied from",
+          "line": 5
+        },
+        {
+          "marker": "adapted from",
+          "line": 5
+        },
+        {
+          "marker": "SPDX-License-Identifier",
+          "line": 5
+        },
+        {
+          "marker": "shutterstock",
+          "line": 5
+        },
+        {
+          "marker": "freepik",
+          "line": 5
+        },
+        {
+          "marker": "unsplash",
+          "line": 5
+        },
+        {
+          "marker": "pexels",
+          "line": 5
+        },
+        {
+          "marker": "getty",
+          "line": 5
+        }
+      ]
+    },
+    {
+      "file": "scripts/select-image-search-results.mjs",
+      "sha256": "1573b72b1371c3bf3fe5ec628ec85754f69e9592e9efdd34133ebd5da676d8a2",
+      "provenanceMarkers": [
+        {
+          "marker": "getty",
+          "line": 42
+        },
+        {
+          "marker": "shutterstock",
+          "line": 42
+        }
+      ]
+    },
+    {
+      "file": "scripts/software-notices.mjs",
+      "sha256": "631722cafe7a24f7dbea0d4a69b2d474d4687eb06f48afeff680661aa37f4836",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/verify-photo-sources.ts",
+      "sha256": "c2d7ce5283d9cf8b7e14119014b21c58ae2de69fe3f590d6272551f97aac6f1d",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/visual-check.mjs",
+      "sha256": "4abd139a1abfffbc3f4962f603623512596de00315021ebc982f4327bee96316",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/write-expansion-provenance.mjs",
+      "sha256": "137e0843557c3946aaba105911bf5b682a290237a227a82a618be84a47621a86",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "scripts/write-photo-checkpoint.mjs",
+      "sha256": "f9a43965b33b3ce716dfa680b9103c35dd627452d7d0e67901736c99931ab45b",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "server/catalog.ts",
+      "sha256": "badecc83e98aa8a1e01c56a2406f9f8ebba4b1690420021341d80ac16226166f",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "server/discovery.ts",
+      "sha256": "d767d2494188e6a26d974e7019445af4c0b576e6ea5ba8df9a97a83cab9c38cd",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "server/index.ts",
+      "sha256": "5f5a0800cd85c39285c5448aa3c031ae28c43676b366c7a46a4cda9cfb39ea27",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "server/map-places.ts",
+      "sha256": "ef23fa0f1178dfb472c9ea1d506753b6c39b71616f18a6e97c1724c0dd8b34b1",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "server/overture-places.ts",
+      "sha256": "fb9a22ed75d2c8f78d3a85c1f7da2b7989ab8781e194dc7b2882acabd400dcc7",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "server/photo-search.ts",
+      "sha256": "2af18bd3371d31e641b441851938c34a27de85bb8455c88e2e53ce44121c21e6",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "server/photo-service.ts",
+      "sha256": "884a9ffe5d9c8894e077e79b92fbbf520955b7cde00a48b837579ac8c61adf08",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "server/public-image-fetch.ts",
+      "sha256": "0c9a839fa49cb5c6010c703bd8c1393200b8d3c260a6ef9642eb6d3a942e7308",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "server/travel-guide.ts",
+      "sha256": "2000f3ed85ef882674f43082fc1a6aa27fae1771427fb0714a9ea57d883ebc28",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "server/validation.ts",
+      "sha256": "81bd520c14a764a095dcb227cbe6cc440de49f865e9be79676b7e43416329332",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "server/world.ts",
+      "sha256": "d022458d2f58e3faeac05d6c12104fac89a6e81f6cb8b30338f44ce9005d3ffb",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "shared/catalog.ts",
+      "sha256": "18965a06df3b5ec9a66632f7c1b04cc020874b7254db29c9ead4d0b163a7ce04",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "shared/destination-notices.ts",
+      "sha256": "05264576fe1c20992ca2475929ed40a309bb9ef55652abf4def13cf2a60cdcfb",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "shared/guide-link.ts",
+      "sha256": "cc0f5877a68edd86e8ce8d89243c3fc0b9897d2e5d8122c4336eb277dca589d1",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "shared/photo-rights.ts",
+      "sha256": "79cf846305a354840044b445421f6a3f039dd653bed912f00dbf98fc11500511",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "shared/place-source.ts",
+      "sha256": "e4cdcffca7a71b198a99ebac0f18e49f07b7b8d9ffe41bbc8b7935d704c71509",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "shared/types.ts",
+      "sha256": "51643b849064fba76b19c47147f4c6a27883a079274634e5dd70e2fb085fc3dd",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/api.ts",
+      "sha256": "2f1860fce048a7522b3d73cfc92a9f181e5b5234a5a741e1b3c09fb2ee202993",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/App.tsx",
+      "sha256": "b3ff4a49200fedde4e1bd67dbf7bd80f948f9e6be62eed4780df013751fbfbec",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/CityPicker.tsx",
+      "sha256": "0146c38941c5491d354c9c732073c1733106ca3b97568b24ca24552e9ec38b37",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/discovery.css",
+      "sha256": "0a5ef25247bfea417f597754ff3ebea85dc0dfca3be86e7b0aee88ddfbf479fb",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/GuideInformation.tsx",
+      "sha256": "94a19fe7185f2caaeb72698ee31224d811431171253d7a888f6eb88565d83a71",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/hero.css",
+      "sha256": "7004a3bee9cba1bc1a69a267d3f719ed8863a9b550798491e4a0d17a1542c90f",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/HeroSlideshow.tsx",
+      "sha256": "bb7b33b70f5f6b36b666d6bd5f8c478536b22b0b4fe5ded4461ab650287b73da",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/lib/auth.ts",
+      "sha256": "9051be6a17282dc81a780a440555513051e26bb952ea588f0146e543c6a3c26e",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/lib/database.types.ts",
+      "sha256": "db10182ba0c65499e5c207a432d1de6b639e9d75056b41081d057ae254bbae3b",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/lib/itineraries.ts",
+      "sha256": "3ea907e26b4e15b7a308e6f03a90cd1dd96f3fa12e281151c525cb5c1bf1dbc4",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/lib/supabase.ts",
+      "sha256": "693336a4fb1381344b55afea7fdb00f549fbf01fed50ce91af3aad41e32d3730",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/lib/trip-mapping.ts",
+      "sha256": "1b7429249837221ca1d9f02c1a97345c2ec6a12d68925852970d658c6d2eda69",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/lib/trips.ts",
+      "sha256": "cedf2630553e2e11f5f636717167fddd0335dc2d640984df8ecc06064d59e08f",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/main.tsx",
+      "sha256": "166e7a0ed3c4aa7363bbb1ccdc5f19454e7ee1ac4a7a8949181c250ccabbf842",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/place-photos.css",
+      "sha256": "d670828b40bb30fb179bdadaf9827ff11f710ca3266c0b09e2bf3a988fc83723",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/PlacePhoto.tsx",
+      "sha256": "0e3ab425b7f8eb2395dd717d88d93bed1c838689e8bf1f639338c25bfde7bced",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/styles.css",
+      "sha256": "f4b13007e771f79d3ce3d248f58f72faa929dbd8e192ae499126fc8fd8995884",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "src/useDiscovery.ts",
+      "sha256": "36b8551f71547238403af6f4f429b1404db7beb2c6d88342f4a0607fec424a4e",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "supabase/migrations/20261112000000_init_schema.sql",
+      "sha256": "6e88d83786c58c59f3d7014c2a82b18c9cd8bebda2b52434b6b7087ef0734064",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "supabase/migrations/20261113000000_connect_itinerary_ui.sql",
+      "sha256": "4498364743f2d8e251492509dad9405c6ea4bbabef3d9781f0c1ac4f38a222df",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "supabase/schema.sql",
+      "sha256": "46673035ebca4b7543b0320f450574e34903c45337d1d0d97d7ed19b1d318159",
+      "provenanceMarkers": []
+    },
+    {
+      "file": "supabase/tests/live-integration.sql",
+      "sha256": "ac8e80e6bb4e5b2594e9e1b312dc1a6286f12f6f6c8e137f00444b4fce56d8d9",
+      "provenanceMarkers": []
+    }
+  ]
+}

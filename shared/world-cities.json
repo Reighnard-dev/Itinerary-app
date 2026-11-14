@@ -339843,6 +339843,16 @@
       "region": "AS",
       "cities": [
         {
+          "id": "1568043",
+          "name": "Sa Pa",
+          "nativeName": "Sa Pa",
+          "lat": 22.34023,
+          "lng": 103.84415,
+          "region": "Lào Cai",
+          "population": 9400,
+          "capital": false
+        },
+        {
           "id": "1581130",
           "name": "Hanoi",
           "nativeName": "Hanoi",

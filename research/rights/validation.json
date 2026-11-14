@@ -1,0 +1,67 @@
+{
+  "verifiedAt": "2026-11-13T09:44:28.727Z",
+  "build": {
+    "command": "npm run build",
+    "exitCode": 0,
+    "finalServerCompilation": {
+      "command": "node node_modules/typescript/bin/tsc -p tsconfig.server.json",
+      "exitCode": 0,
+      "reason": "Final fix accepts valid uppercase Q Wikidata photo IDs"
+    }
+  },
+  "unitTests": {
+    "command": "npm test",
+    "passed": 38,
+    "failed": 0,
+    "exitCode": 0
+  },
+  "browserTests": {
+    "command": "npm run test:e2e",
+    "passed": 14,
+    "failed": 0,
+    "exitCode": 0,
+    "checks": [
+      "photographic hero and crossfade credits",
+      "mobile layout and itinerary persistence",
+      "ten-destination photo/absence behavior",
+      "quarantined media return 404",
+      "canonical Wikidata photo IDs",
+      "two-connection photo lookup limit preserves navigation",
+      "source attribution and adapted data downloads"
+    ]
+  },
+  "releaseCheck": {
+    "command": "npm run release:check",
+    "exitCode": 0,
+    "photoRecords": 14360,
+    "verifiedPhotoRecords": 14360,
+    "permissionOrEvidenceNeeded": 0,
+    "assets": 26514,
+    "unapprovedAssets": 0,
+    "datasetRows": 234323,
+    "missingSoftwareNotices": 0,
+    "releaseIssues": 0
+  },
+  "sourceVerification": {
+    "completedAt": "2026-11-13T09:09:17.437Z",
+    "sources": 14722,
+    "checked": 14722,
+    "accepted": 13249
+  },
+  "remediation": {
+    "removedRecords": 3319,
+    "quarantinedAssets": 3880,
+    "recoveredExactMatches": 842
+  },
+  "softwarePackages": 224,
+  "folderScan": {
+    "files": 59785,
+    "sourceFiles": 105
+  },
+  "visualReview": "Reviewed test-results/rights-desktop.png: real Fushimi Inari photography, visible source/license links, no illustration substitution.",
+  "limits": [
+    "No remote deployment/CDN purge was performed",
+    "Remote Supabase state and historical Git objects were not cleared",
+    "Source licenses are recorded evidence, not ownership warranties or jurisdiction-specific legal clearance"
+  ]
+}

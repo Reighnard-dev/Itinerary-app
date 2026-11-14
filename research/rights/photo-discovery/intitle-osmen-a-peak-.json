@@ -1,0 +1,1322 @@
+{
+  "retrievedAt": "2026-11-13T16:30:24.090Z",
+  "query": {
+    "pages": [
+      {
+        "pageid": 69643466,
+        "ns": 6,
+        "title": "File:Osmeña Peak, Cebu, Philippines.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15520461,
+            "width": 5979,
+            "height": 3064,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Osme%C3%B1a_Peak%2C_Cebu%2C_Philippines.jpg/960px-Osme%C3%B1a_Peak%2C_Cebu%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 410,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Osme%C3%B1a_Peak%2C_Cebu%2C_Philippines.jpg/1920px-Osme%C3%B1a_Peak%2C_Cebu%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Osme%C3%B1a_Peak%2C_Cebu%2C_Philippines.jpg/960px-Osme%C3%B1a_Peak%2C_Cebu%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 410,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Osme%C3%B1a_Peak%2C_Cebu%2C_Philippines.jpg/1920px-Osme%C3%B1a_Peak%2C_Cebu%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Osme%C3%B1a_Peak%2C_Cebu%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Osme%C3%B1a_Peak,_Cebu,_Philippines.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69643466",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-06-02 08:53:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Osmeña Peak, Cebu, Philippines",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Osmeña Peak|Tañon Strait|Self-published work|Images from Wiki Loves Earth 2018|Files with coordinates missing SDC location of creation|Images from Wiki Loves Earth 2018 in the Philippines|Philippines photographs taken on 2016-07-10|Uploaded via Campaign:wle-ph|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "9.822500",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "123.448333",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View at the top of Osmeña Peak, overlooking Tañon Strait. At the background is Mount Kanlaon, Negros Island.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-07-10 06:09:54",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Brishcanae&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Brishcanae (page does not exist)\">Tyrll Adolf Itong</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 91689014,
+        "ns": 6,
+        "title": "File:Landscape view of Osmeña Peak.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3420335,
+            "width": 2983,
+            "height": 1675,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Landscape_view_of_Osme%C3%B1a_Peak.jpg/960px-Landscape_view_of_Osme%C3%B1a_Peak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 449,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Landscape_view_of_Osme%C3%B1a_Peak.jpg/1920px-Landscape_view_of_Osme%C3%B1a_Peak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Landscape_view_of_Osme%C3%B1a_Peak.jpg/960px-Landscape_view_of_Osme%C3%B1a_Peak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 449,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Landscape_view_of_Osme%C3%B1a_Peak.jpg/1920px-Landscape_view_of_Osme%C3%B1a_Peak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Landscape_view_of_Osme%C3%B1a_Peak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Landscape_view_of_Osme%C3%B1a_Peak.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91689014",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-06-29 06:02:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Landscape view of Osmeña Peak",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Osmeña Peak|CC-Zero|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Images from Wiki Loves Earth 2020|Images from Wiki Loves Earth 2020 in the Philippines|Uploaded via Campaign:wle-ph|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "9.819859",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "123.442363",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "It's one of the top tourist destinations in Cebu. Here, tourists spend their time taking photographs at the peak.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-08-09 17:44:08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/1ightchaser/50057128706/\">https://www.flickr.com/photos/1ightchaser/50057128706/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "choypictures",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 129294833,
+        "ns": 6,
+        "title": "File:Osmeña Peak summit (Dalaguete, Cebu; 01-20-2023).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4547229,
+            "width": 3552,
+            "height": 2664,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Osme%C3%B1a_Peak_summit_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/960px-Osme%C3%B1a_Peak_summit_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Osme%C3%B1a_Peak_summit_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Osme%C3%B1a_Peak_summit_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Osme%C3%B1a_Peak_summit_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/960px-Osme%C3%B1a_Peak_summit_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Osme%C3%B1a_Peak_summit_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Osme%C3%B1a_Peak_summit_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Osme%C3%B1a_Peak_summit_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Osme%C3%B1a_Peak_summit_(Dalaguete,_Cebu;_01-20-2023).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=129294833",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-17 15:56:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Osmeña Peak summit (Dalaguete, Cebu; 01-20-2023)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Osmeña Peak|GFDL|License migration not eligible|Self-published work|Photographs by Patrick Roque",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Osmeña Peak, Dalaguete, Cebu",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-01-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Taken using my own camera Canon EOS M100",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Patrickroque01",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 129294857,
+        "ns": 6,
+        "title": "File:Osmeña Peak karst hills west with rocks (Dalaguete, Cebu; 01-20-2023).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5229483,
+            "width": 3552,
+            "height": 2664,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Osme%C3%B1a_Peak_karst_hills_west_with_rocks_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/960px-Osme%C3%B1a_Peak_karst_hills_west_with_rocks_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Osme%C3%B1a_Peak_karst_hills_west_with_rocks_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Osme%C3%B1a_Peak_karst_hills_west_with_rocks_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Osme%C3%B1a_Peak_karst_hills_west_with_rocks_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/960px-Osme%C3%B1a_Peak_karst_hills_west_with_rocks_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Osme%C3%B1a_Peak_karst_hills_west_with_rocks_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Osme%C3%B1a_Peak_karst_hills_west_with_rocks_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Osme%C3%B1a_Peak_karst_hills_west_with_rocks_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Osme%C3%B1a_Peak_karst_hills_west_with_rocks_(Dalaguete,_Cebu;_01-20-2023).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=129294857",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-17 15:56:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Osmeña Peak karst hills west with rocks (Dalaguete, Cebu; 01-20-2023)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Osmeña Peak|GFDL|License migration not eligible|Self-published work|Photographs by Patrick Roque",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Osmeña Peak, Dalaguete, Cebu",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-01-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Taken using my own camera Canon EOS M100",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Patrickroque01",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 129294885,
+        "ns": 6,
+        "title": "File:Badian Island view from Osmeña Peak (Badian, Cebu; 01-20-2023).jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3880603,
+            "width": 3552,
+            "height": 2664,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Badian_Island_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg/960px-Badian_Island_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Badian_Island_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Badian_Island_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Badian_Island_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg/960px-Badian_Island_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Badian_Island_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Badian_Island_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Badian_Island_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Badian_Island_view_from_Osme%C3%B1a_Peak_(Badian,_Cebu;_01-20-2023).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=129294885",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-17 15:57:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Badian Island view from Osmeña Peak (Badian, Cebu; 01-20-2023)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Osmeña Peak|GFDL|Badian, Cebu|License migration not eligible|Self-published work|Photographs by Patrick Roque",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Badian Island view from Osmeña Peak, Cebu",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-01-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Taken using my own camera Canon EOS M100",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Patrickroque01",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 130422268,
+        "ns": 6,
+        "title": "File:Mantalongon village view from Osmeña Peak (Dalaguete, Cebu; 01-20-2023).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5315472,
+            "width": 3552,
+            "height": 2664,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Mantalongon_village_view_from_Osme%C3%B1a_Peak_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/960px-Mantalongon_village_view_from_Osme%C3%B1a_Peak_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Mantalongon_village_view_from_Osme%C3%B1a_Peak_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Mantalongon_village_view_from_Osme%C3%B1a_Peak_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Mantalongon_village_view_from_Osme%C3%B1a_Peak_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/960px-Mantalongon_village_view_from_Osme%C3%B1a_Peak_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Mantalongon_village_view_from_Osme%C3%B1a_Peak_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Mantalongon_village_view_from_Osme%C3%B1a_Peak_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Mantalongon_village_view_from_Osme%C3%B1a_Peak_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mantalongon_village_view_from_Osme%C3%B1a_Peak_(Dalaguete,_Cebu;_01-20-2023).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130422268",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-03-24 15:33:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mantalongon village view from Osmeña Peak (Dalaguete, Cebu; 01-20-2023)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Dalaguete|License migration not eligible|Self-published work|Photographs by Patrick Roque",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Mantalongon village view from Osmeña Peak, Dalaguete, Cebu",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-01-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Taken using my own camera",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Patrickroque01",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 130426308,
+        "ns": 6,
+        "title": "File:Osmeña Peak west rocky hill (Mantalongon, Dalaguete, Cebu; 01-20-2023).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4997333,
+            "width": 3552,
+            "height": 2664,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Osme%C3%B1a_Peak_west_rocky_hill_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/960px-Osme%C3%B1a_Peak_west_rocky_hill_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Osme%C3%B1a_Peak_west_rocky_hill_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Osme%C3%B1a_Peak_west_rocky_hill_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Osme%C3%B1a_Peak_west_rocky_hill_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/960px-Osme%C3%B1a_Peak_west_rocky_hill_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Osme%C3%B1a_Peak_west_rocky_hill_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Osme%C3%B1a_Peak_west_rocky_hill_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Osme%C3%B1a_Peak_west_rocky_hill_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Osme%C3%B1a_Peak_west_rocky_hill_(Mantalongon,_Dalaguete,_Cebu;_01-20-2023).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130426308",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-03-24 15:34:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Osmeña Peak west rocky hill (Mantalongon, Dalaguete, Cebu; 01-20-2023)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Osmeña Peak|GFDL|License migration not eligible|Self-published work|Photographs by Patrick Roque",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Osmeña Peak, Mantalongon, Dalaguete, Cebu",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-01-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Taken using my own camera",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Patrickroque01",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 130426329,
+        "ns": 6,
+        "title": "File:Osmeña Peak green hill from summit (Mantalongon, Dalaguete, Cebu; 01-20-2023).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4609887,
+            "width": 3552,
+            "height": 2664,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Osme%C3%B1a_Peak_green_hill_from_summit_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/960px-Osme%C3%B1a_Peak_green_hill_from_summit_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Osme%C3%B1a_Peak_green_hill_from_summit_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Osme%C3%B1a_Peak_green_hill_from_summit_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Osme%C3%B1a_Peak_green_hill_from_summit_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/960px-Osme%C3%B1a_Peak_green_hill_from_summit_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Osme%C3%B1a_Peak_green_hill_from_summit_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Osme%C3%B1a_Peak_green_hill_from_summit_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Osme%C3%B1a_Peak_green_hill_from_summit_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Osme%C3%B1a_Peak_green_hill_from_summit_(Mantalongon,_Dalaguete,_Cebu;_01-20-2023).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130426329",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-03-24 15:34:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Osmeña Peak green hill from summit (Mantalongon, Dalaguete, Cebu; 01-20-2023)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Osmeña Peak|GFDL|License migration not eligible|Self-published work|Photographs by Patrick Roque",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Osmeña Peak, Mantalongon, Dalaguete, Cebu",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-01-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Taken using my own camera",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Patrickroque01",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 130426342,
+        "ns": 6,
+        "title": "File:Osmeña Peak with Tañon Strait Badian-Moalboal view (Mantalongon, Dalaguete, Cebu; 01-20-2023).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4019110,
+            "width": 3552,
+            "height": 2664,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Osme%C3%B1a_Peak_with_Ta%C3%B1on_Strait_Badian-Moalboal_view_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/960px-Osme%C3%B1a_Peak_with_Ta%C3%B1on_Strait_Badian-Moalboal_view_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Osme%C3%B1a_Peak_with_Ta%C3%B1on_Strait_Badian-Moalboal_view_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Osme%C3%B1a_Peak_with_Ta%C3%B1on_Strait_Badian-Moalboal_view_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Osme%C3%B1a_Peak_with_Ta%C3%B1on_Strait_Badian-Moalboal_view_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/960px-Osme%C3%B1a_Peak_with_Ta%C3%B1on_Strait_Badian-Moalboal_view_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Osme%C3%B1a_Peak_with_Ta%C3%B1on_Strait_Badian-Moalboal_view_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Osme%C3%B1a_Peak_with_Ta%C3%B1on_Strait_Badian-Moalboal_view_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Osme%C3%B1a_Peak_with_Ta%C3%B1on_Strait_Badian-Moalboal_view_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Osme%C3%B1a_Peak_with_Ta%C3%B1on_Strait_Badian-Moalboal_view_(Mantalongon,_Dalaguete,_Cebu;_01-20-2023).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130426342",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-03-24 15:36:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Osmeña Peak with Tañon Strait Badian-Moalboal view (Mantalongon, Dalaguete, Cebu; 01-20-2023)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Osmeña Peak|GFDL|Tañon Strait|License migration not eligible|Self-published work|Photographs by Patrick Roque",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Osmeña Peak with Tañon Strait Badian-Moalboal view, Mantalongon, Dalaguete, Cebu",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-01-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Taken using my own camera",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Patrickroque01",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 130426358,
+        "ns": 6,
+        "title": "File:Osmeña Peak summit rocks (Mantalongon, Dalaguete, Cebu; 01-20-2023).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4827449,
+            "width": 3552,
+            "height": 2664,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Osme%C3%B1a_Peak_summit_rocks_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/960px-Osme%C3%B1a_Peak_summit_rocks_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Osme%C3%B1a_Peak_summit_rocks_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Osme%C3%B1a_Peak_summit_rocks_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Osme%C3%B1a_Peak_summit_rocks_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/960px-Osme%C3%B1a_Peak_summit_rocks_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Osme%C3%B1a_Peak_summit_rocks_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Osme%C3%B1a_Peak_summit_rocks_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Osme%C3%B1a_Peak_summit_rocks_%28Mantalongon%2C_Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Osme%C3%B1a_Peak_summit_rocks_(Mantalongon,_Dalaguete,_Cebu;_01-20-2023).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130426358",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-03-24 15:36:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Osmeña Peak summit rocks (Mantalongon, Dalaguete, Cebu; 01-20-2023)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Osmeña Peak|GFDL|License migration not eligible|Self-published work|Photographs by Patrick Roque",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Osmeña Peak, Mantalongon, Dalaguete, Cebu",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-01-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Taken using my own camera",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Patrickroque01",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 130426387,
+        "ns": 6,
+        "title": "File:Moalboal coast view from Osmeña Peak (Moalboal, Cebu; 01-20-2023).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3995968,
+            "width": 3552,
+            "height": 2664,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Moalboal_coast_view_from_Osme%C3%B1a_Peak_%28Moalboal%2C_Cebu%3B_01-20-2023%29.jpg/960px-Moalboal_coast_view_from_Osme%C3%B1a_Peak_%28Moalboal%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Moalboal_coast_view_from_Osme%C3%B1a_Peak_%28Moalboal%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Moalboal_coast_view_from_Osme%C3%B1a_Peak_%28Moalboal%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Moalboal_coast_view_from_Osme%C3%B1a_Peak_%28Moalboal%2C_Cebu%3B_01-20-2023%29.jpg/960px-Moalboal_coast_view_from_Osme%C3%B1a_Peak_%28Moalboal%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Moalboal_coast_view_from_Osme%C3%B1a_Peak_%28Moalboal%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Moalboal_coast_view_from_Osme%C3%B1a_Peak_%28Moalboal%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Moalboal_coast_view_from_Osme%C3%B1a_Peak_%28Moalboal%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Moalboal_coast_view_from_Osme%C3%B1a_Peak_(Moalboal,_Cebu;_01-20-2023).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130426387",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-03-24 15:37:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Moalboal coast view from Osmeña Peak (Moalboal, Cebu; 01-20-2023)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Osmeña Peak|GFDL|Moalboal|License migration not eligible|Self-published work|Photographs by Patrick Roque",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Moalboal coast view from Osmeña Peak, Moalboal, Cebu",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-01-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Taken using my own camera",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Patrickroque01",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 130426486,
+        "ns": 6,
+        "title": "File:Badian Tops Candiis view from Osmeña Peak (Badian, Cebu; 01-20-2023).jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4623024,
+            "width": 3552,
+            "height": 2664,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Badian_Tops_Candiis_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg/960px-Badian_Tops_Candiis_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Badian_Tops_Candiis_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Badian_Tops_Candiis_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Badian_Tops_Candiis_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg/960px-Badian_Tops_Candiis_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Badian_Tops_Candiis_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg/1920px-Badian_Tops_Candiis_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Badian_Tops_Candiis_view_from_Osme%C3%B1a_Peak_%28Badian%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Badian_Tops_Candiis_view_from_Osme%C3%B1a_Peak_(Badian,_Cebu;_01-20-2023).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130426486",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-03-24 15:35:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Badian Tops Candiis view from Osmeña Peak (Badian, Cebu; 01-20-2023)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration not eligible|Self-published work|Photographs by Patrick Roque|Badian Tops",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Badian tops view from Osmeña Peak, Badian, Cebu",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-01-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Taken using my own camera",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Patrickroque01",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  },
+  "batchcomplete": true,
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  }
+}

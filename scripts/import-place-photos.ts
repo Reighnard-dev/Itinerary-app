@@ -41,7 +41,7 @@ for(const titles of chunks([...byTitle.keys()],35)){
 }
 const files=[...new Set([...filenameByPlace.values()].map(v=>v.file))];const photoInfo=new Map<string,ReturnType<typeof commonsPhoto>>();
 for(const batch of chunks(files,30)){
- try{const data=await cached<{query?:{pages:CommonsImage[];normalized?:{from:string;to:string}[]}}>('commons.wikimedia.org',{action:'query',titles:batch.map(f=>`File:${f}`).join('|'),prop:'imageinfo',iiprop:'url|mime|size|extmetadata',iiurlwidth:'640',iiextmetadatafilter:'Artist|Credit|LicenseShortName|LicenseUrl|UsageTerms|Categories'});for(const page of data.query?.pages||[])photoInfo.set(normalName(page.title.replace(/^File:/,'')),commonsPhoto(page,''));}catch(error){console.log(`Photo metadata skipped: ${(error as Error).message}`);}
+ try{const data=await cached<{query?:{pages:CommonsImage[];normalized?:{from:string;to:string}[]}}>('commons.wikimedia.org',{action:'query',titles:batch.map(f=>`File:${f}`).join('|'),prop:'imageinfo',iiprop:'url|mime|size|extmetadata',iiurlwidth:'640',iiextmetadatafilter:'Artist|Credit|LicenseShortName|LicenseUrl|UsageTerms|Categories|Restrictions|Attribution|Copyright|DateTimeOriginal|ImageDescription'});for(const page of data.query?.pages||[])photoInfo.set(normalName(page.title.replace(/^File:/,'')),commonsPhoto(page,''));}catch(error){console.log(`Photo metadata skipped: ${(error as Error).message}`);}
 }
 let downloaded=0;const downloads=new Map<string,Promise<string|null>>();
 async function savePhoto(remoteUrl:string){

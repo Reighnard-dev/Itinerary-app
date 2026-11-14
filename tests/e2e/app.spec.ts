@@ -1,3 +1,4 @@
+import {selectCountry} from './destination-picker';
 import { test, expect } from '@playwright/test';
 import { randomUUID } from 'node:crypto';
 
@@ -18,7 +19,7 @@ test('discover, sign up, organize, save, restore, and export an itinerary',async
  await page.getByLabel('Move Fushimi Inari Shrine to day').selectOption('2');await expect(page.locator('.itinerary-stop')).toHaveCount(1);
  await page.getByRole('button',{name:'Day 2',exact:false}).click();await expect(page.locator('.itinerary-stop')).toHaveCount(1);await expect(page.locator('.itinerary-stop')).toContainText('Fushimi Inari Shrine');
  await page.getByRole('button',{name:'Save to account',exact:true}).click();
- const modal=page.getByRole('dialog');await modal.getByLabel('Your name').fill('Alex Wanderer');await modal.getByLabel('Email address').fill(`alex-${randomUUID()}@example.com`);await modal.getByLabel('Password',{exact:true}).fill('MyAdventure123!');
+ const modal=page.getByRole('dialog');await expect(modal.locator('.local-mode')).toBeVisible();await modal.getByLabel('Your name').fill('Alex Wanderer');await modal.getByLabel('Email address').fill(`alex-${randomUUID()}@example.com`);await modal.getByLabel('Password',{exact:true}).fill('MyAdventure123!');
  await modal.getByRole('button',{name:'Create my account'}).click();await expect(modal).not.toBeVisible();
  await page.getByRole('button',{name:'My itineraries',exact:true}).click();await page.getByRole('button',{name:'Open itinerary'}).filter({visible:true}).first().click();
  await expect(page.getByLabel('Trip title',{exact:true})).toHaveValue('My beautiful Kyoto escape');
@@ -36,12 +37,12 @@ test('discover, sign up, organize, save, restore, and export an itinerary',async
 
 test('country search, map, mobile layout, and trip shortening work',async({page})=>{
  await page.setViewportSize({width:390,height:844});await page.goto('/');
- await page.getByLabel('Country',{exact:true}).selectOption('France');await expect(page.getByLabel('Location',{exact:true})).toHaveValue('Paris');
- await page.getByLabel('Number of days').selectOption('3');await page.getByRole('button',{name:'Find my adventure'}).click();
+ await selectCountry(page,'France');await expect(page.getByRole('button',{name:'Choose city: Paris'})).toBeVisible();
+ await page.getByRole('button',{name:'Decrease trip length'}).click();await page.getByRole('button',{name:'Decrease trip length'}).click();await page.getByRole('button',{name:'Find my adventure'}).click();
  await expect(page.locator('.place-card')).toHaveCount(24);await expect(page.locator('.destination-tag')).toContainText('Paris, France');
  await page.getByRole('button',{name:'Map view',exact:true}).click();await expect(page.locator('iframe')).toHaveAttribute('title',/Map of Paris/);
  await page.getByRole('button',{name:'Select Day 3',exact:true}).click();await page.getByRole('button',{name:'Add Eiffel Tower to itinerary'}).click();
- await page.getByRole('button',{name:'View my itinerary'}).click();await page.getByLabel('Itinerary duration').selectOption('1');await expect(page.locator('.itinerary-stop')).toContainText('Eiffel Tower');
+ await page.getByRole('button',{name:'View my itinerary'}).click();await page.getByRole('button',{name:'Decrease trip length'}).click();await page.getByRole('button',{name:'Decrease trip length'}).click();await expect(page.locator('.itinerary-stop')).toContainText('Eiffel Tower');
  await page.getByRole('button',{name:'Remove Eiffel Tower',exact:true}).click();await expect(page.getByRole('heading',{name:'Make room for a little wonder.'})).toBeVisible();
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth)).toBe(true);
  await page.screenshot({path:'test-results/mobile-planner.png',fullPage:true});

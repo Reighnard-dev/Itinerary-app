@@ -1,0 +1,1296 @@
+{
+  "retrievedAt": "2026-11-14T01:06:09.945Z",
+  "searchTerms": "Thac Tinh Yeu",
+  "batchcomplete": true,
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": [
+      {
+        "pageid": 38538182,
+        "ns": 6,
+        "title": "File:Chín Mây from An Bình, Vietnam.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4359354,
+            "width": 3012,
+            "height": 3445,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ch%C3%ADn_M%C3%A2y_from_An_B%C3%ACnh%2C_Vietnam.jpg/960px-Ch%C3%ADn_M%C3%A2y_from_An_B%C3%ACnh%2C_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 915,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ch%C3%ADn_M%C3%A2y_from_An_B%C3%ACnh%2C_Vietnam.jpg/1920px-Ch%C3%ADn_M%C3%A2y_from_An_B%C3%ACnh%2C_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ch%C3%ADn_M%C3%A2y_from_An_B%C3%ACnh%2C_Vietnam.jpg/960px-Ch%C3%ADn_M%C3%A2y_from_An_B%C3%ACnh%2C_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 915,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ch%C3%ADn_M%C3%A2y_from_An_B%C3%ACnh%2C_Vietnam.jpg/1920px-Ch%C3%ADn_M%C3%A2y_from_An_B%C3%ACnh%2C_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ch%C3%ADn_M%C3%A2y_from_An_B%C3%ACnh%2C_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ch%C3%ADn_M%C3%A2y_from_An_B%C3%ACnh,_Vietnam.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38538182",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-02-26 03:14:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chín Mây from An Bình, Vietnam",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Fujifilm X100S|Personality rights warning|An Binh|Self-published work|People of Vietnam in 2015|Files by Christopher Crouzet|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "10.272205",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.954063",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This is M. Chín Mây, 80 years old. His name means Nine Clouds in Vietnamese. He is very calm but full of energy, he has a soft and comforting voice, and he's still rockin' the paddling of his canoe. Taking people on his boat wasn't part of the plan as he doesn't operate any business anymore but he kindly agreed on taking us for a small trip. He never left his island called An Bình, in Vietnam, but he likes walking and asked me if I came from France by foot. He was also wondering how far California was—he would like to walk there. Once he knew that I mainly flew, he was concerned about people having enough air in a plane. The loveliest.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-02-15 17:40:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Christopher_Crouzet\" title=\"User:Christopher Crouzet\">Christopher Crouzet</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 119848362,
+        "ns": 6,
+        "title": "File:Khoi tinh con 2.pdf",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10968474,
+            "width": 2133,
+            "height": 3381,
+            "pagecount": 64,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Khoi_tinh_con_2.pdf/page1-960px-Khoi_tinh_con_2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1268,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Khoi_tinh_con_2.pdf/page1-1920px-Khoi_tinh_con_2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Khoi_tinh_con_2.pdf/page1-960px-Khoi_tinh_con_2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1268,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Khoi_tinh_con_2.pdf/page1-1920px-Khoi_tinh_con_2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Khoi_tinh_con_2.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Khoi_tinh_con_2.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=119848362",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-06-28 12:09:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Khoi tinh con 2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tản Đà|PD-old-80-expired|CC-PD-Mark|Files from Gallica",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<i>Khối tình con</i>, quyển thứ hai của Tản Đà, xuất bản năm 1922.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1922",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file comes from <a rel=\"nofollow\" class=\"external text\" href=\"https://gallica.bnf.fr/\">Gallica Digital Library</a> and is available under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://gallica.bnf.fr/ark:/12148/bpt6k42290708\">bpt6k42290708</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:T%E1%BA%A3n_%C4%90%C3%A0\" class=\"extiw\" title=\"w:en:Tản Đà\"><span title=\"Vietnamese poet (1889–1939)\">Tản Đà</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 126881334,
+        "ns": 6,
+        "title": "File:Niên-Giám Hạ-Nghị-Viện Việt-Nam Cộng-Hòa, Pháp-Nhiệm I (1967-1971).pdf",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 17317863,
+            "width": 947,
+            "height": 1420,
+            "pagecount": 200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Ni%C3%AAn-Gi%C3%A1m_H%E1%BA%A1-Ngh%E1%BB%8B-Vi%E1%BB%87n_Vi%E1%BB%87t-Nam_C%E1%BB%99ng-H%C3%B2a%2C_Ph%C3%A1p-Nhi%E1%BB%87m_I_%281967-1971%29.pdf/page1-500px-Ni%C3%AAn-Gi%C3%A1m_H%E1%BA%A1-Ngh%E1%BB%8B-Vi%E1%BB%87n_Vi%E1%BB%87t-Nam_C%E1%BB%99ng-H%C3%B2a%2C_Ph%C3%A1p-Nhi%E1%BB%87m_I_%281967-1971%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1200,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Ni%C3%AAn-Gi%C3%A1m_H%E1%BA%A1-Ngh%E1%BB%8B-Vi%E1%BB%87n_Vi%E1%BB%87t-Nam_C%E1%BB%99ng-H%C3%B2a%2C_Ph%C3%A1p-Nhi%E1%BB%87m_I_%281967-1971%29.pdf/page1-500px-Ni%C3%AAn-Gi%C3%A1m_H%E1%BA%A1-Ngh%E1%BB%8B-Vi%E1%BB%87n_Vi%E1%BB%87t-Nam_C%E1%BB%99ng-H%C3%B2a%2C_Ph%C3%A1p-Nhi%E1%BB%87m_I_%281967-1971%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1200
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ni%C3%AAn-Gi%C3%A1m_H%E1%BA%A1-Ngh%E1%BB%8B-Vi%E1%BB%87n_Vi%E1%BB%87t-Nam_C%E1%BB%99ng-H%C3%B2a%2C_Ph%C3%A1p-Nhi%E1%BB%87m_I_%281967-1971%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ni%C3%AAn-Gi%C3%A1m_H%E1%BA%A1-Ngh%E1%BB%8B-Vi%E1%BB%87n_Vi%E1%BB%87t-Nam_C%E1%BB%99ng-H%C3%B2a,_Ph%C3%A1p-Nhi%E1%BB%87m_I_(1967-1971).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126881334",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-12-22 12:21:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Niên-Giám Hạ-Nghị-Viện Việt-Nam Cộng-Hòa, Pháp-Nhiệm I (1967-1971)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD South Vietnam Government|PD-1996|Images with extracted images|1968 books from Vietnam|Documents of the Second Republic of Vietnam|Documents of the Lower House (South Vietnam)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Title: Niên-Giám Hạ-Nghị-Viện Việt-Nam Cộng-Hòa, Pháp-Nhiệm I (1967-1971)<br>\nYear: 1968 (according to Google Books)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1968",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://books.google.com/books?id=DVNRAQAAMAAJ\">Niên-giám Hạ-nghị-viện: pháp nhiệm I.</a>, Google Books",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Hạ Nghị Viện Quốc Hội Việt Nam Cộng Hòa",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "For background information, see the explanations on <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Non-U.S._copyrights\" class=\"extiw\" title=\"w:Wikipedia:Non-U.S. copyrights\">Non-U.S. copyrights</a>.<br><b>Note:</b> This tag should <i>not</i> be used for sound recordings.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 128741294,
+        "ns": 6,
+        "title": "File:Cảnh giới tu luyện cũng như giải đáp những thắc mắc về định nghĩa Thần- Tiên- Thánh.pdf",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 53452,
+            "width": 1637,
+            "height": 1158,
+            "pagecount": 5,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/C%E1%BA%A3nh_gi%E1%BB%9Bi_tu_luy%E1%BB%87n_c%C5%A9ng_nh%C6%B0_gi%E1%BA%A3i_%C4%91%C3%A1p_nh%E1%BB%AFng_th%E1%BA%AFc_m%E1%BA%AFc_v%E1%BB%81_%C4%91%E1%BB%8Bnh_ngh%C4%A9a_Th%E1%BA%A7n-_Ti%C3%AAn-_Th%C3%A1nh.pdf/page1-960px-C%E1%BA%A3nh_gi%E1%BB%9Bi_tu_luy%E1%BB%87n_c%C5%A9ng_nh%C6%B0_gi%E1%BA%A3i_%C4%91%C3%A1p_nh%E1%BB%AFng_th%E1%BA%AFc_m%E1%BA%AFc_v%E1%BB%81_%C4%91%E1%BB%8Bnh_ngh%C4%A9a_Th%E1%BA%A7n-_Ti%C3%AAn-_Th%C3%A1nh.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 566,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/C%E1%BA%A3nh_gi%E1%BB%9Bi_tu_luy%E1%BB%87n_c%C5%A9ng_nh%C6%B0_gi%E1%BA%A3i_%C4%91%C3%A1p_nh%E1%BB%AFng_th%E1%BA%AFc_m%E1%BA%AFc_v%E1%BB%81_%C4%91%E1%BB%8Bnh_ngh%C4%A9a_Th%E1%BA%A7n-_Ti%C3%AAn-_Th%C3%A1nh.pdf/page1-1280px-C%E1%BA%A3nh_gi%E1%BB%9Bi_tu_luy%E1%BB%87n_c%C5%A9ng_nh%C6%B0_gi%E1%BA%A3i_%C4%91%C3%A1p_nh%E1%BB%AFng_th%E1%BA%AFc_m%E1%BA%AFc_v%E1%BB%81_%C4%91%E1%BB%8Bnh_ngh%C4%A9a_Th%E1%BA%A7n-_Ti%C3%AAn-_Th%C3%A1nh.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/C%E1%BA%A3nh_gi%E1%BB%9Bi_tu_luy%E1%BB%87n_c%C5%A9ng_nh%C6%B0_gi%E1%BA%A3i_%C4%91%C3%A1p_nh%E1%BB%AFng_th%E1%BA%AFc_m%E1%BA%AFc_v%E1%BB%81_%C4%91%E1%BB%8Bnh_ngh%C4%A9a_Th%E1%BA%A7n-_Ti%C3%AAn-_Th%C3%A1nh.pdf/page1-960px-C%E1%BA%A3nh_gi%E1%BB%9Bi_tu_luy%E1%BB%87n_c%C5%A9ng_nh%C6%B0_gi%E1%BA%A3i_%C4%91%C3%A1p_nh%E1%BB%AFng_th%E1%BA%AFc_m%E1%BA%AFc_v%E1%BB%81_%C4%91%E1%BB%8Bnh_ngh%C4%A9a_Th%E1%BA%A7n-_Ti%C3%AAn-_Th%C3%A1nh.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 566,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/C%E1%BA%A3nh_gi%E1%BB%9Bi_tu_luy%E1%BB%87n_c%C5%A9ng_nh%C6%B0_gi%E1%BA%A3i_%C4%91%C3%A1p_nh%E1%BB%AFng_th%E1%BA%AFc_m%E1%BA%AFc_v%E1%BB%81_%C4%91%E1%BB%8Bnh_ngh%C4%A9a_Th%E1%BA%A7n-_Ti%C3%AAn-_Th%C3%A1nh.pdf/page1-1280px-C%E1%BA%A3nh_gi%E1%BB%9Bi_tu_luy%E1%BB%87n_c%C5%A9ng_nh%C6%B0_gi%E1%BA%A3i_%C4%91%C3%A1p_nh%E1%BB%AFng_th%E1%BA%AFc_m%E1%BA%AFc_v%E1%BB%81_%C4%91%E1%BB%8Bnh_ngh%C4%A9a_Th%E1%BA%A7n-_Ti%C3%AAn-_Th%C3%A1nh.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/C%E1%BA%A3nh_gi%E1%BB%9Bi_tu_luy%E1%BB%87n_c%C5%A9ng_nh%C6%B0_gi%E1%BA%A3i_%C4%91%C3%A1p_nh%E1%BB%AFng_th%E1%BA%AFc_m%E1%BA%AFc_v%E1%BB%81_%C4%91%E1%BB%8Bnh_ngh%C4%A9a_Th%E1%BA%A7n-_Ti%C3%AAn-_Th%C3%A1nh.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:C%E1%BA%A3nh_gi%E1%BB%9Bi_tu_luy%E1%BB%87n_c%C5%A9ng_nh%C6%B0_gi%E1%BA%A3i_%C4%91%C3%A1p_nh%E1%BB%AFng_th%E1%BA%AFc_m%E1%BA%AFc_v%E1%BB%81_%C4%91%E1%BB%8Bnh_ngh%C4%A9a_Th%E1%BA%A7n-_Ti%C3%AAn-_Th%C3%A1nh.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128741294",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-15 14:42:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cảnh giới tu luyện cũng như giải đáp những thắc mắc về định nghĩa Thần- Tiên- Thánh",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Images from Wiki Loves Folklore 2023|Images from Wiki Loves Folklore 2023 in Vietnam|Images from Wiki Loves Folklore 2023 to check|Uploaded via Campaign:wlf 2023|Tu luyện|Tiên Nhân|Tu Tiên",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tập tin là tổ hợp những giải đáp về Thần Tiên Thánh cũng như ý nghĩa của nó.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-02-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%C4%90o%C3%A0n_Ch%E1%BB%A7_Ti%C3%AAn&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Đoàn Chủ Tiên (page does not exist)\">Đoàn Chủ Tiên</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 142844998,
+        "ns": 6,
+        "title": "File:Tuyên cáo của Hội đồng Quân nhân Cách mạng VNCH.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 141424,
+            "width": 735,
+            "height": 1015,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tuy%C3%AAn_c%C3%A1o_c%E1%BB%A7a_H%E1%BB%99i_%C4%91%E1%BB%93ng_Qu%C3%A2n_nh%C3%A2n_C%C3%A1ch_m%E1%BA%A1ng_VNCH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 800,
+            "thumbheight": 1105,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tuy%C3%AAn_c%C3%A1o_c%E1%BB%A7a_H%E1%BB%99i_%C4%91%E1%BB%93ng_Qu%C3%A2n_nh%C3%A2n_C%C3%A1ch_m%E1%BA%A1ng_VNCH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1105
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tuy%C3%AAn_c%C3%A1o_c%E1%BB%A7a_H%E1%BB%99i_%C4%91%E1%BB%93ng_Qu%C3%A2n_nh%C3%A2n_C%C3%A1ch_m%E1%BA%A1ng_VNCH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tuy%C3%AAn_c%C3%A1o_c%E1%BB%A7a_H%E1%BB%99i_%C4%91%E1%BB%93ng_Qu%C3%A2n_nh%C3%A2n_C%C3%A1ch_m%E1%BA%A1ng_VNCH.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142844998",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-24 16:48:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tuyên cáo của Hội đồng Quân nhân Cách mạng VNCH",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD South Vietnam Government|Propaganda in the Vietnam War|Propaganda posters of South Vietnam",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Quốc Dân Đồng Bào,\n<p>Cuộc Cách Mạng của toàn dân, thành công trong vinh quang, đã chấm dứt một chế-độ độc-tài, tàn bạo, bất lực.\n</p><p>Đứng trước sự thời nát của Chánh-phủ Ngô-Đình-Diệm, Quân Đội đã nhận thức được sự cần thiết phải giải thoát đồng bào để tiến tới một chế độ dân-chủ thực-sự, nên Quân Đội, dưới sự lãnh đạo của Hội-Đông Quân Nhân Cách-Mạng, đã cương quyết vùng lên.\n</p><p>Vì sự tồn vong của Tổ-quốc, Quân-Đội đã phải làm Cách-Mạng và nhận lấy trách\nnhiệm nặng nề đó trước Quốc-dân và lịch sử.\n</p><p>Cuộc Cách-Mạng sở dĩ đã thành công không phải hoàn toàn do Quân Đội mà phân\nlớn do sự đồng tâm nhất trí của toàn Quân, Dân trong nước.\n</p><p>Để ổn định tình thế, , Hội-Đồng Quân-Nhân Cách-Mạng quyết-định thành lập cấp tốc\nmột Chánh Phủ lâm thời mà hôm nay tôi hân hoan giới thiệu cùng toàn thể Quốc-dân. Chánh Phủ này được ủy-nhiệm các quyền Hành pháp và Lập -pháp để điều hành guồng máy Quốc-Gia đẩy mạnh công cuộc chống Cộng và xây dụng một xã-hội lành mạnh cho toàn dân.\n</p><p>Thành phần Chánh phủ gồm những người đầy đủ kiến thức chuyên môn, thực tâm yêu\nnước tận tụy với chức vụ để hoàn thành sứ-mạng giao phó.\n</p><p>Chánh-Phủ Lâm thời, trong phạm vi quyền hành được ủy thác sẽ thi hành những đường lối, chánh sách do Hội Đồng Quân Nhân Cách Mạng đề ra.\n</p><p>Đồng thời, để thể hiện ý nguyện của toàn dân và tôn trọng tinh thần dân chủ, một\nHội-Đồng nhân sĩ sẽ được triệu tập.\n</p><p>Thành Phần hội đồng này gồm đại diện của toàn thể các tầng lớp xã hội, các đoàn thể nhân dân trong nước do Hội Đồng Quân Nhân Cách Mạng mời theo đề nghị của các Ủy-viên hoặc của Chánh phủ, Hội Đồng Nhân Sĩ có nhiệm vụ tư vấn cho Chánh phủ trong chánh sách đối nội, đối ngoại cũng như việc ấn định chế độ chánh trị tương lai của Quốc Gia.\n</p><p>Hiện tại nhiệm vụ của chúng ta là ổn định tình thế và bình thường hóa đời sống\nQuốc gia. Trong một tương lai rất gần đây, khi các định chế dân chủ được thiết lập, Hội Đồng Quần Nhân Cách Mạng sẽ trao lại toàn quyền cho Quốc dân.\n</p><p>Quốc dân đồng bào hãy cùng chúng tôi siết chặt hàng ngũ với tinh thần vô tư, chúng\nta quyết tâm diệt Cộng, kiến Quốc.\n</p>\nXin đồng bào hãy giúp chúng tôi.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1963",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.psywarrior.com/Diem.html\">Psywarrior</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Government of RVN",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 143041647,
+        "ns": 6,
+        "title": "File:Biểu trưng huyện Đầm Hà, tỉnh Quảng Ninh, Việt Nam.svg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 64195,
+            "width": 447,
+            "height": 479,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_%C4%90%E1%BA%A7m_H%C3%A0%2C_t%E1%BB%89nh_Qu%E1%BA%A3ng_Ninh%2C_Vi%E1%BB%87t_Nam.svg/960px-Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_%C4%90%E1%BA%A7m_H%C3%A0%2C_t%E1%BB%89nh_Qu%E1%BA%A3ng_Ninh%2C_Vi%E1%BB%87t_Nam.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 857,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_%C4%90%E1%BA%A7m_H%C3%A0%2C_t%E1%BB%89nh_Qu%E1%BA%A3ng_Ninh%2C_Vi%E1%BB%87t_Nam.svg/1920px-Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_%C4%90%E1%BA%A7m_H%C3%A0%2C_t%E1%BB%89nh_Qu%E1%BA%A3ng_Ninh%2C_Vi%E1%BB%87t_Nam.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_%C4%90%E1%BA%A7m_H%C3%A0%2C_t%E1%BB%89nh_Qu%E1%BA%A3ng_Ninh%2C_Vi%E1%BB%87t_Nam.svg/960px-Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_%C4%90%E1%BA%A7m_H%C3%A0%2C_t%E1%BB%89nh_Qu%E1%BA%A3ng_Ninh%2C_Vi%E1%BB%87t_Nam.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 857,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_%C4%90%E1%BA%A7m_H%C3%A0%2C_t%E1%BB%89nh_Qu%E1%BA%A3ng_Ninh%2C_Vi%E1%BB%87t_Nam.svg/1920px-Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_%C4%90%E1%BA%A7m_H%C3%A0%2C_t%E1%BB%89nh_Qu%E1%BA%A3ng_Ninh%2C_Vi%E1%BB%87t_Nam.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_%C4%90%E1%BA%A7m_H%C3%A0%2C_t%E1%BB%89nh_Qu%E1%BA%A3ng_Ninh%2C_Vi%E1%BB%87t_Nam.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_%C4%90%E1%BA%A7m_H%C3%A0,_t%E1%BB%89nh_Qu%E1%BA%A3ng_Ninh,_Vi%E1%BB%87t_Nam.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143041647",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-29 06:59:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Biểu trưng huyện Đầm Hà, tỉnh Quảng Ninh, Việt Nam",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Coats of arms of Vietnam|Media from YouTube|Quang Ninh|Emblems of districts in Vietnam|Districts of Quang Ninh|Dam Ha District|With insignia|SVG logos of Vietnam|PD Vietnam Government|Seals of the Socialist Republic of Vietnam|Vietnamese-language SVG logos|Dam Ha|Symbols of Quang Ninh",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This is the official logo of Đầm Hà district, Quảng Ninh province, Socialist Republic of Việt Nam.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-01-11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=RNSHFmJ7urA\"><bdi lang=\"\">https://www.youtube.com/watch?v=RNSHFmJ7urA</bdi></a> – View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=RNSHFmJ7urA\">archive.org</a></bdi> <br> <a rel=\"nofollow\" class=\"external free\" href=\"https://www.facebook.com/photo/?fbid=4573932722720101&amp;set=a.880081015438642\">https://www.facebook.com/photo/?fbid=4573932722720101&amp;set=a.880081015438642</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "The original artist is unknown. This is a remake version by <a href=\"//commons.wikimedia.org/wiki/User:ABAL1412\" title=\"User:ABAL1412\">ABAL1412</a>.",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>According to the <a href=\"//commons.wikimedia.org/wiki/Vietnam\" class=\"mw-redirect\" title=\"Vietnam\">Vietnamese</a> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.vietlaw.gov.vn/LAWNET/docView.do?docid=18980&amp;type=html&amp;searchType=fulltextsearch&amp;searchText=\">Law on Intellectual  Property</a> (Law No. 50/2005/QH11; See <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wipo.int/wipolex/en/details.jsp?id=5006\">translation</a>), Article 15, Clause 2, <i>\"Legal documents, administrative documents and other documents in the judicial domain and official translations of these documents\"</i> are not subject to copyright protection.\n<p>According to <a rel=\"nofollow\" class=\"external text\" href=\"https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/5/17-cp.signed.pdf\">Decree No. 17/2023/ND-CP</a> (Clause 2, Article 8; see <a rel=\"nofollow\" class=\"external text\" href=\"https://dazpro.com/decree-17-2023-vietnam-on-copyright/#Article_8_Subject_matters_not_covered_by_copyright_protection\">translation</a>), documents specified in Clause 2, Article 15 of the Intellectual Property Law include <i>\"documents issued by state agencies, political organizations, socio-political organizations, sociopolitical-professional organizations, social organizations, socio-professional organizations and people’s armed forces units.\"</i>\n</p><p><i>Hence it is assumed that this legal document, administrative document or other judicial document is not covered by copyright protection</i>\n</p><p><b>Note:</b> <i>The usage of coats of arms and flags is <b>governed by legal restrictions</b>, independent of the <a href=\"https://en.wikipedia.org/wiki/copyright\" class=\"extiw\" title=\"en:copyright\">copyright</a> status of the depiction shown here.</i>\n</p><p><b>Warning:</b> <i>The template is for images of scanned text documents only.</i>\n</p>\n<hr>\n<p><span style=\"font-size:small;line-height:1.4\" class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-VietnamGov/de\" href=\"https://commons.wikimedia.org/wiki/Template:PD-VietnamGov/de\"><bdi class=\"language lang-de\" lang=\"de\">Deutsch</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-VietnamGov/fr\" href=\"https://commons.wikimedia.org/wiki/Template:PD-VietnamGov/fr\"><bdi class=\"language lang-fr\" lang=\"fr\">français</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-VietnamGov/vi\" href=\"https://commons.wikimedia.org/wiki/Template:PD-VietnamGov/vi\"><bdi class=\"language lang-vi\" lang=\"vi\">Tiếng Việt</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-VietnamGov/zh\" href=\"https://commons.wikimedia.org/wiki/Template:PD-VietnamGov/zh\"><bdi class=\"language lang-zh\" lang=\"zh\">中文</bdi></a> <b>∙</b> <small class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/w/index.php?title=Template:PD-VietnamGov/lang&amp;action=edit\" href=\"https://commons.wikimedia.org/w/index.php?title=Template:PD-VietnamGov/lang&amp;action=edit\">+/−</a></small></span>\n</p>\n</td>\n<td><figure class=\"mw-halign-right mw-image-border\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Flag_of_Vietnam.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/120px-Flag_of_Vietnam.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"53\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/250px-Flag_of_Vietnam.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"900\" data-file-height=\"600\"></a><figcaption></figcaption></figure><br><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Emblem_of_Vietnam.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Emblem_of_Vietnam.svg/120px-Emblem_of_Vietnam.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"82\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Emblem_of_Vietnam.svg/250px-Emblem_of_Vietnam.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"519\" data-file-height=\"529\"></a><figcaption></figcaption></figure>\n</td></tr></tbody></table>\n<table style=\"width:100%; clear:both; margin:0.5em auto; border-spacing:8px; background-color:var(--background-color-neutral-subtle,#f7f8ff); border:2px solid #8888aa;color: inherit;\" lang=\"en\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate restriction-insignia\">\n<tbody><tr>\n<td style=\"border:none; width:64px;\"><figure class=\"mw-halign-center\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions\" title=\"Insignia\"><img alt=\"Insignia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/120px-Coat-elements-2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"77\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/250px-Coat-elements-2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"609\" data-file-height=\"731\"></a><figcaption>Insignia</figcaption></figure>\n</td>\n<td style=\"border:none;\">This image shows a <a href=\"https://en.wikipedia.org/wiki/flag\" class=\"extiw\" title=\"w:flag\">flag</a>, a <a href=\"https://en.wikipedia.org/wiki/coat_of_arms\" class=\"extiw\" title=\"w:coat of arms\">coat of arms</a>, a <a href=\"https://en.wikipedia.org/wiki/seal_(emblem)\" class=\"extiw\" title=\"w:seal (emblem)\">seal</a> or some other official <b><a href=\"https://en.wikipedia.org/wiki/insignia\" class=\"extiw\" title=\"w:insignia\">insignia</a></b>. The use of such symbols is restricted in many countries. These restrictions are independent of the <a href=\"https://en.wikipedia.org/wiki/copyright\" class=\"extiw\" title=\"w:copyright\">copyright</a> status.\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "insignia",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "pageid": 143129403,
+        "ns": 6,
+        "title": "File:Đại Nam nhất thống chí - Lục tỉnh Nam Việt (Tập thượng - Biên Hòa, Gia Định).pdf",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12143284,
+            "width": 943,
+            "height": 1495,
+            "pagecount": 336,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%C4%90%E1%BA%A1i_Nam_nh%E1%BA%A5t_th%E1%BB%91ng_ch%C3%AD_-_L%E1%BB%A5c_t%E1%BB%89nh_Nam_Vi%E1%BB%87t_%28T%E1%BA%ADp_th%C6%B0%E1%BB%A3ng_-_Bi%C3%AAn_H%C3%B2a%2C_Gia_%C4%90%E1%BB%8Bnh%29.pdf/page1-500px-%C4%90%E1%BA%A1i_Nam_nh%E1%BA%A5t_th%E1%BB%91ng_ch%C3%AD_-_L%E1%BB%A5c_t%E1%BB%89nh_Nam_Vi%E1%BB%87t_%28T%E1%BA%ADp_th%C6%B0%E1%BB%A3ng_-_Bi%C3%AAn_H%C3%B2a%2C_Gia_%C4%90%E1%BB%8Bnh%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1268,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%C4%90%E1%BA%A1i_Nam_nh%E1%BA%A5t_th%E1%BB%91ng_ch%C3%AD_-_L%E1%BB%A5c_t%E1%BB%89nh_Nam_Vi%E1%BB%87t_%28T%E1%BA%ADp_th%C6%B0%E1%BB%A3ng_-_Bi%C3%AAn_H%C3%B2a%2C_Gia_%C4%90%E1%BB%8Bnh%29.pdf/page1-500px-%C4%90%E1%BA%A1i_Nam_nh%E1%BA%A5t_th%E1%BB%91ng_ch%C3%AD_-_L%E1%BB%A5c_t%E1%BB%89nh_Nam_Vi%E1%BB%87t_%28T%E1%BA%ADp_th%C6%B0%E1%BB%A3ng_-_Bi%C3%AAn_H%C3%B2a%2C_Gia_%C4%90%E1%BB%8Bnh%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1268
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/%C4%90%E1%BA%A1i_Nam_nh%E1%BA%A5t_th%E1%BB%91ng_ch%C3%AD_-_L%E1%BB%A5c_t%E1%BB%89nh_Nam_Vi%E1%BB%87t_%28T%E1%BA%ADp_th%C6%B0%E1%BB%A3ng_-_Bi%C3%AAn_H%C3%B2a%2C_Gia_%C4%90%E1%BB%8Bnh%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%C4%90%E1%BA%A1i_Nam_nh%E1%BA%A5t_th%E1%BB%91ng_ch%C3%AD_-_L%E1%BB%A5c_t%E1%BB%89nh_Nam_Vi%E1%BB%87t_(T%E1%BA%ADp_th%C6%B0%E1%BB%A3ng_-_Bi%C3%AAn_H%C3%B2a,_Gia_%C4%90%E1%BB%8Bnh).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143129403",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-30 09:34:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Đại Nam nhất thống chí - Lục tỉnh Nam Việt (Tập thượng - Biên Hòa, Gia Định)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD South Vietnam Government|Đại Nam nhất thống chí|PD-1996|PD-Vietnam|1973 books from Vietnam|Documents of the Second Republic of Vietnam",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Đại Nam nhất thống chí - Lục tỉnh Nam Việt (Tập thượng - Biên Hòa, Gia Định)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Published in <a href=\"https://en.wikipedia.org/wiki/en:1973\" class=\"extiw\" title=\"w:en:1973\"><span title=\"year\">1973</span></a>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"https://books.google.com/books?id=CBMsAAAAMAAJ\">[1]</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Nha Văn Hóa Phủ Quốc Vụ Khanh Đặc Trách Văn Hóa",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 143129687,
+        "ns": 6,
+        "title": "File:Đại Nam nhất thống chí - Lục tỉnh Nam Việt (Tập hạ - An Giang, Hà Tiên).pdf",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13655624,
+            "width": 937,
+            "height": 1431,
+            "pagecount": 260,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/%C4%90%E1%BA%A1i_Nam_nh%E1%BA%A5t_th%E1%BB%91ng_ch%C3%AD_-_L%E1%BB%A5c_t%E1%BB%89nh_Nam_Vi%E1%BB%87t_%28T%E1%BA%ADp_h%E1%BA%A1_-_An_Giang%2C_H%C3%A0_Ti%C3%AAn%29.pdf/page1-500px-%C4%90%E1%BA%A1i_Nam_nh%E1%BA%A5t_th%E1%BB%91ng_ch%C3%AD_-_L%E1%BB%A5c_t%E1%BB%89nh_Nam_Vi%E1%BB%87t_%28T%E1%BA%ADp_h%E1%BA%A1_-_An_Giang%2C_H%C3%A0_Ti%C3%AAn%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1222,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/%C4%90%E1%BA%A1i_Nam_nh%E1%BA%A5t_th%E1%BB%91ng_ch%C3%AD_-_L%E1%BB%A5c_t%E1%BB%89nh_Nam_Vi%E1%BB%87t_%28T%E1%BA%ADp_h%E1%BA%A1_-_An_Giang%2C_H%C3%A0_Ti%C3%AAn%29.pdf/page1-500px-%C4%90%E1%BA%A1i_Nam_nh%E1%BA%A5t_th%E1%BB%91ng_ch%C3%AD_-_L%E1%BB%A5c_t%E1%BB%89nh_Nam_Vi%E1%BB%87t_%28T%E1%BA%ADp_h%E1%BA%A1_-_An_Giang%2C_H%C3%A0_Ti%C3%AAn%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1222
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/%C4%90%E1%BA%A1i_Nam_nh%E1%BA%A5t_th%E1%BB%91ng_ch%C3%AD_-_L%E1%BB%A5c_t%E1%BB%89nh_Nam_Vi%E1%BB%87t_%28T%E1%BA%ADp_h%E1%BA%A1_-_An_Giang%2C_H%C3%A0_Ti%C3%AAn%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%C4%90%E1%BA%A1i_Nam_nh%E1%BA%A5t_th%E1%BB%91ng_ch%C3%AD_-_L%E1%BB%A5c_t%E1%BB%89nh_Nam_Vi%E1%BB%87t_(T%E1%BA%ADp_h%E1%BA%A1_-_An_Giang,_H%C3%A0_Ti%C3%AAn).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143129687",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-30 09:45:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Đại Nam nhất thống chí - Lục tỉnh Nam Việt (Tập hạ - An Giang, Hà Tiên)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD South Vietnam Government|Đại Nam nhất thống chí|PD-1996|PD-Vietnam|1973 books from Vietnam|Documents of the Second Republic of Vietnam",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Đại Nam nhất thống chí - Lục tỉnh Nam Việt (Tập hạ - An Giang, Hà Tiên)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Published in <a href=\"https://en.wikipedia.org/wiki/en:1973\" class=\"extiw\" title=\"w:en:1973\"><span title=\"year\">1973</span></a>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"https://books.google.com/books?id=fe6LGEfm3bgC\">[1]</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Nha Văn Hóa Phủ Quốc Vụ Khanh Đặc Trách Văn Hóa",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 143552595,
+        "ns": 6,
+        "title": "File:Biểu trưng huyện Tánh Linh, tỉnh Bình Thuận, Việt Nam.svg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 18156,
+            "width": 447,
+            "height": 447,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_T%C3%A1nh_Linh%2C_t%E1%BB%89nh_B%C3%ACnh_Thu%E1%BA%ADn%2C_Vi%E1%BB%87t_Nam.svg/960px-Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_T%C3%A1nh_Linh%2C_t%E1%BB%89nh_B%C3%ACnh_Thu%E1%BA%ADn%2C_Vi%E1%BB%87t_Nam.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 800,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_T%C3%A1nh_Linh%2C_t%E1%BB%89nh_B%C3%ACnh_Thu%E1%BA%ADn%2C_Vi%E1%BB%87t_Nam.svg/1920px-Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_T%C3%A1nh_Linh%2C_t%E1%BB%89nh_B%C3%ACnh_Thu%E1%BA%ADn%2C_Vi%E1%BB%87t_Nam.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_T%C3%A1nh_Linh%2C_t%E1%BB%89nh_B%C3%ACnh_Thu%E1%BA%ADn%2C_Vi%E1%BB%87t_Nam.svg/960px-Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_T%C3%A1nh_Linh%2C_t%E1%BB%89nh_B%C3%ACnh_Thu%E1%BA%ADn%2C_Vi%E1%BB%87t_Nam.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 800,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_T%C3%A1nh_Linh%2C_t%E1%BB%89nh_B%C3%ACnh_Thu%E1%BA%ADn%2C_Vi%E1%BB%87t_Nam.svg/1920px-Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_T%C3%A1nh_Linh%2C_t%E1%BB%89nh_B%C3%ACnh_Thu%E1%BA%ADn%2C_Vi%E1%BB%87t_Nam.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_T%C3%A1nh_Linh%2C_t%E1%BB%89nh_B%C3%ACnh_Thu%E1%BA%ADn%2C_Vi%E1%BB%87t_Nam.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bi%E1%BB%83u_tr%C6%B0ng_huy%E1%BB%87n_T%C3%A1nh_Linh,_t%E1%BB%89nh_B%C3%ACnh_Thu%E1%BA%ADn,_Vi%E1%BB%87t_Nam.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143552595",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-01-05 15:29:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Biểu trưng huyện Tánh Linh, tỉnh Bình Thuận, Việt Nam",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Coats of arms of Vietnam|Binh Thuan|Districts of Binh Thuan|With insignia|SVG logos of Vietnam|PD Vietnam Government|Seals of the Socialist Republic of Vietnam|Vietnamese-language SVG logos|SVG - Emblems of rural districts in Vietnam|Tanh Linh|Tanh Linh district|Symbols of Binh Thuan",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This is the official logo of Tánh Linh rural district, Bình Thuận province, Socialist Republic of Việt Nam since December 27<sup>th</sup>, 2022.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-12-27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://bbt.1cdn.vn/2022/12/27/logo-tanh-linh(1).jpg\">https://bbt.1cdn.vn/2022/12/27/logo-tanh-linh(1).jpg</a> <br> <a rel=\"nofollow\" class=\"external free\" href=\"https://baobinhthuan.com.vn/cong-bo-logo-huyen-tanh-linh-104646.html\">https://baobinhthuan.com.vn/cong-bo-logo-huyen-tanh-linh-104646.html</a> <br> <a rel=\"nofollow\" class=\"external free\" href=\"https://www.facebook.com/Bieutuong.Logo/photos/pb.100064875332701.-2207520000/5634919049954791/?type=3\">https://www.facebook.com/Bieutuong.Logo/photos/pb.100064875332701.-2207520000/5634919049954791/?type=3</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Phạm Tam",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>According to the <a href=\"//commons.wikimedia.org/wiki/Vietnam\" class=\"mw-redirect\" title=\"Vietnam\">Vietnamese</a> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.vietlaw.gov.vn/LAWNET/docView.do?docid=18980&amp;type=html&amp;searchType=fulltextsearch&amp;searchText=\">Law on Intellectual  Property</a> (Law No. 50/2005/QH11; See <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wipo.int/wipolex/en/details.jsp?id=5006\">translation</a>), Article 15, Clause 2, <i>\"Legal documents, administrative documents and other documents in the judicial domain and official translations of these documents\"</i> are not subject to copyright protection.\n<p>According to <a rel=\"nofollow\" class=\"external text\" href=\"https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/5/17-cp.signed.pdf\">Decree No. 17/2023/ND-CP</a> (Clause 2, Article 8; see <a rel=\"nofollow\" class=\"external text\" href=\"https://dazpro.com/decree-17-2023-vietnam-on-copyright/#Article_8_Subject_matters_not_covered_by_copyright_protection\">translation</a>), documents specified in Clause 2, Article 15 of the Intellectual Property Law include <i>\"documents issued by state agencies, political organizations, socio-political organizations, sociopolitical-professional organizations, social organizations, socio-professional organizations and people’s armed forces units.\"</i>\n</p><p><i>Hence it is assumed that this legal document, administrative document or other judicial document is not covered by copyright protection</i>\n</p><p><b>Note:</b> <i>The usage of coats of arms and flags is <b>governed by legal restrictions</b>, independent of the <a href=\"https://en.wikipedia.org/wiki/copyright\" class=\"extiw\" title=\"en:copyright\">copyright</a> status of the depiction shown here.</i>\n</p><p><b>Warning:</b> <i>The template is for images of scanned text documents only.</i>\n</p>\n<hr>\n<p><span style=\"font-size:small;line-height:1.4\" class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-VietnamGov/de\" href=\"https://commons.wikimedia.org/wiki/Template:PD-VietnamGov/de\"><bdi class=\"language lang-de\" lang=\"de\">Deutsch</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-VietnamGov/fr\" href=\"https://commons.wikimedia.org/wiki/Template:PD-VietnamGov/fr\"><bdi class=\"language lang-fr\" lang=\"fr\">français</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-VietnamGov/vi\" href=\"https://commons.wikimedia.org/wiki/Template:PD-VietnamGov/vi\"><bdi class=\"language lang-vi\" lang=\"vi\">Tiếng Việt</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-VietnamGov/zh\" href=\"https://commons.wikimedia.org/wiki/Template:PD-VietnamGov/zh\"><bdi class=\"language lang-zh\" lang=\"zh\">中文</bdi></a> <b>∙</b> <small class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/w/index.php?title=Template:PD-VietnamGov/lang&amp;action=edit\" href=\"https://commons.wikimedia.org/w/index.php?title=Template:PD-VietnamGov/lang&amp;action=edit\">+/−</a></small></span>\n</p>\n</td>\n<td><figure class=\"mw-halign-right mw-image-border\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Flag_of_Vietnam.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/120px-Flag_of_Vietnam.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"53\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/250px-Flag_of_Vietnam.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"900\" data-file-height=\"600\"></a><figcaption></figcaption></figure><br><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Emblem_of_Vietnam.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Emblem_of_Vietnam.svg/120px-Emblem_of_Vietnam.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"82\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Emblem_of_Vietnam.svg/250px-Emblem_of_Vietnam.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"519\" data-file-height=\"529\"></a><figcaption></figcaption></figure>\n</td></tr></tbody></table>\n<table style=\"width:100%; clear:both; margin:0.5em auto; border-spacing:8px; background-color:var(--background-color-neutral-subtle,#f7f8ff); border:2px solid #8888aa;color: inherit;\" lang=\"en\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate restriction-insignia\">\n<tbody><tr>\n<td style=\"border:none; width:64px;\"><figure class=\"mw-halign-center\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions\" title=\"Insignia\"><img alt=\"Insignia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/120px-Coat-elements-2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"77\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/250px-Coat-elements-2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"609\" data-file-height=\"731\"></a><figcaption>Insignia</figcaption></figure>\n</td>\n<td style=\"border:none;\">This image shows a <a href=\"https://en.wikipedia.org/wiki/flag\" class=\"extiw\" title=\"w:flag\">flag</a>, a <a href=\"https://en.wikipedia.org/wiki/coat_of_arms\" class=\"extiw\" title=\"w:coat of arms\">coat of arms</a>, a <a href=\"https://en.wikipedia.org/wiki/seal_(emblem)\" class=\"extiw\" title=\"w:seal (emblem)\">seal</a> or some other official <b><a href=\"https://en.wikipedia.org/wiki/insignia\" class=\"extiw\" title=\"w:insignia\">insignia</a></b>. The use of such symbols is restricted in many countries. These restrictions are independent of the <a href=\"https://en.wikipedia.org/wiki/copyright\" class=\"extiw\" title=\"w:copyright\">copyright</a> status.\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "insignia",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "pageid": 143658627,
+        "ns": 6,
+        "title": "File:Phân chia cấp bậc trong một băng đảng xã hội đen điển hình tại Việt Nam.png",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 26597,
+            "width": 978,
+            "height": 536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Ph%C3%A2n_chia_c%E1%BA%A5p_b%E1%BA%ADc_trong_m%E1%BB%99t_b%C4%83ng_%C4%91%E1%BA%A3ng_x%C3%A3_h%E1%BB%99i_%C4%91en_%C4%91i%E1%BB%83n_h%C3%ACnh_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.png/960px-Ph%C3%A2n_chia_c%E1%BA%A5p_b%E1%BA%ADc_trong_m%E1%BB%99t_b%C4%83ng_%C4%91%E1%BA%A3ng_x%C3%A3_h%E1%BB%99i_%C4%91en_%C4%91i%E1%BB%83n_h%C3%ACnh_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 438,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ph%C3%A2n_chia_c%E1%BA%A5p_b%E1%BA%ADc_trong_m%E1%BB%99t_b%C4%83ng_%C4%91%E1%BA%A3ng_x%C3%A3_h%E1%BB%99i_%C4%91en_%C4%91i%E1%BB%83n_h%C3%ACnh_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Ph%C3%A2n_chia_c%E1%BA%A5p_b%E1%BA%ADc_trong_m%E1%BB%99t_b%C4%83ng_%C4%91%E1%BA%A3ng_x%C3%A3_h%E1%BB%99i_%C4%91en_%C4%91i%E1%BB%83n_h%C3%ACnh_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.png/960px-Ph%C3%A2n_chia_c%E1%BA%A5p_b%E1%BA%ADc_trong_m%E1%BB%99t_b%C4%83ng_%C4%91%E1%BA%A3ng_x%C3%A3_h%E1%BB%99i_%C4%91en_%C4%91i%E1%BB%83n_h%C3%ACnh_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 438,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ph%C3%A2n_chia_c%E1%BA%A5p_b%E1%BA%ADc_trong_m%E1%BB%99t_b%C4%83ng_%C4%91%E1%BA%A3ng_x%C3%A3_h%E1%BB%99i_%C4%91en_%C4%91i%E1%BB%83n_h%C3%ACnh_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ph%C3%A2n_chia_c%E1%BA%A5p_b%E1%BA%ADc_trong_m%E1%BB%99t_b%C4%83ng_%C4%91%E1%BA%A3ng_x%C3%A3_h%E1%BB%99i_%C4%91en_%C4%91i%E1%BB%83n_h%C3%ACnh_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ph%C3%A2n_chia_c%E1%BA%A5p_b%E1%BA%ADc_trong_m%E1%BB%99t_b%C4%83ng_%C4%91%E1%BA%A3ng_x%C3%A3_h%E1%BB%99i_%C4%91en_%C4%91i%E1%BB%83n_h%C3%ACnh_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143658627",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-02-05 00:21:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Phân chia cấp bậc trong một băng đảng xã hội đen điển hình tại Việt Nam",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gangs (organized crime)|Criminal organizations|Organized crime groups|Self-published work|Criminals from Vietnam|Supreme People's Procuracy of Vietnam",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<i>Xã hội đen</i> là  các thế lực có mục tiêu chính là kiếm tiền từ các hoạt động phạm tội, bất hợp pháp, và nhìn chung là vô đạo đức; <i>giang hồ</i>, <i>găng-xtơ</i>, hay <i>tội phạm</i> là những cá nhân phạm tội; còn <i>băng đảng</i> và <i>băng nhóm</i> là từ dùng để chỉ các tổ chức tội phạm. Trong khi các băng nhóm nhỏ thường chỉ có hai cấp bậc là “lãnh đạo” và “đàn em”, thì các băng đảng lớn được chia cấp bậc phức tạp hơn:<br>\n<ul><li>Cấp cầm đầu (thủ lĩnh)\n<ul><li>Trùm: nhân vật đứng đầu của băng đảng. Cấp dưới của trùm thường được gọi chung là tay chân.</li>\n<li>Cánh Tay Trái, Cánh Tay Phải, và Quân sư: nhân vật cốt cán được tin tưởng.<br></li></ul></li>\n<li>Cấp chỉ huy - Đại Ca (nữ gọi là “Chị Đại” thay vì “Đại Tỷ”): là thành viên giám sát một địa bàn, một hoạt động. (Lãnh đạo các nhóm nhỏ hoặc mới nổi cũng sử dụng danh xưng này)<br></li>\n<li>Thành viên thông thường - Các Đàn Em: là những thành viên thông thường, thực hiện các hoạt động như khai thác, buôn lậu, vận chuyển, mua bán, tình báo, bắt cóc, v.v.<br></li>\n<li>Các nhóm tội phạm yếu thế thường tìm đến các băng đảng lớn hơn để nhận được sự bảo kê.<br></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-01-07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><span class=\"int-own-work\" lang=\"en\">Own work</span><br>\nReferences/Tham khảo: <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://vnexpress.net/5-dac-trung-cua-toi-pham-co-to-chuc-o-viet-nam-2025894.html\">[1]</a><a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.nguoiduatin.vn/giang-ho-sai-gon-truoc-1975-tieu-diet-sat-thu-giau-mat-a57476.html\">[2]</a><a rel=\"nofollow\" class=\"external autonumber\" href=\"https://vnexpress.net/mafia-va-to-chuc-xa-hoi-den-khac-nhau-the-nao-3626670.html\">[3]</a><br>\nInsprired from:\n</p>\n<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Triad_structure.svg\" title=\"File:Triad structure.svg\">File:Triad structure.svg</a></li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:Yakuza_hierarchy.png\" title=\"File:Yakuza hierarchy.png\">File:Yakuza hierarchy.png</a></li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:Mafia_family_structure_tree.en.svg\" title=\"File:Mafia family structure tree.en.svg\">File:Mafia family structure tree.en.svg</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Daeva Trạc",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "pageid": 150726757,
+        "ns": 6,
+        "title": "File:Công Ty TNHH Càn Thanh.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 645247,
+            "width": 2560,
+            "height": 1698,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/C%C3%B4ng_Ty_TNHH_C%C3%A0n_Thanh.jpg/960px-C%C3%B4ng_Ty_TNHH_C%C3%A0n_Thanh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 531,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/C%C3%B4ng_Ty_TNHH_C%C3%A0n_Thanh.jpg/1920px-C%C3%B4ng_Ty_TNHH_C%C3%A0n_Thanh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/C%C3%B4ng_Ty_TNHH_C%C3%A0n_Thanh.jpg/960px-C%C3%B4ng_Ty_TNHH_C%C3%A0n_Thanh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 531,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/C%C3%B4ng_Ty_TNHH_C%C3%A0n_Thanh.jpg/1920px-C%C3%B4ng_Ty_TNHH_C%C3%A0n_Thanh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/C%C3%B4ng_Ty_TNHH_C%C3%A0n_Thanh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:C%C3%B4ng_Ty_TNHH_C%C3%A0n_Thanh.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150726757",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-24 10:08:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Công Ty TNHH Càn Thanh",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Ho Chi Minh City|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "10.803212",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "106.629696",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Công Ty TNHH Càn Thanh",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-07-24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Canthanh&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Canthanh (page does not exist)\">Canthanh</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 168962939,
+        "ns": 6,
+        "title": "File:Các yếu tố ảnh hưởng tới sự phát triển năng lượng hạt nhân tại Việt Nam.pdf",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 423869,
+            "width": 1239,
+            "height": 1754,
+            "pagecount": 10,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/C%C3%A1c_y%E1%BA%BFu_t%E1%BB%91_%E1%BA%A3nh_h%C6%B0%E1%BB%9Fng_t%E1%BB%9Bi_s%E1%BB%B1_ph%C3%A1t_tri%E1%BB%83n_n%C4%83ng_l%C6%B0%E1%BB%A3ng_h%E1%BA%A1t_nh%C3%A2n_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.pdf/page1-960px-C%C3%A1c_y%E1%BA%BFu_t%E1%BB%91_%E1%BA%A3nh_h%C6%B0%E1%BB%9Fng_t%E1%BB%9Bi_s%E1%BB%B1_ph%C3%A1t_tri%E1%BB%83n_n%C4%83ng_l%C6%B0%E1%BB%A3ng_h%E1%BA%A1t_nh%C3%A2n_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1133,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/C%C3%A1c_y%E1%BA%BFu_t%E1%BB%91_%E1%BA%A3nh_h%C6%B0%E1%BB%9Fng_t%E1%BB%9Bi_s%E1%BB%B1_ph%C3%A1t_tri%E1%BB%83n_n%C4%83ng_l%C6%B0%E1%BB%A3ng_h%E1%BA%A1t_nh%C3%A2n_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.pdf/page1-960px-C%C3%A1c_y%E1%BA%BFu_t%E1%BB%91_%E1%BA%A3nh_h%C6%B0%E1%BB%9Fng_t%E1%BB%9Bi_s%E1%BB%B1_ph%C3%A1t_tri%E1%BB%83n_n%C4%83ng_l%C6%B0%E1%BB%A3ng_h%E1%BA%A1t_nh%C3%A2n_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1133
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/C%C3%A1c_y%E1%BA%BFu_t%E1%BB%91_%E1%BA%A3nh_h%C6%B0%E1%BB%9Fng_t%E1%BB%9Bi_s%E1%BB%B1_ph%C3%A1t_tri%E1%BB%83n_n%C4%83ng_l%C6%B0%E1%BB%A3ng_h%E1%BA%A1t_nh%C3%A2n_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:C%C3%A1c_y%E1%BA%BFu_t%E1%BB%91_%E1%BA%A3nh_h%C6%B0%E1%BB%9Fng_t%E1%BB%9Bi_s%E1%BB%B1_ph%C3%A1t_tri%E1%BB%83n_n%C4%83ng_l%C6%B0%E1%BB%A3ng_h%E1%BA%A1t_nh%C3%A2n_t%E1%BA%A1i_Vi%E1%BB%87t_Nam.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=168962939",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-07-01 01:47:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Các yếu tố ảnh hưởng tới sự phát triển năng lượng hạt nhân tại Việt Nam",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Nuclear power plants|Self-published work|Vietnamese-language PDF files",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Các yếu tố ảnh hưởng tới sự phát triển năng lượng hạt nhân tại Việt Nam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1/7/2025",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Nguyen_The_Gia_Hung&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Nguyen The Gia Hung (page does not exist)\">Nguyen The Gia Hung</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      }
+    ]
+  }
+}

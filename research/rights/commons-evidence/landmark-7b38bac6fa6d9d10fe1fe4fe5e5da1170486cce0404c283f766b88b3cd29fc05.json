@@ -1,0 +1,114 @@
+{
+  "retrievedAt": "2026-11-14T01:40:01.726Z",
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 18384848,
+        "ns": 6,
+        "title": "File:Cock Festival at Hanazono-Shrine, Shinjuku 2010 (3).JPG",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1568748,
+            "width": 3072,
+            "height": 2304,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Cock_Festival_at_Hanazono-Shrine%2C_Shinjuku_2010_%283%29.JPG/960px-Cock_Festival_at_Hanazono-Shrine%2C_Shinjuku_2010_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Cock_Festival_at_Hanazono-Shrine%2C_Shinjuku_2010_%283%29.JPG/1920px-Cock_Festival_at_Hanazono-Shrine%2C_Shinjuku_2010_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Cock_Festival_at_Hanazono-Shrine%2C_Shinjuku_2010_%283%29.JPG/960px-Cock_Festival_at_Hanazono-Shrine%2C_Shinjuku_2010_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Cock_Festival_at_Hanazono-Shrine%2C_Shinjuku_2010_%283%29.JPG/1920px-Cock_Festival_at_Hanazono-Shrine%2C_Shinjuku_2010_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Cock_Festival_at_Hanazono-Shrine%2C_Shinjuku_2010_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cock_Festival_at_Hanazono-Shrine,_Shinjuku_2010_(3).JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18384848",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-02-14 23:38:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cock Festival at Hanazono-Shrine, Shinjuku 2010 (3)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Olympus FE-240 / X-795|Self-published work|November 2010 in Tokyo|2010 events in Tokyo|Japan photographs taken on 2010-11-06|Night in Shinjuku (district)|Tori-no-ichi held in Hanazono Shrine|2010 photographs of Tokyo taken by User:掬茶",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://ja.wikipedia.org/wiki/%E6%96%B0%E5%AE%BF%E5%8C%BA\" class=\"extiw\" title=\"ja:新宿区\">新宿</a><a href=\"https://ja.wikipedia.org/wiki/%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA\" class=\"extiw\" title=\"ja:歌舞伎町\">歌舞伎町</a><a href=\"https://ja.wikipedia.org/wiki/%E8%8A%B1%E5%9C%92%E7%A5%9E%E7%A4%BE\" class=\"extiw\" title=\"ja:花園神社\">花園神社</a>、2010年の酉の市",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 6 November 2010",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E6%8E%AC%E8%8C%B6\" title=\"User:掬茶\">掬茶</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

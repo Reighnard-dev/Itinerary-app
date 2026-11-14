@@ -1,0 +1,1452 @@
+{
+  "retrievedAt": "2026-11-13T16:29:32.525Z",
+  "query": {
+    "pages": [
+      {
+        "pageid": 162632454,
+        "ns": 6,
+        "title": "File:Ham Rong, Ta Phin, QL.4D.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4053064,
+            "width": 4608,
+            "height": 2240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Ham_Rong%2C_Ta_Phin%2C_QL.4D.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 389,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Ham_Rong%2C_Ta_Phin%2C_QL.4D.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Ham_Rong%2C_Ta_Phin%2C_QL.4D.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 389,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Ham_Rong%2C_Ta_Phin%2C_QL.4D.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Ham_Rong%2C_Ta_Phin%2C_QL.4D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ham_Rong,_Ta_Phin,_QL.4D.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162632454",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 17:02:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ham Rong, Ta Phin, QL.4D",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Panoramas of Vietnam|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-11|Mountains of Sa Pa|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.377648",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.851499",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ham Rong, Ta Phin, QL.4D, horse, statute near abandoned church",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "11 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JakobHosp&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JakobHosp (page does not exist)\">JakobHosp</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162632475,
+        "ns": 6,
+        "title": "File:Ham Rong, Ta Phin, QL.4D (19211).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3787507,
+            "width": 4608,
+            "height": 2240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2819211%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2819211%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 389,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2819211%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2819211%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2819211%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2819211%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 389,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2819211%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2819211%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2819211%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ham_Rong,_Ta_Phin,_QL.4D_(19211).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162632475",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 17:02:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ham Rong, Ta Phin, QL.4D (19211)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Panoramas of Vietnam|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-11|Mountains of Sa Pa|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.378320",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.851338",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ham Rong, Ta Phin, QL.4D",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "11 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JakobHosp&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JakobHosp (page does not exist)\">JakobHosp</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162632500,
+        "ns": 6,
+        "title": "File:Ham Rong, Ta Phin, QL.4D (51112).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3962936,
+            "width": 4608,
+            "height": 2240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2851112%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2851112%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 389,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2851112%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2851112%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2851112%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2851112%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 389,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2851112%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2851112%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ham_Rong%2C_Ta_Phin%2C_QL.4D_%2851112%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ham_Rong,_Ta_Phin,_QL.4D_(51112).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162632500",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 17:03:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ham Rong, Ta Phin, QL.4D (51112)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Panoramas of Vietnam|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-11|Mountains of Sa Pa|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.378378",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.843320",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ham Rong, Ta Phin, QL.4D",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "11 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JakobHosp&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JakobHosp (page does not exist)\">JakobHosp</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162638399,
+        "ns": 6,
+        "title": "File:Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (70725).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5818506,
+            "width": 4608,
+            "height": 2240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2870725%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2870725%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 389,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2870725%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2870725%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2870725%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2870725%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 389,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2870725%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2870725%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2870725%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ham_Rong,_Ta_Phin,_QL.4D.Sa_Pa,_rice_fields_(70725).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162638399",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 19:12:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (70725)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lao Cai|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-11|Mountains of Sa Pa|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.376997",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.842734",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "11 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JakobHosp&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JakobHosp (page does not exist)\">JakobHosp</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162638531,
+        "ns": 6,
+        "title": "File:Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (71029).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5390947,
+            "width": 4608,
+            "height": 2240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2871029%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2871029%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 389,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2871029%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2871029%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2871029%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2871029%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 389,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2871029%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2871029%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2871029%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ham_Rong,_Ta_Phin,_QL.4D.Sa_Pa,_rice_fields_(71029).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162638531",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 19:14:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (71029)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lao Cai|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-11|Mountains of Sa Pa|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.376265",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.843215",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "11 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JakobHosp&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JakobHosp (page does not exist)\">JakobHosp</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162638559,
+        "ns": 6,
+        "title": "File:Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (53708).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5117534,
+            "width": 4608,
+            "height": 2240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2853708%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2853708%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 389,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2853708%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2853708%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2853708%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2853708%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 389,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2853708%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2853708%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2853708%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ham_Rong,_Ta_Phin,_QL.4D.Sa_Pa,_rice_fields_(53708).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162638559",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 19:14:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (53708)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lao Cai|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-11|Mountains of Sa Pa|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.374141",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.843296",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "11 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JakobHosp&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JakobHosp (page does not exist)\">JakobHosp</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162638622,
+        "ns": 6,
+        "title": "File:Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (47979).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5576036,
+            "width": 4608,
+            "height": 2240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2847979%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2847979%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 389,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2847979%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2847979%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2847979%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2847979%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 389,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2847979%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2847979%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2847979%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ham_Rong,_Ta_Phin,_QL.4D.Sa_Pa,_rice_fields_(47979).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162638622",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 19:15:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (47979)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lao Cai|Self-published work|Images with extracted images|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-11|Mountains of Sa Pa|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.374114",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.844753",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "11 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JakobHosp&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JakobHosp (page does not exist)\">JakobHosp</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162638645,
+        "ns": 6,
+        "title": "File:Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (93086).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4601194,
+            "width": 4608,
+            "height": 2240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2893086%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2893086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 389,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2893086%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2893086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2893086%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2893086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 389,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2893086%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2893086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2893086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ham_Rong,_Ta_Phin,_QL.4D.Sa_Pa,_rice_fields_(93086).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162638645",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 19:16:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (93086)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lao Cai|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-11|Mountains of Sa Pa|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.373689",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.844856",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "11 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JakobHosp&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JakobHosp (page does not exist)\">JakobHosp</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162638684,
+        "ns": 6,
+        "title": "File:Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (69632).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6228040,
+            "width": 4608,
+            "height": 2240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2869632%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2869632%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 389,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2869632%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2869632%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2869632%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2869632%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 389,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2869632%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2869632%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2869632%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ham_Rong,_Ta_Phin,_QL.4D.Sa_Pa,_rice_fields_(69632).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162638684",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 19:16:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (69632)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lao Cai|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-11|Mountains of Sa Pa|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.373702",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.844857",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "11 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JakobHosp&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JakobHosp (page does not exist)\">JakobHosp</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162638720,
+        "ns": 6,
+        "title": "File:Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (38755).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2728634,
+            "width": 4608,
+            "height": 2240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2838755%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2838755%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 389,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2838755%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2838755%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2838755%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2838755%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 389,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2838755%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2838755%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2838755%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ham_Rong,_Ta_Phin,_QL.4D.Sa_Pa,_rice_fields_(38755).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162638720",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 19:17:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (38755)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lao Cai|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-11|Mountains of Sa Pa|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.373716",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.844969",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "11 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JakobHosp&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JakobHosp (page does not exist)\">JakobHosp</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162642889,
+        "ns": 6,
+        "title": "File:Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (36747).jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6337927,
+            "width": 2240,
+            "height": 4608,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2836747%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2836747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1646,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2836747%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2836747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2836747%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2836747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1646,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2836747%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2836747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2836747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ham_Rong,_Ta_Phin,_QL.4D.Sa_Pa,_rice_fields_(36747).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162642889",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 20:49:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (36747)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sa Pa|Lao Cai|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-11|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.436246",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.929367",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "11 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JakobHosp&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JakobHosp (page does not exist)\">JakobHosp</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162642914,
+        "ns": 6,
+        "title": "File:Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (82210).jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5141971,
+            "width": 2240,
+            "height": 4608,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2882210%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2882210%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1646,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2882210%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2882210%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2882210%29.jpg/960px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2882210%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1646,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2882210%29.jpg/1920px-Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2882210%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ham_Rong%2C_Ta_Phin%2C_QL.4D.Sa_Pa%2C_rice_fields_%2882210%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ham_Rong,_Ta_Phin,_QL.4D.Sa_Pa,_rice_fields_(82210).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162642914",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 20:50:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields (82210)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sa Pa|Lao Cai|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-11|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.436162",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.929386",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ham Rong, Ta Phin, QL.4D.Sa Pa, rice fields",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "11 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JakobHosp&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JakobHosp (page does not exist)\">JakobHosp</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  },
+  "batchcomplete": true,
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  }
+}

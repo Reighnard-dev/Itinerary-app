@@ -1,0 +1,10 @@
+{
+  "scope": "Not exhaustive: additional businesses and attractions remain to be researched.",
+  "missingPhotos": [],
+  "excludedUncertainMatches": [
+    "Indigo Cat (geocoder returned another property)",
+    "Good Morning Vietnam (different restaurant returned)",
+    "Little Sapa (different restaurant returned)",
+    "Sapa Clay House (unnamed map feature)"
+  ]
+}

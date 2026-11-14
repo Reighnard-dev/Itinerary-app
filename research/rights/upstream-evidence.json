@@ -1,0 +1,68 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/5b35b7208dd4100571326fdf37f030b32a524232/ofl/dmsans/DMSans%5Bopsz%2Cwght%5D.ttf",
+    "file": "public/fonts/dmsans-variable.ttf",
+    "sha256": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "retrievedAt": "2026-11-13T08:58:27.787Z"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/5b35b7208dd4100571326fdf37f030b32a524232/ofl/dmsans/OFL.txt",
+    "file": "public/licenses/DM-Sans-OFL.txt",
+    "sha256": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "retrievedAt": "2026-11-13T08:58:27.803Z"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/b31870aff700ab7a1d74fa0c6887d95beb9e0037/ofl/manrope/Manrope%5Bwght%5D.ttf",
+    "file": "public/fonts/manrope-variable.ttf",
+    "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+    "retrievedAt": "2026-11-13T08:58:28.198Z"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/b31870aff700ab7a1d74fa0c6887d95beb9e0037/ofl/manrope/OFL.txt",
+    "file": "public/licenses/Manrope-OFL.txt",
+    "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+    "retrievedAt": "2026-11-13T08:58:28.218Z"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/evanw/esbuild/v0.28.2/LICENSE.md",
+    "file": "research/rights/upstream/esbuild.txt",
+    "sha256": "b40ec5baec7bb34fa5b1c09521fa3cd52d5fad7adafed74932a2010d3612a681",
+    "retrievedAt": "2026-11-13T08:58:28.235Z"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/rollup/rollup/v4.68.2/LICENSE.md",
+    "file": "research/rights/upstream/rollup.txt",
+    "sha256": "fa1bd040c5bdeefe65b3821cebf474f2733ce65df13089bd151dda1778e62fe8",
+    "retrievedAt": "2026-11-13T08:58:28.248Z"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/rollup/rollup/v4.68.2/LICENSE.md",
+    "file": "research/rights/upstream/rollup-msvc.txt",
+    "sha256": "fa1bd040c5bdeefe65b3821cebf474f2733ce65df13089bd151dda1778e62fe8",
+    "retrievedAt": "2026-11-13T08:58:28.260Z"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tailwindlabs/tailwindcss/v4.3.5/LICENSE",
+    "file": "research/rights/upstream/tailwind-oxide.txt",
+    "sha256": "60e0b68c0f35c078eef3a5d29419d0b03ff84ec1df9c3f9d6e39a519a5ae7985",
+    "retrievedAt": "2026-11-13T08:58:28.279Z"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/napi-rs/napi-rs/main/LICENSE",
+    "file": "research/rights/upstream/napi-wasm.txt",
+    "sha256": "3f1ce66533302df3a32edbfdfc0b78f0dd34659e4c1f5817162e5ea3c2297215",
+    "retrievedAt": "2026-11-13T08:58:28.290Z"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/toyobayashi/wasm-util/master/LICENSE",
+    "file": "research/rights/upstream/tybys-wasm.txt",
+    "sha256": "09e436100bf926e78df875ec80cf3d0c643dfec779b52cfe2aa96afa0de714cb",
+    "retrievedAt": "2026-11-13T08:58:28.620Z"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fb55/boolbase/master/LICENSE",
+    "file": "research/rights/upstream/boolbase.txt",
+    "sha256": "cdf4d87ae0a6c160227263bf4e39a0a10e30e89ae7256e0f7ac7bde0836552c6",
+    "retrievedAt": "2026-11-13T08:58:28.971Z"
+  }
+]

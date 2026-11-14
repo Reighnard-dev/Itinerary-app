@@ -1,0 +1,2488 @@
+{
+  "retrievedAt": "2026-11-13T09:09:17.323Z",
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 1088683,
+        "ns": 6,
+        "title": "File:Vancouver Stanley Park Second Beach panorama.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 721569,
+            "width": 6937,
+            "height": 398,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Vancouver_Stanley_Park_Second_Beach_panorama.jpg/500px-Vancouver_Stanley_Park_Second_Beach_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 29,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Vancouver_Stanley_Park_Second_Beach_panorama.jpg/1280px-Vancouver_Stanley_Park_Second_Beach_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Vancouver_Stanley_Park_Second_Beach_panorama.jpg/500px-Vancouver_Stanley_Park_Second_Beach_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 29,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Vancouver_Stanley_Park_Second_Beach_panorama.jpg/1280px-Vancouver_Stanley_Park_Second_Beach_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Vancouver_Stanley_Park_Second_Beach_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vancouver_Stanley_Park_Second_Beach_panorama.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1088683",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-08-25 07:05:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vancouver Stanley Park Second Beach panorama",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Second Beach (Vancouver)|Flickr images reviewed by trusted users|September 2004 Canada photographs|Photos in Flickr Explore|September 2004 in Vancouver|Files from Bryan Partington Flickr stream",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Vancouver\" title=\"Vancouver\">Vancouver</a>: <a href=\"//commons.wikimedia.org/wiki/Stanley_Park\" title=\"Stanley Park\">Stanley Park</a> ~ Second Beach panorama",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2004-09-21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.flickr.com/photos/striatic/516758/\">[1]</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/striatic/\">hobvias sudoneighm</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 3102084,
+        "ns": 6,
+        "title": "File:Cat Cat waterfall.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3661659,
+            "width": 1959,
+            "height": 2939,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Cat_Cat_waterfall.jpg/500px-Cat_Cat_waterfall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Cat_Cat_waterfall.jpg/1280px-Cat_Cat_waterfall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Cat_Cat_waterfall.jpg/500px-Cat_Cat_waterfall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Cat_Cat_waterfall.jpg/1280px-Cat_Cat_waterfall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cat_Cat_waterfall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cat_Cat_waterfall.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3102084",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-11-16 10:03:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cat Cat waterfall",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 300D|Cat Cat Waterfalls|Flickr images reviewed by trusted users|Unknown date|Incorrect Exif date|Exposure time 3.2 sec|Long exposure photographs of waterfalls",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A popular spot for a refreshing dip for tourist and locals alike at the Cat Cat waterfall half an hour from Sapa Town.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date<br>Date, time or both in the file <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif metadata</a></span> are incorrect/invalid.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/32476352@N00/69593412/\">\"Silver Flows of Cat Cat\" Sapa,Vietnam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/32476352@N00\">KS Chew</a> from Singapore, Singapore",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 4646402,
+        "ns": 6,
+        "title": "File:Temple of Hephaestus and the old Agora.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1778609,
+            "width": 3264,
+            "height": 2448,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Temple_of_Hephaestus_and_the_old_Agora.jpg/500px-Temple_of_Hephaestus_and_the_old_Agora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 375,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Temple_of_Hephaestus_and_the_old_Agora.jpg/1280px-Temple_of_Hephaestus_and_the_old_Agora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Temple_of_Hephaestus_and_the_old_Agora.jpg/500px-Temple_of_Hephaestus_and_the_old_Agora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 375,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Temple_of_Hephaestus_and_the_old_Agora.jpg/1280px-Temple_of_Hephaestus_and_the_old_Agora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Temple_of_Hephaestus_and_the_old_Agora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Temple_of_Hephaestus_and_the_old_Agora.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4646402",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-08-28 02:30:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Temple of Hephaestus and the old Agora",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Olympus E-500|Flickr images uploaded by Flickr upload bot|Panoramic views of Temple of Hephaestus in Athens",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Temple of Hephaestus and the old Agora: A steller overview of City life... A city rich in history, architectures, beautiful people, good eats, and of course, somewhere off thebeaten paths to explore, are the white sandy beaches where for the most part these city dwellers eventually congregate to have some R&amp;R.\nNow many average Greeks who live in Athens says that they live in tiny apartments here and often help each other, nontheless save their earnings, enough to have a getaway place somewhere in the small towns where wide open spaces are easy to comebye, where time passes bye without any querry on schedules, where the air you breath is refreshing and clean, and the sounds one can hear are sound of breeze, waves breaking off the shore and birds off a branch chirping.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2006-07-14 12:20:15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "originally posted to <b><a href=\"//commons.wikimedia.org/wiki/Flickr\" class=\"mw-redirect\" title=\"Flickr\">Flickr</a></b> as <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/46159968@N00/401019629\">Thission and the old Agora</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/46159968@N00\">Ken Russell Salvador</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table id=\"FlickrReview\" style=\"width:100%; margin:0.3em auto; text-align:start; background-color:var(--background-color-success-subtle,#d5fdf4); padding: 3px; border:1px solid var(--border-color-base,#a2a9b1); color:inherit;\" dir=\"ltr\" lang=\"en\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><a href=\"https://en.wikipedia.org/wiki/Flickr\" class=\"extiw\" title=\"en:Flickr\">Flickr</a></b>, was uploaded to Commons using <b><a href=\"//commons.wikimedia.org/wiki/User:Flickr_upload_bot\" title=\"User:Flickr upload bot\">Flickr upload bot</a></b> on 28 August 2008, 02:30 by <span id=\"flickr_upload_bot_reviewer\"><b><a href=\"//commons.wikimedia.org/wiki/User:Dorieo\" title=\"User:Dorieo\">Dorieo</a></b></span>. On that date, it was confirmed to be licensed under the terms of the license indicated.\n</td>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/60px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/120px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span>\n</td></tr></tbody></table>\n<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 17515772,
+        "ns": 6,
+        "title": "File:Sapa lake.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4619092,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Sapa_lake.jpg/500px-Sapa_lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 375,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Sapa_lake.jpg/1280px-Sapa_lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Sapa_lake.jpg/500px-Sapa_lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 375,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Sapa_lake.jpg/1280px-Sapa_lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sapa_lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sapa_lake.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17515772",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-11-29 02:04:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sapa lake",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Fujifilm FinePix F100fd|Flickr images uploaded by Flickr upload bot|Sa Pa Lake",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sapa lake",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-11-23 17:23:44",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Flickr\" class=\"mw-redirect\" title=\"Flickr\">Flickr</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/19349404@N00/3650166494\">Sapa lake</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/19349404@N00\">Yun Huang Yong</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table id=\"FlickrReview\" style=\"width:100%; margin:0.3em auto; text-align:start; background-color:var(--background-color-success-subtle,#d5fdf4); padding: 3px; border:1px solid var(--border-color-base,#a2a9b1); color:inherit;\" dir=\"ltr\" lang=\"en\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><a href=\"https://en.wikipedia.org/wiki/Flickr\" class=\"extiw\" title=\"en:Flickr\">Flickr</a></b>, was uploaded to Commons using <b><a href=\"//commons.wikimedia.org/wiki/User:Flickr_upload_bot\" title=\"User:Flickr upload bot\">Flickr upload bot</a></b> on 29 November 2011, 02:03 by <span id=\"flickr_upload_bot_reviewer\"><b><a href=\"//commons.wikimedia.org/wiki/User:Paris_16\" title=\"User:Paris 16\">Paris 16</a></b></span>. On that date, it was confirmed to be licensed under the terms of the license indicated.\n</td>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/60px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/120px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span>\n</td></tr></tbody></table>\n<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 26113816,
+        "ns": 6,
+        "title": "File:Fansipan Summit.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 707550,
+            "width": 2440,
+            "height": 2208,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Fansipan_Summit.jpg/500px-Fansipan_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 452,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Fansipan_Summit.jpg/1280px-Fansipan_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Fansipan_Summit.jpg/500px-Fansipan_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 452,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Fansipan_Summit.jpg/1280px-Fansipan_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Fansipan_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fansipan_Summit.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26113816",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-05-16 11:29:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Fansipan Summit",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot G12|Self-published work|Fansipan summit mark",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Fansipan summit",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-05-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Isderion\" title=\"User:Isderion\">Isderion</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Isderion\" title=\"User talk:Isderion\"><span class=\"signature-talk\">talk</span></a>)",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0 de",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0 de",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0-de",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 47678202,
+        "ns": 6,
+        "title": "File:Beach Opposite Corniche road - panoramio.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1056837,
+            "width": 2532,
+            "height": 1400,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Beach_Opposite_Corniche_road_-_panoramio.jpg/500px-Beach_Opposite_Corniche_road_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 276,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Beach_Opposite_Corniche_road_-_panoramio.jpg/1280px-Beach_Opposite_Corniche_road_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Beach_Opposite_Corniche_road_-_panoramio.jpg/500px-Beach_Opposite_Corniche_road_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 276,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Beach_Opposite_Corniche_road_-_panoramio.jpg/1280px-Beach_Opposite_Corniche_road_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Beach_Opposite_Corniche_road_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Beach_Opposite_Corniche_road_-_panoramio.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=47678202",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-03-22 08:40:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Beach Opposite Corniche road - panoramio",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Views of Abu Dhabi|Panoramio files uploaded by Panoramio upload bot|Media needing category review as of 22 March 2016|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "24.476574",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "54.332231",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Beach Opposite Corniche road",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "13 May 2008 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161013105010/http://www.panoramio.com/photo/10176658\">https://web.archive.org/web/20161013105010/http://www.panoramio.com/photo/10176658</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161013105012/http://www.panoramio.com/user/912816?with_photo_id=10176658\">Jacky Lee</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Jacky Lee</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 22 March 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\"></a></span>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Jacky Lee",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 56294331,
+        "ns": 6,
+        "title": "File:Kunsthistorisches Museum Wien, Zoffani, Kaiser Franz I. im Alter von sieben Jahren.JPG",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1755967,
+            "width": 1501,
+            "height": 2311,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Kunsthistorisches_Museum_Wien%2C_Zoffani%2C_Kaiser_Franz_I._im_Alter_von_sieben_Jahren.JPG/500px-Kunsthistorisches_Museum_Wien%2C_Zoffani%2C_Kaiser_Franz_I._im_Alter_von_sieben_Jahren.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 770,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Kunsthistorisches_Museum_Wien%2C_Zoffani%2C_Kaiser_Franz_I._im_Alter_von_sieben_Jahren.JPG/1280px-Kunsthistorisches_Museum_Wien%2C_Zoffani%2C_Kaiser_Franz_I._im_Alter_von_sieben_Jahren.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Kunsthistorisches_Museum_Wien%2C_Zoffani%2C_Kaiser_Franz_I._im_Alter_von_sieben_Jahren.JPG/500px-Kunsthistorisches_Museum_Wien%2C_Zoffani%2C_Kaiser_Franz_I._im_Alter_von_sieben_Jahren.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 770,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Kunsthistorisches_Museum_Wien%2C_Zoffani%2C_Kaiser_Franz_I._im_Alter_von_sieben_Jahren.JPG/1280px-Kunsthistorisches_Museum_Wien%2C_Zoffani%2C_Kaiser_Franz_I._im_Alter_von_sieben_Jahren.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Kunsthistorisches_Museum_Wien%2C_Zoffani%2C_Kaiser_Franz_I._im_Alter_von_sieben_Jahren.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kunsthistorisches_Museum_Wien,_Zoffani,_Kaiser_Franz_I._im_Alter_von_sieben_Jahren.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=56294331",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-12-01 21:05:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kunsthistorisches Museum Wien, Zoffani, Kaiser Franz I. im Alter von sieben Jahren",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Artworks with Wikidata item|Artworks with known accession number|Artworks with accession number from Wikidata|Files with coordinates missing SDC location of creation|Artworks missing digital representation of for 2D work|Artworks with SDC link missing|Paintings by Johann Zoffany in the Kunsthistorisches Museum",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.203861",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "16.361556",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "DateTimeOriginal": {
+                "value": "2016-09-18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Dguendel&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Dguendel (page does not exist)\">Dguendel</a>",
+                "source": "commons-desc-page"
+              },
+              "AuthorCount": {
+                "value": 2,
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 69535524,
+        "ns": 6,
+        "title": "File:9812National Museum of Natural History Manila 03.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5593293,
+            "width": 3456,
+            "height": 4608,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/9812National_Museum_of_Natural_History_Manila_03.jpg/500px-9812National_Museum_of_Natural_History_Manila_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 667,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/9812National_Museum_of_Natural_History_Manila_03.jpg/1280px-9812National_Museum_of_Natural_History_Manila_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/9812National_Museum_of_Natural_History_Manila_03.jpg/500px-9812National_Museum_of_Natural_History_Manila_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 667,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/9812National_Museum_of_Natural_History_Manila_03.jpg/1280px-9812National_Museum_of_Natural_History_Manila_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/9812National_Museum_of_Natural_History_Manila_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:9812National_Museum_of_Natural_History_Manila_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69535524",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-05-29 16:49:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "9812National Museum of Natural History Manila 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon Coolpix AW100|CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Museum of Natural History (2nd-3rd floors: Our natural inheritance, marine realm, mangroves, beaches and intertidal zones)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "14.583056",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "120.982222",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Grus antigone Sarus crane  Grus antigone luzonica Blanford 1896 Pelecanus philippensis Spot-billed pelican Pelecanus philippensis gmelin 1789 <a rel=\"nofollow\" class=\"external text\" href=\"http://wikimapia.org/1676192/National-Museum-of-Natural-History\">National Museum of Natural History</a> 14°34'59\"N   120°58'56\"E Museum of Natural History (Ground floor: Tree of Life Foyer - Introduction) <a rel=\"nofollow\" class=\"external text\" href=\"http://wikimapia.org/187056/Teodoro-F-Valencia-Circle\">Agrifina Circle</a> 14°35'3\"N   120°58'53\"E Exterior of the National Museum of Natural History (Manila) National Museum of Natural History (Ground floor: Tree of Life Foyer - Introduction) Museum of Natural History (2nd-3rd floors: Our natural inheritance, marine realm, mangroves, beaches and intertidal zones) <a href=\"https://en.wikipedia.org/wiki/en:National_Museum_of_Natural_History_(Manila)\" class=\"extiw\" title=\"w:en:National Museum of Natural History (Manila)\">National Museum of Natural History (Manila)</a> (Note: Judge Florentino Floro, the owner, to repeat, Donor <a href=\"https://en.wikipedia.org/wiki/en:Florentino_Floro\" class=\"extiw\" title=\"w:en:Florentino Floro\">Florentino Floro</a> of all these photos hereby donate gratuitously, freely and unconditionally all these photos to and for Wikimedia Commons, exclusively, for public use of the public domain, and again without any condition whatsoever).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-05-24 15:54:50",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Judgefloro\" title=\"User:Judgefloro\">Judgefloro</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 77462458,
+        "ns": 6,
+        "title": "File:Palm Beach Qld Surf Life Saving Club - Pura Luhur Uluwatu Temple, Bukit Peninsula, Bali, Indonesia, September 1977 - Photo John McPherson 11-14-2015 94a.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12772327,
+            "width": 7776,
+            "height": 5184,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Palm_Beach_Qld_Surf_Life_Saving_Club_-_Pura_Luhur_Uluwatu_Temple%2C_Bukit_Peninsula%2C_Bali%2C_Indonesia%2C_September_1977_-_Photo_John_McPherson_11-14-2015_94a.jpg/500px-Palm_Beach_Qld_Surf_Life_Saving_Club_-_Pura_Luhur_Uluwatu_Temple%2C_Bukit_Peninsula%2C_Bali%2C_Indonesia%2C_September_1977_-_Photo_John_McPherson_11-14-2015_94a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 333,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Palm_Beach_Qld_Surf_Life_Saving_Club_-_Pura_Luhur_Uluwatu_Temple%2C_Bukit_Peninsula%2C_Bali%2C_Indonesia%2C_September_1977_-_Photo_John_McPherson_11-14-2015_94a.jpg/1280px-Palm_Beach_Qld_Surf_Life_Saving_Club_-_Pura_Luhur_Uluwatu_Temple%2C_Bukit_Peninsula%2C_Bali%2C_Indonesia%2C_September_1977_-_Photo_John_McPherson_11-14-2015_94a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Palm_Beach_Qld_Surf_Life_Saving_Club_-_Pura_Luhur_Uluwatu_Temple%2C_Bukit_Peninsula%2C_Bali%2C_Indonesia%2C_September_1977_-_Photo_John_McPherson_11-14-2015_94a.jpg/500px-Palm_Beach_Qld_Surf_Life_Saving_Club_-_Pura_Luhur_Uluwatu_Temple%2C_Bukit_Peninsula%2C_Bali%2C_Indonesia%2C_September_1977_-_Photo_John_McPherson_11-14-2015_94a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 333,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Palm_Beach_Qld_Surf_Life_Saving_Club_-_Pura_Luhur_Uluwatu_Temple%2C_Bukit_Peninsula%2C_Bali%2C_Indonesia%2C_September_1977_-_Photo_John_McPherson_11-14-2015_94a.jpg/1280px-Palm_Beach_Qld_Surf_Life_Saving_Club_-_Pura_Luhur_Uluwatu_Temple%2C_Bukit_Peninsula%2C_Bali%2C_Indonesia%2C_September_1977_-_Photo_John_McPherson_11-14-2015_94a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Palm_Beach_Qld_Surf_Life_Saving_Club_-_Pura_Luhur_Uluwatu_Temple%2C_Bukit_Peninsula%2C_Bali%2C_Indonesia%2C_September_1977_-_Photo_John_McPherson_11-14-2015_94a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Palm_Beach_Qld_Surf_Life_Saving_Club_-_Pura_Luhur_Uluwatu_Temple,_Bukit_Peninsula,_Bali,_Indonesia,_September_1977_-_Photo_John_McPherson_11-14-2015_94a.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77462458",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-03-20 10:34:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Palm Beach Qld Surf Life Saving Club - Pura Luhur Uluwatu Temple, Bukit Peninsula, Bali, Indonesia, September 1977 - Photo John McPherson 11-14-2015 94a",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Palm Beach Qld SLSC Indonesian Instructional Tour 1977",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Palm Beach Qld SLSC visited the famed surf break at Uluwatu on the Bukit peninsular one weekend.  The surf did not disappoint.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-11-14 14:39:34",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:John_Robert_McPherson\" title=\"User:John Robert McPherson\">John Robert McPherson</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 85667766,
+        "ns": 6,
+        "title": "File:Stone church in Sapa.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1021820,
+            "width": 2448,
+            "height": 3264,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Stone_church_in_Sapa.jpg/500px-Stone_church_in_Sapa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 667,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Stone_church_in_Sapa.jpg/1280px-Stone_church_in_Sapa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Stone_church_in_Sapa.jpg/500px-Stone_church_in_Sapa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 667,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Stone_church_in_Sapa.jpg/1280px-Stone_church_in_Sapa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Stone_church_in_Sapa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stone_church_in_Sapa.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=85667766",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-01-06 15:00:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Stone church in Sapa",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Sa Pa Church",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Stone church in Sapa",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-09-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Dansapa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Dansapa (page does not exist)\">Dansapa</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 90105697,
+        "ns": 6,
+        "title": "File:Sunset Beach April 20 420, Vancouver during coronavirus pandemic (49799866526).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6115940,
+            "width": 5616,
+            "height": 3744,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Sunset_Beach_April_20_420%2C_Vancouver_during_coronavirus_pandemic_%2849799866526%29.jpg/500px-Sunset_Beach_April_20_420%2C_Vancouver_during_coronavirus_pandemic_%2849799866526%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 333,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Sunset_Beach_April_20_420%2C_Vancouver_during_coronavirus_pandemic_%2849799866526%29.jpg/1280px-Sunset_Beach_April_20_420%2C_Vancouver_during_coronavirus_pandemic_%2849799866526%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Sunset_Beach_April_20_420%2C_Vancouver_during_coronavirus_pandemic_%2849799866526%29.jpg/500px-Sunset_Beach_April_20_420%2C_Vancouver_during_coronavirus_pandemic_%2849799866526%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 333,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Sunset_Beach_April_20_420%2C_Vancouver_during_coronavirus_pandemic_%2849799866526%29.jpg/1280px-Sunset_Beach_April_20_420%2C_Vancouver_during_coronavirus_pandemic_%2849799866526%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sunset_Beach_April_20_420%2C_Vancouver_during_coronavirus_pandemic_%2849799866526%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sunset_Beach_April_20_420,_Vancouver_during_coronavirus_pandemic_(49799866526).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90105697",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-05-11 19:17:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sunset Beach April 20 420, Vancouver during coronavirus pandemic (49799866526)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Beaches of Vancouver|Flickr images reviewed by FlickreviewR 2|Photographs by GoToVan|Parks and gardens during the COVID-19 pandemic in Vancouver",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sunset Beach April 20 420, Vancouver  during coronavirus pandemic",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-04-21 09:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/gotovan/49799866526/\">Sunset Beach April 20 420, Vancouver  during coronavirus pandemic</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/47022937@N03\">GoToVan</a> from Vancouver, Canada",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 97143176,
+        "ns": 6,
+        "title": "File:Hyde Street Pier, San Francisco Maritime National Historical Park, San Francisco, California (25844138248).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3352070,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Hyde_Street_Pier%2C_San_Francisco_Maritime_National_Historical_Park%2C_San_Francisco%2C_California_%2825844138248%29.jpg/500px-Hyde_Street_Pier%2C_San_Francisco_Maritime_National_Historical_Park%2C_San_Francisco%2C_California_%2825844138248%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 375,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Hyde_Street_Pier%2C_San_Francisco_Maritime_National_Historical_Park%2C_San_Francisco%2C_California_%2825844138248%29.jpg/1280px-Hyde_Street_Pier%2C_San_Francisco_Maritime_National_Historical_Park%2C_San_Francisco%2C_California_%2825844138248%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Hyde_Street_Pier%2C_San_Francisco_Maritime_National_Historical_Park%2C_San_Francisco%2C_California_%2825844138248%29.jpg/500px-Hyde_Street_Pier%2C_San_Francisco_Maritime_National_Historical_Park%2C_San_Francisco%2C_California_%2825844138248%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 375,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Hyde_Street_Pier%2C_San_Francisco_Maritime_National_Historical_Park%2C_San_Francisco%2C_California_%2825844138248%29.jpg/1280px-Hyde_Street_Pier%2C_San_Francisco_Maritime_National_Historical_Park%2C_San_Francisco%2C_California_%2825844138248%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Hyde_Street_Pier%2C_San_Francisco_Maritime_National_Historical_Park%2C_San_Francisco%2C_California_%2825844138248%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hyde_Street_Pier,_San_Francisco_Maritime_National_Historical_Park,_San_Francisco,_California_(25844138248).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97143176",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-11-30 03:37:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hyde Street Pier, San Francisco Maritime National Historical Park, San Francisco, California (25844138248)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "San Francisco Maritime National Historical Park|Hyde Street Pier|Signs of the U.S. National Park Service|Files with coordinates missing SDC location of creation|Photographs by Ken Lund|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "37.807647",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-122.420917",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>The San Francisco Maritime National Historical Park is located in San Francisco, California, United States. The park includes a fleet of historic vessels, a visitor center, a maritime museum, and a library/research facility. The park used to be referred to as the San Francisco Maritime Museum, however the former 1951 name changed in 1978 when the collections were acquired by the National Park Service. Today's San Francisco Maritime National Historical Park was authorized in 1988; the maritime museum is among the park's many cultural resources. The park also incorporates the Aquatic Park Historic District, bounded by Van Ness Avenue, Polk Street, and Hyde Street.\n</p><p>The Visitor Center is housed in the park's 1909 waterfront warehouse, located at the corner of Hyde and Jefferson streets. The City of San Francisco declared the four-story brick structure a historic landmark in 1974, and the building was listed on the National Register of Historic Places in 1975. Inside, exhibits (including a first order Fresnel lighthouse lens and a shipwrecked boat) tell the story of San Francisco's colorful and diverse maritime heritage. The visitor center also contains a theater and a ranger-staffed information desk.\n</p><p>The maritime museum was until recently housed in a Streamline Moderne (late Art Deco) building that is the centerpiece of the Aquatic Park Historic District, a National Historic Landmark at the foot of Polk Street and a minute's walk from the visitor center and Hyde Street Pier. The building was originally built (starting in 1936) by the WPA as a public bathhouse, and its interior is decorated with fantastic and colorful murals, created primarily by artist and color theoretician Hilaire Hiler. The architects were William Mooser Jr. and William Mooser III.\n</p><p>The Visitors Center, Hyde Street Pier and Maritime Museum are all situated adjacent to the foot of Hyde Street and at the western end of the Fisherman's Wharf district. The park headquarters and Maritime Research Center are located in Fort Mason, some 10 minutes walk to the west of the other sites. The Beach and Hyde Street terminal of the San Francisco cable car system adjoins the main site, while the Jones Street terminal of the F Market historic streetcar line is some 5 minutes walk to the east.\n</p><p>Aquatic Park is a popular place for open water swimming, both for recreation and training. The South End Rowing Club and Dolphin Club are located in Aquatic Park. Recently there have been several incidents of swimmers being bitten by sea lions.\n</p><p>&lt;a href=\"<a class=\"external free\" href=\"https://en.wikipedia.org/wiki/San_Francisco_Maritime_National_Historical_Park\">https://en.wikipedia.org/wiki/San_Francisco_Maritime_National_Historical_Park</a>\" rel=\"noreferrer nofollow\"&gt;en.wikipedia.org/wiki/San_Francisco_Maritime_National_His...&lt;/a&gt;\n</p>\n&lt;a href=\"<a class=\"external free\" href=\"https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License\">https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License</a>\" rel=\"noreferrer nofollow\"&gt;en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_...&lt;/a&gt;",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-01-14 16:50",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/kenlund/25844138248/\">Hyde Street Pier, San Francisco Maritime National Historical Park, San Francisco, California</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/75683070@N00\">Ken Lund</a> from Reno, Nevada, USA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 104711903,
+        "ns": 6,
+        "title": "File:Haeundae Beach Busan (45698773262).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3076692,
+            "width": 6720,
+            "height": 4480,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Haeundae_Beach_Busan_%2845698773262%29.jpg/500px-Haeundae_Beach_Busan_%2845698773262%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 333,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Haeundae_Beach_Busan_%2845698773262%29.jpg/1280px-Haeundae_Beach_Busan_%2845698773262%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Haeundae_Beach_Busan_%2845698773262%29.jpg/500px-Haeundae_Beach_Busan_%2845698773262%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 333,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Haeundae_Beach_Busan_%2845698773262%29.jpg/1280px-Haeundae_Beach_Busan_%2845698773262%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Haeundae_Beach_Busan_%2845698773262%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haeundae_Beach_Busan_(45698773262).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104711903",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-01 01:23:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haeundae Beach Busan (45698773262)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Haeundae Beach|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Files uploaded by Orizan|TOO-South Korea|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "35.158844",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "129.160577",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "海雲臺海水浴場, 海雲台海水浴場, 釜山廣域市, 韓國, 南韓, 大韓民國, Haeundae Beach, Busan, Pusan, Busan Metropolitan City, South Korea, Republic of Korea, ROK, Daehan Minguk, 해운대해수욕장, 부산, 광역시, 부산광역시, 대한민국",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-10-14 14:35",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/bryansjs/45698773262/\">海雲臺海水浴場, 海雲台海水浴場, 釜山廣域市, 韓國, 南韓, 大韓民國, Haeundae Beach, Busan, Pusan, Busan Metropolitan City, South Korea, Republic of Korea, ROK, Daehan Minguk, 해운대해수욕장, 부산, 광역시, 부산광역시, 대한민국</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/91049143@N00\">bryan...</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 113284430,
+        "ns": 6,
+        "title": "File:O Quy Ho pass.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 396543,
+            "width": 2048,
+            "height": 1324,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/O_Quy_Ho_pass.jpg/500px-O_Quy_Ho_pass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 323,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/O_Quy_Ho_pass.jpg/1280px-O_Quy_Ho_pass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/O_Quy_Ho_pass.jpg/500px-O_Quy_Ho_pass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 323,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/O_Quy_Ho_pass.jpg/1280px-O_Quy_Ho_pass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/O_Quy_Ho_pass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:O_Quy_Ho_pass.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113284430",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-12-12 08:54:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "O Quy Ho pass",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ô Quý Hồ pass|Self-published work|Photographs by Kiếm Anh",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Đèo Ô Quý Hồ",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-12-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Photographed by Nguyễn Kiếm Anh, displayed at his Facebook page <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.facebook.com/photo/?fbid=498548880242644&amp;set=gm.602693459778034\">[1]</a>, and is allowed to be released under free license by the photographer Nguyễn Kiếm Anh - in written communication with the uploader.",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/Nguyenkiemanh\">Kiếm Anh</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 133325814,
+        "ns": 6,
+        "title": "File:Beach volleyball courts beneath trees on Copacabana Beach, Rio de Janeiro, Brazil.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 34444159,
+            "width": 8256,
+            "height": 5504,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Beach_volleyball_courts_beneath_trees_on_Copacabana_Beach%2C_Rio_de_Janeiro%2C_Brazil.jpg/500px-Beach_volleyball_courts_beneath_trees_on_Copacabana_Beach%2C_Rio_de_Janeiro%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 333,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Beach_volleyball_courts_beneath_trees_on_Copacabana_Beach%2C_Rio_de_Janeiro%2C_Brazil.jpg/1280px-Beach_volleyball_courts_beneath_trees_on_Copacabana_Beach%2C_Rio_de_Janeiro%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Beach_volleyball_courts_beneath_trees_on_Copacabana_Beach%2C_Rio_de_Janeiro%2C_Brazil.jpg/500px-Beach_volleyball_courts_beneath_trees_on_Copacabana_Beach%2C_Rio_de_Janeiro%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 333,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Beach_volleyball_courts_beneath_trees_on_Copacabana_Beach%2C_Rio_de_Janeiro%2C_Brazil.jpg/1280px-Beach_volleyball_courts_beneath_trees_on_Copacabana_Beach%2C_Rio_de_Janeiro%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Beach_volleyball_courts_beneath_trees_on_Copacabana_Beach%2C_Rio_de_Janeiro%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Beach_volleyball_courts_beneath_trees_on_Copacabana_Beach,_Rio_de_Janeiro,_Brazil.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133325814",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-06-20 01:55:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Beach volleyball courts beneath trees on Copacabana Beach, Rio de Janeiro, Brazil",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Beach volleyball|Rio de Janeiro|Copacabana Beach|Self-published work|Images from Rio de Janeiro Project|Media created with Nikon Z7ii provided by the Quebec WikiClub in 2023|Copacabana Beach in 2023|Media created with Nikon Z7ii provided by the Quebec WikiClub|Beaches by Wilfredor",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Beach volleyball courts beneath large trees on Copacabana Beach in Rio de Janeiro, Brazil.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-06-16 15:20:40",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q115464159\" class=\"extiw\" title=\"d:Q115464159\"><span title=\"developer analyst and photographer from Venezuela\">Wilfredor</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 134029127,
+        "ns": 6,
+        "title": "File:Vietnam-Sapa-Ham Rong Mountain-PANO 20180111 111620.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1521186,
+            "width": 1961,
+            "height": 1080,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Vietnam-Sapa-Ham_Rong_Mountain-PANO_20180111_111620.jpg/500px-Vietnam-Sapa-Ham_Rong_Mountain-PANO_20180111_111620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 275,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Vietnam-Sapa-Ham_Rong_Mountain-PANO_20180111_111620.jpg/1280px-Vietnam-Sapa-Ham_Rong_Mountain-PANO_20180111_111620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Vietnam-Sapa-Ham_Rong_Mountain-PANO_20180111_111620.jpg/500px-Vietnam-Sapa-Ham_Rong_Mountain-PANO_20180111_111620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 275,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Vietnam-Sapa-Ham_Rong_Mountain-PANO_20180111_111620.jpg/1280px-Vietnam-Sapa-Ham_Rong_Mountain-PANO_20180111_111620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Vietnam-Sapa-Ham_Rong_Mountain-PANO_20180111_111620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vietnam-Sapa-Ham_Rong_Mountain-PANO_20180111_111620.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=134029127",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-07-06 17:40:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vietnam-Sapa-Ham Rong Mountain-PANO 20180111 111620",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sa Pa ward|January 2018 in Vietnam|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Files from mmmmngai Flickr stream",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.334533",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.847768",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sa Pa, Vietnam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-02-11 19:22:27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/12720221@N08/38602443480/\">https://www.flickr.com/photos/12720221@N08/38602443480/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "mmmmngai@rogers.com",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162448605,
+        "ns": 6,
+        "title": "File:Ta Van Muong Ha vallei.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7238263,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Ta_Van_Muong_Ha_vallei.jpg/500px-Ta_Van_Muong_Ha_vallei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 375,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Ta_Van_Muong_Ha_vallei.jpg/1280px-Ta_Van_Muong_Ha_vallei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Ta_Van_Muong_Ha_vallei.jpg/500px-Ta_Van_Muong_Ha_vallei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 375,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Ta_Van_Muong_Ha_vallei.jpg/1280px-Ta_Van_Muong_Ha_vallei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Ta_Van_Muong_Ha_vallei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ta_Van_Muong_Ha_vallei.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162448605",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-19 20:48:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ta Van Muong Ha vallei",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lao Cai|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-12|Muong Hoa River",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.309167",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.865556",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ta Van Muong Ha vallei, Lao Chai San ii Bridge, Beautiful view of the mountains and valleys from the bridge at Lao Chai village in Sapa, Ta Van Muong Ha vallei",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "12 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andre_Hospers&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andre Hospers (page does not exist)\">Andre Hospers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162615221,
+        "ns": 6,
+        "title": "File:Sapa Ta Van hike near Sapa and bridge Ta Van.Lao Chai. Cau May.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2427258,
+            "width": 4608,
+            "height": 2240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May.jpg/500px-Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 243,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May.jpg/1280px-Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May.jpg/500px-Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 243,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May.jpg/1280px-Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162615221",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 10:53:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sapa Ta Van hike near Sapa and bridge Ta Van.Lao Chai. Cau May",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sa Pa|Hoogkerk|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-12|Mountains of Sa Pa|Streets in Sa Pa",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.329666",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.845433",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sapa.Ta Van hike near Sapa and bridge Lao Chai.Cau May",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "12 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JakobHosp&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JakobHosp (page does not exist)\">JakobHosp</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 162615265,
+        "ns": 6,
+        "title": "File:Sapa Ta Van hike near Sapa and bridge Ta Van.Lao Chai. Cau May (41480).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4322158,
+            "width": 4608,
+            "height": 2240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May_%2841480%29.jpg/500px-Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May_%2841480%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 243,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May_%2841480%29.jpg/1280px-Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May_%2841480%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May_%2841480%29.jpg/500px-Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May_%2841480%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 243,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May_%2841480%29.jpg/1280px-Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May_%2841480%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May_%2841480%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sapa_Ta_Van_hike_near_Sapa_and_bridge_Ta_Van.Lao_Chai._Cau_May_(41480).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162615265",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-22 10:54:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sapa Ta Van hike near Sapa and bridge Ta Van.Lao Chai. Cau May (41480)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sa Pa|Hoogkerk|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-12|Mountains of Sa Pa|Streets in Sa Pa",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.329666",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.845433",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sapa.Ta Van hike near Sapa and bridge Lao Chai.Cau May",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "12 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JakobHosp&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JakobHosp (page does not exist)\">JakobHosp</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 175926296,
+        "ns": 6,
+        "title": "File:ISS043-E-241987 - View of New York City - Brooklyn - Green Wood Cemetery - Prospect Park and Brooklyn Botanic Garden - Brooklyn Bridge - East River (cropped).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2950940,
+            "width": 3499,
+            "height": 1775,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/ISS043-E-241987_-_View_of_New_York_City_-_Brooklyn_-_Green_Wood_Cemetery_-_Prospect_Park_and_Brooklyn_Botanic_Garden_-_Brooklyn_Bridge_-_East_River_%28cropped%29.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 254,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/ISS043-E-241987_-_View_of_New_York_City_-_Brooklyn_-_Green_Wood_Cemetery_-_Prospect_Park_and_Brooklyn_Botanic_Garden_-_Brooklyn_Bridge_-_East_River_%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/ISS043-E-241987_-_View_of_New_York_City_-_Brooklyn_-_Green_Wood_Cemetery_-_Prospect_Park_and_Brooklyn_Botanic_Garden_-_Brooklyn_Bridge_-_East_River_%28cropped%29.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 254,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/ISS043-E-241987_-_View_of_New_York_City_-_Brooklyn_-_Green_Wood_Cemetery_-_Prospect_Park_and_Brooklyn_Botanic_Garden_-_Brooklyn_Bridge_-_East_River_%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/ISS043-E-241987_-_View_of_New_York_City_-_Brooklyn_-_Green_Wood_Cemetery_-_Prospect_Park_and_Brooklyn_Botanic_Garden_-_Brooklyn_Bridge_-_East_River_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS043-E-241987_-_View_of_New_York_City_-_Brooklyn_-_Green_Wood_Cemetery_-_Prospect_Park_and_Brooklyn_Botanic_Garden_-_Brooklyn_Bridge_-_East_River_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175926296",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-10-01 23:06:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ISS043-E-241987 - View of New York City - Brooklyn - Green Wood Cemetery - Prospect Park and Brooklyn Botanic Garden - Brooklyn Bridge - East River (cropped)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Prospect Park|Taken with Nikon D4|PD NASA|Green-Wood Cemetery|Bay Ridge Branch (Long Island Rail Road)|Images with annotations|Extracted images|New York City photographs taken on 2015-05-23|Images with 10+ annotations|ISS Expedition 43 Crew Earth Observations (dump)|PD-USGov missing SDC copyright status|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|Satellite pictures of Brooklyn, New York City|ISS photographs taken on 2015-05-23",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View of New York City taken during ISS Expedition 43. <a href=\"//commons.wikimedia.org/wiki/Brooklyn,_New_York_City\" title=\"Brooklyn, New York City\">Brooklyn</a>, <a href=\"//commons.wikimedia.org/wiki/Green-Wood_Cemetery\" class=\"mw-redirect\" title=\"Green-Wood Cemetery\">Green-Wood Cemetery</a>, <a href=\"//commons.wikimedia.org/wiki/Prospect_Park,_Brooklyn\" title=\"Prospect Park, Brooklyn\">Prospect Park</a> and <a href=\"//commons.wikimedia.org/wiki/Brooklyn_Botanic_Garden\" title=\"Brooklyn Botanic Garden\">Brooklyn Botanic Garden</a>, <a href=\"//commons.wikimedia.org/wiki/Brooklyn_Museum\" title=\"Brooklyn Museum\">Brooklyn Museum</a>, streets, Brooklyn Bridge and <a href=\"//commons.wikimedia.org/wiki/Manhattan_Bridge\" class=\"mw-redirect\" title=\"Manhattan Bridge\">Manhattan Bridge</a>, East River",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-05-23 11:40:24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS043&amp;roll=E&amp;frame=241987\">JSC Gateway to Astronaut Photography of Earth</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 176601834,
+        "ns": 6,
+        "title": "File:ISS043-E-242000 - View of New York City - Bronx Park - New York Botanical Garden - Mosholu Greenway Corridor - Jerome Park Reservoir - Pelham Parkway and Bay Park - Eastchester Bay - Orchard Beach - The Lagoon - City Island (cropped).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1362279,
+            "width": 1910,
+            "height": 2624,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/ISS043-E-242000_-_View_of_New_York_City_-_Bronx_Park_-_New_York_Botanical_Garden_-_Mosholu_Greenway_Corridor_-_Jerome_Park_Reservoir_-_Pelham_Parkway_and_Bay_Park_-_Eastchester_Bay_-_Orchard_Beach_-_The_Lagoon_-_City_Island_%28cropped%29.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 687,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/ISS043-E-242000_-_View_of_New_York_City_-_Bronx_Park_-_New_York_Botanical_Garden_-_Mosholu_Greenway_Corridor_-_Jerome_Park_Reservoir_-_Pelham_Parkway_and_Bay_Park_-_Eastchester_Bay_-_Orchard_Beach_-_The_Lagoon_-_City_Island_%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/ISS043-E-242000_-_View_of_New_York_City_-_Bronx_Park_-_New_York_Botanical_Garden_-_Mosholu_Greenway_Corridor_-_Jerome_Park_Reservoir_-_Pelham_Parkway_and_Bay_Park_-_Eastchester_Bay_-_Orchard_Beach_-_The_Lagoon_-_City_Island_%28cropped%29.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 687,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/ISS043-E-242000_-_View_of_New_York_City_-_Bronx_Park_-_New_York_Botanical_Garden_-_Mosholu_Greenway_Corridor_-_Jerome_Park_Reservoir_-_Pelham_Parkway_and_Bay_Park_-_Eastchester_Bay_-_Orchard_Beach_-_The_Lagoon_-_City_Island_%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/ISS043-E-242000_-_View_of_New_York_City_-_Bronx_Park_-_New_York_Botanical_Garden_-_Mosholu_Greenway_Corridor_-_Jerome_Park_Reservoir_-_Pelham_Parkway_and_Bay_Park_-_Eastchester_Bay_-_Orchard_Beach_-_The_Lagoon_-_City_Island_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS043-E-242000_-_View_of_New_York_City_-_Bronx_Park_-_New_York_Botanical_Garden_-_Mosholu_Greenway_Corridor_-_Jerome_Park_Reservoir_-_Pelham_Parkway_and_Bay_Park_-_Eastchester_Bay_-_Orchard_Beach_-_The_Lagoon_-_City_Island_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=176601834",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-10-12 15:02:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ISS043-E-242000 - View of New York City - Bronx Park - New York Botanical Garden - Mosholu Greenway Corridor - Jerome Park Reservoir - Pelham Parkway and Bay Park - Eastchester Bay - Orchard Beach - The Lagoon - City Island (cropped)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D4|PD NASA|Bronx Park|City Island, Bronx|Orchard Beach (Bronx)|Seton Falls Park|Pelham Bay Park|Parkchester, Bronx|Images with annotations|Jerome Park, Bronx|Extracted images|New York City photographs taken on 2015-05-23|Images with 10+ annotations|ISS Expedition 43 Crew Earth Observations (dump)|PD-USGov missing SDC copyright status|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|Pelham Parkway|ISS photographs taken on 2015-05-23|Satellite pictures of the Bronx, New York City",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View of New York City taken during ISS Expedition 43. <a href=\"//commons.wikimedia.org/wiki/The_Bronx\" title=\"The Bronx\">The Bronx</a>, Bronx Park, <a href=\"//commons.wikimedia.org/wiki/New_York_Botanical_Garden\" title=\"New York Botanical Garden\">New York Botanical Garden</a>, Mosholu-Pelham Greenway Corridor, Jerome Park Reservoir (filled, blue), Pelham Parkway and Pelham Bay Park, former landfill, Eastchester Bay Marina, Cherry Tree Point, Orchard Beach, The Lagoon, large car <a href=\"//commons.wikimedia.org/wiki/Parking\" title=\"Parking\">parking</a> site, Turtle Cove and Goose Creek Marsh, City Island, Hart Island, Long Island Sound",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-05-23 11:40:35",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS043&amp;roll=E&amp;frame=242000\">JSC Gateway to Astronaut Photography of Earth</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 191627697,
+        "ns": 6,
+        "title": "File:Sunrise at Gwangalli Beach, Busan.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4342088,
+            "width": 4284,
+            "height": 5712,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Sunrise_at_Gwangalli_Beach%2C_Busan.jpg/500px-Sunrise_at_Gwangalli_Beach%2C_Busan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 500,
+            "thumbheight": 667,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Sunrise_at_Gwangalli_Beach%2C_Busan.jpg/1280px-Sunrise_at_Gwangalli_Beach%2C_Busan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Sunrise_at_Gwangalli_Beach%2C_Busan.jpg/500px-Sunrise_at_Gwangalli_Beach%2C_Busan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 500,
+              "height": 667,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Sunrise_at_Gwangalli_Beach%2C_Busan.jpg/1280px-Sunrise_at_Gwangalli_Beach%2C_Busan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sunrise_at_Gwangalli_Beach%2C_Busan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sunrise_at_Gwangalli_Beach,_Busan.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=191627697",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-09 07:18:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sunrise at Gwangalli Beach, Busan",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Beaches of Busan|Gwangalli Beach|Self-published work|Files with coordinates missing SDC location of creation|Orange sunrises of South Korea|Sunrises at beaches of South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "35.149461",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "129.115128",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Photograph of sunrise at Gwangalli Beach in Busan, South Korea.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-04-29 06:22:43",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:VN.NguyenDucDuy&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:VN.NguyenDucDuy (page does not exist)\">VN.NguyenDucDuy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

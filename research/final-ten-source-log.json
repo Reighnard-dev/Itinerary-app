@@ -1,0 +1,27 @@
+{
+  "countryCodes": [
+    "PN",
+    "RE",
+    "BL",
+    "LC",
+    "SX",
+    "TC",
+    "TV",
+    "UA",
+    "UM",
+    "WF"
+  ],
+  "knowledgePasses": [
+    {
+      "cityQueue": 241,
+      "successfulCities": 221,
+      "note": "Exact GeoNames identifier, administrative containment, landmark type and nearby coordinates. One batch was rate limited."
+    },
+    {
+      "cityQueue": 27,
+      "successfulCities": 0,
+      "note": "Native-language follow-up including Ukrainian and Russian labels was rate limited (HTTP 429). No claim is made that these cities lack real landmarks."
+    }
+  ],
+  "note": "Individual records retain source URLs, coordinates and photo identities. Unverified cities remain empty rather than receiving invented or distant listings."
+}

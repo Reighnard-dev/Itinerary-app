@@ -1,0 +1,30 @@
+{
+  "@esbuild/win32-x64": {
+    "file": "research/rights/upstream/esbuild.txt",
+    "url": "https://raw.githubusercontent.com/evanw/esbuild/v0.28.2/LICENSE.md"
+  },
+  "@rollup/rollup-win32-x64-gnu": {
+    "file": "research/rights/upstream/rollup.txt",
+    "url": "https://raw.githubusercontent.com/rollup/rollup/v4.68.2/LICENSE.md"
+  },
+  "@rollup/rollup-win32-x64-msvc": {
+    "file": "research/rights/upstream/rollup-msvc.txt",
+    "url": "https://raw.githubusercontent.com/rollup/rollup/v4.68.2/LICENSE.md"
+  },
+  "@tailwindcss/oxide-wasm32-wasi": {
+    "file": "research/rights/upstream/tailwind-oxide.txt",
+    "url": "https://raw.githubusercontent.com/tailwindlabs/tailwindcss/v4.3.5/LICENSE"
+  },
+  "@napi-rs/wasm-runtime": {
+    "file": "research/rights/upstream/napi-wasm.txt",
+    "url": "https://raw.githubusercontent.com/napi-rs/napi-rs/main/LICENSE"
+  },
+  "@tybys/wasm-util": {
+    "file": "research/rights/upstream/tybys-wasm.txt",
+    "url": "https://raw.githubusercontent.com/toyobayashi/wasm-util/master/LICENSE"
+  },
+  "boolbase": {
+    "file": "research/rights/upstream/boolbase.txt",
+    "url": "https://raw.githubusercontent.com/fb55/boolbase/master/LICENSE"
+  }
+}

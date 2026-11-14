@@ -1,0 +1,315 @@
+{
+  "checked": 1541,
+  "privatelyRetained": 23,
+  "rejected": [
+    {
+      "id": "guide-in-ade1443a8488b865710a",
+      "name": "Mysore Palace",
+      "country": "India",
+      "city": "Mysuru",
+      "status": "visual-review-rejected",
+      "photo": {
+        "title": "মহীশূর প্রাসাদ সিড়ির গোড়ায় রক্ষিত স্ট্যাচু.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%A6%AE%E0%A6%B9%E0%A7%80%E0%A6%B6%E0%A7%82%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A6_%E0%A6%B8%E0%A6%BF%E0%A6%A1%E0%A6%BC%E0%A6%BF%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC_%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A4_%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%81.jpg",
+        "author": "রহিম সৈকত",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "match": "Exact Wikidata identity linked by the listing; coordinates checked",
+        "notices": [
+          "Own work",
+          "Creative Commons Attribution-Share Alike 4.0",
+          "Creator links: https://commons.wikimedia.org/w/index.php?title=User:%E0%A6%B0%E0%A6%B9%E0%A6%BF%E0%A6%AE_%E0%A6%B8%E0%A7%88%E0%A6%95%E0%A6%A4&action=edit&redlink=1"
+        ],
+        "url": "/images/places/5c9d3eacbc5f5739d3a582f3.jpg"
+      },
+      "identityEvidence": "Retained source-linked Wikidata identity cache",
+      "licenseEvidence": "research/rights/full-photo-recovery/requests/1442f9f9d3dacc4ba2405504c35c3f3f3576ee3680871727157c6faa545065de.json",
+      "reason": "Detail of a statue does not show the palace building; seek a representative palace view."
+    },
+    {
+      "id": "guide-il-bf4a0966895cc0a3a825",
+      "name": "Arbel mountain",
+      "country": "Israel",
+      "city": "Tiberias",
+      "status": "visual-review-rejected",
+      "photo": {
+        "title": "Rock-cut grave.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rock-cut_grave.jpg",
+        "author": "Owenglyndur",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "match": "Exact Wikidata identity linked by the listing; coordinates checked",
+        "notices": [
+          "Own work",
+          "Creative Commons Attribution 4.0",
+          "Creator links: https://commons.wikimedia.org/w/index.php?title=User:Owenglyndur&action=edit&redlink=1"
+        ],
+        "url": "/images/places/8a14d8855aac6627ed8249c9.jpg"
+      },
+      "identityEvidence": "Retained source-linked Wikidata identity cache",
+      "licenseEvidence": "research/rights/full-photo-recovery/requests/1d22d44406a32a733f4b04981e4a96c65c8a7e0f0175311865b0ea394cadb151.json",
+      "reason": "Close-up of rock-cut graves does not show the named mountain landscape."
+    },
+    {
+      "id": "guide-in-8f78df152fcc064b9c5e",
+      "name": "Venkateswara Temple",
+      "country": "India",
+      "city": "Tirupati",
+      "status": "visual-review-rejected",
+      "photo": {
+        "title": "South gopuram of Dwaraka Tirumala temple.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:South_gopuram_of_Dwaraka_Tirumala_temple.jpg",
+        "author": "Adityamadhav83",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "match": "Exact Wikidata identity linked by the listing; coordinates checked",
+        "notices": [
+          "Own work",
+          "Creative Commons Attribution 3.0",
+          "Creator links: https://commons.wikimedia.org/wiki/User:Adityamadhav83"
+        ],
+        "url": "/images/places/ee8aa5e2d8c5e40984bbe577.jpg"
+      },
+      "identityEvidence": "Retained source-linked Wikidata identity cache",
+      "licenseEvidence": "research/rights/full-photo-recovery/requests/1d22d44406a32a733f4b04981e4a96c65c8a7e0f0175311865b0ea394cadb151.json",
+      "reason": "Photograph identifies Dwaraka Tirumala temple, a different temple from the Tirupati listing."
+    },
+    {
+      "id": "guide-ma-91b36823d2b4fd74fd10",
+      "name": "Mahkama du Pacha",
+      "country": "Morocco",
+      "city": "Casablanca",
+      "status": "visual-review-rejected",
+      "photo": {
+        "title": "Mahkama du Pacha (70065).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahkama_du_Pacha_(70065).jpg",
+        "author": "Rahmoon70",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "match": "Exact Wikidata identity linked by the listing; coordinates checked",
+        "notices": [
+          "Own work",
+          "Creative Commons Attribution-Share Alike 4.0",
+          "Creator links: https://commons.wikimedia.org/w/index.php?title=User:Rahmoon70&action=edit&redlink=1"
+        ],
+        "url": "/images/places/0802e4090f1ee242fa90f088.jpg"
+      },
+      "identityEvidence": "Retained source-linked Wikidata identity cache",
+      "licenseEvidence": "research/rights/full-photo-recovery/requests/1d22d44406a32a733f4b04981e4a96c65c8a7e0f0175311865b0ea394cadb151.json",
+      "reason": "Photograph primarily shows a poster rather than the named palace architecture."
+    },
+    {
+      "id": "guide-in-cbda7fdef8ebeccac448",
+      "name": "Prithvi Theatre",
+      "country": "India",
+      "city": "Mumbai",
+      "status": "visual-review-rejected",
+      "photo": {
+        "title": "A play performance at Prithvi Theatre, Mumbai.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_play_performance_at_Prithvi_Theatre,_Mumbai.jpg",
+        "author": "Piu sen",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "match": "Exact Wikidata identity linked by the listing; coordinates checked",
+        "notices": [
+          "https://www.flickr.com/photos/piusen/1242811642/ — https://www.flickr.com/photos/piusen/1242811642/",
+          "Creative Commons Attribution 2.0",
+          "Creator links: https://www.flickr.com/photos/piusen/"
+        ],
+        "url": "/images/places/661ca34cb0ae16bc7dc6c4c8.jpg"
+      },
+      "identityEvidence": "Retained source-linked Wikidata identity cache",
+      "licenseEvidence": "research/rights/full-photo-recovery/requests/7303eefbc596a4280ae81060a84c0194b7741576d8d22b11799ab2b251591d01.json",
+      "reason": "Performance photo does not show the theatre venue; seek a building view."
+    },
+    {
+      "id": "overture-afd02a82-4084-4f67-a51c-d16a8925a928",
+      "name": "Colony Farm Regional Park",
+      "country": "Canada",
+      "city": "Fraser Heights",
+      "status": "visual-review-rejected",
+      "photo": {
+        "title": "American Bittern photographed at Colony Farm in Port Coquitlam by Kyle Bailey from City Sidewalk Marketing.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:American_Bittern_photographed_at_Colony_Farm_in_Port_Coquitlam_by_Kyle_Bailey_from_City_Sidewalk_Marketing.png",
+        "author": "Kyle Bailey",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "match": "Named place article with matching location coordinates",
+        "notices": [
+          "Own work",
+          "Creative Commons Attribution-Share Alike 4.0",
+          "Creator links: https://commons.wikimedia.org/w/index.php?title=User:DaBigCheeze&action=edit&redlink=1"
+        ],
+        "url": "/images/places/6178aee56f14009bff08c02f.jpg"
+      },
+      "identityEvidence": "Existing retained article discovery response",
+      "licenseEvidence": "research/rights/full-photo-recovery/requests/bf569319ee2de14dd54165dc11d5fa2c0607f9e70771537c7584f2cbbea63119.json",
+      "reason": "Bird close-up does not show the named park's landscape; seek a representative site view."
+    },
+    {
+      "id": "guide-fr-3181e8a099d0336bd494",
+      "name": "Centre Georges Pompidou",
+      "country": "France",
+      "city": "Paris",
+      "status": "visual-review-rejected",
+      "photo": {
+        "title": "Paris Montmartre Blick aufs Centre Georges-Pompidou.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris_Montmartre_Blick_aufs_Centre_Georges-Pompidou.jpg",
+        "author": "Zairon",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "match": "Previously matched place identity; source download retried",
+        "notices": [
+          "Own work",
+          "Creative Commons Attribution-Share Alike 4.0",
+          "Creator links: https://commons.wikimedia.org/wiki/User:Zairon"
+        ],
+        "url": "/images/places/5e007c0cf3b1c57b6bc610e8.jpg"
+      },
+      "identityEvidence": "research/rights/full-photo-recovery/knowledge-requests/896c33e6dfba92dee0a9f21cb2dec18bb75000a2160c95356626f29a24715d63.json",
+      "licenseEvidence": "research/rights/full-photo-recovery/requests/3961f31cdb975af83b1fb8d2b58ec86520b11972592ec4184fd5a7f0b7c6cb9a.json",
+      "reason": "source-policy-rejected"
+    },
+    {
+      "id": "guide-ie-436ced6a71cdbcf16967",
+      "name": "Blarney Woollen Mills",
+      "country": "Ireland",
+      "city": "Ballincollig",
+      "status": "visual-review-rejected",
+      "photo": {
+        "title": "A typical day at Blarney Woollen Mills.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_typical_day_at_Blarney_Woollen_Mills.jpg",
+        "author": "Ronan Quinlan",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "match": "Named place article with matching location coordinates",
+        "notices": [
+          "Historic Picture",
+          "Creative Commons Attribution-Share Alike 3.0"
+        ],
+        "url": "/images/places/059e681af9c42bb680ca4f57.jpg"
+      },
+      "identityEvidence": "research/rights/full-photo-recovery/requests/fad5b633bfb09ff2132b4c786228557a36609534b51c4d5171d2554764f6dc5b.json",
+      "licenseEvidence": "research/rights/full-photo-recovery/requests/19f05e71ffd363c39c60a86f5e408d8a6d0d2d72f73f3dd029550c77c27a1418.json",
+      "reason": "Historical sepia factory photograph does not represent the current visitor destination."
+    },
+    {
+      "id": "guide-dk-6e4adc488dfc5587f2d8",
+      "name": "Louisiana Museum of Modern Art",
+      "country": "Denmark",
+      "city": "Helsingor",
+      "status": "visual-review-rejected",
+      "photo": {
+        "title": "Outside Louisiana Museum of Modern Art.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Outside_Louisiana_Museum_of_Modern_Art.jpg",
+        "author": "Lars Plougmann",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "match": "Named place article with matching location coordinates",
+        "notices": [
+          "https://www.flickr.com/photos/criminalintent/48572341322/ — https://www.flickr.com/photos/criminalintent/48572341322/",
+          "Creative Commons Attribution-Share Alike 2.0"
+        ],
+        "url": "/images/places/7020f2e601c48cf63cf342a0.jpg"
+      },
+      "identityEvidence": "research/rights/full-photo-recovery/requests/fc3e9f2907521c68fa1b0954ef60c98ec9abdfa14562fc62da57ca17735182cc.json",
+      "licenseEvidence": "research/rights/full-photo-recovery/requests/372dfc5b00528d8322be3945e83b9c74fdd6892a1b017803fc1c364ec33c1631.json",
+      "reason": "Foreground modern sculpture requires separate artwork assessment; seek a representative museum-building view."
+    },
+    {
+      "id": "guide-in-fc57caf22481ae00e6ae",
+      "name": "Tapkeshwar Temple",
+      "country": "India",
+      "city": "Dehradun",
+      "status": "visual-review-rejected",
+      "photo": {
+        "title": "Hanuman Idol at Tapkeshwar Temple..jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hanuman_Idol_at_Tapkeshwar_Temple..jpg",
+        "author": "Rajatkantib",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "match": "Named place article with matching location coordinates",
+        "notices": [
+          "Own work",
+          "Creative Commons Attribution-Share Alike 4.0",
+          "Creator links: https://commons.wikimedia.org/w/index.php?title=User:Rajatkantib&action=edit&redlink=1"
+        ],
+        "url": "/images/places/e628255ed580b1032c765191.jpg"
+      },
+      "identityEvidence": "research/rights/full-photo-recovery/requests/45713cea25647135b3fdde6e1a2fc46020e06d4b719c85c766df1038fb4b01bf.json",
+      "licenseEvidence": "research/rights/full-photo-recovery/requests/13afbe6d419d5f0a63285ba435cda0c4dc4b1c3f704189d9c709c8e27da37f67.json",
+      "reason": "Statue close-up does not show the temple architecture; seek a representative site view."
+    },
+    {
+      "id": "guide-gt-28714c6332b5ef384149",
+      "name": "Gran Centro Los Próceres",
+      "country": "Guatemala",
+      "city": "Guatemala City",
+      "status": "visual-review-rejected",
+      "photo": {
+        "title": "Gran Centro Los Próceres.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gran_Centro_Los_Pr%C3%B3ceres.jpg",
+        "author": "J. Aroche",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "match": "Named place article with matching location coordinates",
+        "notices": [
+          "Flickr — https://www.flickr.com/photos/j_aroche/3298755462/",
+          "Creative Commons Attribution 2.0",
+          "Creator links: https://www.flickr.com/photos/j_aroche/"
+        ],
+        "url": "/images/places/b94d1ae20daa5d699f47c4f3.jpg"
+      },
+      "identityEvidence": "research/rights/full-photo-recovery/requests/f0323eee36230c1e0cd80d9324b77991c4daac23d32685d6afe1d3b5b591c672.json",
+      "licenseEvidence": "research/rights/full-photo-recovery/requests/3ca4839ad10a23332ee0392aaafd4c773e66cf0838e9dfcda9d33f70e2631a26.json",
+      "reason": "Close-up of cafe visitors does not show the shopping centre; seek a representative building view."
+    },
+    {
+      "id": "guide-ca-eeff64e728b6caa2c55a",
+      "name": "Great Blue Heron Casino",
+      "country": "Canada",
+      "city": "Uxbridge",
+      "status": "visual-review-rejected",
+      "photo": {
+        "title": "PeopleGettingOnBus.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PeopleGettingOnBus.jpg",
+        "author": "Jaydenfromcanada",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "match": "Named place article with matching location coordinates",
+        "notices": [
+          "Own work",
+          "Creative Commons Attribution-Share Alike 4.0",
+          "Creator links: https://commons.wikimedia.org/wiki/User:Jaydenfromcanada"
+        ],
+        "url": "/images/places/21e221be210d604fb602d30d.jpg"
+      },
+      "identityEvidence": "research/rights/full-photo-recovery/requests/c015883104ea14c2554b71f79e6320b8403e20e846ab4ecd855890259d95128e.json",
+      "licenseEvidence": "research/rights/full-photo-recovery/requests/220459ceed6af6733e45acb2c72418a675a80d732bfec11f7e93e00ef606bf6f.json",
+      "reason": "Shuttle-bus photo does not show the casino venue; seek a representative building view."
+    },
+    {
+      "id": "overture-00917bb8-5207-42e1-9c9c-fc63ed36c9ba",
+      "name": "Huka Prawn Park",
+      "country": "New Zealand",
+      "city": "Taupo",
+      "status": "visual-review-rejected",
+      "photo": {
+        "title": "Huka Prawn Park's mascot Shawn the Prawn.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huka_Prawn_Park%27s_mascot_Shawn_the_Prawn.jpg",
+        "author": "Shawn the Prawn",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "match": "Named place article with matching location coordinates",
+        "notices": [
+          "Own work",
+          "Creative Commons Attribution-Share Alike 4.0"
+        ],
+        "url": "/images/places/379c59a386462443c6cd6cb3.jpg"
+      },
+      "identityEvidence": "research/rights/full-photo-recovery/requests/132cfc6af97d768544740a9f64d06efa96569623fa654dea1a128a03576952dc.json",
+      "licenseEvidence": "research/rights/full-photo-recovery/requests/440057b7967f4bac50e641ca2fe3d6b504d74b0567b1fc744e5df2dbe5d99c24.json",
+      "reason": "Mascot close-up does not show the park; seek a representative landscape or entrance view."
+    }
+  ]
+}

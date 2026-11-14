@@ -10,7 +10,7 @@ const groups=new Map<string,Place[]>();for(const place of all){const key=`${plac
 for(const [key,places] of groups){
  const city=places[0].city,country=places[0].country;const file=`data/sources/photos/city-bitmap-${createHash('sha256').update(key).digest('hex')}.json`;
  try{
-  const params={action:'query',generator:'search',gsrnamespace:'6',gsrsearch:`"${city}" (restaurant OR cafe OR park OR garden OR museum OR temple OR beach) filetype:bitmap`,gsrlimit:'50',prop:'imageinfo|coordinates',iiprop:'url|mime|size|extmetadata',iiurlwidth:'640',iiextmetadatafilter:'Artist|Credit|LicenseShortName|LicenseUrl|UsageTerms|Categories|ImageDescription',colimit:'max'};
+  const params={action:'query',generator:'search',gsrnamespace:'6',gsrsearch:`"${city}" (restaurant OR cafe OR park OR garden OR museum OR temple OR beach) filetype:bitmap`,gsrlimit:'50',prop:'imageinfo|coordinates',iiprop:'url|mime|size|extmetadata',iiurlwidth:'640',iiextmetadatafilter:'Artist|Credit|LicenseShortName|LicenseUrl|UsageTerms|Categories|ImageDescription|Restrictions|Attribution|Copyright|DateTimeOriginal',colimit:'max'};
   const data=existsSync(file)?JSON.parse(readFileSync(file,'utf8')):await wikiRequest<{query?:{pages:(CommonsImage&{coordinates?:{lat:number;lon:number}[]})[]}}>('commons.wikimedia.org',params);
   if(!existsSync(file))writeFileSync(file,JSON.stringify(data));
   for(const page of data.query?.pages||[]){

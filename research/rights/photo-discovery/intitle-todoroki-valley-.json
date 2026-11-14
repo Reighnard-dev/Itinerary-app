@@ -1,0 +1,1296 @@
+{
+  "retrievedAt": "2026-11-13T16:30:13.252Z",
+  "query": {
+    "pages": [
+      {
+        "pageid": 70368582,
+        "ns": 6,
+        "title": "File:Todoroki Valley - Tokyo, Japan - DSC09464.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 16760954,
+            "width": 5472,
+            "height": 3648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09464.jpg/960px-Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09464.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 533,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09464.jpg/1920px-Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09464.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09464.jpg/960px-Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09464.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 533,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09464.jpg/1920px-Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09464.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09464.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Todoroki_Valley_-_Tokyo,_Japan_-_DSC09464.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70368582",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-06-30 13:21:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Todoroki Valley - Tokyo, Japan - DSC09464",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files uploaded by Daderot|Todoroki Keikoku",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Todoroki Valley - Setagaya, Tokyo, Japan.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-08-04 19:39:53",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Daderot\" title=\"User:Daderot\">Daderot</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 70370918,
+        "ns": 6,
+        "title": "File:Fudo no Taki - Todoroki Valley - Tokyo, Japan - DSC09480.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15773539,
+            "width": 5472,
+            "height": 3648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09480.jpg/960px-Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09480.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 533,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09480.jpg/1920px-Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09480.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09480.jpg/960px-Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09480.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 533,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09480.jpg/1920px-Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09480.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09480.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo,_Japan_-_DSC09480.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70370918",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-06-30 14:04:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Fudo no Taki - Todoroki Valley - Tokyo, Japan - DSC09480",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Fudo no Taki (Todoroki Valley)|Files uploaded by Daderot",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Fudo no Taki - Todoroki Valley - Setagaya, Tokyo, Japan.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-08-04 19:44:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Daderot\" title=\"User:Daderot\">Daderot</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 70370951,
+        "ns": 6,
+        "title": "File:Fudo no Taki - Todoroki Valley - Tokyo, Japan - DSC09502.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13915033,
+            "width": 5472,
+            "height": 3648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09502.jpg/960px-Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 533,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09502.jpg/1920px-Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09502.jpg/960px-Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 533,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09502.jpg/1920px-Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fudo_no_Taki_-_Todoroki_Valley_-_Tokyo,_Japan_-_DSC09502.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70370951",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-06-30 14:04:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Fudo no Taki - Todoroki Valley - Tokyo, Japan - DSC09502",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Fudo no Taki (Todoroki Valley)|Files uploaded by Daderot",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Fudo no Taki - Todoroki Valley - Setagaya, Tokyo, Japan.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-08-04 19:47:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Daderot\" title=\"User:Daderot\">Daderot</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 70383175,
+        "ns": 6,
+        "title": "File:Tunnel Tomb marker - Todoroki Valley - Tokyo, Japan - DSC09588.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13620050,
+            "width": 5472,
+            "height": 3648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Tunnel_Tomb_marker_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09588.jpg/960px-Tunnel_Tomb_marker_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09588.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 533,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Tunnel_Tomb_marker_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09588.jpg/1920px-Tunnel_Tomb_marker_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09588.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Tunnel_Tomb_marker_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09588.jpg/960px-Tunnel_Tomb_marker_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09588.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 533,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Tunnel_Tomb_marker_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09588.jpg/1920px-Tunnel_Tomb_marker_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09588.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Tunnel_Tomb_marker_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09588.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tunnel_Tomb_marker_-_Todoroki_Valley_-_Tokyo,_Japan_-_DSC09588.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70383175",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-06-30 18:39:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tunnel Tomb marker - Todoroki Valley - Tokyo, Japan - DSC09588",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files uploaded by Daderot|Todoroki Valley Tunnel Tombs",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tunnel Tombs - Todoroki Valley - Setagaya, Tokyo, Japan.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-08-04 20:19:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Daderot\" title=\"User:Daderot\">Daderot</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 70383178,
+        "ns": 6,
+        "title": "File:Tunnel Tomb Sites No. 1 and 2 - Todoroki Valley - Tokyo, Japan - DSC09578.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 16115007,
+            "width": 5472,
+            "height": 3648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Tunnel_Tomb_Sites_No._1_and_2_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09578.jpg/960px-Tunnel_Tomb_Sites_No._1_and_2_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 533,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Tunnel_Tomb_Sites_No._1_and_2_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09578.jpg/1920px-Tunnel_Tomb_Sites_No._1_and_2_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Tunnel_Tomb_Sites_No._1_and_2_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09578.jpg/960px-Tunnel_Tomb_Sites_No._1_and_2_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 533,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Tunnel_Tomb_Sites_No._1_and_2_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09578.jpg/1920px-Tunnel_Tomb_Sites_No._1_and_2_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Tunnel_Tomb_Sites_No._1_and_2_-_Todoroki_Valley_-_Tokyo%2C_Japan_-_DSC09578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tunnel_Tomb_Sites_No._1_and_2_-_Todoroki_Valley_-_Tokyo,_Japan_-_DSC09578.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70383178",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-06-30 18:39:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tunnel Tomb Sites No. 1 and 2 - Todoroki Valley - Tokyo, Japan - DSC09578",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files uploaded by Daderot|Todoroki Valley Tunnel Tombs",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tunnel Tombs - Todoroki Valley - Setagaya, Tokyo, Japan.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-08-04 20:16:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Daderot\" title=\"User:Daderot\">Daderot</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 150404598,
+        "ns": 6,
+        "title": "File:Todoroki Valley @ Setagaya (13796486873).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5644711,
+            "width": 3968,
+            "height": 2976,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Todoroki_Valley_%40_Setagaya_%2813796486873%29.jpg/960px-Todoroki_Valley_%40_Setagaya_%2813796486873%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Todoroki_Valley_%40_Setagaya_%2813796486873%29.jpg/1920px-Todoroki_Valley_%40_Setagaya_%2813796486873%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Todoroki_Valley_%40_Setagaya_%2813796486873%29.jpg/960px-Todoroki_Valley_%40_Setagaya_%2813796486873%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Todoroki_Valley_%40_Setagaya_%2813796486873%29.jpg/1920px-Todoroki_Valley_%40_Setagaya_%2813796486873%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Todoroki_Valley_%40_Setagaya_%2813796486873%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Todoroki_Valley_@_Setagaya_(13796486873).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150404598",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-16 20:33:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Todoroki Valley @ Setagaya (13796486873)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files from Guilhem Vellut Flickr stream|Flickr images reviewed by FlickreviewR 2|Todoroki Keikoku|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Todoroki Valley @ Setagaya",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-04-11 12:55",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/o_0/13796486873/\">Todoroki Valley @ Setagaya</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/22539273@N00\">Guilhem Vellut</a> from Annecy, France",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 150404644,
+        "ns": 6,
+        "title": "File:Todoroki Valley @ Setagaya (13796863604).jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5714861,
+            "width": 2976,
+            "height": 3968,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Todoroki_Valley_%40_Setagaya_%2813796863604%29.jpg/960px-Todoroki_Valley_%40_Setagaya_%2813796863604%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1067,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Todoroki_Valley_%40_Setagaya_%2813796863604%29.jpg/1920px-Todoroki_Valley_%40_Setagaya_%2813796863604%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Todoroki_Valley_%40_Setagaya_%2813796863604%29.jpg/960px-Todoroki_Valley_%40_Setagaya_%2813796863604%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1067,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Todoroki_Valley_%40_Setagaya_%2813796863604%29.jpg/1920px-Todoroki_Valley_%40_Setagaya_%2813796863604%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Todoroki_Valley_%40_Setagaya_%2813796863604%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Todoroki_Valley_@_Setagaya_(13796863604).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150404644",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-16 20:34:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Todoroki Valley @ Setagaya (13796863604)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files from Guilhem Vellut Flickr stream|Flickr images reviewed by FlickreviewR 2|Todoroki Keikoku",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Todoroki Valley @ Setagaya",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-04-11 13:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/o_0/13796863604/\">Todoroki Valley @ Setagaya</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/22539273@N00\">Guilhem Vellut</a> from Annecy, France",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 150404653,
+        "ns": 6,
+        "title": "File:Todoroki Valley @ Setagaya (13796861504).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5054323,
+            "width": 3968,
+            "height": 2976,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Todoroki_Valley_%40_Setagaya_%2813796861504%29.jpg/960px-Todoroki_Valley_%40_Setagaya_%2813796861504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Todoroki_Valley_%40_Setagaya_%2813796861504%29.jpg/1920px-Todoroki_Valley_%40_Setagaya_%2813796861504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Todoroki_Valley_%40_Setagaya_%2813796861504%29.jpg/960px-Todoroki_Valley_%40_Setagaya_%2813796861504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Todoroki_Valley_%40_Setagaya_%2813796861504%29.jpg/1920px-Todoroki_Valley_%40_Setagaya_%2813796861504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Todoroki_Valley_%40_Setagaya_%2813796861504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Todoroki_Valley_@_Setagaya_(13796861504).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150404653",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-16 20:34:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Todoroki Valley @ Setagaya (13796861504)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files from Guilhem Vellut Flickr stream|Flickr images reviewed by FlickreviewR 2|Todoroki Keikoku",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Todoroki Valley @ Setagaya",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-04-11 13:16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/o_0/13796861504/\">Todoroki Valley @ Setagaya</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/22539273@N00\">Guilhem Vellut</a> from Annecy, France",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 150404655,
+        "ns": 6,
+        "title": "File:Todoroki Valley @ Setagaya (13796530135).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5608728,
+            "width": 2976,
+            "height": 3968,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Todoroki_Valley_%40_Setagaya_%2813796530135%29.jpg/960px-Todoroki_Valley_%40_Setagaya_%2813796530135%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1067,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Todoroki_Valley_%40_Setagaya_%2813796530135%29.jpg/1920px-Todoroki_Valley_%40_Setagaya_%2813796530135%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Todoroki_Valley_%40_Setagaya_%2813796530135%29.jpg/960px-Todoroki_Valley_%40_Setagaya_%2813796530135%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1067,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Todoroki_Valley_%40_Setagaya_%2813796530135%29.jpg/1920px-Todoroki_Valley_%40_Setagaya_%2813796530135%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Todoroki_Valley_%40_Setagaya_%2813796530135%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Todoroki_Valley_@_Setagaya_(13796530135).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150404655",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-16 20:34:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Todoroki Valley @ Setagaya (13796530135)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files from Guilhem Vellut Flickr stream|Flickr images reviewed by FlickreviewR 2|Todoroki Keikoku",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Todoroki Valley @ Setagaya",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-04-11 13:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/o_0/13796530135/\">Todoroki Valley @ Setagaya</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/22539273@N00\">Guilhem Vellut</a> from Annecy, France",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 182581270,
+        "ns": 6,
+        "title": "File:Todoroki Valley, Tokyo December 2022 (52558975265).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3435225,
+            "width": 1666,
+            "height": 2499,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Todoroki_Valley%2C_Tokyo_December_2022_%2852558975265%29.jpg/960px-Todoroki_Valley%2C_Tokyo_December_2022_%2852558975265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1200,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/04/Todoroki_Valley%2C_Tokyo_December_2022_%2852558975265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Todoroki_Valley%2C_Tokyo_December_2022_%2852558975265%29.jpg/960px-Todoroki_Valley%2C_Tokyo_December_2022_%2852558975265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1200,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/04/Todoroki_Valley%2C_Tokyo_December_2022_%2852558975265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Todoroki_Valley%2C_Tokyo_December_2022_%2852558975265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Todoroki_Valley,_Tokyo_December_2022_(52558975265).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182581270",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-01-28 02:11:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Todoroki Valley, Tokyo December 2022 (52558975265)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Flickr images reviewed by FlickreviewR 2|Photographs by Steven Byles|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tokyo's \"Hidden Valley\". A quiet secluded riverside-walk in the middle of a very built up area.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-12-09 11:38",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/sjbyles/52558975265/\">Todoroki Valley, Tokyo | December 2022</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37748462@N07\">Steven Byles</a> from Yokohama, Japan",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 182581279,
+        "ns": 6,
+        "title": "File:Todoroki Valley, Tokyo December 2022 (52558050552).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2550409,
+            "width": 1599,
+            "height": 2400,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Todoroki_Valley%2C_Tokyo_December_2022_%2852558050552%29.jpg/960px-Todoroki_Valley%2C_Tokyo_December_2022_%2852558050552%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1201,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Todoroki_Valley%2C_Tokyo_December_2022_%2852558050552%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Todoroki_Valley%2C_Tokyo_December_2022_%2852558050552%29.jpg/960px-Todoroki_Valley%2C_Tokyo_December_2022_%2852558050552%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1201,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Todoroki_Valley%2C_Tokyo_December_2022_%2852558050552%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Todoroki_Valley%2C_Tokyo_December_2022_%2852558050552%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Todoroki_Valley,_Tokyo_December_2022_(52558050552).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182581279",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-01-28 02:11:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Todoroki Valley, Tokyo December 2022 (52558050552)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Flickr images reviewed by FlickreviewR 2|Photographs by Steven Byles|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tokyo's \"Hidden Valley\". A quiet secluded riverside-walk in the middle of a very built up area.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-12-09 12:34",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/sjbyles/52558050552/\">Todoroki Valley, Tokyo | December 2022</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37748462@N07\">Steven Byles</a> from Yokohama, Japan",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 182581282,
+        "ns": 6,
+        "title": "File:Todoroki Valley, Tokyo December 2022 (52559048353).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2435062,
+            "width": 1600,
+            "height": 2400,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Todoroki_Valley%2C_Tokyo_December_2022_%2852559048353%29.jpg/960px-Todoroki_Valley%2C_Tokyo_December_2022_%2852559048353%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1200,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Todoroki_Valley%2C_Tokyo_December_2022_%2852559048353%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Todoroki_Valley%2C_Tokyo_December_2022_%2852559048353%29.jpg/960px-Todoroki_Valley%2C_Tokyo_December_2022_%2852559048353%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1200,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Todoroki_Valley%2C_Tokyo_December_2022_%2852559048353%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Todoroki_Valley%2C_Tokyo_December_2022_%2852559048353%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Todoroki_Valley,_Tokyo_December_2022_(52559048353).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182581282",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-01-28 02:11:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Todoroki Valley, Tokyo December 2022 (52559048353)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Flickr images reviewed by FlickreviewR 2|Photographs by Steven Byles|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tokyo's \"Hidden Valley\". A quiet secluded riverside-walk in the middle of a very built up area.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-12-09 12:45",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/sjbyles/52559048353/\">Todoroki Valley, Tokyo | December 2022</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37748462@N07\">Steven Byles</a> from Yokohama, Japan",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  },
+  "batchcomplete": true,
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  }
+}

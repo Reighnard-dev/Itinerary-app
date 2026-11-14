@@ -1,0 +1,216 @@
+{
+  "tokyo-3": {
+    "name": "Yanaka Ginza",
+    "country": "Japan",
+    "city": "Tokyo",
+    "status": "no-exact-open-photo-found"
+  },
+  "tokyo-4": {
+    "name": "Todoroki Valley",
+    "country": "Japan",
+    "city": "Tokyo",
+    "status": "no-exact-open-photo-found"
+  },
+  "bali-1": {
+    "name": "Tegallalang Rice Terraces",
+    "country": "Indonesia",
+    "city": "Bali",
+    "status": "no-exact-open-photo-found"
+  },
+  "bali-3": {
+    "name": "Sidemen Valley",
+    "country": "Indonesia",
+    "city": "Bali",
+    "status": "no-exact-open-photo-found"
+  },
+  "bali-4": {
+    "name": "Tukad Cepung Waterfall",
+    "country": "Indonesia",
+    "city": "Bali",
+    "status": "no-exact-open-photo-found"
+  },
+  "rome-3": {
+    "name": "Quartiere Coppedè",
+    "country": "Italy",
+    "city": "Rome",
+    "status": "no-exact-open-photo-found"
+  },
+  "interlaken-4": {
+    "name": "Weissenau Nature Reserve",
+    "country": "Switzerland",
+    "city": "Interlaken",
+    "status": "no-exact-open-photo-found"
+  },
+  "bangkok-4": {
+    "name": "Bang Krachao",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "status": "no-exact-open-photo-found"
+  },
+  "cebu-3": {
+    "name": "Bojo River",
+    "country": "Philippines",
+    "city": "Cebu",
+    "status": "no-exact-open-photo-found"
+  },
+  "cebu-4": {
+    "name": "Osmeña Peak",
+    "country": "Philippines",
+    "city": "Cebu",
+    "status": "no-exact-open-photo-found"
+  },
+  "sapa-96e37a9b1d8a29f5": {
+    "name": "Ta Phin Village",
+    "country": "Vietnam",
+    "city": "Sa Pa",
+    "status": "no-exact-open-photo-found"
+  },
+  "sapa-7d967df721ced735": {
+    "name": "Ban Ho Village",
+    "country": "Vietnam",
+    "city": "Sa Pa",
+    "status": "no-exact-open-photo-found"
+  },
+  "sapa-b67d909d4ce0dbf0": {
+    "name": "Silver Waterfall",
+    "country": "Vietnam",
+    "city": "Sa Pa",
+    "status": "no-exact-open-photo-found"
+  },
+  "sapa-df3e86a97da55cf7": {
+    "name": "Sa Pa Market",
+    "country": "Vietnam",
+    "city": "Sa Pa",
+    "status": "no-exact-open-photo-found"
+  },
+  "sapa-5b54388cbd643553": {
+    "name": "Sun Plaza",
+    "country": "Vietnam",
+    "city": "Sa Pa",
+    "status": "no-exact-open-photo-found"
+  },
+  "sapa-2a4e38e7c2640e76": {
+    "name": "Love Waterfall",
+    "country": "Vietnam",
+    "city": "Sa Pa",
+    "status": "no-exact-open-photo-found"
+  },
+  "sapa-4761b91efd0688a1": {
+    "name": "Rong May Glass Bridge",
+    "country": "Vietnam",
+    "city": "Sa Pa",
+    "status": "no-exact-open-photo-found"
+  },
+  "sapa-b13d50f4b13688b5": {
+    "name": "Hotel de la Coupole",
+    "country": "Vietnam",
+    "city": "Sa Pa",
+    "status": "no-exact-open-photo-found"
+  },
+  "sapa-652b126bd06d6104": {
+    "name": "Silk Path Grand Sapa Resort",
+    "country": "Vietnam",
+    "city": "Sa Pa",
+    "status": "no-exact-open-photo-found"
+  },
+  "sapa-675b271cab11fc54": {
+    "name": "Victoria Sapa Resort",
+    "country": "Vietnam",
+    "city": "Sa Pa",
+    "status": "no-exact-open-photo-found"
+  },
+  "sapa-474333571d6d7ab9": {
+    "name": "Topas Ecolodge",
+    "country": "Vietnam",
+    "city": "Sa Pa",
+    "status": "no-exact-open-photo-found"
+  },
+  "sapa-b7f2f576af142dfa": {
+    "name": "Pao’s Sapa Leisure Hotel",
+    "country": "Vietnam",
+    "city": "Sa Pa",
+    "status": "no-exact-open-photo-found"
+  },
+  "sapa-5511d76038e095ad": {
+    "name": "Red Dzao House",
+    "country": "Vietnam",
+    "city": "Sa Pa",
+    "status": "no-exact-open-photo-found"
+  },
+  "sapa-b88d33dcd61a06c8": {
+    "name": "Le Gecko",
+    "country": "Vietnam",
+    "city": "Sa Pa",
+    "status": "no-exact-open-photo-found"
+  },
+  "guide-vn-f831ad11ce45baa4564c": {
+    "name": "Cong Caphe",
+    "country": "Vietnam",
+    "city": "Sa Pa",
+    "status": "no-exact-open-photo-found"
+  },
+  "guide-vn-95408d3bbdf7f2ae6bd8": {
+    "name": "Hoa Tam Vegetarian Restaurant",
+    "country": "Vietnam",
+    "city": "Sa Pa",
+    "status": "no-exact-open-photo-found"
+  },
+  "guide-jp-392eed190d9cada4f8ae": {
+    "name": "Shishin Samurai Cafe & Bar",
+    "country": "Japan",
+    "city": "Kyoto",
+    "status": "no-exact-open-photo-found"
+  },
+  "guide-jp-718dae1f4f6e9c2c8b06": {
+    "name": "Gion Kappa Restaurant",
+    "country": "Japan",
+    "city": "Kyoto",
+    "status": "no-exact-open-photo-found"
+  },
+  "guide-jp-054f0aceacd4058840f9": {
+    "name": "Shinsen-en Garden",
+    "country": "Japan",
+    "city": "Kyoto",
+    "status": "no-exact-open-photo-found"
+  },
+  "guide-jp-9bdb9d99543bf3c796d5": {
+    "name": "Nijō-Jinya",
+    "country": "Japan",
+    "city": "Kyoto",
+    "status": "no-exact-open-photo-found"
+  },
+  "guide-jp-4d06c2576b5e50e2ceab": {
+    "name": "Apollo",
+    "country": "Japan",
+    "city": "Kyoto",
+    "status": "no-exact-open-photo-found"
+  },
+  "guide-jp-060019343f1400a7b205": {
+    "name": "Hozu River Cruise",
+    "country": "Japan",
+    "city": "Kyoto",
+    "status": "no-exact-open-photo-found"
+  },
+  "guide-jp-8f06ba917bb91716e6ea": {
+    "name": "Shōseien Garden",
+    "country": "Japan",
+    "city": "Kyoto",
+    "status": "no-exact-open-photo-found"
+  },
+  "guide-jp-383a44004e7e7b452be0": {
+    "name": "Tuzuri",
+    "country": "Japan",
+    "city": "Kyoto",
+    "status": "no-exact-open-photo-found"
+  },
+  "guide-jp-d521d63378934b66677d": {
+    "name": "Camellia, Tea Ceremony",
+    "country": "Japan",
+    "city": "Kyoto",
+    "status": "no-exact-open-photo-found"
+  },
+  "guide-jp-318ef2a8ee7ff92fd41b": {
+    "status": "source-blocked",
+    "error": "Error: The photo source is busy. Import paused; cached work is retained."
+  }
+}

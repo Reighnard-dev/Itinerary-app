@@ -7,6 +7,10 @@
     "node": ">=22.13.0"
   },
   "scripts": {
+    "audit:rights": "tsx scripts/audit-rights.ts",
+    "release:check": "node scripts/software-notices.mjs && tsx scripts/audit-rights.ts --release",
+    "build:release": "npm run build",
+    "prestart": "npm run release:check",
     "dev": "concurrently -k \"vite --host 0.0.0.0\" \"tsx watch server/index.ts\"",
     "build": "tsc -b && vite build && tsc -p tsconfig.server.json",
     "start": "node dist-server/server/index.js",
@@ -14,7 +18,19 @@
     "test:e2e": "playwright test",
     "data:world": "node scripts/import-world.mjs",
     "data:guides": "tsx scripts/import-guides.ts",
-    "data:photos": "tsx scripts/import-place-photos.ts"
+    "data:photos": "tsx scripts/import-place-photos.ts",
+    "data:guide-dump": "node scripts/download-guide-dump.mjs",
+    "data:expanded-guides": "node --max-old-space-size=6144 --import tsx scripts/import-world-guides.ts",
+    "data:guide-coordinates": "tsx scripts/enrich-guide-coordinates.ts",
+    "data:geographic": "tsx scripts/import-geographic-places.ts",
+    "data:country-maps": "tsx scripts/import-country-maps.ts",
+    "data:expansion-photos": "tsx scripts/import-expansion-photos.ts",
+    "data:coverage": "tsx scripts/audit-expansion.ts",
+    "data:overture-query": "tsx scripts/prepare-overture-import.ts",
+    "data:overture-import": "tsx scripts/import-overture-places.ts",
+    "data:knowledge": "tsx scripts/import-knowledge-places.ts",
+    "prebuild": "node scripts/software-notices.mjs && tsx scripts/publish-rights.ts && tsx scripts/audit-rights.ts --release --source-only",
+    "postbuild": "tsx scripts/audit-rights.ts --release"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.119.0",

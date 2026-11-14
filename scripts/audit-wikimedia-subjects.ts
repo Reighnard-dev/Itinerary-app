@@ -11,7 +11,7 @@ const titles=[...new Set(manifests.flatMap(m=>Object.values(m).map(p=>'File:'+p.
 mkdirSync('data/sources/photos/subject-audit',{recursive:true});
 const rejected=new Map<string,string>();
 for(let i=0;i<titles.length;i+=40){const batch=titles.slice(i,i+40),cache=`data/sources/photos/subject-audit/${createHash('sha256').update(JSON.stringify(batch)).digest('hex')}.json`;
- try{const data=existsSync(cache)?JSON.parse(readFileSync(cache,'utf8')):await wikiRequest<{query?:{pages:CommonsImage[]}}>('commons.wikimedia.org',{action:'query',titles:batch.join('|'),prop:'imageinfo',iiprop:'extmetadata',iiextmetadatafilter:'Categories|ImageDescription'});if(!existsSync(cache))writeFileSync(cache,JSON.stringify(data));
+ try{const data=existsSync(cache)?JSON.parse(readFileSync(cache,'utf8')):await wikiRequest<{query?:{pages:CommonsImage[]}}>('commons.wikimedia.org',{action:'query',titles:batch.join('|'),prop:'imageinfo',iiprop:'extmetadata',iiextmetadatafilter:'Categories|ImageDescription|Restrictions|Attribution|Copyright|Credit|UsageTerms|DateTimeOriginal'});if(!existsSync(cache))writeFileSync(cache,JSON.stringify(data));
   for(const page of data.query?.pages||[])if(nonPhotographicMetadata(page.imageinfo?.[0]?.extmetadata||{}))rejected.set(page.title.replace(/^File:/,''),page.imageinfo?.[0]?.extmetadata?.Categories?.value||'Non-photographic subject');
  }catch(error){console.log(String(error));}
  if(i%200===0)console.log(`Audited ${Math.min(i+40,titles.length)}/${titles.length} Wikimedia subjects; ${rejected.size} non-location subjects excluded`);

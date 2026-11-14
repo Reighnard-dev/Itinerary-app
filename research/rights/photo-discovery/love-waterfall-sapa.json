@@ -1,0 +1,497 @@
+{
+  "retrievedAt": "2026-11-14T01:05:46.404Z",
+  "searchTerms": "Love Waterfall Sapa",
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 4417415,
+        "ns": 6,
+        "title": "File:Life in Java Volume 1.djvu",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5371843,
+            "width": 1844,
+            "height": 2854,
+            "pagecount": 344,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Life_in_Java_Volume_1.djvu/page1-960px-Life_in_Java_Volume_1.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1238,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Life_in_Java_Volume_1.djvu/page1-1280px-Life_in_Java_Volume_1.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Life_in_Java_Volume_1.djvu/page1-960px-Life_in_Java_Volume_1.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1238,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Life_in_Java_Volume_1.djvu/page1-1280px-Life_in_Java_Volume_1.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Life_in_Java_Volume_1.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Life_in_Java_Volume_1.djvu",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4417415",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-07-21 10:52:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Life in Java Volume 1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Author died more than 100 years ago public domain images|CC-PD-Mark|PD-old missing SDC copyright status|Live in Java",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Life in Java: with sketches of the Javanese",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1864",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/lifeinjavawithsk01dalmiala\">archive.org</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "D'Almeida, W. Barrington (William Barrington)",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/vnd.djvu"
+          }
+        ]
+      },
+      {
+        "pageid": 95671905,
+        "ns": 6,
+        "title": "File:Life in Java- with sketches of the Javanese (IA lifeinjavawithsk01dalmiala).pdf",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10716891,
+            "width": 689,
+            "height": 1068,
+            "pagecount": 344,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Life_in_Java-_with_sketches_of_the_Javanese_%28IA_lifeinjavawithsk01dalmiala%29.pdf/page1-500px-Life_in_Java-_with_sketches_of_the_Javanese_%28IA_lifeinjavawithsk01dalmiala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1240,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Life_in_Java-_with_sketches_of_the_Javanese_%28IA_lifeinjavawithsk01dalmiala%29.pdf/page1-500px-Life_in_Java-_with_sketches_of_the_Javanese_%28IA_lifeinjavawithsk01dalmiala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1240
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Life_in_Java-_with_sketches_of_the_Javanese_%28IA_lifeinjavawithsk01dalmiala%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Life_in_Java-_with_sketches_of_the_Javanese_(IA_lifeinjavawithsk01dalmiala).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95671905",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-10-31 10:13:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nLife in Java: with sketches of the Javanese</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|Live in Java",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nD'Almeida, W. Barrington (William Barrington)</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\nSubjects: Java (Indonesia) -- Description and travel</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/lifeinjavawithsk01dalmiala\" class=\"extiw\" title=\"iarchive:lifeinjavawithsk01dalmiala\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> lifeinjavawithsk01dalmiala</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/lifeinjavawithsk01dalmiala/lifeinjavawithsk01dalmiala.pdf\">https://archive.org/download/lifeinjavawithsk01dalmiala/lifeinjavawithsk01dalmiala.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 97892653,
+        "ns": 6,
+        "title": "File:The language of the Dakota or Sioux Indians (IA cu31924027108137).pdf",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1154626,
+            "width": 791,
+            "height": 1268,
+            "pagecount": 30,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/The_language_of_the_Dakota_or_Sioux_Indians_%28IA_cu31924027108137%29.pdf/page1-500px-The_language_of_the_Dakota_or_Sioux_Indians_%28IA_cu31924027108137%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1282,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/The_language_of_the_Dakota_or_Sioux_Indians_%28IA_cu31924027108137%29.pdf/page1-500px-The_language_of_the_Dakota_or_Sioux_Indians_%28IA_cu31924027108137%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1282
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/The_language_of_the_Dakota_or_Sioux_Indians_%28IA_cu31924027108137%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_language_of_the_Dakota_or_Sioux_Indians_(IA_cu31924027108137).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97892653",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-12-21 06:14:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nThe language of the Dakota or Sioux Indians</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Scans from Cornell University Library",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nRoehrig, F. L. O. (Frederic Louis Otto), 1819-1908</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.</dd>\n<dd>From the Report of the Smithsonian Institution for 1871</dd></dl>\n<br>Subjects: Dakota language</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/cu31924027108137\" class=\"extiw\" title=\"iarchive:cu31924027108137\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> cu31924027108137</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924027108137/cu31924027108137.pdf\">https://archive.org/download/cu31924027108137/cu31924027108137.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      },
+      {
+        "pageid": 123333754,
+        "ns": 6,
+        "title": "File:Golspie (1897).djvu",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 72388723,
+            "width": 1897,
+            "height": 2984,
+            "pagecount": 394,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Golspie_%281897%29.djvu/page1-960px-Golspie_%281897%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1258,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Golspie_%281897%29.djvu/page1-1280px-Golspie_%281897%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Golspie_%281897%29.djvu/page1-960px-Golspie_%281897%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1258,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Golspie_%281897%29.djvu/page1-1280px-Golspie_%281897%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Golspie_%281897%29.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Golspie_(1897).djvu",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=123333754",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-09-24 12:34:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nGolspie</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-scan (PD-old-assumed-expired)|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books without Wikidata item|PD Old (assumed) expired|PD-old missing SDC copyright status|Golspie - contributions to its Folklore (1897)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<ul><li>Annie Cumming</li>\n<li>Bella Cumming</li>\n<li>Fane Stuart,</li>\n<li>Willie W. Munro</li>\n<li>Andrew Gunn</li>\n<li>Henri J. MacLean</li>\n<li>Minnie Sutherland</li>\n<li>Edward W. B. Nicholson</li></ul></div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//archive.org/details/golspiecontribut00nich\" class=\"extiw\" title=\"iarchive:golspiecontribut00nich\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> golspiecontribut00nich</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/vnd.djvu"
+          }
+        ]
+      },
+      {
+        "pageid": 195521268,
+        "ns": 6,
+        "title": "File:SOUTH DAKOTA (IA southdakota023328mbp).pdf",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3570262,
+            "width": 395,
+            "height": 508,
+            "pagecount": 75,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/SOUTH_DAKOTA_%28IA_southdakota023328mbp%29.pdf/page1-330px-SOUTH_DAKOTA_%28IA_southdakota023328mbp%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1029,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/SOUTH_DAKOTA_%28IA_southdakota023328mbp%29.pdf/page1-330px-SOUTH_DAKOTA_%28IA_southdakota023328mbp%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1029
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/SOUTH_DAKOTA_%28IA_southdakota023328mbp%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SOUTH_DAKOTA_(IA_southdakota023328mbp).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195521268",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-11 18:09:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nSOUTH DAKOTA</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Books about South Dakota|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|Universal Library Project|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nU.S. DEPARTMENT OF INTERIOR</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\nSubjects: NATURAL RESOURCES</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/southdakota023328mbp\" class=\"extiw\" title=\"iarchive:southdakota023328mbp\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> southdakota023328mbp</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/southdakota023328mbp/southdakota023328mbp.pdf\">https://archive.org/download/southdakota023328mbp/southdakota023328mbp.pdf</a></dd></dl>\n<ul><li>IA contributor:</li></ul>\n<dl><dd>U.S. DEPARTMENT OF INTERIOR</dd>\n<dd>CMU</dd>\n<dd>AKCE-UNIVERSAL DIGITAL LIBRARY</dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "application/pdf"
+          }
+        ]
+      }
+    ]
+  }
+}

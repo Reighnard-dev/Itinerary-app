@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-11-13T04:56:50.798Z",
+  "productionBuild": "passed",
+  "regressionTests": {
+    "passed": 33,
+    "failed": 0
+  },
+  "finalPhotoTests": {
+    "passed": 8,
+    "failed": 0
+  },
+  "browserTests": {
+    "uniqueTests": 12,
+    "note": "Full run: 11 passed; one existing hero test caught late web-font layout timing. After waiting for fonts before measurement, the two hero tests and final-ten-country test passed on rerun."
+  },
+  "localPreview": {
+    "url": "http://localhost:5173/",
+    "status": 200
+  },
+  "coverageReport": "FINAL-TEN-DESTINATIONS.md"
+}

@@ -1,0 +1,1426 @@
+{
+  "retrievedAt": "2026-11-13T16:30:05.318Z",
+  "query": {
+    "pages": [
+      {
+        "pageid": 79126983,
+        "ns": 6,
+        "title": "File:Cây Hoàng Tinh đỏ Tả Phìn Hồ.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3362142,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/C%C3%A2y_Ho%C3%A0ng_Tinh_%C4%91%E1%BB%8F_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg/960px-C%C3%A2y_Ho%C3%A0ng_Tinh_%C4%91%E1%BB%8F_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1067,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/C%C3%A2y_Ho%C3%A0ng_Tinh_%C4%91%E1%BB%8F_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg/1920px-C%C3%A2y_Ho%C3%A0ng_Tinh_%C4%91%E1%BB%8F_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/C%C3%A2y_Ho%C3%A0ng_Tinh_%C4%91%E1%BB%8F_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg/960px-C%C3%A2y_Ho%C3%A0ng_Tinh_%C4%91%E1%BB%8F_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1067,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/C%C3%A2y_Ho%C3%A0ng_Tinh_%C4%91%E1%BB%8F_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg/1920px-C%C3%A2y_Ho%C3%A0ng_Tinh_%C4%91%E1%BB%8F_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/C%C3%A2y_Ho%C3%A0ng_Tinh_%C4%91%E1%BB%8F_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:C%C3%A2y_Ho%C3%A0ng_Tinh_%C4%91%E1%BB%8F_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79126983",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-05-22 02:45:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cây Hoàng Tinh đỏ Tả Phìn Hồ",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ha Giang|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Cây Hoàng Tinh đỏ Tả Phìn Hồ",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-05-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:GiangLy&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:GiangLy (page does not exist)\">GiangLy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 79126984,
+        "ns": 6,
+        "title": "File:Bát Giác Liên Tả Phìn Hồ.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3734047,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/B%C3%A1t_Gi%C3%A1c_Li%C3%AAn_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg/960px-B%C3%A1t_Gi%C3%A1c_Li%C3%AAn_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1067,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/B%C3%A1t_Gi%C3%A1c_Li%C3%AAn_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg/1920px-B%C3%A1t_Gi%C3%A1c_Li%C3%AAn_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/B%C3%A1t_Gi%C3%A1c_Li%C3%AAn_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg/960px-B%C3%A1t_Gi%C3%A1c_Li%C3%AAn_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1067,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/B%C3%A1t_Gi%C3%A1c_Li%C3%AAn_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg/1920px-B%C3%A1t_Gi%C3%A1c_Li%C3%AAn_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/B%C3%A1t_Gi%C3%A1c_Li%C3%AAn_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:B%C3%A1t_Gi%C3%A1c_Li%C3%AAn_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79126984",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-05-22 02:45:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bát Giác Liên Tả Phìn Hồ",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ha Giang|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bát Giác Liên Tả Phìn Hồ",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-05-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:GiangLy&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:GiangLy (page does not exist)\">GiangLy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 88813584,
+        "ns": 6,
+        "title": "File:Rice terraces in Tả Phìn 01.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2456135,
+            "width": 5828,
+            "height": 2745,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_01.jpg/960px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 377,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_01.jpg/1920px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_01.jpg/960px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 377,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_01.jpg/1920px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88813584",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-03-31 20:58:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rice terraces in Tả Phìn 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Panoramas of Vietnam|Files with coordinates missing SDC location of creation|Images by Christophe95/Vietnam|Mountains of Sa Pa|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)|Maize fields in Sa Pa",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.384886",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.838371",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rice terraces in Tả Phìn (Sa Pa).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-08-11 10:42:06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Christophe95\" title=\"User:Christophe95\">Christophe95</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 88813587,
+        "ns": 6,
+        "title": "File:Rice terraces in Tả Phìn 04.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1941870,
+            "width": 4744,
+            "height": 3371,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_04.jpg/960px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 568,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_04.jpg/1920px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_04.jpg/960px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 568,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_04.jpg/1920px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_04.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88813587",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-03-31 20:58:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rice terraces in Tả Phìn 04",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Images by Christophe95/Vietnam|Mountains of Sa Pa|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.386222",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.837486",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rice terraces in Tả Phìn (Sa Pa).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-08-11 10:50:33",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Christophe95\" title=\"User:Christophe95\">Christophe95</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 88836151,
+        "ns": 6,
+        "title": "File:Tả Phìn.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4831367,
+            "width": 4657,
+            "height": 3212,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/T%E1%BA%A3_Ph%C3%ACn.jpg/960px-T%E1%BA%A3_Ph%C3%ACn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 552,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/T%E1%BA%A3_Ph%C3%ACn.jpg/1920px-T%E1%BA%A3_Ph%C3%ACn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/T%E1%BA%A3_Ph%C3%ACn.jpg/960px-T%E1%BA%A3_Ph%C3%ACn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 552,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/T%E1%BA%A3_Ph%C3%ACn.jpg/1920px-T%E1%BA%A3_Ph%C3%ACn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/T%E1%BA%A3_Ph%C3%ACn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:T%E1%BA%A3_Ph%C3%ACn.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88836151",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-04-01 19:29:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tả Phìn",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Images by Christophe95/Vietnam|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.389480",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.835458",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View of Tả Phìn, Sa Pa.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-08-11 10:59:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Christophe95\" title=\"User:Christophe95\">Christophe95</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 88836152,
+        "ns": 6,
+        "title": "File:Rice terraces in Tả Phìn 05.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2732532,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_05.jpg/960px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_05.jpg/1920px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_05.jpg/960px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_05.jpg/1920px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_05.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88836152",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-04-01 19:29:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rice terraces in Tả Phìn 05",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Images by Christophe95/Vietnam|Mountains of Sa Pa|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.387800",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.836742",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rice terraces in Tả Phìn (Sa Pa).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-08-11 10:54:35",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Christophe95\" title=\"User:Christophe95\">Christophe95</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 88836162,
+        "ns": 6,
+        "title": "File:Rice terraces in Tả Phìn 07.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2539291,
+            "width": 4032,
+            "height": 3023,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_07.jpg/960px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_07.jpg/1920px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_07.jpg/960px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_07.jpg/1920px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_07.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88836162",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-04-01 19:29:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rice terraces in Tả Phìn 07",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Images by Christophe95/Vietnam|Mountains of Sa Pa|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.397574",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.836016",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rice terraces in Tả Phìn (Sa Pa).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-08-11 11:27:43",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Christophe95\" title=\"User:Christophe95\">Christophe95</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 88838374,
+        "ns": 6,
+        "title": "File:Rice terraces in Tả Phìn 08.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1754098,
+            "width": 4032,
+            "height": 3023,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_08.jpg/960px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_08.jpg/1920px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_08.jpg/960px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_08.jpg/1920px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_08.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88838374",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-04-01 20:42:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rice terraces in Tả Phìn 08",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Images by Christophe95/Vietnam|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.398131",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.835494",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rice terraces in Tả Phìn (Sa Pa).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-08-11 11:30:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Christophe95\" title=\"User:Christophe95\">Christophe95</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 88838376,
+        "ns": 6,
+        "title": "File:Duck family in Tả Phìn.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3912588,
+            "width": 4045,
+            "height": 2892,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Duck_family_in_T%E1%BA%A3_Ph%C3%ACn.jpg/960px-Duck_family_in_T%E1%BA%A3_Ph%C3%ACn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 572,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Duck_family_in_T%E1%BA%A3_Ph%C3%ACn.jpg/1920px-Duck_family_in_T%E1%BA%A3_Ph%C3%ACn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Duck_family_in_T%E1%BA%A3_Ph%C3%ACn.jpg/960px-Duck_family_in_T%E1%BA%A3_Ph%C3%ACn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 572,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Duck_family_in_T%E1%BA%A3_Ph%C3%ACn.jpg/1920px-Duck_family_in_T%E1%BA%A3_Ph%C3%ACn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Duck_family_in_T%E1%BA%A3_Ph%C3%ACn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Duck_family_in_T%E1%BA%A3_Ph%C3%ACn.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88838376",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-04-01 20:42:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Duck family in Tả Phìn",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Images by Christophe95/Vietnam|Domesticated ducks in Vietnam|Domesticated ducklings|Animals of Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.400110",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.838425",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Duck family in Tả Phìn (Sa Pa).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-08-11 11:37:10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Christophe95\" title=\"User:Christophe95\">Christophe95</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 88838380,
+        "ns": 6,
+        "title": "File:Rice terraces in Tả Phìn 09.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1930039,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_09.jpg/960px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_09.jpg/1920px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_09.jpg/960px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_09.jpg/1920px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_09.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88838380",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-04-01 20:42:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rice terraces in Tả Phìn 09",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Images by Christophe95/Vietnam|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.399875",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.839133",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rice terraces in Tả Phìn (Sa Pa).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-08-11 11:38:22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Christophe95\" title=\"User:Christophe95\">Christophe95</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 88839960,
+        "ns": 6,
+        "title": "File:Rice terraces in Tả Phìn 13.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2623735,
+            "width": 4032,
+            "height": 3023,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_13.jpg/960px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_13.jpg/1920px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_13.jpg/960px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_13.jpg/1920px-Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rice_terraces_in_T%E1%BA%A3_Ph%C3%ACn_13.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88839960",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-04-01 21:41:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rice terraces in Tả Phìn 13",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Images by Christophe95/Vietnam|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.391785",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.845354",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rice terraces in Tả Phìn (Sa Pa).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-08-11 12:43:04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Christophe95\" title=\"User:Christophe95\">Christophe95</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 88839966,
+        "ns": 6,
+        "title": "File:Landscape in Tả Phìn 4.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2835947,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Landscape_in_T%E1%BA%A3_Ph%C3%ACn_4.jpg/960px-Landscape_in_T%E1%BA%A3_Ph%C3%ACn_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Landscape_in_T%E1%BA%A3_Ph%C3%ACn_4.jpg/1920px-Landscape_in_T%E1%BA%A3_Ph%C3%ACn_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Landscape_in_T%E1%BA%A3_Ph%C3%ACn_4.jpg/960px-Landscape_in_T%E1%BA%A3_Ph%C3%ACn_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Landscape_in_T%E1%BA%A3_Ph%C3%ACn_4.jpg/1920px-Landscape_in_T%E1%BA%A3_Ph%C3%ACn_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Landscape_in_T%E1%BA%A3_Ph%C3%ACn_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Landscape_in_T%E1%BA%A3_Ph%C3%ACn_4.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88839966",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-04-01 21:41:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Landscape in Tả Phìn 4",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Images by Christophe95/Vietnam|Mountains of Sa Pa|Rice terraces in Sa Pa|Tả Phìn (Sa Pa)|Maize fields in Sa Pa",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.380924",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "103.850633",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Landscape in Tả Phìn (Sa Pa).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-08-11 13:05:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Christophe95\" title=\"User:Christophe95\">Christophe95</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  },
+  "batchcomplete": true,
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  }
+}

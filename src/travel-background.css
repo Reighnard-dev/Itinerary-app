@@ -1,0 +1,193 @@
+/* Roam Travel-Editorial Background Redesign */
+
+.app-shell {
+  position: relative;
+  min-height: 100vh;
+  background: #faf5ea;
+  overflow-x: hidden;
+}
+
+.travel-editorial-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 0;
+  background: linear-gradient(
+    180deg,
+    #faf5ea 0%,
+    #fbf7ee 16%,
+    #f8f2e5 42%,
+    #f4ecdf 72%,
+    #f6f0e4 100%
+  );
+}
+
+/* Subtle Matte Editorial Paper Grain Overlay */
+.travel-editorial-bg::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  opacity: 0.038;
+  pointer-events: none;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  mix-blend-mode: multiply;
+}
+
+/* Atmospheric Glow Accents */
+.bg-golden-glow {
+  position: absolute;
+  pointer-events: none;
+  border-radius: 50%;
+  filter: blur(45px);
+  will-change: transform;
+}
+
+.bg-golden-glow.top-right {
+  top: -50px;
+  right: -50px;
+  width: min(850px, 60vw);
+  height: 600px;
+  background: radial-gradient(
+    ellipse at 82% 18%,
+    rgba(246, 206, 68, 0.24) 0%,
+    rgba(235, 185, 60, 0.13) 42%,
+    rgba(224, 168, 48, 0.05) 60%,
+    transparent 72%
+  );
+}
+
+.bg-golden-glow.mid-left {
+  top: 36%;
+  left: -120px;
+  width: min(650px, 50vw);
+  height: 520px;
+  background: radial-gradient(
+    ellipse at 25% 50%,
+    rgba(240, 195, 75, 0.18) 0%,
+    rgba(225, 175, 50, 0.08) 48%,
+    transparent 72%
+  );
+}
+
+.bg-sage-glow {
+  position: absolute;
+  pointer-events: none;
+  border-radius: 50%;
+  filter: blur(50px);
+  will-change: transform;
+}
+
+.bg-sage-glow.bottom-left {
+  bottom: -40px;
+  left: -100px;
+  width: min(700px, 55vw);
+  height: 550px;
+  background: radial-gradient(
+    ellipse at 15% 85%,
+    rgba(190, 208, 184, 0.25) 0%,
+    rgba(175, 195, 168, 0.1) 50%,
+    transparent 75%
+  );
+}
+
+.bg-sage-glow.bottom-right {
+  bottom: -40px;
+  right: -100px;
+  width: min(700px, 55vw);
+  height: 550px;
+  background: radial-gradient(
+    ellipse at 85% 85%,
+    rgba(188, 205, 182, 0.24) 0%,
+    rgba(170, 190, 165, 0.09) 50%,
+    transparent 75%
+  );
+}
+
+/* Vector Canvas for Mountains and Contours */
+.bg-vector-canvas {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  min-width: 1440px;
+  height: 100%;
+  pointer-events: none;
+  opacity: 0.95;
+  transition: opacity 0.3s ease;
+}
+
+/* Topographic details */
+.topo-contours path {
+  transition: opacity 0.2s ease;
+}
+
+.topo-trail {
+  stroke-linecap: round;
+}
+
+.topo-waypoint {
+  filter: drop-shadow(0 2px 4px rgba(180, 140, 50, 0.18));
+}
+
+/* Header & Content layer adjustments for seamless integration */
+.header {
+  position: relative;
+  z-index: 10;
+  background: rgba(251, 247, 238, 0.88) !important;
+  backdrop-filter: blur(12px) !important;
+  -webkit-backdrop-filter: blur(12px) !important;
+  border-bottom: 1px solid #ebdcc5 !important;
+}
+
+.main {
+  position: relative;
+  z-index: 1;
+}
+
+.footer {
+  position: relative;
+  z-index: 1;
+  background: rgba(250, 245, 234, 0.75);
+  border-top: 1px solid #ebdcc5 !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1200px) {
+  .bg-vector-canvas {
+    min-width: 1200px;
+    opacity: 0.85;
+  }
+}
+
+@media (max-width: 900px) {
+  .bg-vector-canvas {
+    min-width: 900px;
+    opacity: 0.7;
+  }
+  .bg-golden-glow.top-right {
+    width: 450px;
+    height: 380px;
+  }
+}
+
+@media (max-width: 600px) {
+  .bg-vector-canvas {
+    min-width: 650px;
+    opacity: 0.55;
+  }
+  .bg-golden-glow.top-right {
+    width: 320px;
+    height: 280px;
+  }
+  .bg-golden-glow.mid-left {
+    display: none;
+  }
+}

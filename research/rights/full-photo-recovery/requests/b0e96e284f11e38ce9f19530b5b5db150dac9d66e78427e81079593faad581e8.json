@@ -1,0 +1,1 @@
+{"retrievedAt":"2026-11-13T17:48:22.997Z","host":"commons.wikimedia.org","params":{"action":"query","titles":"File:Cork Golf Club.png","redirects":"1","prop":"imageinfo","iiprop":"url|mime|size|extmetadata","iiurlwidth":"800"},"data":{"batchcomplete":true,"query":{"pages":[{"ns":6,"title":"File:Cork Golf Club.png","missing":true,"imagerepository":""}]}}}

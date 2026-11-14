@@ -1,0 +1,119 @@
+{
+  "retrievedAt": "2026-11-14T01:39:44.387Z",
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 37054486,
+        "ns": 6,
+        "title": "File:Heldenplatz - Neue Burg, View from Volksgarten IMG 6051-Bearbeitet.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2677320,
+            "width": 2363,
+            "height": 1859,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Heldenplatz_-_Neue_Burg%2C_View_from_Volksgarten_IMG_6051-Bearbeitet.jpg/960px-Heldenplatz_-_Neue_Burg%2C_View_from_Volksgarten_IMG_6051-Bearbeitet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 629,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Heldenplatz_-_Neue_Burg%2C_View_from_Volksgarten_IMG_6051-Bearbeitet.jpg/1920px-Heldenplatz_-_Neue_Burg%2C_View_from_Volksgarten_IMG_6051-Bearbeitet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Heldenplatz_-_Neue_Burg%2C_View_from_Volksgarten_IMG_6051-Bearbeitet.jpg/960px-Heldenplatz_-_Neue_Burg%2C_View_from_Volksgarten_IMG_6051-Bearbeitet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 629,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Heldenplatz_-_Neue_Burg%2C_View_from_Volksgarten_IMG_6051-Bearbeitet.jpg/1920px-Heldenplatz_-_Neue_Burg%2C_View_from_Volksgarten_IMG_6051-Bearbeitet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Heldenplatz_-_Neue_Burg%2C_View_from_Volksgarten_IMG_6051-Bearbeitet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Heldenplatz_-_Neue_Burg,_View_from_Volksgarten_IMG_6051-Bearbeitet.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37054486",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-11-30 00:39:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Heldenplatz - Neue Burg, View from Volksgarten IMG 6051-Bearbeitet",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Alexander Nehr|Taken with Canon EF 70-200mm F2.8L IS II USM + 2x III|Supported by Wikimedia Österreich|Cultural heritage monuments in Austria check done|Cultural heritage monuments in Austria with known IDs|Files by User:Hubertl|Rudolf von Weyr|Figures at the neue Burg, Vienna|Sculptures of double-headed eagles",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Neue Burg, Heldenplatz, Vienna, Double-headed eagles",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-11-01 16:35:12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Hubertl",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This photograph was taken by <b><a href=\"//commons.wikimedia.org/wiki/User:Hubertl\" title=\"User:Hubertl\">Hubertl</a></b> and released under the license(s) stated below. You are free to use it for any purpose as long as you credit the author, the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

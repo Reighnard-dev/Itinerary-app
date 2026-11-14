@@ -1,15 +1,18 @@
 import express from 'express';
 import { DatabaseSync } from 'node:sqlite';
 import { randomBytes, randomUUID, scryptSync, timingSafeEqual, createHash } from 'node:crypto';
-import { existsSync, mkdirSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 import { createClient, type SupabaseClient } from '@supabase/supabase-js';
-import { places } from './catalog.js';
+import { places,placesByCity,placeById } from './catalog.js';
 import {worldwideDestinations,geoCity,canonicalCountry} from './world.js';
-import {discoverGuide,type GuideResult} from './travel-guide.js';
+import type {GuideResult} from './travel-guide.js';
+import {discoverPlaces} from './discovery.js';
 import { credentialsSchema, tripSchema } from './validation.js';
 import type { User } from '../shared/types.js';
 import {photoService} from './photo-service.js';
+import {artworkForCities, countryArtwork} from './destination-artwork.js';
+import {computePreviewRoute, requestGoogleRoutes} from './routes-service.js';
 
 if(existsSync('.env')) process.loadEnvFile('.env');
 const url=process.env.SUPABASE_URL||'';
@@ -40,17 +43,56 @@ app.use('/api/auth',(req,res,next)=>{
  entry.count++;attempts.set(ip,entry);
  if(entry.count>30)return res.status(429).json({error:'Too many attempts. Please try again in 15 minutes.'});next();
 });
-app.get('/api/config',(_req,res)=>res.json({mode:cloud?'supabase':'local',supabaseUrl:url,supabaseAnonKey:key}));
+app.get('/api/config',(_req,res)=>res.json({
+ mode:cloud?'supabase':'local',
+ supabaseUrl:url,
+ supabaseAnonKey:key,
+ hasRoutesKey:Boolean(process.env.GOOGLE_ROUTES_API_KEY || process.env.GOOGLE_MAPS_API_KEY)
+}));
+app.post('/api/routes',async(req,res)=>{
+ const {origin,destination,travelMode}=req.body||{};
+ if(!destination||typeof destination.lat!=='number'||typeof destination.lng!=='number'){
+  return res.status(400).json({error:'A valid destination with lat and lng is required.'});
+ }
+ const mode=travelMode==='TRANSIT'?'TRANSIT':travelMode==='DRIVE'?'DRIVE':'WALK';
+ const apiKey=process.env.GOOGLE_ROUTES_API_KEY||process.env.GOOGLE_MAPS_API_KEY||'';
+ if(apiKey){
+  const result=await requestGoogleRoutes(origin||{},destination,mode,apiKey);
+  return res.json(result);
+ }
+ const preview=computePreviewRoute(origin||{},destination,mode);
+ return res.json(preview);
+});
 app.get('/api/health',(_req,res)=>res.json({status:'ok',mode:cloud?'supabase':'local'}));
-app.get('/api/destinations',(_req,res)=>res.json({destinations:worldwideDestinations,countryCount:worldwideDestinations.length,cityCount:worldwideDestinations.reduce((n,d)=>n+d.cities.length,0),placeCount:places.length}));
-app.get('/api/places',(req,res)=>{const targetCountry=typeof req.query.country==='string'?canonicalCountry(req.query.country):'';res.json({places:places.filter(p=>(!targetCountry||p.country===targetCountry)&&(!req.query.city||p.city===req.query.city))});});
+app.get('/api/source-data/:file',(req,res)=>{
+ const file=req.params.file;
+ res.setHeader('Link','</credits.html>; rel="describedby"');
+ if(file==='odbl-places.json')return res.json({license:'ODbL 1.0',attribution:'© OpenStreetMap contributors',changes:'Filtered, normalized and deduplicated for Roam; photos and text retain their separate notices',places:places.filter(p=>p.source?.name==='OpenStreetMap contributors')});
+ if(!['map-places.json','sapa-places.json','expanded-places.json','researched-places.json','geographic-places.json','knowledge-places.json','world-cities.json','overture-places.json.gz'].includes(file))return res.sendStatus(404);
+ res.download(path.resolve('shared',file));
+});
+const plannerDestinations = worldwideDestinations.map(destination => {
+ const photo = countryArtwork.get(destination.country);
+ return {...destination, ...(photo && {photo})};
+});
+app.get('/api/destinations',(_req,res)=>res.json({destinations:plannerDestinations,countryCount:plannerDestinations.length,cityCount:plannerDestinations.reduce((n,d)=>n+d.cities.length,0),placeCount:places.length}));
+app.get('/api/destination-artwork',(req,res)=>{
+ const country = typeof req.query.country === 'string' ? canonicalCountry(req.query.country) : '';
+ const cities = artworkForCities(country);
+ if (!cities) return res.status(404).json({error:'Choose a country from the destination index.'});
+ res.json({cities});
+});
+app.get('/api/places',(req,res)=>{const targetCountry=typeof req.query.country==='string'?canonicalCountry(req.query.country):'',city=typeof req.query.city==='string'?req.query.city:'';res.json({places:targetCountry&&city?(placesByCity.get(JSON.stringify([targetCountry,city]))||[]):places.filter(p=>(!targetCountry||p.country===targetCountry)&&(!city||p.city===city))});});
 const photograph=photoService(db,dataDir,places);
-app.use('/api/photos',express.static(photograph.dir,{maxAge:'30d',immutable:true}));
+app.get('/api/photo-credits',(_req,res)=>res.json({notice:'Newly fetched photographs; CSS crops for display; adaptations retain the same license. Bundled photographs: /photo-credits.html',photos:db.prepare('SELECT data FROM photo_cache').all().flatMap(row=>{try{const photo=JSON.parse(String(row.data));return photo&&photograph.canServe(path.basename(photo.url))?[photo]:[];}catch{return [];}})}));
+app.use('/api/photos',(req,res,next)=>photograph.canServe(path.basename(req.path))?next():res.sendStatus(404),express.static(photograph.dir,{maxAge:'30d',immutable:true}));
 app.get('/api/place-image',async(req,res)=>{
  const id=typeof req.query.id==='string'?req.query.id:'';
- if(!/^[a-z0-9_-]{1,100}$/.test(id))return res.status(400).json({error:'A valid place ID is required.'});
- const photo=await photograph.resolve(id);
- res.json({photo});
+ if(!/^[a-zA-Z0-9_-]{1,100}$/.test(id))return res.status(400).json({error:'A valid place ID is required.'});
+ // Missing bundled photos are an explicit editorial absence. Do not start
+ // thousands of serialized research jobs while visitors browse the catalog.
+ const seeded=placeById.get(id);if(seeded&&!seeded.photo)return res.json({photo:null});
+ try{const photo=await photograph.resolve(id);res.json({photo});}catch{res.status(503).json({error:'The image source is temporarily unavailable. Try again shortly.'});}
 });
 const pendingGuides=new Map<string,Promise<GuideResult>>();
 const discoveryLimits=new Map<string,{count:number;until:number}>();
@@ -60,15 +102,15 @@ app.get('/api/explore',async(req,res)=>{
  if(!geoCity(country,city))return res.status(400).json({error:'Choose a city from the location suggestions.'});
  const cityKey=JSON.stringify([country,city]);
  const row=db.prepare('SELECT data,fetched_at FROM place_cache WHERE city_key=?').get(cityKey) as {data:string;fetched_at:string}|undefined;
- if(row&&Date.now()-Date.parse(row.fetched_at)<7*86400000)return res.json({...JSON.parse(row.data),cached:true});
+ if(row){const cached=JSON.parse(row.data) as GuideResult;const ttl=cached.notice?5*60000:cached.places.length?7*86400000:3600000;if(Date.now()-Date.parse(row.fetched_at)<ttl)return res.json({...cached,cached:true});}
  const ip=req.ip||'local';const now=Date.now();for(const [key,value] of discoveryLimits)if(value.until<now)discoveryLimits.delete(key);
  const limit=discoveryLimits.get(ip)||{count:0,until:now+3600000};
- if(limit.count>=20)return res.status(429).json({error:'You have reached the live discovery limit for this hour. Built-in destinations remain available.'});
- limit.count++;discoveryLimits.set(ip,limit);
+ if(limit.count>=300)return res.status(429).json({error:'Live sources are receiving many requests. Please try again shortly. Stored places remain available.'});
+ if(!pendingGuides.has(cityKey)){limit.count++;discoveryLimits.set(ip,limit);}
  try{
-  let promise=pendingGuides.get(cityKey);if(!promise){promise=discoverGuide(country,city);pendingGuides.set(cityKey,promise);}
+  let promise=pendingGuides.get(cityKey);if(!promise){promise=discoverPlaces(country,city);pendingGuides.set(cityKey,promise);}
   const result=await promise;db.prepare('INSERT INTO place_cache VALUES(?,?,?) ON CONFLICT(city_key) DO UPDATE SET data=excluded.data,fetched_at=excluded.fetched_at').run(cityKey,JSON.stringify(result),result.fetchedAt);
-  res.json({...result,cached:false,...(!result.places.length?{notice:'No geocoded listings were found in this city’s English-language guide. Try another nearby city or open the full travel guide.'}:{})});
+  res.json({...result,cached:false,...(!result.places.length&&!result.notice?{notice:'No verified listings were found in the available travel and map sources for this city. Try a nearby city or check local visitor information.'}:{})});
  }catch{
   if(row)return res.json({...JSON.parse(row.data),cached:true,notice:'The live guide is temporarily unavailable. Showing previously downloaded listings.'});
   res.status(503).json({error:'The live travel guide is temporarily unavailable. Your built-in places and saved itineraries are still available. Try again shortly.'});
@@ -118,7 +160,15 @@ app.delete('/api/trips/:id',authenticate,async(req:AuthRequest,res,next)=>{try{
  res.json({ok:true});
 }catch(err){next(err);}});
 app.use('/api',(_req,res)=>res.status(404).json({error:'API endpoint not found.'}));
-if(existsSync('dist/index.html')){app.use(express.static(path.resolve('dist')));app.get('/{*path}',(_req,res)=>res.sendFile(path.resolve('dist/index.html')));}
+const staticDir=path.resolve(process.env.STATIC_DIR||'dist');
+const approvedAssets:Record<string,{sha256:string}>=existsSync('research/rights/approved-assets.json')?JSON.parse(readFileSync('research/rights/approved-assets.json','utf8')):{};
+app.use((req,res,next)=>{
+ if(!/^\/(?:images\/|illustrations\/|fonts\/|fallback\.svg$|favicon\.svg$)/.test(req.path)||! /\.(?:jpe?g|png|webp|gif|avif|svg|ttf|woff2?)$/i.test(req.path))return next();
+ const approval=approvedAssets[req.path],file=path.join(staticDir,req.path);
+ if(!approval||!existsSync(file)||createHash('sha256').update(readFileSync(file)).digest('hex')!==approval.sha256)return res.sendStatus(404);
+ next();
+});
+if(existsSync(path.join(staticDir,'index.html'))){app.use(express.static(staticDir));app.get('/{*path}',(_req,res)=>res.sendFile(path.join(staticDir,'index.html')));}
 app.use((err:unknown,_req:express.Request,res:express.Response,_next:express.NextFunction)=>{console.error(err instanceof Error?err.message:'Database operation failed');const status=err instanceof SyntaxError?400:500;res.status(status).json({error:status===400?'Invalid JSON request.':'Unable to complete this request. Check your connection and database setup, then try again.'});});
 app.listen(Number(process.env.PORT)||3001,'0.0.0.0',()=>console.log(`Roam API ready on http://localhost:${process.env.PORT||3001} (${cloud?'Supabase':'local SQLite'} mode)`));
 

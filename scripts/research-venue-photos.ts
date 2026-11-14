@@ -8,6 +8,7 @@ import {load} from 'cheerio';
 import {places as originals} from '../shared/catalog.js';
 import type {Place,PlaceImage} from '../shared/types.js';
 import {isNearby,normalName} from '../server/photo-search.js';
+throw new Error('Legacy venue-site photo downloads are disabled: a public website and source credit do not grant reuse permission. Use the verified photo-source workflow.');
 
 const places:Place[]=[...originals,...JSON.parse(readFileSync('shared/expanded-places.json','utf8'))];
 const output:Record<string,PlaceImage>=existsSync('shared/venue-photo-candidates.json')?JSON.parse(readFileSync('shared/venue-photo-candidates.json','utf8')):{};

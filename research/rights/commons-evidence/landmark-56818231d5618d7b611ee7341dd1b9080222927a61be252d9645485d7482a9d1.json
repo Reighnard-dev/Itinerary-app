@@ -1,0 +1,135 @@
+{
+  "retrievedAt": "2026-11-14T01:39:14.805Z",
+  "continue": {
+    "iistart": "2014-01-28T15:34:45Z",
+    "continue": "||"
+  },
+  "query": {
+    "pages": [
+      {
+        "pageid": 30854995,
+        "ns": 6,
+        "title": "File:Sacre Coeur cor Jesu-DSC 1455w.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9290854,
+            "width": 3780,
+            "height": 5806,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Sacre_Coeur_cor_Jesu-DSC_1455w.jpg/960px-Sacre_Coeur_cor_Jesu-DSC_1455w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 1229,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Sacre_Coeur_cor_Jesu-DSC_1455w.jpg/1920px-Sacre_Coeur_cor_Jesu-DSC_1455w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Sacre_Coeur_cor_Jesu-DSC_1455w.jpg/960px-Sacre_Coeur_cor_Jesu-DSC_1455w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 1229,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Sacre_Coeur_cor_Jesu-DSC_1455w.jpg/1920px-Sacre_Coeur_cor_Jesu-DSC_1455w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Sacre_Coeur_cor_Jesu-DSC_1455w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sacre_Coeur_cor_Jesu-DSC_1455w.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30854995",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-02-01 13:27:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sacre Coeur cor Jesu-DSC 1455w",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D7100|Taken with AF-S VR Zoom-Nikkor 70-300mm f/4.5-5.6G IF-ED|Self-published work|Information field template with formatting|July 2013 in Paris|Featured pictures by User:P e z i|Images by user:P e z i|Files with coordinates missing SDC location of creation (48° N, 2° E)|Featured pictures of Christian sculptures|Featured pictures of Jesus Christ|Featured pictures of churches in Paris|Statue of Sacred Heart of Jesus Christ, Basilique du Sacré-Cœur de Montmartre",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.885847",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "2.343033",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Blessing Jesus, detail of the facade of <a href=\"https://en.wikipedia.org/wiki/Sacr%C3%A9-C%C5%93ur,_Paris\" class=\"extiw\" title=\"en:Sacré-Cœur, Paris\">Sacré-Cœur, Paris</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-07-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:P_e_z_i\" title=\"User:P e z i\">P e z i</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Peter Haas",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

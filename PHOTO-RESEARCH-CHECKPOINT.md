@@ -1,4 +1,8 @@
+> Historical photo-research checkpoint. The 13 November copyright remediation supersedes its asset counts and import instructions. See COPYRIGHT-AUDIT.md before resuming this queue; source credits are not reuse permission.
+
 # Photo research checkpoint — 12 November 2026
+
+This is the historical checkpoint before the 13 November country expansion. See [the current country expansion report](research/COUNTRY-EXPANSION.md), coverage audit, and photo metadata audit for the later work.
 
 Project on this device: `C:\Users\admin\Desktop\Itinerary-app`.
 

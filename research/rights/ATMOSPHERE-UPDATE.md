@@ -1,0 +1,9 @@
+# Photorealistic atmosphere fallback update
+
+The user approved photorealistic generated scenic images for landmarks without cleared photographs. Six original fictional atmosphere scenes were generated with the built-in image-generation tool and saved as optimized JPEG assets in `public/images/atmosphere/`. The exact prompts and output hashes are retained in `shared/atmosphere-assets.json`; generation inputs and original local output paths are retained in `research/rights/atmosphere-generation-inputs.json`.
+
+Verified location photographs keep priority. Missing or failed photos display a theme-matched generated scene with the visible label “AI-generated atmosphere,” descriptive alternative text, and a link explaining that it is not a photograph of the named place. Details repeat this disclosure. Compact itinerary thumbnails retain the disclosure in their alternative text and tooltip. No generated image is given a photographer credit, exact-place identity match, or invented Creative Commons license. Former unlicensed assets remain excluded.
+
+This supersedes earlier documentation describing plain absence panels as the normal fallback. A plain panel remains only as an image-load failure state. The generated-image provenance is tracked independently from the verified Wikimedia photograph evidence, while both participate in public-asset byte checks. Generating an image does not itself certify zero legal risk or exclusive copyright ownership.
+
+Prompt set: fictional misty mountain ridges; Southeast Asian highland rice terraces; woodland walking trail; sheltered coastal cove; old village lane without identifiable monuments or artwork; flowering garden path. Each prompt requested photorealistic camera texture, natural lighting, a wide travel-card composition, and no text, logos, watermarks, illustration or CGI styling. Full prompts are in the manifest above.

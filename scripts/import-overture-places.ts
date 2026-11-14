@@ -1,0 +1,10 @@
+import {readFileSync,writeFileSync,mkdirSync} from 'node:fs';
+import {gzipSync} from 'node:zlib';
+import {overturePlace,type OverturePlace} from '../server/overture-places.js';
+const raw:OverturePlace[]=JSON.parse(readFileSync('data/sources/world-expansion/overture-import.json','utf8'));
+const places=raw.map(row=>overturePlace(row)).filter(p=>p!==null);
+writeFileSync('shared/overture-places.json.gz',gzipSync(JSON.stringify(places),{level:9}));
+mkdirSync('research',{recursive:true});
+const release=JSON.parse(readFileSync('data/sources/world-expansion/overture-release.json','utf8'));
+writeFileSync('research/overture-provenance.json',JSON.stringify({...release,importedAt:new Date().toISOString(),sourceRows:raw.length,acceptedPlaces:places.length,cities:new Set(places.map(p=>`${p.country}:${p.city}`)).size,licenses:['CDLA-Permissive-2.0','CC0-1.0','Apache-2.0'],providers:[...new Set(raw.flatMap(p=>p.sources.map(s=>s.dataset)).filter(Boolean))],transformations:['Only tourist categories, restaurants, parks, and activities','Existence confidence at least 0.85; permanently or temporarily closed records excluded','Country code and nearest indexed city match; within 20 km','Up to six listings per category per city; no fabricated popularity or review rating','Rows with other source licenses excluded; individual GERS ID retained in each place ID and source link']},null,2));
+console.log(JSON.stringify({sourceRows:raw.length,accepted:places.length,cities:new Set(places.map(p=>`${p.country}:${p.city}`)).size}));

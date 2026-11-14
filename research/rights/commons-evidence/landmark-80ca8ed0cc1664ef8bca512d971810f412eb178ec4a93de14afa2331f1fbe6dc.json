@@ -1,0 +1,130 @@
+{
+  "retrievedAt": "2026-11-13T16:31:48.111Z",
+  "continue": {
+    "iistart": "2014-07-28T20:35:44Z",
+    "continue": "||"
+  },
+  "query": {
+    "pages": [
+      {
+        "pageid": 34203281,
+        "ns": 6,
+        "title": "File:Arco Quartiere coppedè.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7549456,
+            "width": 2547,
+            "height": 2751,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Arco_Quartiere_copped%C3%A8.jpg/960px-Arco_Quartiere_copped%C3%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 864,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Arco_Quartiere_copped%C3%A8.jpg/1920px-Arco_Quartiere_copped%C3%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Arco_Quartiere_copped%C3%A8.jpg/960px-Arco_Quartiere_copped%C3%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 864,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Arco_Quartiere_copped%C3%A8.jpg/1920px-Arco_Quartiere_copped%C3%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Arco_Quartiere_copped%C3%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arco_Quartiere_copped%C3%A8.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34203281",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-07-29 18:35:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Arco Quartiere coppedè",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D3200|Self-published work|July 2014 in Rome|Files with coordinates missing SDC location of creation|Italy photographs taken on 2014-07-25|Quartiere Coppedè (Rome) - Palazzi degli Ambasciatori|Images by Livioandronico2013",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "41.918773",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "12.500961",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Arco Quartiere coppedè",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 25 July 2014, 19:10:19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Livioandronico2013\" title=\"User:Livioandronico2013\">Livioandronico2013</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

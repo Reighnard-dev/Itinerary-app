@@ -1,0 +1,6959 @@
+{
+  "checkedAt": "2026-11-13T04:55:11.905Z",
+  "countries": 10,
+  "selectableCities": 428,
+  "citiesWithPlaces": 401,
+  "places": 7472,
+  "photos": 1064,
+  "countriesDetail": [
+    {
+      "code": "PN",
+      "country": "Pitcairn",
+      "citiesCovered": 1,
+      "totalCities": 1,
+      "places": 2,
+      "photos": 1,
+      "cities": [
+        {
+          "city": "Adamstown",
+          "places": 2,
+          "photos": 1,
+          "categories": [
+            "Nature"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        }
+      ]
+    },
+    {
+      "code": "RE",
+      "country": "Reunion",
+      "citiesCovered": 14,
+      "totalCities": 14,
+      "places": 467,
+      "photos": 17,
+      "cities": [
+        {
+          "city": "Saint-Denis",
+          "places": 83,
+          "photos": 4,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Shopping",
+            "Food & drink",
+            "Beaches",
+            "Parks & gardens",
+            "Restaurants",
+            "Nature"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 37,
+          "geographicRecords": 15
+        },
+        {
+          "city": "Saint-Paul",
+          "places": 41,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Shopping",
+            "Beaches",
+            "Parks & gardens",
+            "Food & drink",
+            "Activities",
+            "Nature"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 4
+        },
+        {
+          "city": "Saint-Pierre",
+          "places": 33,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Shopping",
+            "Beaches",
+            "Parks & gardens",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Le Tampon",
+          "places": 44,
+          "photos": 4,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Nature",
+            "Food & drink",
+            "Restaurants",
+            "Shopping",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 5,
+          "geographicRecords": 12
+        },
+        {
+          "city": "Saint-Andre",
+          "places": 31,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Restaurants",
+            "Food & drink",
+            "Nature",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 9
+        },
+        {
+          "city": "Saint-Louis",
+          "places": 26,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Restaurants",
+            "Culture",
+            "Food & drink",
+            "Activities",
+            "Nature"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Saint-Joseph",
+          "places": 49,
+          "photos": 4,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Beaches",
+            "Nature",
+            "Shopping",
+            "Food & drink",
+            "Parks & gardens",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 9,
+          "geographicRecords": 13
+        },
+        {
+          "city": "Saint-Benoit",
+          "places": 36,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Parks & gardens",
+            "Culture",
+            "Shopping",
+            "Activities",
+            "Nature"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 5,
+          "geographicRecords": 12
+        },
+        {
+          "city": "La Possession",
+          "places": 20,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Culture",
+            "Shopping",
+            "Restaurants",
+            "Food & drink",
+            "Nature",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Saint-Leu",
+          "places": 32,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink",
+            "Beaches",
+            "Parks & gardens",
+            "Activities",
+            "Nature"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 4,
+          "geographicRecords": 6
+        },
+        {
+          "city": "Sainte-Marie",
+          "places": 22,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture",
+            "Activities",
+            "Shopping",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Le Port",
+          "places": 20,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Culture",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Piton Saint-Leu",
+          "places": 19,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Food & drink",
+            "Beaches",
+            "Parks & gardens",
+            "Culture",
+            "Activities",
+            "Nature",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Sainte-Suzanne",
+          "places": 11,
+          "photos": 0,
+          "categories": [
+            "Nature",
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Shopping",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        }
+      ]
+    },
+    {
+      "code": "BL",
+      "country": "Saint Barthelemy",
+      "citiesCovered": 1,
+      "totalCities": 1,
+      "places": 21,
+      "photos": 2,
+      "cities": [
+        {
+          "city": "Gustavia",
+          "places": 21,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Shopping",
+            "Beaches",
+            "Nature"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        }
+      ]
+    },
+    {
+      "code": "LC",
+      "country": "Saint Lucia",
+      "citiesCovered": 2,
+      "totalCities": 2,
+      "places": 90,
+      "photos": 5,
+      "cities": [
+        {
+          "city": "Castries",
+          "places": 56,
+          "photos": 4,
+          "categories": [
+            "Activities",
+            "Restaurants",
+            "Culture",
+            "Shopping",
+            "Food & drink",
+            "Parks & gardens",
+            "Beaches",
+            "Nature"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 15,
+          "geographicRecords": 9
+        },
+        {
+          "city": "Gros Islet",
+          "places": 34,
+          "photos": 1,
+          "categories": [
+            "Activities",
+            "Parks & gardens",
+            "Restaurants",
+            "Food & drink",
+            "Shopping",
+            "Beaches",
+            "Culture"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 2
+        }
+      ]
+    },
+    {
+      "code": "SX",
+      "country": "Sint Maarten",
+      "citiesCovered": 1,
+      "totalCities": 1,
+      "places": 31,
+      "photos": 1,
+      "cities": [
+        {
+          "city": "Philipsburg",
+          "places": 31,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Shopping",
+            "Activities",
+            "Restaurants",
+            "Beaches",
+            "Parks & gardens",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        }
+      ]
+    },
+    {
+      "code": "TC",
+      "country": "Turks and Caicos Islands",
+      "citiesCovered": 2,
+      "totalCities": 2,
+      "places": 61,
+      "photos": 3,
+      "cities": [
+        {
+          "city": "Cockburn Town",
+          "places": 25,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Beaches",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Providenciales",
+          "places": 36,
+          "photos": 1,
+          "categories": [
+            "Restaurants",
+            "Culture",
+            "Activities",
+            "Food & drink",
+            "Shopping",
+            "Beaches",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 3
+        }
+      ]
+    },
+    {
+      "code": "TV",
+      "country": "Tuvalu",
+      "citiesCovered": 1,
+      "totalCities": 1,
+      "places": 8,
+      "photos": 1,
+      "cities": [
+        {
+          "city": "Funafuti",
+          "places": 8,
+          "photos": 1,
+          "categories": [
+            "Nature",
+            "Food & drink",
+            "Culture",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 6
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "country": "Ukraine",
+      "citiesCovered": 375,
+      "totalCities": 402,
+      "places": 6756,
+      "photos": 1026,
+      "cities": [
+        {
+          "city": "Kyiv",
+          "places": 113,
+          "photos": 60,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Activities",
+            "Shopping",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 88,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kharkiv",
+          "places": 88,
+          "photos": 9,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Restaurants",
+            "Food & drink",
+            "Activities",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 59,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Odesa",
+          "places": 88,
+          "photos": 17,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Restaurants",
+            "Food & drink",
+            "Beaches",
+            "Parks & gardens",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 34,
+          "geographicRecords": 12
+        },
+        {
+          "city": "Dnipro",
+          "places": 41,
+          "photos": 6,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Food & drink",
+            "Restaurants",
+            "Activities",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 6,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Donetsk",
+          "places": 220,
+          "photos": 174,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Parks & gardens",
+            "Restaurants",
+            "Food & drink",
+            "Nature"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Lviv",
+          "places": 175,
+          "photos": 57,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Parks & gardens",
+            "Shopping",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 137,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Zaporizhzhya",
+          "places": 32,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Culture",
+            "Shopping",
+            "Parks & gardens",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kryvyy Rih",
+          "places": 57,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Culture",
+            "Nature",
+            "Activities",
+            "Shopping",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 24,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Sevastopol",
+          "places": 33,
+          "photos": 1,
+          "categories": [
+            "Shopping",
+            "Food & drink",
+            "Parks & gardens",
+            "Culture",
+            "Activities",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Mykolayiv",
+          "places": 92,
+          "photos": 57,
+          "categories": [
+            "Parks & gardens",
+            "Culture",
+            "Activities",
+            "Food & drink",
+            "Restaurants",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Vinnytsya",
+          "places": 108,
+          "photos": 31,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Activities",
+            "Shopping",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 72,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Saltivka",
+          "places": 19,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Shopping",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Luhansk",
+          "places": 24,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 16,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Desna",
+          "places": 5,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Dniprovskyi",
+          "places": 18,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Shopping",
+            "Activities",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Pravyi Bereh",
+          "places": 2,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Darnytsya",
+          "places": 2,
+          "photos": 0,
+          "categories": [
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Makiyivka",
+          "places": 13,
+          "photos": 11,
+          "categories": [
+            "Culture",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Simferopol",
+          "places": 36,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Shopping",
+            "Parks & gardens",
+            "Nature"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 7
+        },
+        {
+          "city": "Saltivskyi",
+          "places": 21,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture",
+            "Shopping",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Chernihiv",
+          "places": 33,
+          "photos": 11,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Activities",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 14,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Poltava",
+          "places": 74,
+          "photos": 4,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Shopping",
+            "Restaurants",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 43,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Khmelnytskyi",
+          "places": 63,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Parks & gardens",
+            "Shopping",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 29,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Cherkasy",
+          "places": 102,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Activities",
+            "Beaches",
+            "Shopping",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 67,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Chernivtsi",
+          "places": 84,
+          "photos": 16,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Parks & gardens",
+            "Food & drink",
+            "Restaurants",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 50,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Zhytomyr",
+          "places": 103,
+          "photos": 5,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Activities",
+            "Shopping",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 68,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Sumy",
+          "places": 26,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Rivne",
+          "places": 81,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Parks & gardens",
+            "Shopping",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 46,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Vyhurivshchyna-Troyeshchyna",
+          "places": 27,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Activities",
+            "Culture"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Horlivka",
+          "places": 17,
+          "photos": 12,
+          "categories": [
+            "Culture",
+            "Nature",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Obolon",
+          "places": 30,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Parks & gardens",
+            "Culture",
+            "Restaurants",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Ivano-Frankivsk",
+          "places": 108,
+          "photos": 11,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Parks & gardens",
+            "Shopping",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 77,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Mariupol",
+          "places": 80,
+          "photos": 56,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Parks & gardens",
+            "Food & drink",
+            "Restaurants",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kamyanske",
+          "places": 22,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture",
+            "Parks & gardens",
+            "Shopping",
+            "Activities",
+            "Nature"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Ternopil",
+          "places": 35,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Activities",
+            "Shopping",
+            "Beaches",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Kremenchuk",
+          "places": 21,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Shopping",
+            "Restaurants",
+            "Culture",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Shevchenkivskyi (Kharkiv)",
+          "places": 31,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Food & drink",
+            "Parks & gardens",
+            "Culture",
+            "Activities",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Shevchenkivskyi (Kyiv City)",
+          "places": 12,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kropyvnytskyi",
+          "places": 61,
+          "photos": 29,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Shopping",
+            "Restaurants",
+            "Parks & gardens",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Lutsk",
+          "places": 90,
+          "photos": 6,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Activities",
+            "Shopping",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 51,
+          "geographicRecords": 5
+        },
+        {
+          "city": "Bila Tserkva",
+          "places": 31,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Activities",
+            "Shopping",
+            "Nature",
+            "Beaches",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Verhunskyi",
+          "places": 2,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Kyivskyi (Kharkiv)",
+          "places": 13,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture",
+            "Parks & gardens",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Borshchahivka",
+          "places": 18,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Restaurants",
+            "Culture",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Desnyanskyi",
+          "places": 22,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Parks & gardens",
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Novozavodskyi",
+          "places": 8,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Activities",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Tsentralnyi",
+          "places": 12,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Food & drink",
+            "Culture",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Rutchenkivskyi",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Fortechnyi",
+          "places": 20,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Shopping",
+            "Restaurants",
+            "Culture",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Nyzhnodniprovsk",
+          "places": 19,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Industrialnyi",
+          "places": 4,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Shopping",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Sykhiv",
+          "places": 27,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Activities",
+            "Culture"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Zarichnyi",
+          "places": 26,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Culture",
+            "Restaurants",
+            "Shopping",
+            "Activities",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Kerch",
+          "places": 16,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Restaurants",
+            "Shopping",
+            "Activities",
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Melitopol",
+          "places": 25,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Activities",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 8,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Shevchenko",
+          "places": 17,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Shopping",
+            "Food & drink",
+            "Culture",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Bohuniya",
+          "places": 14,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kramatorsk",
+          "places": 4,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Slobidskyi",
+          "places": 16,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Parks & gardens",
+            "Activities",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Nemyshlyanskyi",
+          "places": 22,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture",
+            "Parks & gardens",
+            "Shopping",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kovpakivskyi",
+          "places": 14,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Shopping",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kyivskyi (Donetsk)",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Rayon KhTZ",
+          "places": 14,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Mykilska Borshchahivka",
+          "places": 24,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Food & drink",
+            "Restaurants",
+            "Culture",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Vilkhivskyi",
+          "places": 2,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Livoberezhnyi",
+          "places": 5,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Cheremushky",
+          "places": 52,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Beaches",
+            "Parks & gardens",
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 12
+        },
+        {
+          "city": "Tsentralno-Miskyi (Donetsk)",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Smolyanskyi",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Uzhhorod",
+          "places": 55,
+          "photos": 6,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Food & drink",
+            "Restaurants",
+            "Shopping",
+            "Nature",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 18,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Korolyov",
+          "places": 12,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kyivskyi (Poltava)",
+          "places": 20,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Activities",
+            "Shopping",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Brovary",
+          "places": 30,
+          "photos": 6,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Shopping",
+            "Parks & gardens",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Novobavarskyi",
+          "places": 3,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Hirnytskyi",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Yevpatoriya",
+          "places": 26,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Activities",
+            "Beaches",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Berdyansk",
+          "places": 15,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Activities",
+            "Nature",
+            "Shopping",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 5,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Alchevsk",
+          "places": 6,
+          "photos": 1,
+          "categories": [
+            "Activities",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Nikopol",
+          "places": 31,
+          "photos": 11,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Parks & gardens",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Slovyansk",
+          "places": 31,
+          "photos": 12,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Shopping",
+            "Food & drink",
+            "Parks & gardens",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Pozniaky",
+          "places": 29,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kalynivskyi",
+          "places": 8,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Chumakivskyi",
+          "places": 2,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Skhidni Kvartaly",
+          "places": 4,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kindrativskyi",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kalmiuskyi",
+          "places": 6,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Activities",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Pavlohrad",
+          "places": 21,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Shopping",
+            "Food & drink",
+            "Parks & gardens",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 5,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Pechersk",
+          "places": 30,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Culture",
+            "Restaurants",
+            "Shopping",
+            "Activities",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Oleksiyivka",
+          "places": 17,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Shopping",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Oleksandrivskyi",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Siverskodonetsk",
+          "places": 22,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Restaurants",
+            "Food & drink",
+            "Shopping",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kamyanets-Podilskyi",
+          "places": 41,
+          "photos": 9,
+          "categories": [
+            "Activities",
+            "Culture",
+            "Parks & gardens",
+            "Restaurants",
+            "Food & drink",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 12,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Tsentralno-Miskyi (Donetsk) · 13607654",
+          "places": 3,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Yuzivskyi",
+          "places": 22,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Parks & gardens",
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Kharkivskyi Masyv",
+          "places": 24,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Shopping",
+            "Parks & gardens",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Lysychansk",
+          "places": 14,
+          "photos": 12,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Osnovyanskyi",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Beaches"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Bohodukhivskyi",
+          "places": 2,
+          "photos": 0,
+          "categories": [
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kholodna Hora",
+          "places": 16,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture",
+            "Shopping",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Shevchenkivskyi (Luhansk)",
+          "places": 5,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Parks & gardens",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Lisovyi Masyv",
+          "places": 17,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture",
+            "Shopping",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Podilskyi",
+          "places": 9,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Culture",
+            "Parks & gardens",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kosmichnyi",
+          "places": 29,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Food & drink",
+            "Restaurants",
+            "Shopping",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Mukachevo",
+          "places": 41,
+          "photos": 3,
+          "categories": [
+            "Culture",
+            "Shopping",
+            "Activities",
+            "Restaurants",
+            "Food & drink",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 15,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Voznesenskyi",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Konotop",
+          "places": 20,
+          "photos": 9,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Restaurants",
+            "Parks & gardens",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Voskresenka",
+          "places": 10,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Activities",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Moldavanka",
+          "places": 43,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Food & drink",
+            "Parks & gardens",
+            "Culture",
+            "Activities",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 12
+        },
+        {
+          "city": "Uman",
+          "places": 20,
+          "photos": 1,
+          "categories": [
+            "Parks & gardens",
+            "Activities",
+            "Restaurants",
+            "Culture",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Berestovskyi",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Bakhmut",
+          "places": 17,
+          "photos": 13,
+          "categories": [
+            "Activities",
+            "Culture",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Khrustalnyi",
+          "places": 2,
+          "photos": 1,
+          "categories": [
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Yalta",
+          "places": 44,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Beaches",
+            "Parks & gardens",
+            "Culture",
+            "Restaurants",
+            "Food & drink",
+            "Nature",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 12
+        },
+        {
+          "city": "Yenakiyeve",
+          "places": 4,
+          "photos": 3,
+          "categories": [
+            "Culture",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Oleksandriya",
+          "places": 22,
+          "photos": 6,
+          "categories": [
+            "Activities",
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Tekstylnyk",
+          "places": 2,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Drohobych",
+          "places": 24,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Food & drink",
+            "Shopping",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Chokolivka",
+          "places": 6,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Food & drink",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kadiyivka",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Shostka",
+          "places": 15,
+          "photos": 7,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Berdychiv",
+          "places": 18,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Food & drink",
+            "Restaurants",
+            "Shopping",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Livyi Bereh",
+          "places": 15,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Restaurants",
+            "Food & drink",
+            "Shopping",
+            "Parks & gardens",
+            "Culture"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Shakhtarsk",
+          "places": 5,
+          "photos": 4,
+          "categories": [
+            "Culture",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Nyvky",
+          "places": 23,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Prymorskyi",
+          "places": 10,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Food & drink",
+            "Shopping",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Samar",
+          "places": 17,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Activities",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Mykytivskyi",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Izmayil",
+          "places": 19,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Shopping",
+            "Activities",
+            "Food & drink",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Vidradnyi",
+          "places": 22,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Culture",
+            "Restaurants",
+            "Activities",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Darnytskyi Masyv",
+          "places": 24,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Activities",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Feodosiya",
+          "places": 47,
+          "photos": 24,
+          "categories": [
+            "Nature",
+            "Culture",
+            "Parks & gardens",
+            "Activities",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kovel",
+          "places": 32,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Food & drink",
+            "Restaurants",
+            "Parks & gardens",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 3,
+          "geographicRecords": 4
+        },
+        {
+          "city": "Kostyantynivka",
+          "places": 12,
+          "photos": 7,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Nizhyn",
+          "places": 39,
+          "photos": 24,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Korabelna Storona",
+          "places": 11,
+          "photos": 0,
+          "categories": [
+            "Beaches",
+            "Parks & gardens",
+            "Food & drink",
+            "Culture",
+            "Nature"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 5
+        },
+        {
+          "city": "Smila",
+          "places": 16,
+          "photos": 3,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kherson",
+          "places": 32,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Shopping",
+            "Food & drink",
+            "Parks & gardens",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Irpin",
+          "places": 32,
+          "photos": 5,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kalush",
+          "places": 18,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Restaurants",
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Sheptytskyi",
+          "places": 19,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink",
+            "Shopping",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 2,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Boryspil",
+          "places": 25,
+          "photos": 5,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Food & drink",
+            "Restaurants",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Dovzhansk",
+          "places": 3,
+          "photos": 2,
+          "categories": [
+            "Activities",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Pervomaysk",
+          "places": 5,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Holosiyiv",
+          "places": 29,
+          "photos": 0,
+          "categories": [
+            "Beaches",
+            "Parks & gardens",
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Activities",
+            "Culture"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Shulyavka",
+          "places": 32,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture",
+            "Parks & gardens",
+            "Shopping",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Inhulets",
+          "places": 2,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Korosten",
+          "places": 16,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Stryi",
+          "places": 21,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Shopping",
+            "Activities",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Kolomyia",
+          "places": 27,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Restaurants",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 3,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Pokrovsk",
+          "places": 12,
+          "photos": 3,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Parks & gardens",
+            "Food & drink",
+            "Shopping",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Chornomors'k",
+          "places": 29,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Beaches",
+            "Parks & gardens",
+            "Food & drink",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 6
+        },
+        {
+          "city": "Vynohradar",
+          "places": 17,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Culture",
+            "Restaurants",
+            "Shopping",
+            "Activities",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Khartsyzk",
+          "places": 15,
+          "photos": 12,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Activities",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Zvyahel",
+          "places": 10,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Culture",
+            "Parks & gardens",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Snizhne",
+          "places": 8,
+          "photos": 7,
+          "categories": [
+            "Parks & gardens",
+            "Culture",
+            "Activities",
+            "Nature"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Rubizhne",
+          "places": 1,
+          "photos": 1,
+          "categories": [
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Lozova",
+          "places": 6,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Druzhkivka",
+          "places": 14,
+          "photos": 9,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Chystyakove",
+          "places": 5,
+          "photos": 5,
+          "categories": [
+            "Culture",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Sotsmisto",
+          "places": 18,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Shopping",
+            "Activities",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Khanzhonkivskyi",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Svyatoshyn",
+          "places": 20,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture",
+            "Activities",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Enerhodar",
+          "places": 8,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Pryluky",
+          "places": 13,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Hruzkyi",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Antratsyt",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Pivdenna Borshchahivka",
+          "places": 16,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Bosse",
+          "places": 3,
+          "photos": 0,
+          "categories": [
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Horishni Plavni",
+          "places": 20,
+          "photos": 8,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Restaurants",
+            "Food & drink",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Novovolynsk",
+          "places": 14,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Parks & gardens",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Sorokyne",
+          "places": 4,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Nova Zabudova",
+          "places": 29,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Nature",
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Shopping",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Bilhorod-Dnistrovskyi",
+          "places": 20,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Beaches",
+            "Restaurants",
+            "Shopping",
+            "Activities",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Okhtyrka",
+          "places": 16,
+          "photos": 11,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Myrnohrad",
+          "places": 6,
+          "photos": 4,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Berezniaky",
+          "places": 18,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture",
+            "Shopping",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Izyum",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Nova Darnytsya",
+          "places": 16,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Syrets",
+          "places": 14,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Parks & gardens",
+            "Culture",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Rovenky",
+          "places": 2,
+          "photos": 0,
+          "categories": [
+            "Nature",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Pivnichna Saltivka",
+          "places": 4,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Marhanets",
+          "places": 6,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Bryanka",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Lubny",
+          "places": 32,
+          "photos": 14,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Food & drink",
+            "Restaurants",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Nova Kakhovka",
+          "places": 10,
+          "photos": 3,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Fastiv",
+          "places": 19,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Shopping",
+            "Activities",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Molodizhne",
+          "places": 9,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Activities",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Svitlovodsk",
+          "places": 17,
+          "photos": 5,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Food & drink",
+            "Shopping",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Vyshneve",
+          "places": 25,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Shopping",
+            "Parks & gardens",
+            "Restaurants",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kamyanobridskyi",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Bucha",
+          "places": 20,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Restaurants",
+            "Culture",
+            "Food & drink",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Zhovti Vody",
+          "places": 13,
+          "photos": 4,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Varash",
+          "places": 12,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Shopping",
+            "Food & drink",
+            "Culture",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Stare Misto",
+          "places": 25,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Food & drink",
+            "Parks & gardens",
+            "Culture",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Dzhankoy",
+          "places": 3,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Shopping",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Hladkivka",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Shepetivka",
+          "places": 12,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Restaurants",
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Sonyachnyi",
+          "places": 8,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Bilychi",
+          "places": 7,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Khanzhonkove",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Telychka",
+          "places": 10,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Novyi Lviv",
+          "places": 35,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Parks & gardens",
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Myrhorod",
+          "places": 10,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Pivnichni Osokorky",
+          "places": 18,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Restaurants",
+            "Food & drink",
+            "Shopping",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Podilsk",
+          "places": 7,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Culture",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Pivdennoukrainsk",
+          "places": 9,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Romny",
+          "places": 19,
+          "photos": 8,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Volodymyr-Volynskyi",
+          "places": 17,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Yasynuvata",
+          "places": 2,
+          "photos": 2,
+          "categories": [
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Pivnichno-Brovarskyi Masyv",
+          "places": 19,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture",
+            "Parks & gardens",
+            "Activities",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Pokrov",
+          "places": 4,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Dubno",
+          "places": 18,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Shopping",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 4
+        },
+        {
+          "city": "Vasylkiv",
+          "places": 32,
+          "photos": 8,
+          "categories": [
+            "Parks & gardens",
+            "Culture",
+            "Restaurants",
+            "Food & drink",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Chuhuyiv",
+          "places": 6,
+          "photos": 3,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Priorka",
+          "places": 5,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Netishyn",
+          "places": 21,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Shopping",
+            "Activities",
+            "Restaurants",
+            "Parks & gardens",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Sokolohirsk",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kakhovka",
+          "places": 3,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Avdiyivka",
+          "places": 4,
+          "photos": 3,
+          "categories": [
+            "Culture",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Karavayevi Dachi",
+          "places": 14,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Vyshhorodskyi Masyv",
+          "places": 12,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Parks & gardens",
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Slavuta",
+          "places": 8,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Arshyntseve",
+          "places": 6,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Teremky",
+          "places": 28,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Shopping",
+            "Restaurants",
+            "Culture",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Zhmerynka",
+          "places": 11,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Kryukiv",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Boyarka",
+          "places": 16,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Shopping",
+            "Restaurants",
+            "Food & drink",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Starokostyantyniv",
+          "places": 8,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 2,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Sambir",
+          "places": 14,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Oleksandrivska Slobidka",
+          "places": 18,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture",
+            "Parks & gardens",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Voznesensk",
+          "places": 4,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Vyshhorod",
+          "places": 25,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Parks & gardens",
+            "Food & drink",
+            "Shopping",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Pasichna",
+          "places": 13,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Parks & gardens",
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Minskyi Masyv",
+          "places": 17,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Culture",
+            "Restaurants",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Pivdenne",
+          "places": 15,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Shopping",
+            "Activities",
+            "Restaurants",
+            "Beaches",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Solomyanka",
+          "places": 17,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Restaurants",
+            "Food & drink",
+            "Parks & gardens",
+            "Culture"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Boryslav",
+          "places": 14,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Restaurants",
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Podil (Poltava)",
+          "places": 4,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Hlukhiv",
+          "places": 6,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Culture",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Obukhiv",
+          "places": 21,
+          "photos": 3,
+          "categories": [
+            "Nature",
+            "Culture",
+            "Activities",
+            "Food & drink",
+            "Parks & gardens",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Lukyanivka",
+          "places": 25,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Parks & gardens",
+            "Culture",
+            "Restaurants",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Novoyavorivs'k",
+          "places": 28,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Shopping",
+            "Food & drink",
+            "Activities",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 12
+        },
+        {
+          "city": "Toretsk",
+          "places": 3,
+          "photos": 3,
+          "categories": [
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kostopil",
+          "places": 10,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Yany Kapu",
+          "places": 2,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Mohyliv-Podilskyy",
+          "places": 6,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Activities",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Synelnykove",
+          "places": 8,
+          "photos": 5,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Masany",
+          "places": 6,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Nahirna Chastyna",
+          "places": 16,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Parks & gardens",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Alushta",
+          "places": 30,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Restaurants",
+            "Culture",
+            "Beaches",
+            "Parks & gardens",
+            "Food & drink",
+            "Nature"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 12
+        },
+        {
+          "city": "Tokmak",
+          "places": 6,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Demiyivka",
+          "places": 29,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Activities",
+            "Shopping",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Sarny",
+          "places": 7,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Zlatopil",
+          "places": 4,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Novobilychi",
+          "places": 15,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Food & drink",
+            "Culture",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Khust",
+          "places": 27,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Shopping",
+            "Parks & gardens",
+            "Food & drink",
+            "Activities",
+            "Nature"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Chortkiv",
+          "places": 14,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Saky",
+          "places": 11,
+          "photos": 3,
+          "categories": [
+            "Culture",
+            "Nature",
+            "Food & drink",
+            "Restaurants",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Novyi Rozdil",
+          "places": 13,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Activities",
+            "Culture",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Truskavets",
+          "places": 21,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Shopping",
+            "Activities",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Dobropillya",
+          "places": 6,
+          "photos": 3,
+          "categories": [
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Terny",
+          "places": 13,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Restaurants",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Zolotonosha",
+          "places": 11,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Khmilnyk",
+          "places": 15,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Shakhtarske",
+          "places": 5,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Bakhchysaray",
+          "places": 31,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture",
+            "Parks & gardens",
+            "Nature"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 20
+        },
+        {
+          "city": "Rusanivka",
+          "places": 16,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Khrestivka",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kupyansk",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Ternivka",
+          "places": 4,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Shopping",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Holubivka",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Rayduzhnyi Masyv",
+          "places": 22,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Activities",
+            "Shopping",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Balakliya",
+          "places": 3,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Pereiaslav",
+          "places": 20,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Parks & gardens",
+            "Activities",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 2,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Livoberezhnyi Masyv",
+          "places": 16,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Culture",
+            "Restaurants",
+            "Activities",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Stara Darnytsya",
+          "places": 18,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Restaurants",
+            "Culture",
+            "Parks & gardens",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Podil (Kyiv City)",
+          "places": 29,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Activities",
+            "Restaurants",
+            "Culture",
+            "Beaches",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Sofiivska Borschahivka",
+          "places": 16,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Tatarka",
+          "places": 20,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Restaurants",
+            "Culture",
+            "Parks & gardens",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Haysyn",
+          "places": 3,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Dolynska",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Vynohradiv",
+          "places": 22,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Shopping",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 4
+        },
+        {
+          "city": "Malyn",
+          "places": 21,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 14
+        },
+        {
+          "city": "Mostytskyi Masyv",
+          "places": 22,
+          "photos": 0,
+          "categories": [
+            "Nature",
+            "Shopping",
+            "Restaurants",
+            "Culture",
+            "Parks & gardens",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Perevalsk",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Oleshky",
+          "places": 3,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Zdolbuniv",
+          "places": 6,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Culture",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Slavutych",
+          "places": 2,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Armyansk",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Debaltseve",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Korostyshiv",
+          "places": 11,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Krolevets",
+          "places": 2,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Lebedyn",
+          "places": 3,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Teremky-II",
+          "places": 25,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture",
+            "Parks & gardens",
+            "Shopping",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kurenivka",
+          "places": 17,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Parks & gardens",
+            "Restaurants",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Pisochyn",
+          "places": 7,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Shopping",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kaniv",
+          "places": 10,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 2,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Hadyach",
+          "places": 18,
+          "photos": 10,
+          "categories": [
+            "Culture",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Berehove",
+          "places": 21,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 3,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Kozyatyn",
+          "places": 12,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Brody",
+          "places": 14,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 4
+        },
+        {
+          "city": "Dokuchayevsk",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Zolochiv",
+          "places": 21,
+          "photos": 4,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Food & drink",
+            "Shopping",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 4,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Nadvirna",
+          "places": 21,
+          "photos": 3,
+          "categories": [
+            "Culture",
+            "Nature",
+            "Activities",
+            "Parks & gardens",
+            "Shopping",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 3,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Ladyzhyn",
+          "places": 6,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Otamanivka",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Znamyanka",
+          "places": 3,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Ihren",
+          "places": 5,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Food & drink",
+            "Restaurants",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Vilnohirsk",
+          "places": 5,
+          "photos": 5,
+          "categories": [
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Selydove",
+          "places": 6,
+          "photos": 3,
+          "categories": [
+            "Culture",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Berestyn",
+          "places": 6,
+          "photos": 3,
+          "categories": [
+            "Culture",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Bilohorodka",
+          "places": 18,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Culture",
+            "Restaurants",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Merefa",
+          "places": 4,
+          "photos": 1,
+          "categories": [
+            "Activities",
+            "Restaurants",
+            "Shopping",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Volnovakha",
+          "places": 7,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Restaurants",
+            "Food & drink",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Kremenets",
+          "places": 15,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 2,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Polonne",
+          "places": 9,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Culture",
+            "Activities",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Dolyna",
+          "places": 19,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Nature",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Sukhodilsk",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Sokal",
+          "places": 9,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Stebnyk",
+          "places": 4,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Saperna Slobidka",
+          "places": 18,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Culture",
+            "Activities",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Lyman",
+          "places": 7,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Liubotyn",
+          "places": 7,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Zhuravlivka",
+          "places": 19,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Food & drink",
+            "Culture",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kivsharivka",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Trostyanets",
+          "places": 11,
+          "photos": 8,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kiliya",
+          "places": 4,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Restaurants",
+            "Parks & gardens",
+            "Culture"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 2,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Henichesk",
+          "places": 9,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Food & drink",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants"
+          ],
+          "travelGuidePlaces": 3,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Popasna",
+          "places": 2,
+          "photos": 0,
+          "categories": [
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Pidhorodnye",
+          "places": 15,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Vynnyky",
+          "places": 19,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Parks & gardens",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 2,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Yahotyn",
+          "places": 11,
+          "photos": 4,
+          "categories": [
+            "Culture",
+            "Shopping",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Krasyliv",
+          "places": 7,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Balaklava",
+          "places": 23,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Nature"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 6
+        },
+        {
+          "city": "Reni",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Balta",
+          "places": 4,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Kalynivka",
+          "places": 12,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Food & drink",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Volochysk",
+          "places": 11,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Restaurants",
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Hostomel",
+          "places": 17,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Parks & gardens",
+            "Activities"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kurakhove",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Vitryani Hory",
+          "places": 9,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens",
+            "Culture",
+            "Food & drink",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Pyatykhatky",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kreminna",
+          "places": 1,
+          "photos": 1,
+          "categories": [
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Polohy",
+          "places": 4,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Shopping",
+            "Restaurants",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Lypky",
+          "places": 20,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Restaurants",
+            "Culture",
+            "Parks & gardens",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Klov",
+          "places": 28,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Activities",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Amvrosiyivka",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Skadovsk",
+          "places": 6,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Pelahiivka",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Zuhres",
+          "places": 1,
+          "photos": 1,
+          "categories": [
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Rozdilna",
+          "places": 3,
+          "photos": 3,
+          "categories": [
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Bohodukhiv",
+          "places": 6,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Korsun-Shevchenkivskyi",
+          "places": 9,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Parks & gardens",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Dniprorudne",
+          "places": 4,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Nature",
+            "Food & drink",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Berezhany",
+          "places": 15,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 3,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Kotsyubynske",
+          "places": 15,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Activities",
+            "Shopping",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Nova Bavariya",
+          "places": 2,
+          "photos": 0,
+          "categories": [
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Darnytsya Car Repair Plant Microdistrict",
+          "places": 4,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Vovchansk",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Skvyra",
+          "places": 7,
+          "photos": 3,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Rakivka",
+          "places": 6,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Derhachi",
+          "places": 3,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Svalyava",
+          "places": 20,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Parks & gardens",
+            "Restaurants",
+            "Culture",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 2,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Lutuhyne",
+          "places": 2,
+          "photos": 2,
+          "categories": [
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Rakove",
+          "places": 9,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink",
+            "Shopping"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 3,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Nyzhnya Telychka",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Katerynivka",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Activities"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Mostyska",
+          "places": 8,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Bakhmach",
+          "places": 7,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Shpola",
+          "places": 4,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Sudak",
+          "places": 10,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Restaurants",
+            "Culture",
+            "Beaches",
+            "Nature"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Knyahynyn",
+          "places": 26,
+          "photos": 0,
+          "categories": [
+            "Activities",
+            "Parks & gardens",
+            "Food & drink",
+            "Shopping",
+            "Restaurants",
+            "Culture"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Zvenyhorodka",
+          "places": 6,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Activities",
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Novoukrayinka",
+          "places": 5,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Bilohirsk",
+          "places": 10,
+          "photos": 0,
+          "categories": [
+            "Restaurants",
+            "Parks & gardens",
+            "Food & drink",
+            "Culture",
+            "Activities",
+            "Nature"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 7
+        },
+        {
+          "city": "Berezan",
+          "places": 19,
+          "photos": 8,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Svyatopetrivske",
+          "places": 14,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Parks & gardens",
+            "Culture",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Iziaslav",
+          "places": 7,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Shopping",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 5
+        },
+        {
+          "city": "Svatove",
+          "places": 1,
+          "photos": 1,
+          "categories": [
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Kybalchych",
+          "places": 11,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Food & drink",
+            "Restaurants",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Horodok (Khmelnytskyi)",
+          "places": 6,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Shopping",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Trudivskyi",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Horodok (Lviv)",
+          "places": 10,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Starobilsk",
+          "places": 9,
+          "photos": 5,
+          "categories": [
+            "Culture",
+            "Parks & gardens",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Apostolove",
+          "places": 3,
+          "photos": 2,
+          "categories": [
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Slobozhanske",
+          "places": 6,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Bohuslav",
+          "places": 16,
+          "photos": 4,
+          "categories": [
+            "Culture",
+            "Activities",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Bahacheve",
+          "places": 2,
+          "photos": 0,
+          "categories": [
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Dunayivtsi",
+          "places": 7,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Rakhiv",
+          "places": 17,
+          "photos": 1,
+          "categories": [
+            "Activities",
+            "Restaurants",
+            "Food & drink",
+            "Culture",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 3
+        },
+        {
+          "city": "Bilopillia",
+          "places": 4,
+          "photos": 3,
+          "categories": [
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Bortnychi",
+          "places": 17,
+          "photos": 0,
+          "categories": [
+            "Shopping",
+            "Restaurants",
+            "Culture",
+            "Food & drink",
+            "Activities",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Verkhnodniprovsk",
+          "places": 9,
+          "photos": 8,
+          "categories": [
+            "Culture",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Ilovays'k",
+          "places": 0,
+          "photos": 0,
+          "categories": [],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Bar",
+          "places": 3,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Ovruch",
+          "places": 15,
+          "photos": 10,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Radomyshl",
+          "places": 7,
+          "photos": 1,
+          "categories": [
+            "Culture",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Voznesenivka",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Novhorod-Siverskyi",
+          "places": 3,
+          "photos": 0,
+          "categories": [
+            "Food & drink",
+            "Culture"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 1
+        },
+        {
+          "city": "Vilnyansk",
+          "places": 1,
+          "photos": 0,
+          "categories": [
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Landmarks",
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Bolhrad",
+          "places": 6,
+          "photos": 4,
+          "categories": [
+            "Culture",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 0
+        },
+        {
+          "city": "Tulchyn",
+          "places": 6,
+          "photos": 0,
+          "categories": [
+            "Culture",
+            "Restaurants",
+            "Food & drink"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 2
+        }
+      ]
+    },
+    {
+      "code": "UM",
+      "country": "United States Minor Outlying Islands",
+      "citiesCovered": 3,
+      "totalCities": 3,
+      "places": 20,
+      "photos": 6,
+      "cities": [
+        {
+          "city": "Midway Atoll",
+          "places": 11,
+          "photos": 3,
+          "categories": [
+            "Culture",
+            "Nature",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 2,
+          "geographicRecords": 8
+        },
+        {
+          "city": "Palmyra Atoll",
+          "places": 4,
+          "photos": 1,
+          "categories": [
+            "Nature",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 2
+        },
+        {
+          "city": "Wake Island",
+          "places": 5,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Parks & gardens"
+          ],
+          "missingRequestedTypes": [
+            "Restaurants",
+            "Activities"
+          ],
+          "travelGuidePlaces": 1,
+          "geographicRecords": 3
+        }
+      ]
+    },
+    {
+      "code": "WF",
+      "country": "Wallis and Futuna",
+      "citiesCovered": 1,
+      "totalCities": 1,
+      "places": 16,
+      "photos": 2,
+      "cities": [
+        {
+          "city": "Mata-Utu",
+          "places": 16,
+          "photos": 2,
+          "categories": [
+            "Culture",
+            "Nature",
+            "Restaurants"
+          ],
+          "missingRequestedTypes": [
+            "Parks",
+            "Activities"
+          ],
+          "travelGuidePlaces": 0,
+          "geographicRecords": 13
+        }
+      ]
+    }
+  ]
+}

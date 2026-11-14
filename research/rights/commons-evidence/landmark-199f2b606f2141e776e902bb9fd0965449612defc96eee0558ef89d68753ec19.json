@@ -1,0 +1,135 @@
+{
+  "retrievedAt": "2026-11-14T01:39:45.772Z",
+  "continue": {
+    "iistart": "2015-05-10T17:26:41Z",
+    "continue": "||"
+  },
+  "query": {
+    "pages": [
+      {
+        "pageid": 3639626,
+        "ns": 6,
+        "title": "File:London Thames Sunset panorama - Feb 2008.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 18560644,
+            "width": 13126,
+            "height": 4876,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/London_Thames_Sunset_panorama_-_Feb_2008.jpg/960px-London_Thames_Sunset_panorama_-_Feb_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 297,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/London_Thames_Sunset_panorama_-_Feb_2008.jpg/1920px-London_Thames_Sunset_panorama_-_Feb_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/London_Thames_Sunset_panorama_-_Feb_2008.jpg/960px-London_Thames_Sunset_panorama_-_Feb_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 297,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/London_Thames_Sunset_panorama_-_Feb_2008.jpg/1920px-London_Thames_Sunset_panorama_-_Feb_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/London_Thames_Sunset_panorama_-_Feb_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:London_Thames_Sunset_panorama_-_Feb_2008.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3639626",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-05-18 17:39:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "London Thames Sunset panorama - Feb 2008",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Canon EOS 5D|Featured pictures of London|Taken with Canon EF 70-200mm F2.8L USM|License migration redundant|Self-published work|Featured pictures on Wikipedia, English|Featured night photography|Featured pictures on Wikipedia, German|Files with derivative versions|Featured pictures on Wikipedia, Persian|Sunsets of London|Featured pictures of cityscapes|Photographs by User:Diliff|Tower Bridge at night in 2008|Featured pictures by User:Diliff|Watercraft on the River Thames in London|London photographs taken on 2008-02-18|Files with coordinates missing SDC location of creation (51° N, 1° W)|Panoramic photographs of sunsets|Featured pictures on Wikipedia, Arabic|Pictures of the Year/2008 (finalist)|Bridges in London at sunset|Red sunsets of London",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "featured|poty|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.500667",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-0.062833",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A multi segment panoramic image of the <a href=\"//commons.wikimedia.org/wiki/Category:London\" title=\"Category:London\">London</a> skyline from the Bermondsey banks of the Thames, in which the <a href=\"//commons.wikimedia.org/wiki/Tower_Bridge\" title=\"Tower Bridge\">Tower Bridge</a> and <a href=\"//commons.wikimedia.org/wiki/30_St_Mary_Axe\" title=\"30 St Mary Axe\">30 St Mary Axe</a> are visible.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "February 2008 (18 February 2008, according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Diliff\" title=\"User:Diliff\">Diliff</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div dir=\"ltr\"><b><span style=\"font-size:x-large;\">Summary:</span><div style=\"clear:both;\"></div><div style=\"clear:both;\"></div>In using this image or any subsequent derivatives of it, you are required to release the image under the same license. As such, any reproduction of this image, in any medium, must appear with a copy of, or full URL of the license.<div style=\"clear:both;\"></div>Attribution of this image to the author (DAVID ILIFF) is also required, preferably in a prominent location near the image.<div style=\"clear:both;\"></div>No other conditions may be added to, or removed from this license without the permission of the author and copyright holder.<div style=\"clear:both;\"></div><div style=\"clear:both;\"></div>Suggested attribution: \"Photo by DAVID ILIFF. License: <a rel=\"nofollow\" class=\"external free\" href=\"https://creativecommons.org/licenses/by-sa/3.0/\">https://creativecommons.org/licenses/by-sa/3.0/</a>\"</b><div style=\"clear:both;\"></div><div style=\"clear:both;\"></div>Please review the full license requirements carefully before using this image. If you would like to clarify the terms of the license or negotiate less restrictive commercial licensing outside of the bounds of GFDL/CC-BY-SA, please <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/Diliff\" title=\"Special:EmailUser/Diliff\">contact me by email</a>, or if you don't have a Wikipedia account you can either <a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org/w/index.php?title=User_talk:Diliff&amp;action=edit&amp;section=new\" href=\"https://en.wikipedia.org/w/index.php?title=User_talk:Diliff&amp;action=edit&amp;section=new\">leave a message on my talk page</a> with your contact details and your request, or you can <a rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/diliff\">contact me on Facebook</a>. Please also send a 'friend request' to ensure that I am aware of your message.</div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

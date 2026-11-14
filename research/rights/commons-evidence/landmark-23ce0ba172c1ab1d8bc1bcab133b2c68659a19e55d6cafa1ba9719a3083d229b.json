@@ -1,0 +1,130 @@
+{
+  "retrievedAt": "2026-11-14T01:39:17.086Z",
+  "continue": {
+    "iistart": "2013-02-15T17:53:22Z",
+    "continue": "||"
+  },
+  "query": {
+    "pages": [
+      {
+        "pageid": 24670799,
+        "ns": 6,
+        "title": "File:Le musée Rodin, Le Penseur, 2010.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2806504,
+            "width": 1796,
+            "height": 1196,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Le_mus%C3%A9e_Rodin%2C_Le_Penseur%2C_2010.jpg/960px-Le_mus%C3%A9e_Rodin%2C_Le_Penseur%2C_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 800,
+            "thumbheight": 533,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/32/Le_mus%C3%A9e_Rodin%2C_Le_Penseur%2C_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Le_mus%C3%A9e_Rodin%2C_Le_Penseur%2C_2010.jpg/960px-Le_mus%C3%A9e_Rodin%2C_Le_Penseur%2C_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 800,
+              "height": 533,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/32/Le_mus%C3%A9e_Rodin%2C_Le_Penseur%2C_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Le_mus%C3%A9e_Rodin%2C_Le_Penseur%2C_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Le_mus%C3%A9e_Rodin,_Le_Penseur,_2010.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24670799",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-07-22 14:59:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Le musée Rodin, Le Penseur, 2010",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Jardin du Musée Rodin|Hôtel Biron|Le Penseur (Jardin du musée Rodin)|Chapelle du musée Rodin|Flickr images reviewed by File Upload Bot (Magnus Manske)|Photographs by Jean-Pierre Dalbéra|France photographs taken on 2010-06-23|Files with coordinates missing SDC location of creation (48° N, 2° E)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.855439",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "2.315894",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p><i>Le Penseur</i> d'Auguste Rodin devant la façade sud de l'ancienne Chapelle du Sacré-Coeur, aujourd'hui annexe du Musée Rodin, rue de Varenne, VIIe arrondissement, Paris, France.\n</p>\n<a rel=\"nofollow\" class=\"external text\" href=\"http://www.musee-rodin.fr/accueil.htm\">www.musee-rodin.fr/accueil.htm</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-06-23 12:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/dalbera/4731013002/\">Le musée Rodin</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/72746018@N00\">Jean-Pierre Dalbéra</a> from Paris, France",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}
