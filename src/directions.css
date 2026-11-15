@@ -926,3 +926,28 @@
     height: 210px;
   }
 }
+.starting-point-options {
+  list-style: none;
+  padding: 4px;
+  margin: 4px 0 0;
+  border: 1px solid #ded9c9;
+  border-radius: 10px;
+  background: #fffdf6;
+}
+
+.starting-point-options li {
+  display: grid;
+  gap: 3px;
+  padding: 8px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.starting-point-options li:hover,
+.starting-point-options li[aria-selected="true"] {
+  background: #f7ebbd;
+}
+
+.starting-point-options small {
+  color: #545a49;
+}

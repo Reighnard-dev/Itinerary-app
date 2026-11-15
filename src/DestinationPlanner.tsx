@@ -2,7 +2,7 @@ import {useEffect, useId, useRef, useState} from 'react';
 import type {CSSProperties, FormEvent, ReactNode} from 'react';
 import {ArrowRight, CalendarDays, Check, ChevronDown, Globe2, MapPin, Plane, Search, X} from 'lucide-react';
 import type {CityArtwork, Destination, DestinationPhoto} from '../shared/types';
-import {api} from './api';
+import {loadArtwork} from './discovery-data';
 import {StayPicker} from './StayPicker';
 import './destination-planner.css';
 
@@ -142,8 +142,7 @@ export default function DestinationPlanner({
   useEffect(() => {
     if (!selectedCountry?.code) return;
     const controller = new AbortController();
-    api<{cities: Record<string, CityArtwork>}>(`/destination-artwork?${new URLSearchParams({country: countryName})}`,
-      {signal:controller.signal}).then(data => {
+    loadArtwork(countryName, selectedCountry.code, controller.signal).then(data => {
         if (!controller.signal.aborted) setArtwork({country:countryName, cities:data.cities});
       }).catch(() => { /* Selection works with map artwork if photos are unavailable. */ });
     return () => controller.abort();

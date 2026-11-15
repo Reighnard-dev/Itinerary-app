@@ -5,13 +5,14 @@ import { existsSync, mkdirSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 import { createClient, type SupabaseClient } from '@supabase/supabase-js';
 import { places,placesByCity,placeById } from './catalog.js';
-import {worldwideDestinations,geoCity,canonicalCountry} from './world.js';
+import {geoCity,canonicalCountry} from './world.js';
 import type {GuideResult} from './travel-guide.js';
 import {discoverPlaces} from './discovery.js';
 import { credentialsSchema, tripSchema } from './validation.js';
 import type { User } from '../shared/types.js';
 import {photoService} from './photo-service.js';
-import {artworkForCities, countryArtwork} from './destination-artwork.js';
+import {artworkForCities} from './destination-artwork.js';
+import {destinationIndex} from './destination-index.js';
 import {computePreviewRoute, requestGoogleRoutes} from './routes-service.js';
 
 if(existsSync('.env')) process.loadEnvFile('.env');
@@ -71,11 +72,7 @@ app.get('/api/source-data/:file',(req,res)=>{
  if(!['map-places.json','sapa-places.json','expanded-places.json','researched-places.json','geographic-places.json','knowledge-places.json','world-cities.json','overture-places.json.gz'].includes(file))return res.sendStatus(404);
  res.download(path.resolve('shared',file));
 });
-const plannerDestinations = worldwideDestinations.map(destination => {
- const photo = countryArtwork.get(destination.country);
- return {...destination, ...(photo && {photo})};
-});
-app.get('/api/destinations',(_req,res)=>res.json({destinations:plannerDestinations,countryCount:plannerDestinations.length,cityCount:plannerDestinations.reduce((n,d)=>n+d.cities.length,0),placeCount:places.length}));
+app.get('/api/destinations',(_req,res)=>res.json(destinationIndex));
 app.get('/api/destination-artwork',(req,res)=>{
  const country = typeof req.query.country === 'string' ? canonicalCountry(req.query.country) : '';
  const cities = artworkForCities(country);

@@ -42,6 +42,7 @@ interface DirectionsPanelProps {
   trip: Trip;
   initialTransport?: 'transit' | 'driving' | 'walking';
   initialOrigin?: string;
+  initialOriginLocation?: RouteLocation;
   onClose: () => void;
   onBackToDetail?: () => void;
 }
@@ -53,6 +54,7 @@ export default function DirectionsPanel({
   trip,
   initialTransport = 'transit',
   initialOrigin = '',
+  initialOriginLocation,
   onClose,
   onBackToDetail,
 }: DirectionsPanelProps) {
@@ -72,6 +74,7 @@ export default function DirectionsPanel({
 
   const [customOrigin, setCustomOrigin] = useState(initialOrigin);
   const [submittedOriginText, setSubmittedOriginText] = useState(initialOrigin);
+  const [submittedOriginLocation, setSubmittedOriginLocation] = useState(initialOriginLocation);
 
   // Geolocation state
   const [currentCoords, setCurrentCoords] = useState<{ lat: number; lng: number; name: string } | null>(null);
@@ -147,14 +150,15 @@ export default function DirectionsPanel({
     if (originType === 'custom') {
       const text = submittedOriginText.trim();
       if (!text) return null;
+      if (submittedOriginLocation?.name === text) return submittedOriginLocation;
       return {
         name: text,
-        address: text,
+        address: `${text}, ${place.city}, ${place.country}`,
       };
     }
 
     return null;
-  }, [originType, currentCoords, selectedStopId, trip.stops, submittedOriginText, place.city, place.country]);
+  }, [originType, currentCoords, selectedStopId, trip.stops, submittedOriginText, submittedOriginLocation, place.city, place.country]);
 
   // Handle Geolocation request only when clicked
   const requestCurrentLocation = () => {
@@ -468,6 +472,7 @@ export default function DirectionsPanel({
                 onSubmit={(e) => {
                   e.preventDefault();
                   setSubmittedOriginText(customOrigin);
+                  if (customOrigin !== submittedOriginText) setSubmittedOriginLocation(undefined);
                 }}
               >
                 <div className="custom-input-wrap">

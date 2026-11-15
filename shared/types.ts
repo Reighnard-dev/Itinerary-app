@@ -13,4 +13,5 @@ export interface User { id: string; email: string; name: string }
 export interface DestinationPhoto {url:string;title:string}
 export interface CityArtwork {lat:number;lng:number;photo?:DestinationPhoto}
 export interface Destination {country:string;code?:string;cities:string[];photo?:DestinationPhoto}
+export interface DestinationIndex {destinations:Destination[];countryCount:number;cityCount:number;placeCount:number}
 export interface ExploreResult {places:Place[];sourcePages:string[];cached:boolean;fetchedAt:string;notice?:string}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T18:11:57.777Z",
+  "generatedAt": "2026-11-15T13:56:31.094Z",
   "scope": "Current shared datasets, public/build assets, active local photo cache, browser remote asset references, installed software notices. Private quarantine, Git history, user prose, remote deployments and Supabase state require separate handling.",
   "summary": {
     "photoRecords": 15972,

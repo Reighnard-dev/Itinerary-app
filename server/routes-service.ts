@@ -239,7 +239,8 @@ export async function requestGoogleRoutes(
   origin: RouteLocation,
   destination: RouteLocation,
   travelMode: TravelMode,
-  apiKey: string
+  apiKey: string,
+  signal?: AbortSignal
 ): Promise<RouteResponse> {
   const originObject =
     origin.lat !== undefined && origin.lng !== undefined
@@ -289,6 +290,7 @@ export async function requestGoogleRoutes(
         'X-Goog-FieldMask': fieldMask,
       },
       body: JSON.stringify(body),
+      signal,
     });
 
     if (!res.ok) {
