@@ -2,6 +2,7 @@ import {useEffect,useRef,useState,useSyncExternalStore} from 'react';
 import type {Place,PlaceImage} from '../shared/types';
 import {reusablePhoto} from '../shared/photo-rights';
 import {atmosphereFor} from '../shared/atmosphere';
+import {staticPlacePhoto,usesStaticDiscovery} from './discovery-data';
 import featuredData from '../shared/featured-photos.json' with {type:'json'};
 const featured=featuredData as {places:Record<string,PlaceImage>};
 
@@ -12,7 +13,7 @@ function release(){const next=waiting.shift();if(next)next();else inFlight--;}
 const subscribe=(notify:()=>void)=>{listeners.add(notify);return()=>{listeners.delete(notify);};};
 // Saved snapshots can contain obsolete or forged credits. Display only the
 // bundled, reviewed featured index or the current server's canonical response.
-const getPhoto=(place:Place)=>cache.has(place.id)?cache.get(place.id)!:reusablePhoto(featured.places[place.id]);
+const getPhoto=(place:Place)=>cache.has(place.id)?cache.get(place.id)!:reusablePhoto(featured.places[place.id] ?? staticPlacePhoto(place.id));
 async function resolve(place:Place){
  if(featured.places[place.id]||cache.has(place.id))return;if(pending.has(place.id))return pending.get(place.id);
  const request=(async()=>{await acquire();try{const response=await fetch(`/api/place-image?id=${encodeURIComponent(place.id)}`,{signal:AbortSignal.timeout(15000)});if(!response.ok)return;const data=await response.json() as {photo:PlaceImage|null};cache.set(place.id,reusablePhoto(data.photo));for(const notify of listeners)notify();}catch{/* Keep an explicit absence when a licensed photograph is unavailable. */}finally{pending.delete(place.id);release();}})();pending.set(place.id,request);return request;
@@ -20,7 +21,7 @@ async function resolve(place:Place){
 function usePhoto(place:Place){return useSyncExternalStore(subscribe,()=>getPhoto(place),()=>reusablePhoto(featured.places[place.id]));}
 export default function PlacePhoto({place,className=''}:{place:Place;className?:string}){
  const photo=usePhoto(place),ref=useRef<HTMLSpanElement>(null),[fallbackFailed,setFallbackFailed]=useState(false),atmosphere=atmosphereFor(place);
- useEffect(()=>{setFallbackFailed(false);const el=ref.current;if(!el||photo)return;const observer=new IntersectionObserver(entries=>{if(entries.some(entry=>entry.isIntersecting)){void resolve(place);observer.disconnect();}},{rootMargin:'250px'});observer.observe(el);return()=>observer.disconnect();},[place.id,photo]);
+ useEffect(()=>{setFallbackFailed(false);const el=ref.current;if(!el||photo||usesStaticDiscovery)return;const observer=new IntersectionObserver(entries=>{if(entries.some(entry=>entry.isIntersecting)){void resolve(place);observer.disconnect();}},{rootMargin:'250px'});observer.observe(el);return()=>observer.disconnect();},[place.id,photo]);
  if(!photo){
   if(fallbackFailed)return <span ref={ref} role="img" aria-label={`Photo unavailable for ${place.name}`} className={`photo-unavailable ${className}`} data-photo-status="unavailable"><span>Photo unavailable</span></span>;
   return <span ref={ref} className={`atmosphere-photo ${className}`} data-photo-status="generated" title={atmosphere.disclosure}><img src={atmosphere.url} alt={`AI-generated scenic atmosphere; not a photograph of ${place.name}`} loading="lazy" decoding="async" onError={()=>setFallbackFailed(true)}/><span className="atmosphere-label">AI-generated atmosphere</span></span>;

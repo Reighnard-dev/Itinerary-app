@@ -111,7 +111,8 @@ export async function requestGoogleRoutes(
   origin: RouteLocation,
   destination: RouteLocation,
   travelMode: TravelMode,
-  apiKey: string
+  apiKey: string,
+  signal?: AbortSignal
 ): Promise<RouteResponse> {
   const originObject =
     origin.lat !== undefined && origin.lng !== undefined
@@ -155,7 +156,7 @@ export async function requestGoogleRoutes(
   try {
     const res = await fetch('https://routes.googleapis.com/directions/v2:computeRoutes', {
       method: 'POST',
-      signal: AbortSignal.timeout(12000),
+      signal: signal ? AbortSignal.any([signal, AbortSignal.timeout(12000)]) : AbortSignal.timeout(12000),
       headers: {
         'Content-Type': 'application/json',
         'X-Goog-Api-Key': apiKey,

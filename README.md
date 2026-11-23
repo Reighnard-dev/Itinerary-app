@@ -20,6 +20,8 @@ npm start
 
 The production server hosts both the built frontend and API at **http://localhost:3001**. Run it from the project root. To change the production port, set `PORT` in `.env`; development's API proxy expects port 3001.
 
+Netlify uses `npm run build:netlify` and publishes `dist` with the Roam API function. For a static discovery preview, run `npm run build:static-discovery` followed by `npm run test:netlify` to test country and city selection in a mobile-sized browser.
+
 ## Connect Supabase
 
 1. Create a Supabase project and run `supabase/schema.sql` in its SQL Editor.
