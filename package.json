@@ -14,7 +14,7 @@
     "dev": "concurrently -k \"vite --host 0.0.0.0\" \"tsx watch server/index.ts\"",
     "build": "tsc -b && vite build && tsc -p tsconfig.server.json",
     "start": "node dist-server/server/index.js",
-    "test": "tsx --test tests/*.test.ts",
+    "test": "tsx --test --test-concurrency=1 tests/*.test.ts",
     "test:e2e": "playwright test",
     "data:world": "node scripts/import-world.mjs",
     "data:guides": "tsx scripts/import-guides.ts",
@@ -30,7 +30,8 @@
     "data:overture-import": "tsx scripts/import-overture-places.ts",
     "data:knowledge": "tsx scripts/import-knowledge-places.ts",
     "prebuild": "node scripts/software-notices.mjs && tsx scripts/publish-rights.ts && tsx scripts/audit-rights.ts --release --source-only",
-    "postbuild": "tsx scripts/audit-rights.ts --release"
+    "postbuild": "tsx scripts/audit-rights.ts --release",
+    "build:netlify": "tsx scripts/prepare-netlify.ts && npm run build"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.119.0",
@@ -39,6 +40,7 @@
     "lucide-react": "^0.468.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "serverless-http": "4.0.0",
     "zod": "^4.1.5"
   },
   "devDependencies": {

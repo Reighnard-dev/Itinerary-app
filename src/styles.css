@@ -11,3 +11,7 @@
 @media(max-width:690px){.card-title{font-size:12px;min-height:34px}.card-body>p{font-size:10px;min-height:36px}.card-bottom>span,.add-btn{font-size:8px}.place-badge{font-size:7px}.card-bottom{flex-wrap:wrap;gap:6px}.add-btn{margin-left:auto}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}
 
+
+.account-recovery {margin-top:1rem} .account-recovery p {font-size:0.9rem;line-height:1.6} .footer {flex-wrap:wrap;gap:1rem}
+
+.coverage-notice{font-size:0.9rem;line-height:1.65;color:#52665b;padding:1rem;background:#eef4ef;border-radius:0.75rem}

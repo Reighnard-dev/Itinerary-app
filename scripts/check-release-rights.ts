@@ -51,4 +51,11 @@ for(const required of ['public/credits.html','public/photo-credits.html','public
 // navigational references, not bundled copyrighted artwork.
 for(const file of [...walk('src'),...walk('public')].filter(f=>/\.(?:tsx?|css|html)$/.test(f))){const content=readFileSync(file,'utf8');if(/(?:src\s*=\s*["']https?:\/\/|url\(\s*["']?https?:\/\/)/i.test(content))issues.push(`Direct remote asset requires review: ${file}`);}
 const summary={photoRecords:records.length,verifiedPhotoRecords:records.filter(r=>r.status==='source-license-verified').length,permissionOrEvidenceNeeded:records.filter(r=>r.status!=='source-license-verified').length,assets:files.length,unapprovedAssets:files.filter(f=>f.status==='unapproved-asset').length,datasetRows:datasets.reduce((n,d)=>n+d.records,0),missingSoftwareNotices:missingSoftware,releaseIssues:issues.length};
-mkdirSync('research/rights',{recursive:true});writeFileSync('research/rights/inventory.json',JSON.stringify({generatedAt:new Date().toISOString(),scope:'Current shared datasets, public/build assets, active local photo cache, browser remote asset references, installed software notices. Private quarantine, Git history, user prose, remote deployments and Supabase state require separate handling.',summary,datasets,records,files},null,2));writeFileSync('research/rights/needs-review.json',JSON.stringify({issues,photos:records.filter(r=>r.status!=='source-license-verified'),assets:files.filter(f=>f.status==='unapproved-asset')},null,2));console.log(JSON.stringify(summary,null,2));if(issues.length)console.error(issues.slice(0,20).join('\n'));if(process.argv.includes('--release')&&issues.length)process.exitCode=1;
+if (!process.argv.includes('--check-only')) {
+ mkdirSync('research/rights',{recursive:true});
+ writeFileSync('research/rights/inventory.json',JSON.stringify({generatedAt:new Date().toISOString(),scope:'Current shared datasets, public/build assets, active local photo cache, browser remote asset references, installed software notices. Private quarantine, Git history, user prose, remote deployments and Supabase state require separate handling.',summary,datasets,records,files},null,2));
+ writeFileSync('research/rights/needs-review.json',JSON.stringify({issues,photos:records.filter(r=>r.status!=='source-license-verified'),assets:files.filter(f=>f.status==='unapproved-asset')},null,2));
+}
+console.log(JSON.stringify(summary,null,2));
+if(issues.length)console.error(issues.slice(0,20).join('\n'));
+if(process.argv.includes('--release')&&issues.length)process.exitCode=1;

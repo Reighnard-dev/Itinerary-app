@@ -48,26 +48,8 @@ test('formatting utilities produce clear human-readable strings', () => {
   assert.ok(formatTime('2026-11-15T09:30:00Z').length > 0);
 });
 
-test('computePreviewRoute calculates walking and driving preview routes without crashing', () => {
-  const origin = { lat: 34.9858, lng: 135.7588, name: 'Kyoto Station' };
-  const destination = { lat: 34.9671, lng: 135.7727, name: 'Fushimi Inari Shrine' };
-
-  // Walking
-  const walkRoute = computePreviewRoute(origin, destination, 'WALK');
-  assert.equal(walkRoute.ok, true);
-  assert.equal(walkRoute.hasApiKey, false);
-  assert.equal(walkRoute.provider, 'roam-preview');
-  assert.equal(walkRoute.routes.length, 1);
-  assert.ok(walkRoute.routes[0].distanceMeters > 0);
-  assert.ok(walkRoute.routes[0].durationSeconds > 0);
-  assert.ok(walkRoute.routes[0].steps.length >= 3);
-  assert.equal(walkRoute.routes[0].steps[0].travelMode, 'WALK');
-
-  // Driving
-  const driveRoute = computePreviewRoute(origin, destination, 'DRIVE');
-  assert.equal(driveRoute.ok, true);
-  assert.equal(driveRoute.routes[0].steps[0].travelMode, 'DRIVE');
-  assert.ok(driveRoute.routes[0].durationSeconds < walkRoute.routes[0].durationSeconds);
+test('missing routing credentials never fabricate walking or driving directions', () => {
+ for(const mode of ['WALK','DRIVE'] as const){const result=computePreviewRoute({name:'Kyoto Station'},{lat:34.9671,lng:135.7727},mode);assert.equal(result.hasApiKey,false);assert.deepEqual(result.routes,[]);assert.match(result.message!,/Google Maps/);}
 });
 
 test('computePreviewRoute for public transit strictly refuses to fabricate transit schedules', () => {

@@ -69,3 +69,9 @@ End-to-end tests use an installed Google Chrome, a separate server on port 3101,
 Supabase's live authentication, confirmation emails, and PostgreSQL policies must additionally be verified against your configured project; those external operations cannot be tested without project credentials.
 
 Implementation references: [Tailwind Vite integration](https://tailwindcss.com/docs/installation/using-vite), [Supabase password authentication](https://supabase.com/docs/guides/auth/passwords), [server-side user validation](https://supabase.com/docs/reference/javascript/auth-getuser).
+
+## Release review and deployment
+
+Password recovery is available for cloud accounts; Account settings links to data-copy/deletion support. Privacy, terms, and support pages use ROAM Support (roamtravelsupport30@gmail.com). Local preview accounts also support password-confirmed deletion. Missing routing credentials never produce synthetic paths or navigation steps. Paid routing stays off until explicitly enabled after provider restrictions and hard quotas are configured.
+
+See RELEASE-HANDOFF.md for the existing Netlify target, operational requirements, and approval-dependent publishing steps. Current verification evidence is in research/release-readiness-validation.json. Run npm run build:netlify to prepare licensed source downloads and the production build. Do not run another build against dist while its rights scan or production browser checks are running. The Windows test runner uses one unit-test worker to keep catalog memory usage bounded.

@@ -10,6 +10,7 @@ test('cloud auth, autosave, reload, stop edits and deletion use Supabase', async
  const session = { access_token: jwt, refresh_token: 'test-refresh', token_type: 'bearer', expires_in: 3600, user };
  const trips = new Map<string, Trip>();
  let saves = 0, failSave = false;
+ const recoveryRequests: { email: string; redirect: string | null }[] = [];
  await page.route('https://*.supabase.co/**', async route => {
   const url = new URL(route.request().url()), method = route.request().method();
   const json = (body: unknown, status = 200) => route.fulfill({ status, contentType: 'application/json', body: JSON.stringify(body) });
@@ -17,6 +18,10 @@ test('cloud auth, autosave, reload, stop edits and deletion use Supabase', async
   if (url.pathname === '/auth/v1/token' || url.pathname === '/auth/v1/signup') return json(session);
   if (url.pathname === '/auth/v1/user') return json(user);
   if (url.pathname === '/auth/v1/logout') return json({});
+  if (url.pathname === '/auth/v1/recover') {
+   recoveryRequests.push({ email: route.request().postDataJSON().email, redirect: url.searchParams.get('redirect_to') });
+   return json({});
+  }
   if (url.pathname === '/rest/v1/rpc/save_itinerary') {
    if (failSave) return json({ message: 'Simulated save failure', code: '42501' }, 403);
    const { trip } = route.request().postDataJSON();
@@ -48,6 +53,13 @@ test('cloud auth, autosave, reload, stop edits and deletion use Supabase', async
  await modal.getByLabel('Password', { exact: true }).fill('CloudAdventure123!');
  await modal.getByRole('button', { name: 'Create my account' }).click();
  await expect(modal).not.toBeVisible();
+ await page.getByRole('link', { name: 'Account settings' }).click();
+ await expect(page.getByRole('region', { name: 'Profile' })).toContainText(user.email);
+ await expect(page.getByText('Delete this local account', { exact: true })).toHaveCount(0);
+ await page.getByRole('button', { name: 'Send password reset link' }).click();
+ await expect(page.getByText('Check your inbox for your reset link.', { exact: false })).toBeVisible();
+ expect(recoveryRequests).toEqual([{ email: user.email, redirect: 'http://127.0.0.1:3102/?recovery=1' }]);
+ await page.goBack();
  await page.getByRole('button', { name: 'View my itinerary' }).click();
  await expect(page.locator('.save-status')).toContainText('Saved to your account');
  expect([...trips.values()][0].title).toBe('Cloud-backed Kyoto');
@@ -85,3 +97,24 @@ test('cloud auth, autosave, reload, stop edits and deletion use Supabase', async
 });
 
 
+
+test('cloud recovery sends the right redirect and accepts a new password from a recovery link',async({page})=>{
+ const user={id:'22222222-2222-4222-8222-222222222222',aud:'authenticated',role:'authenticated',email:'recover@example.com',user_metadata:{name:'Recovery'},app_metadata:{},created_at:new Date().toISOString()};
+ const token=['eyJhbGciOiJIUzI1NiJ9',Buffer.from(JSON.stringify({sub:user.id,exp:Math.floor(Date.now()/1000)+3600})).toString('base64url'),'test'].join('.');
+ let recover:any=null,updated:any=null;
+ await page.route('https://*.supabase.co/**',async route=>{
+  const req=route.request(),url=new URL(req.url());
+  if(req.method()==='OPTIONS')return route.fulfill({status:204,headers:{'access-control-allow-origin':'*','access-control-allow-headers':'*'}});
+  if(url.pathname.endsWith('/recover')){recover={...req.postDataJSON(),redirect:url.searchParams.get('redirect_to')};return route.fulfill({json:{}});}
+  if(url.pathname.endsWith('/user')){if(req.method()==='PUT')updated=req.postDataJSON();return route.fulfill({json:user});}
+  return route.fulfill({json:url.pathname.includes('/rest/')?[]:{}});
+ });
+ await page.goto('/');await page.getByRole('button',{name:'Log in',exact:true}).click();await page.getByRole('button',{name:'Forgot password?',exact:true}).click();
+ await page.getByLabel('Recovery email').fill(user.email);await page.getByRole('button',{name:'Send recovery link',exact:true}).click();
+ await expect(page.getByText('If an account exists for this email,',{exact:false})).toBeVisible();
+ expect(recover.email).toBe(user.email);expect(recover.redirect).toBe('http://127.0.0.1:3102/?recovery=1');
+ await page.goto('/?recovery=1#access_token='+token+'&refresh_token=recovery-token&expires_in=3600&token_type=bearer&type=recovery');
+ await expect(page.getByRole('heading',{name:'Choose a new password'})).toBeVisible();
+ await page.getByLabel('New password',{exact:true}).fill('NewVacation123!');await page.getByRole('button',{name:'Update password',exact:true}).click();
+ await expect(page.getByText('Password updated. Sign in with your new password.')).toBeVisible();expect(updated.password).toBe('NewVacation123!');
+});

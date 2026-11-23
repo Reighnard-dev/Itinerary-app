@@ -45,22 +45,21 @@ test('hybrid in-app directions panel opens, calculates walking & driving, handle
 
   // Test Walking mode
   await walkingTab.click();
-  await expect(directionsPanel.locator('.route-summary-card')).toBeVisible();
-  await expect(directionsPanel.locator('.time-value')).toBeVisible();
-  await expect(directionsPanel.locator('.dist-value')).toBeVisible();
-  await expect(directionsPanel.locator('.route-steps-list')).toBeVisible();
+  await expect(directionsPanel.getByText('Live directions unavailable',{exact:true})).toBeVisible();
+  await expect(directionsPanel.locator('.route-summary-card')).toHaveCount(0);
 
   // Test Driving mode
   await drivingTab.click();
-  await expect(directionsPanel.locator('.route-summary-card')).toBeVisible();
-  await expect(directionsPanel.locator('.time-value')).toBeVisible();
+  await expect(directionsPanel.getByText('Live directions unavailable',{exact:true})).toBeVisible();
+  await expect(directionsPanel.locator('.route-summary-card')).toHaveCount(0);
 
   // Test Custom origin input
   await directionsPanel.getByRole('radio', { name: 'Custom address' }).click();
   const originInput = directionsPanel.getByLabel('Starting address or landmark');
   await originInput.fill('Kyoto Station');
   await directionsPanel.getByRole('button', { name: 'Set origin' }).click();
-  await expect(directionsPanel.locator('.route-summary-card')).toBeVisible();
+  await expect(directionsPanel.getByText('Live directions unavailable',{exact:true})).toBeVisible();
+  await expect(directionsPanel.locator('.route-summary-card')).toHaveCount(0);
 
   // Test "Open in Google Maps" secondary fallback button
   const fallbackLink = directionsPanel.getByRole('link', { name: 'Open in Google Maps' });

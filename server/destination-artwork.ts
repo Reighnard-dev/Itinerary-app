@@ -1,4 +1,5 @@
 import {placeById, placesByCity} from './catalog.js';
+import {hostedCatalog} from './hosted-catalog.js';
 import {cityDistance, worldCountries} from './world.js';
 import type {CityArtwork, DestinationPhoto, Place} from '../shared/types.js';
 
@@ -33,6 +34,12 @@ function assign(place: Place | undefined): DestinationPhoto | undefined {
 }
 
 export const countryArtwork = new Map<string, DestinationPhoto>();
+const cityArtwork = new Map<string, Record<string, CityArtwork>>();
+if (hostedCatalog) {
+  for (const row of hostedCatalog.prepare('SELECT country, payload FROM country_artwork').all()) {
+    countryArtwork.set(String(row.country), JSON.parse(String(row.payload)) as DestinationPhoto);
+  }
+} else {
 const curatedCities = new Map<Place, DestinationPhoto>();
 for (const [country, id] of Object.entries(countryPicks)) {
   const place = placeById.get(id);
@@ -48,7 +55,6 @@ for (const [country, ids] of Object.entries(cityPicks)) {
   }
 }
 
-const cityArtwork = new Map<string, Record<string, CityArtwork>>();
 for (const {country, cities} of worldCountries) {
   const artwork: Record<string, CityArtwork> = Object.create(null);
   for (const city of cities) {
@@ -85,7 +91,13 @@ for (const [country, candidates] of countryPlaces) {
     break;
   }
 }
+}
 
+const hostedCityArtwork = hostedCatalog?.prepare('SELECT payload FROM city_artwork WHERE country = ?');
 export function artworkForCities(country: string) {
+  if (hostedCityArtwork) {
+    const row = hostedCityArtwork.get(country);
+    return row ? JSON.parse(String(row.payload)) as Record<string, CityArtwork> : undefined;
+  }
   return cityArtwork.get(country);
 }

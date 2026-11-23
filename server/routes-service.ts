@@ -100,138 +100,10 @@ export function computePreviewRoute(
   destination: RouteLocation,
   travelMode: TravelMode
 ): RouteResponse {
-  if (travelMode === 'TRANSIT') {
-    return {
-      ok: true,
-      provider: 'roam-preview',
-      hasApiKey: false,
-      travelMode: 'TRANSIT',
-      routes: [],
-      transitUnavailable: true,
-      message: 'Live transit details are unavailable for this location.',
-    };
-  }
-
-  const destLat = destination.lat ?? 0;
-  const destLng = destination.lng ?? 0;
-  const originLat = origin.lat ?? destLat - 0.015;
-  const originLng = origin.lng ?? destLng - 0.015;
-
-  const straightDistance = haversineDistance(
-    { lat: originLat, lng: originLng },
-    { lat: destLat, lng: destLng }
-  );
-
-  const gridFactor = travelMode === 'DRIVE' ? 1.35 : 1.25;
-  const distanceMeters = Math.max(100, Math.round(straightDistance * gridFactor));
-
-  // Walking: ~4.8 km/h (1.33 m/s). Driving: ~35 km/h (9.7 m/s) with traffic/turns
-  const speed = travelMode === 'DRIVE' ? 9.7 : 1.33;
-  const durationSeconds = Math.max(60, Math.round(distanceMeters / speed));
-
-  // Generate 4-point path
-  const midLat1 = originLat + (destLat - originLat) * 0.35 + 0.001;
-  const midLng1 = originLng + (destLng - originLng) * 0.35 - 0.001;
-  const midLat2 = originLat + (destLat - originLat) * 0.7;
-  const midLng2 = originLng + (destLng - originLng) * 0.7 + 0.0005;
-
-  const path: LatLng[] = [
-    { lat: originLat, lng: originLng },
-    { lat: midLat1, lng: midLng1 },
-    { lat: midLat2, lng: midLng2 },
-    { lat: destLat, lng: destLng },
-  ];
-
-  const encodedPolyline = encodePolyline(path);
-
-  const originLabel = origin.name || origin.address || 'Starting point';
-  const destLabel = destination.name || 'Destination';
-
-  const steps: RouteStep[] =
-    travelMode === 'DRIVE'
-      ? [
-          {
-            id: 'step-1',
-            travelMode: 'DRIVE',
-            instruction: `Head out from ${originLabel} toward the main roadway`,
-            distanceMeters: Math.round(distanceMeters * 0.25),
-            distanceText: formatDistance(Math.round(distanceMeters * 0.25)),
-            durationSeconds: Math.round(durationSeconds * 0.25),
-            durationText: formatDuration(Math.round(durationSeconds * 0.25)),
-          },
-          {
-            id: 'step-2',
-            travelMode: 'DRIVE',
-            instruction: `Follow primary roads toward ${destLabel}`,
-            distanceMeters: Math.round(distanceMeters * 0.65),
-            distanceText: formatDistance(Math.round(distanceMeters * 0.65)),
-            durationSeconds: Math.round(durationSeconds * 0.65),
-            durationText: formatDuration(Math.round(durationSeconds * 0.65)),
-          },
-          {
-            id: 'step-3',
-            travelMode: 'DRIVE',
-            instruction: `Arrive at ${destLabel}. Check for designated visitor parking nearby`,
-            distanceMeters: Math.round(distanceMeters * 0.1),
-            distanceText: formatDistance(Math.round(distanceMeters * 0.1)),
-            durationSeconds: Math.round(durationSeconds * 0.1),
-            durationText: formatDuration(Math.round(durationSeconds * 0.1)),
-          },
-        ]
-      : [
-          {
-            id: 'step-1',
-            travelMode: 'WALK',
-            instruction: `Walk from ${originLabel} along the pedestrian pathway`,
-            distanceMeters: Math.round(distanceMeters * 0.3),
-            distanceText: formatDistance(Math.round(distanceMeters * 0.3)),
-            durationSeconds: Math.round(durationSeconds * 0.3),
-            durationText: formatDuration(Math.round(durationSeconds * 0.3)),
-          },
-          {
-            id: 'step-2',
-            travelMode: 'WALK',
-            instruction: `Continue straight toward ${destLabel}`,
-            distanceMeters: Math.round(distanceMeters * 0.6),
-            distanceText: formatDistance(Math.round(distanceMeters * 0.6)),
-            durationSeconds: Math.round(durationSeconds * 0.6),
-            durationText: formatDuration(Math.round(durationSeconds * 0.6)),
-          },
-          {
-            id: 'step-3',
-            travelMode: 'WALK',
-            instruction: `Arrive on foot at ${destLabel}`,
-            distanceMeters: Math.round(distanceMeters * 0.1),
-            distanceText: formatDistance(Math.round(distanceMeters * 0.1)),
-            durationSeconds: Math.round(durationSeconds * 0.1),
-            durationText: formatDuration(Math.round(durationSeconds * 0.1)),
-          },
-        ];
-
-  const previewOption: RouteOption = {
-    id: `preview-${travelMode.toLowerCase()}-1`,
-    summary:
-      travelMode === 'DRIVE'
-        ? `Via city thoroughfare to ${destLabel}`
-        : `Pedestrian route to ${destLabel}`,
-    distanceMeters,
-    distanceText: formatDistance(distanceMeters),
-    durationSeconds,
-    durationText: formatDuration(durationSeconds),
-    encodedPolyline,
-    path,
-    steps,
-    transfersCount: 0,
-    isRecommended: true,
-  };
-
   return {
-    ok: true,
-    provider: 'roam-preview',
-    hasApiKey: false,
-    travelMode,
-    routes: [previewOption],
-    message: 'Preview route preview (Google Routes API key not configured)',
+    ok: true, provider: 'roam-preview', hasApiKey: false, travelMode, routes: [],
+    ...(travelMode === 'TRANSIT' ? {transitUnavailable: true} : {}),
+    message: travelMode === 'TRANSIT' ? 'Live transit details are unavailable for this location.' : 'Live directions are unavailable. Open Google Maps for a verified route, distance, and travel time.',
   };
 }
 
@@ -283,6 +155,7 @@ export async function requestGoogleRoutes(
   try {
     const res = await fetch('https://routes.googleapis.com/directions/v2:computeRoutes', {
       method: 'POST',
+      signal: AbortSignal.timeout(12000),
       headers: {
         'Content-Type': 'application/json',
         'X-Goog-Api-Key': apiKey,

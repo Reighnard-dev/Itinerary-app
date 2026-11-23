@@ -1,0 +1,49 @@
+{
+  "verifiedAt": "2026-11-23T14:27:51.474Z",
+  "preview": "http://localhost:5173/",
+  "previewHealth": {
+    "frontend": 200,
+    "api": 200,
+    "mode": "supabase"
+  },
+  "compilation": {
+    "frontend": "passed",
+    "serverAndFunction": "passed",
+    "productionFrontend": "passed"
+  },
+  "unitTests": {
+    "passed": 55,
+    "failed": 0
+  },
+  "browserTests": {
+    "fullLocalSuitePassed": 24,
+    "correctedDiscoveryRerunPassed": 1,
+    "cloudAuthAndRecoveryPassed": 2,
+    "note": "The original local run had one ambiguous CSS-selector failure, corrected and verified in a targeted rerun. Cloud tests use mocked Supabase responses; no real emails or production accounts were modified."
+  },
+  "rights": {
+    "photoRecords": 15972,
+    "verifiedPhotoRecords": 15972,
+    "unapprovedAssets": 0,
+    "missingSoftwareNotices": 0,
+    "releaseIssues": 0
+  },
+  "netlify": {
+    "linkedSite": "roam-a-little-less-ordinary",
+    "published": false,
+    "bundleBuild": "passed",
+    "packagedSmoke": {
+      "healthStatus": 200,
+      "kyotoStatus": 200,
+      "kyotoPlaces": 91
+    },
+    "note": "Full catalog included in local bundle. SQLite built-in loaded explicitly to avoid older Netlify bundler rewriting."
+  },
+  "remainingExternalVerification": [
+    "Owner localhost approval",
+    "Netlify runtime environment and Supabase production redirects/SMTP",
+    "Actual confirmation and recovery email delivery",
+    "Post-deployment live checks and historical asset URL review"
+  ],
+  "scope": "Local review is complete. No guarantee of zero bugs, legal risk, or product-market fit. Existing production deployment was not modified."
+}

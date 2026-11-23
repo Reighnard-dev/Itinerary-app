@@ -645,6 +645,9 @@ export default function DirectionsPanel({
           </div>
         )}
 
+        {routeResponse && !loading && !routeResponse.transitUnavailable && !routeResponse.routes.length && (
+          <div className="directions-error-card" role="status"><AlertCircle size={20}/><div><strong>Live directions unavailable</strong><p>{routeResponse.message || 'No verified route was found.'}</p><a href={googleMapsUrl} target="_blank" rel="noreferrer" className="btn btn-yellow">Get directions in Google Maps</a></div></div>
+        )}
         {/* Route Summary & Alternative Routes */}
         {activeRoute && !loading && (
           <section className="route-results-section" aria-label="Route summary and instructions">

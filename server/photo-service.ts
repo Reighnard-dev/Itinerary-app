@@ -15,6 +15,7 @@ export function photoService(db:DatabaseSync,dataDir:string,places:Place[],findP
  for(const row of db.prepare('SELECT data FROM photo_cache').all()){try{const photo=reusablePhoto(JSON.parse(String(row.data)));if(photo?.url.startsWith('/api/photos/')){const file=path.join(dir,path.basename(photo.url)),sidecar=file+'.rights.json';if(existsSync(file)&&existsSync(sidecar)){const evidence=JSON.parse(readFileSync(sidecar,'utf8'));if(reusablePhoto(evidence.photo)&&evidence.photo.url===photo.url&&evidence.sha256===createHash('sha256').update(readFileSync(file)).digest('hex')){allowedFiles.add(path.basename(file));downloadEvidence.set(path.basename(file),evidence);}}}}catch{/* Ignore malformed legacy cache rows. */}}
  async function resolve(id:string):Promise<PlaceImage|null>{
   const seeded=known.get(id);if(reusablePhoto(seeded?.photo)&&!isExcludedPhotoTitle(seeded!.photo!.title))return seeded!.photo!;
+  if(process.env.NETLIFY)return null;
   const old=db.prepare('SELECT data,checked_at FROM photo_cache WHERE place_id=?').get(id) as {data:string;checked_at:number}|undefined;
   if(old&&Date.now()-old.checked_at<30*86400000){const photo=JSON.parse(old.data) as PlaceImage|null,canonical=photo?downloadEvidence.get(path.basename(photo.url))?.photo:null;if(!photo)return null;if(canonical&&!isExcludedPhotoTitle(canonical.title))return canonical;}
   if(pending.has(id))return pending.get(id)!;

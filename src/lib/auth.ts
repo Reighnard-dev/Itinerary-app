@@ -23,3 +23,9 @@ export async function signOut() {
   const { error } = await getSupabase().auth.signOut();
   if (error) throw error;
 }
+export async function sendPasswordReset(email: string) {
+  const { error } = await getSupabase().auth.resetPasswordForEmail(email, {
+    redirectTo: new URL('/?recovery=1', window.location.origin).href,
+  });
+  if (error) throw error;
+}

@@ -1,0 +1,61 @@
+import {test,expect} from '@playwright/test';
+test('support, policies, recovery help, and routing validation are available',async({page,request})=>{
+ await page.goto('/');
+ await page.getByRole('button',{name:'Log in',exact:true}).click();
+ await page.getByRole('button',{name:'Forgot password?',exact:true}).click();
+ await expect(page.getByText('Local preview accounts have no email service.',{exact:false})).toBeVisible();
+ await page.getByRole('button',{name:'Close dialog'}).click();
+ for(const path of ['/support.html','/privacy.html','/terms.html']){await page.goto(path);await expect(page.locator('h1')).toBeVisible();await expect(page.locator('a[href="mailto:roamtravelsupport30@gmail.com"]').first()).toBeVisible();}
+ const invalid=await request.post('/api/routes',{data:{origin:{name:'Kyoto'},destination:{lat:999,lng:0},travelMode:'WALK'}});expect(invalid.status()).toBe(400);
+ const payload={origin:{name:'Kyoto Station'},destination:{lat:34.9671,lng:135.7727},travelMode:'WALK'};
+ const route=await request.post('/api/routes',{data:payload});expect(route.ok()).toBeTruthy();expect((await route.json()).routes).toEqual([]);
+});
+test('local account deletion requires the password and removes the session',async({request})=>{
+ const email=`delete-${Date.now()}@example.com`,password='Vacation123!';
+ expect((await request.post('/api/auth/signup',{data:{email,password,name:'Deletion test'}})).status()).toBe(201);
+ expect((await request.delete('/api/account',{data:{password:'wrong'}})).status()).toBe(401);
+ expect((await request.delete('/api/account',{data:{password}})).status()).toBe(200);
+ expect((await request.get('/api/me')).status()).toBe(401);
+ expect((await request.post('/api/auth/login',{data:{email,password}})).status()).toBe(401);
+});
+
+test('account settings is a responsive, sign-in-gated page with working navigation',async({page},testInfo)=>{
+ const email=`settings-${Date.now()}@example.com`;
+ await page.goto('/account');
+ const heading=page.getByRole('heading',{name:'Account settings.'});
+ await expect(heading).toBeVisible();
+ await expect(page.getByRole('heading',{name:'Sign in to see your settings'})).toBeVisible();
+ await expect(page.getByRole('region',{name:'Profile'})).toHaveCount(0);
+ await page.getByRole('button',{name:'Log in to Roam'}).click();
+ const login=page.getByRole('dialog');
+ await login.getByRole('button',{name:/create an account/i}).click();
+ await login.getByLabel('Your name').fill('Account Traveler');
+ await login.getByLabel('Email address').fill(email);
+ await login.getByLabel('Password',{exact:true}).fill('Vacation123!');
+ await login.getByRole('button',{name:'Create my account'}).click();
+ await expect(login).toHaveCount(0);
+ const profile=page.getByRole('region',{name:'Profile'});
+ await expect(profile).toContainText(email);
+ await expect(profile).toContainText('Account Traveler');
+ await expect(page.getByRole('link',{name:'Request account deletion or a data copy'})).toHaveAttribute('href','/support.html?topic=Account%20deletion');
+ await expect(page.getByRole('link',{name:'Privacy and data handling'})).toHaveAttribute('href','/privacy.html');
+ await page.screenshot({path:testInfo.outputPath('account-desktop.png'),fullPage:true,style:'.toast { visibility: hidden; }'});
+ await page.setViewportSize({width:360,height:760});
+ expect(await page.locator('.account-grid').evaluate(grid=>grid.scrollWidth<=grid.clientWidth)).toBe(true);
+ expect(await page.getByRole('link',{name:'Request account deletion or a data copy'}).evaluate(link=>link.getBoundingClientRect().right<=link.parentElement!.getBoundingClientRect().right+1)).toBe(true);
+ await page.screenshot({path:testInfo.outputPath('account-mobile.png'),fullPage:true,style:'.toast { visibility: hidden; }'});
+ await page.getByRole('button',{name:'Open my itineraries'}).click();
+ await expect(page.getByRole('heading',{name:'Your next chapters.'})).toBeVisible();
+ await page.getByRole('link',{name:'Account settings'}).click();
+ await expect(page).toHaveURL(/\/account$/);
+ await expect(heading).toBeFocused();
+ await page.getByRole('button',{name:'Back to Roam'}).click();
+ await expect(page.getByRole('heading',{name:'Your next chapters.'})).toBeVisible();
+ await page.goForward();
+ await expect(profile).toContainText(email);
+ await page.reload();
+ await expect(profile).toContainText(email);
+ await page.getByRole('button',{name:'Sign out of Roam'}).click();
+ await page.goto('/account');
+ await expect(page.getByRole('heading',{name:'Sign in to see your settings'})).toBeVisible();
+});

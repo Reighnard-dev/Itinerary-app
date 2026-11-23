@@ -1702,6 +1702,15 @@
     "supplement": null
   },
   {
+    "name": "serverless-http",
+    "version": "4.0.0",
+    "license": "MIT",
+    "noticeFiles": [
+      "LICENSE.txt"
+    ],
+    "supplement": null
+  },
+  {
     "name": "setprototypeof",
     "version": "1.2.0",
     "license": "ISC",
