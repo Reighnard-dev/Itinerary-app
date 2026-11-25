@@ -294921,6 +294921,26 @@
     "kind": "locally-authored-basic-geometry-and-text",
     "sourceUrl": "scripts/remediate-rights.ts"
   },
+  "/icons/apple-touch-icon.png": {
+    "sha256": "b1a686f039bc18f8e6ade1fd5ed558d04a4db451daec430331dd0f24fb2f0446",
+    "kind": "locally-authored-basic-geometry-and-text",
+    "sourceUrl": "scripts/generate-pwa-icons.mjs"
+  },
+  "/icons/icon-192.png": {
+    "sha256": "603f0dc446551ef1517536baeee2b6b9999bf9c1a425cdeacaee25b3688f5587",
+    "kind": "locally-authored-basic-geometry-and-text",
+    "sourceUrl": "scripts/generate-pwa-icons.mjs"
+  },
+  "/icons/icon-512.png": {
+    "sha256": "d40b83089b632c97d77c7391722f14ede1e3d2582b32293ceb88ef9197139afc",
+    "kind": "locally-authored-basic-geometry-and-text",
+    "sourceUrl": "scripts/generate-pwa-icons.mjs"
+  },
+  "/icons/icon-maskable-512.png": {
+    "sha256": "fe8a3d9f6674237a95e41d0417992528a31323b5379ae84df545e9f2db4a01a1",
+    "kind": "locally-authored-basic-geometry-and-text",
+    "sourceUrl": "scripts/generate-pwa-icons.mjs"
+  },
   "/images/atmosphere/mountain.jpg": {
     "sha256": "d492bd5e390faa8ef7a6099278b3019ad0e03a09dc5999cd254937ef38888175",
     "kind": "AI-generated-fictional-atmosphere",

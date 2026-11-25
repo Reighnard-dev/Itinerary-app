@@ -14,6 +14,7 @@
     "dev": "concurrently -k \"vite --host 0.0.0.0\" \"tsx watch server/index.ts\"",
     "build": "tsc -b && vite build && tsc -p tsconfig.server.json",
     "build:static-discovery": "npm run prebuild && tsc -b && vite build --mode netlify && tsx scripts/publish-discovery.ts && npm run postbuild",
+    "build:vercel": "npm run prebuild && tsc -b && vite build --mode vercel && tsx scripts/publish-vercel.ts && npm run postbuild",
     "start": "node dist-server/server/index.js",
     "test": "tsx --test --test-concurrency=1 tests/*.test.ts",
     "test:e2e": "playwright test",

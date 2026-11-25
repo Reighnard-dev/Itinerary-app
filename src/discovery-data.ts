@@ -1,7 +1,10 @@
 import type {CityArtwork, DestinationIndex, Place, PlaceImage} from '../shared/types';
 import {api} from './api';
 
-export const usesStaticDiscovery = import.meta.env.MODE === 'netlify';
+export const usesStaticDiscovery =
+  import.meta.env.MODE === 'netlify' ||
+  import.meta.env.MODE === 'vercel' ||
+  import.meta.env.VITE_STATIC_DISCOVERY === 'true';
 
 type StaticIndex = DestinationIndex & {placeFiles: Record<string, string>};
 let indexRequest: Promise<StaticIndex> | undefined;

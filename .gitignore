@@ -17,3 +17,6 @@ supabase/.branches/
 
 .netlify/
 public/source-data/
+
+.vercel
+.env*

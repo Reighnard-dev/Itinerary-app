@@ -91188,5 +91188,29 @@
     "evidence": "research/rights/commons-evidence/landmark-d5a73ae32813391aeed309da61ef3ad071aea5f51c3bd9acf62338d9fa1d7520.json",
     "basis": "Downloaded from the Wikimedia image URL in the retained API response; landmark identity and preview reviewed",
     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Beurs_van_Berlage_2508.jpg/960px-Beurs_van_Berlage_2508.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "/icons/apple-touch-icon.png": {
+    "sha256": "b1a686f039bc18f8e6ade1fd5ed558d04a4db451daec430331dd0f24fb2f0446",
+    "sourceUrl": "scripts/generate-pwa-icons.mjs",
+    "evidence": "scripts/generate-pwa-icons.mjs",
+    "basis": "Newly authored geometry and text"
+  },
+  "/icons/icon-192.png": {
+    "sha256": "603f0dc446551ef1517536baeee2b6b9999bf9c1a425cdeacaee25b3688f5587",
+    "sourceUrl": "scripts/generate-pwa-icons.mjs",
+    "evidence": "scripts/generate-pwa-icons.mjs",
+    "basis": "Newly authored geometry and text"
+  },
+  "/icons/icon-512.png": {
+    "sha256": "d40b83089b632c97d77c7391722f14ede1e3d2582b32293ceb88ef9197139afc",
+    "sourceUrl": "scripts/generate-pwa-icons.mjs",
+    "evidence": "scripts/generate-pwa-icons.mjs",
+    "basis": "Newly authored geometry and text"
+  },
+  "/icons/icon-maskable-512.png": {
+    "sha256": "fe8a3d9f6674237a95e41d0417992528a31323b5379ae84df545e9f2db4a01a1",
+    "sourceUrl": "scripts/generate-pwa-icons.mjs",
+    "evidence": "scripts/generate-pwa-icons.mjs",
+    "basis": "Newly authored geometry and text"
   }
 }

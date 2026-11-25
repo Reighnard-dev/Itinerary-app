@@ -1,0 +1,15 @@
+data/
+dist/
+public/source-data/
+research/
+roam-showreel/
+tests/
+test-results/
+playwright-report/
+.netlify/
+dist-server/
+mobile/
+*.sqlite
+*.tsbuildinfo
+.env
+.env.local

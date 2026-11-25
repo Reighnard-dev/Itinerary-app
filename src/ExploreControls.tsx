@@ -1,4 +1,4 @@
-import { ArrowRight, Bookmark, ChevronLeft, ChevronRight, Coffee, Compass, Landmark, Leaf, Map, Mountain, Search, ShoppingBag, Sparkles, Star, Trees, Umbrella, Utensils } from 'lucide-react';
+import { ArrowRight, Bookmark, Check, ChevronLeft, ChevronRight, Coffee, Compass, Landmark, Leaf, Map, Mountain, Plus, Search, ShoppingBag, Sparkles, Star, Trees, Umbrella, Utensils } from 'lucide-react';
 import { useRef } from 'react';
 import type { Place } from '../shared/types';
 import PlacePhoto, { PhotoCredit } from './PlacePhoto';
@@ -37,11 +37,15 @@ interface ExploreControlsProps {
   resultCount: number;
   featured?: Place;
   onExplore: (place: Place) => void;
+  day?: number;
+  isFeaturedAdded?: boolean;
+  onQuickAdd?: (place: Place) => void;
 }
 
 export default function ExploreControls({
   filter, onFilter, category, onCategory, experienceCategories, query, onQuery,
   sort, onSort, mapView, onToggleMap, resultCount, featured, onExplore,
+  day, isFeaturedAdded, onQuickAdd,
 }: ExploreControlsProps) {
   const rail = useRef<HTMLDivElement>(null);
 
@@ -117,9 +121,22 @@ export default function ExploreControls({
             <h3>{featured.name}</h3>
             <p>{featured.city}, {featured.country}</p>
           </div>
-          <button type="button" aria-label={`View featured place: ${featured.name}`} onClick={() => onExplore(featured)}>
-            Explore <ArrowRight size={16} aria-hidden="true" />
-          </button>
+          <div className="explore-feature-actions">
+            {onQuickAdd && day && (
+              <button
+                type="button"
+                className={`explore-feature-quickadd ${isFeaturedAdded ? 'added' : ''}`}
+                aria-label={`Quick add featured ${featured.name} to Day ${day}`}
+                onClick={() => onQuickAdd(featured)}
+              >
+                {isFeaturedAdded ? <Check size={15} aria-hidden="true" /> : <Plus size={15} aria-hidden="true" />}
+                {isFeaturedAdded ? `On Day ${day}` : `+ Day ${day}`}
+              </button>
+            )}
+            <button type="button" aria-label={`View featured place: ${featured.name}`} onClick={() => onExplore(featured)}>
+              Explore <ArrowRight size={16} aria-hidden="true" />
+            </button>
+          </div>
         </article>
       )}
     </>
