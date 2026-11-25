@@ -17,6 +17,10 @@
       "destination": "/index.html"
     },
     {
+      "source": "/images/places/:path*",
+      "destination": "https://raw.githubusercontent.com/Reighnard-dev/Itinerary-app/main/public/images/places/:path*"
+    },
+    {
       "source": "/((?!api/|assets/|discovery/|fonts/|icons/|images/|licenses/|sw\\.js|manifest\\.webmanifest|favicon\\.svg|fallback\\.svg|.*\\.html).*)",
       "destination": "/index.html"
     }

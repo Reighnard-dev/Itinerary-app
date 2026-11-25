@@ -88,6 +88,11 @@ export default async function handler(req, res) {
 }
 
 // 3. Write Build Output API v3 config.json
+const imageOrigin = (
+  process.env.ROAM_IMAGE_ORIGIN ||
+  'https://raw.githubusercontent.com/Reighnard-dev/Itinerary-app/main/public/images/places'
+).replace(/\/+$/, '');
+
 const config = {
   version: 3,
   routes: [
@@ -131,7 +136,14 @@ const config = {
       continue: true,
     },
     { handle: 'filesystem' },
-    { src: '/((?!api/).*)', dest: '/index.html' },
+    {
+      src: '/images/places/(.+)',
+      dest: `${imageOrigin}/$1`,
+      headers: {
+        'Cache-Control': 'public, max-age=2592000, s-maxage=31536000',
+      },
+    },
+    { src: '/((?!api/|images/places/).*)', dest: '/index.html' },
   ],
 };
 writeFileSync(path.join(outRoot, 'config.json'), JSON.stringify(config, null, 2) + '\n');

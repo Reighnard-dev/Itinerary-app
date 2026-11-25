@@ -10,7 +10,7 @@ import {
 } from 'node:fs';
 import path from 'node:path';
 import { places as handpicked } from '../shared/catalog.js';
-import type { CityArtwork, Place, PlaceImage } from '../shared/types.js';
+import type { Place, PlaceImage } from '../shared/types.js';
 import { placesByCity } from '../server/catalog.js';
 import { artworkForCities } from '../server/destination-artwork.js';
 import { destinationIndex } from '../server/destination-index.js';
@@ -53,19 +53,10 @@ function writeJson(filePath: string, data: unknown) {
   writeFileSync(filePath, JSON.stringify(data));
 }
 
-// Artwork: keep only photos whose URL is in featuredUrls (prevents 404s)
+// Artwork: preserve all city artwork photos (served statically or via Vercel Edge rewrite)
 for (const { country, code } of worldCountries) {
-  const raw = artworkForCities(country) || {};
-  const leanArtwork: Record<string, CityArtwork> = {};
-  for (const [city, art] of Object.entries(raw)) {
-    if (art.photo && featuredUrls.has(art.photo.url)) {
-      leanArtwork[city] = art;
-    } else {
-      const { photo: _omitted, ...rest } = art;
-      leanArtwork[city] = rest;
-    }
-  }
-  writeJson(path.join(output, 'artwork', `${code}.json`), { cities: leanArtwork });
+  const artwork = artworkForCities(country) || {};
+  writeJson(path.join(output, 'artwork', `${code}.json`), { cities: artwork });
 }
 
 // Prioritize all handpicked cities, Sa Pa, plus top 200 cities worldwide by place count
@@ -90,27 +81,12 @@ const placeFiles: Record<string, string> = Object.create(null);
 for (const [cityKey, listings] of selectedCities) {
   const file = createHash('sha256').update(cityKey).digest('hex').slice(0, 24) + '.json';
   placeFiles[cityKey] = file;
-  const capped = listings.slice(0, 60).map((place) => {
-    if (place.photo && !featuredUrls.has(place.photo.url)) {
-      const { photo: _omitted, ...rest } = place;
-      return rest;
-    }
-    return place;
-  });
+  const capped = listings.slice(0, 60);
   writeJson(path.join(output, 'places', file), { places: capped });
 }
 
-const leanDestinations = destinationIndex.destinations.map((dest) => {
-  if (dest.photo && !featuredUrls.has(dest.photo.url)) {
-    const { photo: _omitted, ...rest } = dest;
-    return rest;
-  }
-  return dest;
-});
-
 writeJson(path.join(output, 'destinations.json'), {
   ...destinationIndex,
-  destinations: leanDestinations,
   placeFiles,
 });
 
