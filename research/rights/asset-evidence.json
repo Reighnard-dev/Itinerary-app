@@ -91202,13 +91202,19 @@
     "basis": "Newly authored geometry and text"
   },
   "/icons/icon-512.png": {
-    "sha256": "d40b83089b632c97d77c7391722f14ede1e3d2582b32293ceb88ef9197139afc",
+    "sha256": "b7bada195b42cde702842edc77e540e9416c0dfe272092961799b569d9a8cbf4",
     "sourceUrl": "scripts/generate-pwa-icons.mjs",
     "evidence": "scripts/generate-pwa-icons.mjs",
     "basis": "Newly authored geometry and text"
   },
   "/icons/icon-maskable-512.png": {
-    "sha256": "fe8a3d9f6674237a95e41d0417992528a31323b5379ae84df545e9f2db4a01a1",
+    "sha256": "613e71e265f3f7739d2499dcb40a6b69f26ded5095e9dfb885c9db0e2c9d2c8a",
+    "sourceUrl": "scripts/generate-pwa-icons.mjs",
+    "evidence": "scripts/generate-pwa-icons.mjs",
+    "basis": "Newly authored geometry and text"
+  },
+  "/og-logo.png": {
+    "sha256": "cff881c40911379fb863d5b4a5db101989da7df891b0e3257767eeb82464fe73",
     "sourceUrl": "scripts/generate-pwa-icons.mjs",
     "evidence": "scripts/generate-pwa-icons.mjs",
     "basis": "Newly authored geometry and text"

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-25T05:14:17.597Z",
+  "generatedAt": "2026-11-25T05:55:30.134Z",
   "scope": "Current shared datasets, public/build assets, active local photo cache, browser remote asset references, installed software notices. Private quarantine, Git history, user prose, remote deployments and Supabase state require separate handling.",
   "summary": {
     "photoRecords": 15972,
     "verifiedPhotoRecords": 15972,
     "permissionOrEvidenceNeeded": 0,
-    "assets": 14783,
+    "assets": 14785,
     "unapprovedAssets": 0,
     "datasetRows": 234323,
     "missingSoftwareNotices": 0,
@@ -304153,13 +304153,13 @@
     {
       "file": "public/icons/icon-512.png",
       "url": "/icons/icon-512.png",
-      "sha256": "d40b83089b632c97d77c7391722f14ede1e3d2582b32293ceb88ef9197139afc",
+      "sha256": "b7bada195b42cde702842edc77e540e9416c0dfe272092961799b569d9a8cbf4",
       "status": "locally-authored-basic-geometry-and-text"
     },
     {
       "file": "public/icons/icon-maskable-512.png",
       "url": "/icons/icon-maskable-512.png",
-      "sha256": "fe8a3d9f6674237a95e41d0417992528a31323b5379ae84df545e9f2db4a01a1",
+      "sha256": "613e71e265f3f7739d2499dcb40a6b69f26ded5095e9dfb885c9db0e2c9d2c8a",
       "status": "locally-authored-basic-geometry-and-text"
     },
     {
@@ -392519,6 +392519,12 @@
       "status": "source-license-verified"
     },
     {
+      "file": "public/og-logo.png",
+      "url": "/og-logo.png",
+      "sha256": "cff881c40911379fb863d5b4a5db101989da7df891b0e3257767eeb82464fe73",
+      "status": "locally-authored-basic-geometry-and-text"
+    },
+    {
       "file": "dist/fallback.svg",
       "url": "/fallback.svg",
       "sha256": "40b9d76a42f8d03aa65bd168f5e2a104029b1097d733bbb7586def9035c6c080",
@@ -392557,13 +392563,13 @@
     {
       "file": "dist/icons/icon-512.png",
       "url": "/icons/icon-512.png",
-      "sha256": "d40b83089b632c97d77c7391722f14ede1e3d2582b32293ceb88ef9197139afc",
+      "sha256": "b7bada195b42cde702842edc77e540e9416c0dfe272092961799b569d9a8cbf4",
       "status": "locally-authored-basic-geometry-and-text"
     },
     {
       "file": "dist/icons/icon-maskable-512.png",
       "url": "/icons/icon-maskable-512.png",
-      "sha256": "fe8a3d9f6674237a95e41d0417992528a31323b5379ae84df545e9f2db4a01a1",
+      "sha256": "613e71e265f3f7739d2499dcb40a6b69f26ded5095e9dfb885c9db0e2c9d2c8a",
       "status": "locally-authored-basic-geometry-and-text"
     },
     {
@@ -392811,6 +392817,12 @@
       "url": "/images/places/f408ae61cef5d9af7ed6d5da.jpg",
       "sha256": "f408ae61cef5d9af7ed6d5da6348c1c56b0daf071d1e7331d3ca089f39591eeb",
       "status": "source-license-verified"
+    },
+    {
+      "file": "dist/og-logo.png",
+      "url": "/og-logo.png",
+      "sha256": "cff881c40911379fb863d5b4a5db101989da7df891b0e3257767eeb82464fe73",
+      "status": "locally-authored-basic-geometry-and-text"
     }
   ]
 }

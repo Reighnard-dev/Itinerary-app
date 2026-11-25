@@ -20,11 +20,120 @@ function svgForIcon(size, maskable = false) {
   </svg>`;
 }
 
+function svgForOgPreview() {
+  const manropeB64 = readFileSync('public/fonts/manrope-variable.ttf').toString('base64');
+  const dmSansB64 = readFileSync('public/fonts/dmsans-variable.ttf').toString('base64');
+  return `<!doctype html>
+<html>
+<head>
+<style>
+  @font-face { font-family: 'Manrope'; src: url(data:font/ttf;base64,${manropeB64}) format('truetype'); font-weight: 100 900; }
+  @font-face { font-family: 'DM Sans'; src: url(data:font/ttf;base64,${dmSansB64}) format('truetype'); font-weight: 100 900; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    width: 1200px;
+    height: 630px;
+    background: radial-gradient(circle at 14% 18%, #f5cf4326 0%, transparent 42%),
+                radial-gradient(circle at 86% 82%, #f5cf432b 0%, transparent 46%),
+                #faf5ea;
+    color: #262923;
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .ring {
+    position: absolute;
+    border: 1.5px solid #e6e2cf;
+    border-radius: 50%;
+    pointer-events: none;
+  }
+  .card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 24px;
+    padding: 40px 64px;
+    position: relative;
+    z-index: 2;
+  }
+  .lockup {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+  }
+  .wordmark {
+    font-family: 'Manrope', sans-serif;
+    font-weight: 800;
+    font-size: 112px;
+    letter-spacing: -5.5px;
+    line-height: 1;
+    color: #262923;
+  }
+  .dot {
+    color: #dab128;
+    margin-left: -4px;
+  }
+  .tagline {
+    font-family: 'Manrope', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    letter-spacing: -0.7px;
+    color: #3f4439;
+    margin: 0;
+  }
+  .sub {
+    font-size: 21px;
+    color: #77796f;
+    margin: -10px 0 0;
+  }
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: #fffdf5;
+    border: 1.5px solid #e6e3d3;
+    border-radius: 999px;
+    padding: 10px 22px;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+    color: #5d6154;
+  }
+  .pill-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #f5cd3c;
+  }
+</style>
+</head>
+<body>
+  <div class="ring" style="width:940px;height:940px;"></div>
+  <div class="ring" style="width:1280px;height:1280px;border-style:dashed;"></div>
+  <div class="card">
+    <div class="lockup">
+      ${svgForIcon(128, false)}
+      <div class="wordmark">roam<span class="dot">.</span></div>
+    </div>
+    <p class="tagline">Plan your travel itinerary.</p>
+    <p class="sub">Iconic sights, hidden gems, and day-by-day adventures.</p>
+    <div class="pill"><span class="pill-dot"></span>250+ countries · Web, iOS, Android &amp; Huawei</div>
+  </div>
+</body>
+</html>`;
+}
+
 const targets = [
-  { file: 'public/icons/apple-touch-icon.png', url: '/icons/apple-touch-icon.png', size: 180, maskable: true },
-  { file: 'public/icons/icon-192.png', url: '/icons/icon-192.png', size: 192, maskable: false },
-  { file: 'public/icons/icon-512.png', url: '/icons/icon-512.png', size: 512, maskable: false },
-  { file: 'public/icons/icon-maskable-512.png', url: '/icons/icon-maskable-512.png', size: 512, maskable: true },
+  { file: 'public/icons/apple-touch-icon.png', url: '/icons/apple-touch-icon.png', width: 180, height: 180, maskable: true, og: false },
+  { file: 'public/icons/icon-192.png', url: '/icons/icon-192.png', width: 192, height: 192, maskable: false, og: false },
+  { file: 'public/icons/icon-512.png', url: '/icons/icon-512.png', width: 512, height: 512, maskable: false, og: false },
+  { file: 'public/icons/icon-maskable-512.png', url: '/icons/icon-maskable-512.png', width: 512, height: 512, maskable: true, og: false },
+  { file: 'public/og-logo.png', url: '/og-logo.png', width: 1200, height: 630, maskable: false, og: true },
 ];
 
 const browser = await chromium.launch({ headless: true, channel: 'chrome' }).catch(() => chromium.launch({ headless: true }));
@@ -35,9 +144,14 @@ try {
   const evidence = JSON.parse(readFileSync(evidencePath, 'utf8'));
 
   for (const target of targets) {
-    const page = await browser.newPage({ viewport: { width: target.size, height: target.size }, deviceScaleFactor: 1 });
-    await page.setContent(`<!doctype html><html><body style="margin:0;padding:0;overflow:hidden;background:transparent">${svgForIcon(target.size, target.maskable)}</body></html>`);
-    await page.screenshot({ path: target.file, omitBackground: true });
+    const page = await browser.newPage({ viewport: { width: target.width, height: target.height }, deviceScaleFactor: 1 });
+    if (target.og) {
+      await page.setContent(svgForOgPreview());
+      await page.screenshot({ path: target.file });
+    } else {
+      await page.setContent(`<!doctype html><html><body style="margin:0;padding:0;overflow:hidden;background:transparent">${svgForIcon(target.width, target.maskable)}</body></html>`);
+      await page.screenshot({ path: target.file, omitBackground: true });
+    }
     await page.close();
 
     const sha256 = createHash('sha256').update(readFileSync(target.file)).digest('hex');
@@ -52,7 +166,7 @@ try {
       evidence: 'scripts/generate-pwa-icons.mjs',
       basis: 'Newly authored geometry and text',
     };
-    console.log(`Generated ${target.file} (${target.size}x${target.size}, sha256=${sha256.slice(0, 12)}...)`);
+    console.log(`Generated ${target.file} (${target.width}x${target.height}, sha256=${sha256.slice(0, 12)}...)`);
   }
 
   writeFileSync(approvedPath, JSON.stringify(approved, null, 2) + '\n');
