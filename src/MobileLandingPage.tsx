@@ -1,4 +1,4 @@
-import { useMemo, useRef, useState } from 'react';
+import { useMemo, useState } from 'react';
 import {
   ArrowRight,
   Check,
@@ -6,7 +6,6 @@ import {
   Compass,
   Copy,
   Download,
-  Globe2,
   MapPin,
   Plus,
   Share2,
@@ -21,6 +20,8 @@ import PlacePhoto, { PhotoCredit } from './PlacePhoto';
 import {
   detectPlatform,
   getApkDownloadUrl,
+  getDirectDownloadForPlatform,
+  getIosDownloadUrl,
   isInAppBrowser,
   type BeforeInstallPromptEvent,
   type MobilePlatform,
@@ -144,6 +145,11 @@ export default function MobileLandingPage({
   const detectedPlatform = useMemo(() => detectPlatform(), []);
   const inAppBrowser = useMemo(() => isInAppBrowser(), []);
   const apkUrl = useMemo(() => getApkDownloadUrl(), []);
+  const iosUrl = useMemo(() => getIosDownloadUrl(), []);
+  const primaryDownload = useMemo(
+    () => getDirectDownloadForPlatform(detectedPlatform),
+    [detectedPlatform]
+  );
 
   const [selectedCityIndex, setSelectedCityIndex] = useState(0);
   const [selectedDemoIds, setSelectedDemoIds] = useState<string[]>([
@@ -152,10 +158,7 @@ export default function MobileLandingPage({
   ]);
   const [activeTab, setActiveTab] = useState<InstallTab>(() => initialTabFor(detectedPlatform));
   const [installFeedback, setInstallFeedback] = useState('');
-  const [showApkGuide, setShowApkGuide] = useState(false);
   const [copiedLink, setCopiedLink] = useState(false);
-
-  const installHubRef = useRef<HTMLElement>(null);
 
   const activeCity = FEATURED_CITIES[selectedCityIndex] || FEATURED_CITIES[0];
   const cityPlaces = useMemo(() => {
@@ -186,35 +189,22 @@ export default function MobileLandingPage({
     );
   };
 
-  const scrollToInstallHub = () => {
-    installHubRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  const notifyDownload = (filename: string) => {
+    setInstallFeedback(`Downloading ${filename}…`);
   };
 
   const handleNativePwaInstall = async () => {
-    if (isInstalled) {
-      setInstallFeedback('Roam is already installed on your device!');
-      return;
-    }
-    if (installPrompt) {
-      try {
-        await installPrompt.prompt();
-        const choice = await installPrompt.userChoice;
-        if (choice.outcome === 'accepted') {
-          setInstallFeedback('Installing Roam onto your home screen…');
-        } else {
-          setInstallFeedback('Install dismissed — you can tap Install anytime or grab the APK below.');
-        }
-        onClearInstallPrompt();
-      } catch {
-        setInstallFeedback('Open your browser menu (⋮) and tap “Install app” or “Add to Home screen”.');
+    if (!installPrompt) return;
+    try {
+      await installPrompt.prompt();
+      const choice = await installPrompt.userChoice;
+      if (choice.outcome === 'accepted') {
+        setInstallFeedback('Installing Roam onto your home screen…');
       }
-      return;
+      onClearInstallPrompt();
+    } catch {
+      // Fall back silently; direct APK download remains primary.
     }
-    setInstallFeedback(
-      activeTab === 'huawei'
-        ? 'In Huawei Browser, tap the menu icon (⋮ or ☰) and choose “Add to Home screen”, or download the GMS-free APK below.'
-        : 'In Chrome or Edge, tap the ⋮ menu at the top right and select “Install app” or “Add to Home screen”.'
-    );
   };
 
   const handleCopyUrl = async () => {
@@ -262,14 +252,15 @@ export default function MobileLandingPage({
           </p>
 
           <div className="ml-hero-ctas">
-            <button
-              type="button"
+            <a
+              href={primaryDownload.url}
+              download={primaryDownload.filename}
               className="btn btn-yellow ml-cta-primary"
-              onClick={scrollToInstallHub}
+              onClick={() => notifyDownload(primaryDownload.filename)}
             >
               <Download size={17} aria-hidden="true" />
-              Get the App (iOS · Android · Huawei)
-            </button>
+              {primaryDownload.label}
+            </a>
             <button
               type="button"
               className="btn btn-dark ml-cta-secondary"
@@ -413,16 +404,15 @@ export default function MobileLandingPage({
 
       <section
         id="download-roam"
-        ref={installHubRef}
         className="ml-section ml-install-section"
         aria-label="Download and install Roam"
       >
         <div className="ml-section-head">
-          <span className="ml-step-tag">03 · GET ROAM ON YOUR DEVICE</span>
-          <h2>Install on Android, Huawei, or iOS</h2>
+          <span className="ml-step-tag">03 · DIRECT DOWNLOAD</span>
+          <h2>Download Roam for Android, Huawei, or iOS</h2>
           <p>
-            No account required to browse. Install directly on any phone—including Huawei devices
-            without Google Play Services.
+            One tap starts your download immediately—including GMS-free APK for Huawei devices and
+            direct profile install for iPhone &amp; iPad.
           </p>
         </div>
 
@@ -460,53 +450,35 @@ export default function MobileLandingPage({
             <div className="ml-platform-body">
               <div className="ml-compat-badge">
                 <ShieldCheck size={15} aria-hidden="true" />
-                Android 8.0+ · 1-Tap App Install or Direct APK
+                Android 8.0+ · Direct APK Download
               </div>
-              <h3>Install Roam on Android</h3>
+              <h3>Download Roam for Android</h3>
               <p>
-                Install instantly via your browser for automatic updates, or download the standalone{' '}
-                <code>roam-android.apk</code> package directly.
+                Tap below to automatically download <code>roam-android.apk</code> right onto your
+                device.
               </p>
 
               <div className="ml-install-actions">
-                <button
-                  type="button"
-                  className="btn btn-yellow full"
-                  onClick={handleNativePwaInstall}
-                >
-                  <Smartphone size={17} aria-hidden="true" />
-                  {isInstalled
-                    ? 'Roam Installed on Home Screen'
-                    : installPrompt
-                      ? '1-Tap Install Roam App'
-                      : 'Install via Browser (PWA)'}
-                </button>
                 <a
                   href={apkUrl}
                   download="roam-android.apk"
-                  className="btn btn-dark full"
-                  rel="noreferrer"
+                  className="btn btn-yellow full"
+                  onClick={() => notifyDownload('roam-android.apk')}
                 >
                   <Download size={17} aria-hidden="true" />
-                  Download Android APK (roam-android.apk)
+                  Download ROAM APK (roam-android.apk)
                 </a>
+                {installPrompt && !isInstalled && (
+                  <button
+                    type="button"
+                    className="btn btn-outline full"
+                    onClick={handleNativePwaInstall}
+                  >
+                    <Smartphone size={17} aria-hidden="true" />
+                    1-Tap Install Instant App
+                  </button>
+                )}
               </div>
-
-              <button
-                type="button"
-                className="ml-guide-toggle"
-                onClick={() => setShowApkGuide((v) => !v)}
-              >
-                {showApkGuide ? 'Hide APK install steps ▲' : 'How to install the APK file ▼'}
-              </button>
-
-              {showApkGuide && (
-                <ol className="ml-steps-list">
-                  <li>Tap <strong>Download Android APK</strong> above to save <code>roam-android.apk</code>.</li>
-                  <li>Open the downloaded file from your notification shade or Files app.</li>
-                  <li>If prompted, allow <strong>Install unknown apps</strong> for your browser, then tap <strong>Install</strong>.</li>
-                </ol>
-              )}
             </div>
           )}
 
@@ -516,10 +488,10 @@ export default function MobileLandingPage({
                 <ShieldCheck size={15} aria-hidden="true" />
                 HarmonyOS &amp; EMUI Compatible · Zero Google Play Services
               </div>
-              <h3>Get Roam on Huawei Devices</h3>
+              <h3>Download Roam for Huawei</h3>
               <p>
-                Roam is built completely free of Google Mobile Services (GMS), so it runs smoothly on
-                Huawei Mate, Pura, Nova, and Honor devices via direct APK or Huawei Browser.
+                GMS-free APK built for Huawei Mate, Pura, Nova, and Honor devices—tap below to
+                download immediately.
               </p>
 
               <div className="ml-install-actions">
@@ -527,26 +499,12 @@ export default function MobileLandingPage({
                   href={apkUrl}
                   download="roam-android.apk"
                   className="btn btn-yellow full"
-                  rel="noreferrer"
+                  onClick={() => notifyDownload('roam-android.apk')}
                 >
                   <Download size={17} aria-hidden="true" />
-                  Download Huawei APK (GMS-Free)
+                  Download ROAM for Huawei (GMS-Free APK)
                 </a>
-                <button
-                  type="button"
-                  className="btn btn-outline full"
-                  onClick={handleNativePwaInstall}
-                >
-                  <Globe2 size={17} aria-hidden="true" />
-                  Install via Huawei Browser (Add to Home Screen)
-                </button>
               </div>
-
-              <ol className="ml-steps-list">
-                <li>Tap <strong>Download Huawei APK</strong> and open <code>roam-android.apk</code> when finished.</li>
-                <li>When HarmonyOS / EMUI prompts, tap <strong>Allow</strong> and complete the security check.</li>
-                <li>Prefer zero downloads? Tap <strong>⋮ → Add to Home screen</strong> inside Huawei Browser.</li>
-              </ol>
             </div>
           )}
 
@@ -554,20 +512,20 @@ export default function MobileLandingPage({
             <div className="ml-platform-body">
               <div className="ml-compat-badge ios">
                 <Sparkles size={15} aria-hidden="true" />
-                iPhone &amp; iPad · Full-Screen Standalone App via Safari
+                iPhone &amp; iPad · Direct Home Screen App Profile
               </div>
-              <h3>Add Roam to Your iPhone or iPad</h3>
+              <h3>Download Roam for iPhone &amp; iPad</h3>
               <p>
-                Apple installs web apps directly from Safari—no App Store download or computer
-                needed. Roam launches full-screen with your saved trips right on your Home Screen.
+                Tap below to download <code>Roam.mobileconfig</code> directly, then approve the
+                profile prompt in iOS Settings to add the full-screen Roam app icon.
               </p>
 
               {inAppBrowser && (
                 <div className="ml-inapp-warning" role="note">
                   <strong>Opened inside an in-app browser</strong>
                   <p>
-                    Tap the <strong>⋯</strong> or <strong>Safari</strong> icon to open in Safari, or
-                    copy the link below first.
+                    Tap the <strong>⋯</strong> or <strong>Safari</strong> icon to download in
+                    Safari, or copy the link below.
                   </p>
                   <button type="button" className="btn btn-dark" onClick={handleCopyUrl}>
                     <Copy size={15} aria-hidden="true" />
@@ -576,33 +534,24 @@ export default function MobileLandingPage({
                 </div>
               )}
 
-              <ol className="ml-steps-list">
-                <li>
-                  Open this page in <strong>Safari</strong> and tap the{' '}
-                  <Share2 size={14} className="ml-inline-icon" aria-hidden="true" />{' '}
-                  <strong>Share</strong> button at the bottom bar.
-                </li>
-                <li>
-                  Scroll down and tap <strong>Add to Home Screen</strong>.
-                </li>
-                <li>
-                  Tap <strong>Add</strong>—Roam appears as an app icon on your Home Screen.
-                </li>
-              </ol>
-
               <div className="ml-install-actions">
-                <button
-                  type="button"
+                <a
+                  href={iosUrl}
+                  download="Roam.mobileconfig"
                   className="btn btn-yellow full"
-                  onClick={() => onLaunchApp({ country: activeCity.country, city: activeCity.city })}
+                  onClick={() => notifyDownload('Roam.mobileconfig')}
                 >
-                  <Compass size={17} aria-hidden="true" />
-                  Launch Roam in Safari Now
-                </button>
+                  <Download size={17} aria-hidden="true" />
+                  Download ROAM for iPhone / iPad
+                </a>
                 {!inAppBrowser && (
-                  <button type="button" className="btn btn-outline full" onClick={handleCopyUrl}>
-                    <Copy size={15} aria-hidden="true" />
-                    {copiedLink ? 'Link Copied!' : 'Copy Link to Share'}
+                  <button
+                    type="button"
+                    className="btn btn-outline full"
+                    onClick={() => onLaunchApp({ country: activeCity.country, city: activeCity.city })}
+                  >
+                    <Compass size={17} aria-hidden="true" />
+                    Launch Web App Now
                   </button>
                 )}
               </div>
@@ -636,9 +585,14 @@ export default function MobileLandingPage({
       </section>
 
       <div className="ml-sticky-bar">
-        <button type="button" className="btn btn-outline" onClick={scrollToInstallHub}>
-          <Download size={15} aria-hidden="true" /> Get App
-        </button>
+        <a
+          href={primaryDownload.url}
+          download={primaryDownload.filename}
+          className="btn btn-outline"
+          onClick={() => notifyDownload(primaryDownload.filename)}
+        >
+          <Download size={15} aria-hidden="true" /> Download App
+        </a>
         <button
           type="button"
           className="btn btn-yellow"

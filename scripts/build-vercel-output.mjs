@@ -14,7 +14,7 @@ mkdirSync(functionsDir, { recursive: true });
 cpSync('dist', staticDir, { recursive: true });
 
 // 2. Bundle API routes into .vercel/output/functions/api/<name>.func/
-for (const name of ['health', 'config', 'routes']) {
+for (const name of ['health', 'config', 'routes', 'download-apk', 'download-ios']) {
   const funcDir = path.join(functionsDir, `${name}.func`);
   mkdirSync(funcDir, { recursive: true });
 
@@ -68,6 +68,7 @@ export default async function handler(req, res) {
     platform: 'node',
     format: 'esm',
     target: 'node22',
+    loader: { '.png': 'base64' },
     outfile: path.join(funcDir, 'index.mjs'),
   });
 

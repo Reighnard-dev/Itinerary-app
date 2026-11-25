@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {
   detectPlatform,
+  getDirectDownloadForPlatform,
   isInAppBrowser,
   isLandingPath,
   shouldShowMobileLanding,
@@ -138,4 +139,22 @@ test('shouldShowMobileLanding handles mobile, desktop, dismissed, standalone, sh
     }),
     false
   );
+});
+
+test('getDirectDownloadForPlatform returns direct APK for Android/Huawei and mobileconfig for iOS', () => {
+  assert.deepEqual(getDirectDownloadForPlatform('android'), {
+    url: '/api/download-apk',
+    filename: 'roam-android.apk',
+    label: 'Download ROAM APK',
+  });
+  assert.deepEqual(getDirectDownloadForPlatform('huawei'), {
+    url: '/api/download-apk',
+    filename: 'roam-android.apk',
+    label: 'Download ROAM for Huawei',
+  });
+  assert.deepEqual(getDirectDownloadForPlatform('ios'), {
+    url: '/api/download-ios',
+    filename: 'Roam.mobileconfig',
+    label: 'Download ROAM for iOS',
+  });
 });

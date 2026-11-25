@@ -29,20 +29,26 @@ test.describe('Mobile interactive landing page & cross-platform download hub', (
     await page.getByRole('button', { name: /Local Market Bites/i }).click();
     await expect(landing.locator('.ml-timeline-head')).toContainText('3 stops scheduled');
 
-    // 4. Platform tabs (Android / Huawei / iOS) switch install & APK options
-    await page.getByRole('tab', { name: 'Huawei' }).click();
-    await expect(landing.getByRole('link', { name: /Download Huawei APK \(GMS-Free\)/i })).toHaveAttribute(
+    // 4. Platform tabs (Android / Huawei / iOS) expose direct automatic download links
+    await expect(landing.getByRole('link', { name: /Download ROAM for iOS/i })).toHaveAttribute(
       'href',
-      /roam-android\.apk$/
+      '/api/download-ios'
     );
 
+    await page.getByRole('tab', { name: 'Huawei' }).click();
+    await expect(
+      landing.getByRole('link', { name: /Download ROAM for Huawei \(GMS-Free APK\)/i })
+    ).toHaveAttribute('href', '/api/download-apk');
+
     await page.getByRole('tab', { name: /iPhone \/ iPad/i }).click();
-    await expect(landing.getByText(/Add to Home Screen/i).first()).toBeVisible();
+    await expect(
+      landing.getByRole('link', { name: /Download ROAM for iPhone \/ iPad/i })
+    ).toHaveAttribute('href', '/api/download-ios');
 
     await page.getByRole('tab', { name: 'Android' }).click();
-    await expect(landing.getByRole('link', { name: /Download Android APK/i })).toHaveAttribute(
+    await expect(landing.getByRole('link', { name: /Download ROAM APK/i })).toHaveAttribute(
       'href',
-      /roam-android\.apk$/
+      '/api/download-apk'
     );
 
     // 5. Launching into the main ROAM app preloads the chosen city

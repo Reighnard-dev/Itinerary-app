@@ -6,8 +6,8 @@ export interface BeforeInstallPromptEvent extends Event {
   prompt: () => Promise<void>;
 }
 
-const DEFAULT_APK_URL =
-  'https://github.com/Reighnard-dev/Itinerary-app/releases/latest/download/roam-android.apk';
+const DEFAULT_APK_URL = '/api/download-apk';
+const DEFAULT_IOS_URL = '/api/download-ios';
 
 export const LANDING_PATHS = ['/welcome', '/download'] as const;
 
@@ -89,4 +89,45 @@ export function getApkDownloadUrl(): string {
       ? (import.meta.env.VITE_APK_DOWNLOAD_URL as string | undefined)
       : undefined;
   return configured?.trim() || DEFAULT_APK_URL;
+}
+
+export function getIosDownloadUrl(): string {
+  const configured =
+    typeof import.meta !== 'undefined' && import.meta.env
+      ? (import.meta.env.VITE_IOS_DOWNLOAD_URL as string | undefined)
+      : undefined;
+  return configured?.trim() || DEFAULT_IOS_URL;
+}
+
+export function getDirectDownloadForPlatform(platform: MobilePlatform): {
+  url: string;
+  filename: string;
+  label: string;
+} {
+  if (platform === 'ios') {
+    return {
+      url: getIosDownloadUrl(),
+      filename: 'Roam.mobileconfig',
+      label: 'Download ROAM for iOS',
+    };
+  }
+  if (platform === 'huawei') {
+    return {
+      url: getApkDownloadUrl(),
+      filename: 'roam-android.apk',
+      label: 'Download ROAM for Huawei',
+    };
+  }
+  if (platform === 'android') {
+    return {
+      url: getApkDownloadUrl(),
+      filename: 'roam-android.apk',
+      label: 'Download ROAM APK',
+    };
+  }
+  return {
+    url: getApkDownloadUrl(),
+    filename: 'roam-android.apk',
+    label: 'Download ROAM App',
+  };
 }
