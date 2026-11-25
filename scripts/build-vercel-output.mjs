@@ -132,7 +132,7 @@ const config = {
     },
     {
       src: '/discovery/(.*)',
-      headers: { 'Cache-Control': 'public, max-age=604800, stale-while-revalidate=86400' },
+      headers: { 'Cache-Control': 'public, max-age=0, s-maxage=3600, must-revalidate' },
       continue: true,
     },
     { handle: 'filesystem' },

@@ -11,7 +11,7 @@ let indexRequest: Promise<StaticIndex> | undefined;
 const placePhotos = new Map<string, PlaceImage>();
 
 async function readJson<T>(file: string, signal?: AbortSignal): Promise<T> {
-  const response = await fetch('/discovery/' + file, {signal});
+  const response = await fetch(`/discovery/${file}?v=2`, {signal});
   if (!response.ok) throw new Error('Could not load destination data. Please try again.');
   return response.json();
 }

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'roam-shell-v1';
+const CACHE_NAME = 'roam-shell-v2';
 const PRECACHE_URLS = [
   '/',
   '/manifest.webmanifest',
@@ -56,8 +56,7 @@ self.addEventListener('fetch', (event) => {
   const isStaticAsset =
     url.pathname.startsWith('/assets/') ||
     url.pathname.startsWith('/fonts/') ||
-    url.pathname.startsWith('/icons/') ||
-    url.pathname.startsWith('/discovery/');
+    url.pathname.startsWith('/icons/');
 
   if (isStaticAsset) {
     event.respondWith(
