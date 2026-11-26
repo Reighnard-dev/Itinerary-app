@@ -68,9 +68,14 @@ export default async function handler(req, res) {
     platform: 'node',
     format: 'esm',
     target: 'node22',
-    loader: { '.png': 'base64' },
     outfile: path.join(funcDir, 'index.mjs'),
   });
+
+  if (name === 'download-ios') {
+    const iconsDir = path.join(funcDir, 'public', 'icons');
+    mkdirSync(iconsDir, { recursive: true });
+    cpSync('public/icons/icon-192.png', path.join(iconsDir, 'icon-192.png'));
+  }
 
   writeFileSync(path.join(funcDir, 'package.json'), JSON.stringify({ type: 'module' }) + '\n');
   writeFileSync(

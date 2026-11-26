@@ -1,4 +1,7 @@
-import iconBase64 from '../public/icons/icon-192.png';
+import { readFileSync } from 'node:fs';
+import path from 'node:path';
+
+const iconBase64 = readFileSync(path.join(process.cwd(), 'public', 'icons', 'icon-192.png')).toString('base64');
 
 function escapeXml(value: string): string {
   return value
@@ -17,7 +20,6 @@ export function GET(request: Request) {
       : requestUrl.origin;
   const appUrl = `${origin}/?source=pwa`;
 
-  const cleanIconBase64 = String(iconBase64).replace(/\s+/g, '');
 
   const mobileconfig = `<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
@@ -29,7 +31,7 @@ export function GET(request: Request) {
       <key>FullScreen</key>
       <true/>
       <key>Icon</key>
-      <data>${cleanIconBase64}</data>
+      <data>${iconBase64}</data>
       <key>IsRemovable</key>
       <true/>
       <key>Label</key>
