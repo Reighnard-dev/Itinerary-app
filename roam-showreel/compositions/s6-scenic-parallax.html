@@ -1,0 +1,285 @@
+<template>
+  <style>
+    @font-face {
+      font-family: 'Manrope';
+      font-style: normal;
+      font-weight: 200 800;
+      src: url('assets/fonts/manrope-variable.ttf') format('truetype');
+    }
+    @font-face {
+      font-family: 'DM Sans';
+      font-style: normal;
+      font-weight: 100 1000;
+      src: url('assets/fonts/dmsans-variable.ttf') format('truetype');
+    }
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      font-family: var(--font-body, 'DM Sans'), sans-serif;
+      color: #262923;
+    }
+    .s6-bg-wrap {
+      position: absolute;
+      inset: -40px;
+      overflow: hidden;
+    }
+    .s6-bg-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .s6-scrim {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, rgba(26, 29, 24, 0.18) 0%, rgba(26, 29, 24, 0.04) 55%, rgba(26, 29, 24, 0.24) 100%);
+      pointer-events: none;
+    }
+
+    /* Center Hero Real Roam R App Icon Badge */
+    .s6-center-icon {
+      position: absolute;
+      left: 874px;
+      top: 446px;
+      width: 172px;
+      height: 172px;
+      border-radius: 38px;
+      background: #FFFFFF;
+      padding: 12px;
+      box-shadow: 0 34px 72px rgba(20, 24, 18, 0.42);
+      z-index: 6;
+    }
+    .s6-center-icon img {
+      width: 100%;
+      height: 100%;
+      display: block;
+      border-radius: 28px;
+    }
+
+    /* Ref-3 Frosted Floating Trip Widgets */
+    .s6-glass-card {
+      position: absolute;
+      background: rgba(250, 245, 234, 0.96);
+      backdrop-filter: blur(20px);
+      border: 2px solid rgba(255, 255, 255, 0.95);
+      border-radius: 26px;
+      box-shadow: 0 30px 68px rgba(18, 22, 16, 0.34);
+      padding: 26px 30px;
+      color: #262923;
+    }
+
+    #s6-card-left {
+      left: 165px;
+      top: 280px;
+      width: 560px;
+      z-index: 4;
+    }
+    .s6-left-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 18px;
+    }
+    .s6-pill-yellow {
+      background: var(--color-accent, #F5CF43);
+      color: #262923;
+      border-radius: 99px;
+      padding: 8px 20px;
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 800;
+      font-size: 28px;
+    }
+    .s6-left-stop {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+    .s6-stop-thumb {
+      width: 112px;
+      height: 112px;
+      border-radius: 16px;
+      object-fit: cover;
+      flex-shrink: 0;
+    }
+    .s6-stop-name {
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 800;
+      font-size: 36px;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      color: #262923;
+    }
+    .s6-stop-meta {
+      font-size: 28px;
+      font-weight: 600;
+      color: #2F332A;
+      margin-top: 8px;
+    }
+
+    #s6-card-top-right {
+      left: 1215px;
+      top: 195px;
+      width: 525px;
+      z-index: 5;
+    }
+    .s6-big-stat {
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 800;
+      font-size: 62px;
+      line-height: 1.05;
+      letter-spacing: -0.03em;
+      color: #262923;
+      font-variant-numeric: tabular-nums;
+    }
+    .s6-stat-sub {
+      font-size: 30px;
+      font-weight: 700;
+      color: #2F332A;
+      margin-top: 8px;
+    }
+
+    #s6-card-bottom-right {
+      left: 1135px;
+      top: 635px;
+      width: 615px;
+      z-index: 5;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+    }
+    .s6-route-label {
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 800;
+      font-size: 34px;
+      color: #262923;
+    }
+    .s6-route-sub {
+      font-size: 28px;
+      font-weight: 600;
+      color: #2F332A;
+      margin-top: 6px;
+    }
+    .s6-share-btn {
+      background: #262923;
+      color: #FAF5EA;
+      border-radius: 14px;
+      padding: 16px 26px;
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 700;
+      font-size: 28px;
+      white-space: nowrap;
+    }
+  </style>
+
+  <div id="root" data-composition-id="s6-scenic-parallax" data-width="1920" data-height="1080">
+    <div id="s6-bg-wrap" class="s6-bg-wrap" data-layout-ignore="true">
+      <img class="s6-bg-img" src="assets/images/places/atmo-mountain.jpg" alt="Sunlit misty mountain panorama" />
+      <div class="s6-scrim"></div>
+    </div>
+
+    <div id="s6-center-icon" class="s6-center-icon" data-beat="scenic-hero-icon">
+      <img src="assets/images/roam-icon.svg" alt="Roam app icon" />
+    </div>
+
+    <div id="s6-card-left" class="s6-glass-card" data-beat="scenic-widgets">
+      <div class="s6-left-top">
+        <span class="s6-pill-yellow">DAY 01 · KYOTO</span>
+        <span style="font-size:28px; font-weight:700; color:#262923;">3 stops</span>
+      </div>
+      <div class="s6-left-stop">
+        <img class="s6-stop-thumb" src="assets/images/places/kyoto-1.jpg" alt="Fushimi Inari Shrine" />
+        <div>
+          <div class="s6-stop-name">Fushimi Inari</div>
+          <div class="s6-stop-meta">08:30 AM · Morning</div>
+        </div>
+      </div>
+    </div>
+
+    <div id="s6-card-top-right" class="s6-glass-card">
+      <div id="s6-countries-val" class="s6-big-stat">250 Countries</div>
+      <div id="s6-cities-val" class="s6-stat-sub">34,240 cities ready to roam</div>
+    </div>
+
+    <div id="s6-card-bottom-right" class="s6-glass-card">
+      <div>
+        <div class="s6-route-label">JR Nara · 12 min</div>
+        <div class="s6-route-sub">Transit route ready</div>
+      </div>
+      <div class="s6-share-btn">Share trip</div>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+
+      const statsProgress = { p: 0 };
+      const cEl = document.getElementById('s6-countries-val');
+      const ciEl = document.getElementById('s6-cities-val');
+
+      // 0.00 - 2.40s: Continuous calm 35mm dolly on golden-hour landscape
+      tl.fromTo(
+        '#s6-bg-wrap',
+        { scale: 1.08, x: -16 },
+        { scale: 1.00, x: 10, duration: 2.40, ease: 'power1.out' },
+        0.00
+      );
+
+      // Center App Icon springs into focus
+      tl.fromTo(
+        '#s6-center-icon',
+        { opacity: 0, scale: 0.45, y: 40, rotation: -6 },
+        { opacity: 1, scale: 1, y: 0, rotation: 0, duration: 0.48, ease: 'back.out(1.4)' },
+        0.10
+      );
+
+      // Multi-plane parallax entry of frosted cards
+      tl.fromTo(
+        '#s6-card-left',
+        { opacity: 0, x: -140, y: 30, scale: 0.88 },
+        { opacity: 1, x: 0, y: 0, scale: 1, duration: 0.52, ease: 'expo.out' },
+        0.20
+      );
+      tl.fromTo(
+        '#s6-card-top-right',
+        { opacity: 0, x: 120, y: -30, scale: 0.88 },
+        { opacity: 1, x: 0, y: 0, scale: 1, duration: 0.52, ease: 'expo.out' },
+        0.28
+      );
+      tl.fromTo(
+        '#s6-card-bottom-right',
+        { opacity: 0, x: 120, y: 40, scale: 0.88 },
+        { opacity: 1, x: 0, y: 0, scale: 1, duration: 0.52, ease: 'expo.out' },
+        0.36
+      );
+
+      // Single unified tabular counter settle
+      tl.fromTo(
+        statsProgress,
+        { p: 0 },
+        {
+          p: 1,
+          duration: 0.72,
+          ease: 'power2.out',
+          onUpdate: function () {
+            const cVal = Math.round(180 + 70 * statsProgress.p);
+            const ciVal = Math.round(24500 + 9740 * statsProgress.p);
+            if (cEl) cEl.textContent = cVal + ' Countries';
+            if (ciEl) ciEl.textContent = ciVal.toLocaleString('en-US') + ' cities ready to roam';
+          },
+        },
+        0.32
+      );
+
+      // Subtle layered drift across remaining beat so frame stays alive
+      tl.fromTo('#s6-card-left', { y: 0 }, { y: -12, duration: 1.50, ease: 'power1.inOut', immediateRender: false }, 0.74);
+      tl.fromTo('#s6-card-top-right', { y: 0 }, { y: -16, duration: 1.50, ease: 'power1.inOut', immediateRender: false }, 0.82);
+      tl.fromTo('#s6-card-bottom-right', { y: 0 }, { y: 12, duration: 1.50, ease: 'power1.inOut', immediateRender: false }, 0.90);
+
+      window.__timelines = window.__timelines || {};
+      window.__timelines['s6-scenic-parallax'] = tl;
+    })();
+  </script>
+</template>

@@ -1,0 +1,304 @@
+<template>
+  <style>
+    @font-face {
+      font-family: 'Manrope';
+      font-style: normal;
+      font-weight: 200 800;
+      src: url('assets/fonts/manrope-variable.ttf') format('truetype');
+    }
+    @font-face {
+      font-family: 'DM Sans';
+      font-style: normal;
+      font-weight: 100 1000;
+      src: url('assets/fonts/dmsans-variable.ttf') format('truetype');
+    }
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      font-family: var(--font-body, 'DM Sans'), sans-serif;
+      color: var(--color-ink, #262923);
+    }
+    .s2-bg {
+      position: absolute;
+      inset: 0;
+      background: var(--color-ground, #FAF5EA);
+    }
+    .s2-bloom {
+      position: absolute;
+      left: 360px;
+      top: -60px;
+      width: 1200px;
+      height: 1200px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(245, 207, 67, 0.36) 0%, rgba(245, 207, 67, 0.08) 48%, rgba(250, 245, 234, 0) 74%);
+      pointer-events: none;
+    }
+    .s2-stage {
+      position: absolute;
+      inset: 0;
+    }
+    .s2-lockup-group {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 1920px;
+      height: 1080px;
+      pointer-events: none;
+    }
+    .s2-badge {
+      position: absolute;
+      left: 890px;
+      top: 470px;
+      width: 140px;
+      height: 140px;
+      border-radius: 50%;
+      background: var(--color-accent, #F5CF43);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 18px 42px rgba(201, 158, 24, 0.30);
+    }
+    .s2-wordmark-mask {
+      position: absolute;
+      left: 830px;
+      top: 455px;
+      width: 470px;
+      height: 170px;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+    }
+    .s2-wordmark {
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 800;
+      font-size: 136px;
+      letter-spacing: -0.05em;
+      color: var(--color-ink, #262923);
+      line-height: 1;
+      white-space: nowrap;
+    }
+    .s2-dot {
+      color: #8F6A00;
+    }
+
+    /* 1:1 Roam Search Panel scaled up cleanly so every label >= 28px */
+    .s2-search-shell {
+      position: absolute;
+      left: 160px;
+      top: 425px;
+      width: 1600px;
+      height: 230px;
+      background: #FFFFFF;
+      border: 2px solid #E8E7DC;
+      border-radius: 26px;
+      box-shadow: 0 28px 65px rgba(38, 41, 35, 0.14);
+      display: flex;
+      align-items: center;
+      padding: 26px 32px;
+      gap: 0;
+      overflow: hidden;
+    }
+    .s2-field {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      padding: 0 34px;
+      border-right: 2px solid #E9EAE4;
+    }
+    .s2-field:first-child {
+      padding-left: 12px;
+      flex: 1.05;
+    }
+    .s2-field.stay {
+      border-right: 0;
+      flex: 0.95;
+    }
+    .s2-field-label {
+      font-size: 28px;
+      font-weight: 600;
+      color: #717368;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      white-space: nowrap;
+    }
+    .s2-field-value {
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-size: 40px;
+      font-weight: 800;
+      letter-spacing: -0.025em;
+      color: #262923;
+      white-space: nowrap;
+    }
+    .s2-cta-btn {
+      background: var(--color-accent, #F5CF43);
+      color: #262923;
+      border-radius: 16px;
+      padding: 28px 38px;
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 800;
+      font-size: 32px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      white-space: nowrap;
+      box-shadow: 0 10px 24px rgba(201, 158, 24, 0.25);
+    }
+    .s2-kicker {
+      position: absolute;
+      left: 192px;
+      top: 260px;
+      width: 1536px;
+      text-align: center;
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 800;
+      font-size: 62px;
+      letter-spacing: -0.03em;
+      color: #262923;
+    }
+    .s2-kicker span {
+      color: #B88B0A;
+    }
+    .s2-cursor {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 68px;
+      height: 68px;
+      pointer-events: none;
+      filter: drop-shadow(0 10px 18px rgba(26, 29, 24, 0.30));
+    }
+    .s2-zoom-veil {
+      position: absolute;
+      inset: 0;
+      background: var(--color-ground, #FAF5EA);
+      pointer-events: none;
+    }
+  </style>
+
+  <div id="root" data-composition-id="s2-brand-morph" data-width="1920" data-height="1080">
+    <div class="s2-bg"></div>
+    <div id="s2-bloom" class="s2-bloom" data-layout-ignore="true"></div>
+
+    <div id="s2-stage" class="s2-stage">
+      <!-- Part A: Centered Roam Compass Bloom + Wordmark Reveal -->
+      <div id="s2-lockup-group" class="s2-lockup-group" data-beat="brand-bloom">
+        <div id="s2-wordmark-mask" class="s2-wordmark-mask">
+          <div id="s2-wordmark" class="s2-wordmark">roam<span class="s2-dot">.</span></div>
+        </div>
+        <div id="s2-badge" class="s2-badge">
+          <svg id="s2-compass-svg" width="84" height="84" viewBox="0 0 24 24" fill="none" stroke="#262923" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"/>
+            <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/>
+          </svg>
+        </div>
+      </div>
+
+      <!-- Part B: Morph into Authentic Roam Search Bar -->
+      <div id="s2-kicker" class="s2-kicker">
+        <span>250</span> countries. <span>34,240</span> cities.
+      </div>
+
+      <div id="s2-search-shell" class="s2-search-shell" data-beat="search-morph">
+        <div class="s2-field">
+          <div class="s2-field-label">
+            <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#85867B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>
+            Destination
+          </div>
+          <div id="s2-val-country" class="s2-field-value">Japan</div>
+        </div>
+
+        <div class="s2-field">
+          <div class="s2-field-label">
+            <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#85867B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/></svg>
+            Pick your city
+          </div>
+          <div id="s2-val-city" class="s2-field-value">Kyoto</div>
+        </div>
+
+        <div class="s2-field stay">
+          <div class="s2-field-label">
+            <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#85867B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M16 2v4"/><path d="M8 2v4"/><path d="M3 10h18"/></svg>
+            Set your stay
+          </div>
+          <div id="s2-val-days" class="s2-field-value">5 days</div>
+        </div>
+
+        <div id="s2-cta-btn" class="s2-cta-btn">
+          <span>Find my adventure</span>
+          <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#262923" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+        </div>
+      </div>
+
+      <!-- Agency Cursor -->
+      <svg id="s2-cursor" class="s2-cursor" viewBox="0 0 48 48" fill="none" data-layout-ignore="true">
+        <path d="M9 5L39 22L24 26L18 41L9 5Z" fill="#262923" stroke="#FFFFFF" stroke-width="3.2" stroke-linejoin="round"/>
+      </svg>
+    </div>
+
+    <div id="s2-zoom-veil" class="s2-zoom-veil" data-layout-ignore="true"></div>
+  </div>
+
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+
+      // 0.00 - 0.55s: Centered yellow sphere -> warm bloom -> badge slides left as "roam." reveals
+      tl.fromTo('#s2-bloom', { opacity: 0, scale: 0.35 }, { opacity: 1, scale: 1.05, duration: 0.55, ease: 'power3.out' }, 0.02);
+      tl.fromTo('#s2-compass-svg', { opacity: 0, scale: 0.4, rotation: -65 }, { opacity: 1, scale: 1, rotation: 0, duration: 0.42, ease: 'back.out(1.5)' }, 0.06);
+      tl.fromTo('#s2-badge', { x: 0, scale: 1 }, { x: -220, scale: 1, duration: 0.46, ease: 'expo.out' }, 0.24);
+      tl.fromTo('#s2-wordmark', { x: -380, opacity: 0 }, { x: 0, opacity: 1, duration: 0.46, ease: 'expo.out' }, 0.28);
+
+      // 0.85 - 1.38s: Cursor sweeps in and clicks yellow compass badge (at x=740, y=540)
+      tl.fromTo(
+        '#s2-cursor',
+        { x: 1380, y: 860, opacity: 0, scale: 1 },
+        { x: 748, y: 542, opacity: 1, scale: 1, duration: 0.46, ease: 'power3.out' },
+        0.85
+      );
+      tl.fromTo('#s2-cursor', { scale: 1 }, { scale: 0.84, duration: 0.08, ease: 'power2.in', immediateRender: false }, 1.32);
+      tl.fromTo('#s2-badge', { scale: 1 }, { scale: 0.88, duration: 0.08, ease: 'power2.in', immediateRender: false }, 1.32);
+      tl.fromTo('#s2-cursor', { scale: 0.84 }, { scale: 1, duration: 0.14, ease: 'back.out(2)', immediateRender: false }, 1.40);
+
+      // 1.36 - 1.88s: Object Morph! Lockup completes exit before Search Panel fades in cleanly
+      tl.fromTo(
+        '#s2-lockup-group',
+        { opacity: 1, scaleX: 1, filter: 'blur(0px)' },
+        { opacity: 0, scaleX: 1.9, filter: 'blur(12px)', duration: 0.14, ease: 'power3.in' },
+        1.34
+      );
+      tl.fromTo(
+        '#s2-search-shell',
+        { opacity: 0, scaleX: 0.18, scaleY: 0.65, filter: 'blur(10px)' },
+        { opacity: 1, scaleX: 1, scaleY: 1, filter: 'blur(0px)', duration: 0.40, ease: 'expo.out' },
+        1.48
+      );
+      tl.fromTo(
+        '#s2-kicker',
+        { opacity: 0, y: 22, filter: 'blur(6px)' },
+        { opacity: 1, y: 0, filter: 'blur(0px)', duration: 0.36, ease: 'power4.out' },
+        1.56
+      );
+
+      // 1.62 - 1.92s: Kyoto & 5 days pop crisp inside search bar
+      tl.fromTo('#s2-val-city', { opacity: 0.72, y: 12 }, { opacity: 1, y: 0, duration: 0.24, ease: 'power4.out' }, 1.62);
+      tl.fromTo('#s2-val-days', { opacity: 0.72, scale: 0.92 }, { opacity: 1, scale: 1, duration: 0.24, ease: 'back.out(1.6)' }, 1.68);
+
+      // 2.45 - 3.05s: Cursor glides to "Find my adventure ->" button (x=1540, y=545) and clicks
+      tl.fromTo('#s2-cursor', { x: 748, y: 542 }, { x: 1525, y: 552, duration: 0.48, ease: 'power2.inOut', immediateRender: false }, 2.48);
+      tl.fromTo('#s2-cursor', { scale: 1 }, { scale: 0.82, duration: 0.08, ease: 'power2.in', immediateRender: false }, 3.02);
+      tl.fromTo('#s2-cta-btn', { scale: 1 }, { scale: 0.94, duration: 0.08, ease: 'power2.in' }, 3.02);
+      tl.fromTo('#s2-cursor', { scale: 0.82 }, { scale: 1, duration: 0.14, ease: 'back.out(1.8)', immediateRender: false }, 3.10);
+      tl.fromTo('#s2-cta-btn', { scale: 0.94 }, { scale: 1.03, duration: 0.16, ease: 'power3.out', immediateRender: false }, 3.10);
+
+      // 3.22 - 3.70s: Zoom through CTA button into Scene 3 Discover workspace
+      tl.fromTo('#s2-stage', { scale: 1, x: 0, y: 0 }, { scale: 2.35, x: -720, y: -60, duration: 0.48, ease: 'power3.in' }, 3.22);
+      tl.fromTo('#s2-zoom-veil', { opacity: 0 }, { opacity: 1, duration: 0.22, ease: 'power2.in' }, 3.48);
+
+      window.__timelines = window.__timelines || {};
+      window.__timelines['s2-brand-morph'] = tl;
+    })();
+  </script>
+</template>

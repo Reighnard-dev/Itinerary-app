@@ -1,0 +1,289 @@
+<template>
+  <style>
+    @font-face {
+      font-family: 'Manrope';
+      font-style: normal;
+      font-weight: 200 800;
+      src: url('assets/fonts/manrope-variable.ttf') format('truetype');
+    }
+    @font-face {
+      font-family: 'DM Sans';
+      font-style: normal;
+      font-weight: 100 1000;
+      src: url('assets/fonts/dmsans-variable.ttf') format('truetype');
+    }
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      font-family: var(--font-body, 'DM Sans'), sans-serif;
+      color: #FAF5EA;
+    }
+    .s5-bg {
+      position: absolute;
+      inset: 0;
+      background: var(--color-dark, #1A1D18);
+    }
+    .s5-topo {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+    }
+    .s5-header-bar {
+      position: absolute;
+      left: 110px;
+      top: 52px;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+    .s5-eyebrow-line {
+      width: 44px;
+      height: 4px;
+      background: var(--color-accent, #F5CF43);
+      border-radius: 4px;
+    }
+    .s5-kicker {
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 800;
+      font-size: 36px;
+      letter-spacing: -0.02em;
+      color: #FAF5EA;
+    }
+    .s5-kicker span {
+      color: var(--color-accent, #F5CF43);
+    }
+
+    /* Real Planner 2x Window */
+    .s5-planner-win {
+      position: absolute;
+      left: 110px;
+      top: 126px;
+      width: 1240px;
+      height: 810px;
+      border-radius: 22px;
+      overflow: hidden;
+      background: #FAF5EA;
+      border: 2px solid rgba(250, 245, 234, 0.16);
+      box-shadow: 0 32px 84px rgba(0, 0, 0, 0.55);
+    }
+    .s5-planner-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: top left;
+      display: block;
+    }
+
+    /* Interactive Route & Transit Elevated Card (Right Foreground) */
+    .s5-map-card {
+      position: absolute;
+      left: 1060px;
+      top: 170px;
+      width: 750px;
+      background: #FFFFFF;
+      color: #262923;
+      border-radius: 24px;
+      overflow: hidden;
+      border: 2px solid #E5E5D8;
+      box-shadow: 0 36px 90px rgba(0, 0, 0, 0.52);
+      z-index: 6;
+    }
+    .s5-map-view {
+      position: relative;
+      width: 100%;
+      height: 410px;
+      overflow: hidden;
+      background: #EDF0E4;
+    }
+    .s5-map-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: 36% 78%;
+      display: block;
+    }
+    .s5-route-svg {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+    }
+    .s5-map-body {
+      padding: 24px 28px 28px;
+      background: #FFFFFF;
+    }
+    .s5-map-title {
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 800;
+      font-size: 34px;
+      letter-spacing: -0.02em;
+      color: #262923;
+      margin-bottom: 18px;
+    }
+    .s5-transit-row {
+      display: flex;
+      gap: 12px;
+    }
+    .s5-transit-pill {
+      flex: 1;
+      text-align: center;
+      padding: 14px 12px;
+      border-radius: 12px;
+      border: 2px solid #E2E6D5;
+      font-size: 28px;
+      font-weight: 700;
+      color: #5C6250;
+      background: #FAFBF5;
+      white-space: nowrap;
+    }
+    .s5-transit-pill.active {
+      background: var(--color-accent, #F5CF43);
+      border-color: #DFBE34;
+      color: #262923;
+    }
+
+    /* Authentic Roam Dark Toast */
+    .s5-toast {
+      position: absolute;
+      left: 110px;
+      top: 966px;
+      background: #292D24;
+      color: #FFFDF3;
+      border: 2px solid #5E624B;
+      border-radius: 16px;
+      padding: 16px 30px;
+      font-size: 29px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.45);
+      z-index: 8;
+    }
+    .s5-toast-check {
+      color: var(--color-accent, #F5CF43);
+      font-weight: 800;
+    }
+
+    /* Iris Transition from Map Pin into Scene 6 Scenic Vista (exact #s6-bg-wrap geometry) */
+    .s5-iris-next {
+      position: absolute;
+      inset: -40px;
+      z-index: 20;
+      pointer-events: none;
+      overflow: hidden;
+    }
+    .s5-iris-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+  </style>
+
+  <div id="root" data-composition-id="s5-planner-map" data-width="1920" data-height="1080">
+    <div class="s5-bg"></div>
+
+    <svg class="s5-topo" viewBox="0 0 1920 1080" data-layout-ignore="true" aria-hidden="true">
+      <g stroke="#F5CF43" stroke-width="1.3" fill="none" opacity="0.09">
+        <path d="M -40,160 C 200,190 360,290 270,450 C 180,610 380,760 220,980" />
+        <path d="M 1520,-50 C 1660,-100 1890,-30 1970,130 C 2040,280 1940,510 1760,600 C 1580,680 1420,560 1390,370" />
+        <path d="M 1180,920 C 1380,820 1580,940 1760,840 C 1870,780 1940,810 1990,770" stroke-dasharray="6 9" />
+      </g>
+    </svg>
+
+    <div id="s5-header-bar" class="s5-header-bar">
+      <span class="s5-eyebrow-line"></span>
+      <div class="s5-kicker">Day-by-day <span>itinerary</span> · Live route &amp; transit</div>
+    </div>
+
+    <div id="s5-planner-win" class="s5-planner-win" data-beat="planner-ui">
+      <img class="s5-planner-img" src="assets/images/screen-planner.jpg" alt="Roam Day-by-Day Planner" />
+    </div>
+
+    <div id="s5-map-card" class="s5-map-card" data-beat="map-transit">
+      <div class="s5-map-view">
+        <img class="s5-map-img" src="assets/images/screen-map.jpg" alt="Roam Interactive Map Kyoto" />
+        <svg class="s5-route-svg" viewBox="0 0 750 410" fill="none">
+          <path id="s5-route-line" d="M 165 260 C 285 170, 390 195, 555 155" stroke="#262923" stroke-width="6" stroke-linecap="round" stroke-dasharray="14 10" />
+          <path id="s5-route-glow" d="M 165 260 C 285 170, 390 195, 555 155" stroke="#F5CF43" stroke-width="4" stroke-linecap="round" stroke-dasharray="520" stroke-dashoffset="520" />
+          <g id="s5-pin-1">
+            <circle cx="165" cy="260" r="18" fill="#262923" stroke="#F5CF43" stroke-width="5" />
+          </g>
+          <g id="s5-pin-2">
+            <circle cx="365" cy="195" r="18" fill="#262923" stroke="#F5CF43" stroke-width="5" />
+          </g>
+          <g id="s5-pin-3">
+            <circle cx="555" cy="155" r="22" fill="#F5CF43" stroke="#262923" stroke-width="5" />
+          </g>
+        </svg>
+      </div>
+      <div class="s5-map-body">
+        <div class="s5-map-title">Kyoto · Day 1 Route</div>
+        <div class="s5-transit-row">
+          <div class="s5-transit-pill active">Transit</div>
+          <div class="s5-transit-pill">Drive</div>
+          <div class="s5-transit-pill">Walk</div>
+        </div>
+      </div>
+    </div>
+
+    <div id="s5-toast" class="s5-toast" data-beat="share-toast">
+      <span class="s5-toast-check">✓</span>
+      <span>Share link copied!</span>
+    </div>
+
+    <div id="s5-iris-next" class="s5-iris-next" data-layout-ignore="true">
+      <img class="s5-iris-img" src="assets/images/places/atmo-mountain.jpg" alt="" />
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+
+      // Init iris hidden cleanly matching #s6-bg-wrap exact start transform
+      gsap.set('#s5-iris-next', { clipPath: 'circle(0% at 81% 31%)', scale: 1.08, x: -16 });
+
+      // 0.00 - 0.50s: Hard Charcoal contrast cut + real Planner screen glides up cleanly (no blank start!)
+      tl.fromTo('#s5-header-bar', { opacity: 0.6, y: -16 }, { opacity: 1, y: 0, duration: 0.32, ease: 'power4.out' }, 0.00);
+      tl.fromTo(
+        '#s5-planner-win',
+        { opacity: 0.65, y: 90, scale: 0.96 },
+        { opacity: 1, y: 0, scale: 1, duration: 0.42, ease: 'expo.out' },
+        0.00
+      );
+
+      // 0.65 - 1.55s: Planner shifts gently left while Map + Route Card sweeps forward
+      tl.fromTo('#s5-planner-win', { x: 0, scale: 1 }, { x: -30, scale: 0.95, duration: 0.50, ease: 'power2.inOut', immediateRender: false }, 0.65);
+      tl.fromTo(
+        '#s5-map-card',
+        { opacity: 0, x: 180, scale: 0.92 },
+        { opacity: 1, x: 0, scale: 1, duration: 0.48, ease: 'expo.out' },
+        0.65
+      );
+      tl.fromTo('#s5-route-glow', { strokeDashoffset: 520 }, { strokeDashoffset: 0, duration: 0.65, ease: 'power2.out' }, 0.95);
+      tl.fromTo('#s5-pin-1', { scale: 0, transformOrigin: '165px 260px' }, { scale: 1, duration: 0.28, ease: 'back.out(1.6)' }, 0.92);
+      tl.fromTo('#s5-pin-2', { scale: 0, transformOrigin: '365px 195px' }, { scale: 1, duration: 0.28, ease: 'back.out(1.6)' }, 1.12);
+      tl.fromTo('#s5-pin-3', { scale: 0, transformOrigin: '555px 155px' }, { scale: 1, duration: 0.32, ease: 'back.out(1.7)' }, 1.32);
+
+      // 1.35 - 2.60s: Roam Dark Share Toast pops cleanly (holds > 1.25s!)
+      tl.fromTo('#s5-toast', { opacity: 0, y: 40, scale: 0.92 }, { opacity: 1, y: 0, scale: 1, duration: 0.32, ease: 'back.out(1.5)' }, 1.35);
+
+      // 2.58 - 3.00s: Iris opens cleanly across the seam right into Scene 6 scenic vista
+      tl.fromTo(
+        '#s5-iris-next',
+        { clipPath: 'circle(0% at 81% 31%)' },
+        { clipPath: 'circle(150% at 81% 31%)', duration: 0.42, ease: 'power3.inOut' },
+        2.58
+      );
+
+      window.__timelines = window.__timelines || {};
+      window.__timelines['s5-planner-map'] = tl;
+    })();
+  </script>
+</template>

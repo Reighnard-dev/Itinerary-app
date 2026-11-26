@@ -1,0 +1,183 @@
+<template>
+  <style>
+    @font-face {
+      font-family: 'Manrope';
+      font-style: normal;
+      font-weight: 200 800;
+      src: url('assets/fonts/manrope-variable.ttf') format('truetype');
+    }
+    @font-face {
+      font-family: 'DM Sans';
+      font-style: normal;
+      font-weight: 100 1000;
+      src: url('assets/fonts/dmsans-variable.ttf') format('truetype');
+    }
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      font-family: var(--font-body, 'DM Sans'), sans-serif;
+      color: var(--color-ink, #262923);
+    }
+    .s8-bg {
+      position: absolute;
+      inset: 0;
+      background: var(--color-accent, #F5CF43);
+    }
+    .s8-topo {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+    }
+    .s8-lockup-wrap {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 1920px;
+      height: 1080px;
+    }
+    .s8-icon-frame {
+      position: absolute;
+      left: 882px;
+      top: 392px;
+      width: 156px;
+      height: 156px;
+      border-radius: 38px;
+      background: #FFFFFF;
+      padding: 12px;
+      box-shadow: 0 26px 56px rgba(38, 41, 35, 0.24);
+      z-index: 4;
+    }
+    .s8-icon-frame img {
+      width: 100%;
+      height: 100%;
+      display: block;
+      border-radius: 28px;
+    }
+    .s8-wordmark-mask {
+      position: absolute;
+      left: 805px;
+      top: 382px;
+      width: 520px;
+      height: 176px;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      z-index: 3;
+    }
+    .s8-wordmark {
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 800;
+      font-size: 154px;
+      letter-spacing: -0.055em;
+      line-height: 1;
+      color: #262923;
+      white-space: nowrap;
+    }
+    .s8-dot {
+      color: #262923;
+    }
+    .s8-tagline {
+      position: absolute;
+      left: 360px;
+      top: 616px;
+      width: 1200px;
+      text-align: center;
+      font-family: var(--font-body, 'DM Sans'), sans-serif;
+      font-weight: 700;
+      font-size: 46px;
+      letter-spacing: -0.02em;
+      color: #262923;
+    }
+    .s8-stamp {
+      position: absolute;
+      right: 120px;
+      top: 100px;
+      width: 168px;
+      height: 168px;
+      border-radius: 50%;
+      border: 2.5px solid rgba(38, 41, 35, 0.35);
+      outline: 2px dashed rgba(38, 41, 35, 0.25);
+      outline-offset: 8px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      color: rgba(38, 41, 35, 0.72);
+      text-align: center;
+    }
+    .s8-stamp span {
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 800;
+      font-size: 18px;
+      letter-spacing: 0.14em;
+      line-height: 1.3;
+    }
+  </style>
+
+  <div id="root" data-composition-id="s8-endcard" data-width="1920" data-height="1080">
+    <div class="s8-bg"></div>
+
+    <svg class="s8-topo" viewBox="0 0 1920 1080" data-layout-ignore="true" aria-hidden="true">
+      <g stroke="#262923" stroke-width="1.4" fill="none" opacity="0.10">
+        <path d="M -50,150 C 160,180 310,270 230,430 C 150,580 320,730 190,940" />
+        <path d="M -50,220 C 190,250 355,345 275,505 C 195,655 365,805 235,1015" />
+        <path d="M 1590,-60 C 1710,-110 1910,-50 1980,90 C 2040,230 1950,420 1800,500 C 1640,570 1480,480 1440,320" />
+        <path d="M 1290,900 C 1450,820 1630,900 1770,840 C 1880,790 1940,820 1990,780" stroke-dasharray="6 9" />
+      </g>
+    </svg>
+
+    <div id="s8-lockup-wrap" class="s8-lockup-wrap" data-beat="endcard-lockup" data-hold="true">
+      <div id="s8-wordmark-mask" class="s8-wordmark-mask">
+        <div id="s8-wordmark" class="s8-wordmark">roam<span class="s8-dot">.</span></div>
+      </div>
+
+      <div id="s8-icon-frame" class="s8-icon-frame">
+        <img src="assets/images/roam-icon.svg" alt="Roam icon" />
+      </div>
+
+      <div id="s8-tagline" class="s8-tagline">A little less ordinary.</div>
+
+      <div id="s8-stamp" class="s8-stamp" data-layout-ignore="true">
+        <svg width="38" height="38" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>
+        <span>TAKE THE<br/>SCENIC ROUTE</span>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+
+      // 0.00 - 0.36s: Icon pops center -> glides cleanly left BEFORE wordmark fades in (zero overlap!)
+      tl.fromTo(
+        '#s8-icon-frame',
+        { opacity: 0, scale: 0.45 },
+        { opacity: 1, scale: 1, duration: 0.16, ease: 'back.out(1.4)' },
+        0.00
+      );
+      tl.fromTo('#s8-icon-frame', { x: 0 }, { x: -255, duration: 0.24, ease: 'expo.out', immediateRender: false }, 0.12);
+      tl.fromTo('#s8-wordmark', { x: -80, opacity: 0 }, { x: 0, opacity: 1, duration: 0.24, ease: 'expo.out' }, 0.22);
+
+      // 0.24 - 0.42s: Tagline & stamp land cleanly and hold solid through 2.35s (> 2.0s!)
+      tl.fromTo(
+        '#s8-tagline',
+        { opacity: 0, y: 18, filter: 'blur(8px)' },
+        { opacity: 1, y: 0, filter: 'blur(0px)', duration: 0.22, ease: 'power4.out' },
+        0.24
+      );
+      tl.fromTo(
+        '#s8-stamp',
+        { opacity: 0, scale: 1.25, rotation: 24 },
+        { opacity: 1, scale: 1, rotation: 13, duration: 0.32, ease: 'power3.out' },
+        0.26
+      );
+
+      window.__timelines = window.__timelines || {};
+      window.__timelines['s8-endcard'] = tl;
+    })();
+  </script>
+</template>

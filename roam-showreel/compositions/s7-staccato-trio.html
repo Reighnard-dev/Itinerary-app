@@ -1,0 +1,115 @@
+<template>
+  <style>
+    @font-face {
+      font-family: 'Manrope';
+      font-style: normal;
+      font-weight: 200 800;
+      src: url('assets/fonts/manrope-variable.ttf') format('truetype');
+    }
+    @font-face {
+      font-family: 'DM Sans';
+      font-style: normal;
+      font-weight: 100 1000;
+      src: url('assets/fonts/dmsans-variable.ttf') format('truetype');
+    }
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+    }
+    .s7-panel {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    #s7-b1 { background: var(--color-ground, #FAF5EA); color: var(--color-ink, #262923); }
+    #s7-b2 { background: var(--color-dark, #1A1D18); color: #FAF5EA; opacity: 0; }
+    #s7-b3 { background: #FFFFFF; color: var(--color-ink, #262923); opacity: 0; }
+    .s7-word {
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 800;
+      font-size: 156px;
+      letter-spacing: -0.045em;
+      line-height: 1;
+      white-space: nowrap;
+    }
+    .s7-period {
+      color: #B88B0A;
+    }
+    #s7-b2 .s7-period {
+      color: var(--color-accent, #F5CF43);
+    }
+    .s7-flood-disc {
+      position: absolute;
+      left: 1190px;
+      top: 564px;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: var(--color-accent, #F5CF43);
+      pointer-events: none;
+      z-index: 10;
+    }
+  </style>
+
+  <div id="root" data-composition-id="s7-staccato-trio" data-width="1920" data-height="1080">
+    <div id="s7-b1" class="s7-panel" data-beat="staccato-1">
+      <div id="s7-w1" class="s7-word">Discover it<span class="s7-period">.</span></div>
+    </div>
+
+    <div id="s7-b2" class="s7-panel" data-beat="staccato-2">
+      <div id="s7-w2" class="s7-word">Plan it<span class="s7-period">.</span></div>
+    </div>
+
+    <div id="s7-b3" class="s7-panel" data-beat="staccato-3">
+      <div id="s7-w3" class="s7-word">Roam it<span style="color:#F5CF43;">.</span></div>
+      <div id="s7-flood-disc" class="s7-flood-disc" data-layout-ignore="true"></div>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+
+      gsap.set('#s7-flood-disc', { opacity: 0, scale: 1 });
+
+      // Beat 1: 0.00 - 0.94s ("Discover it.") -> hard cut hides b1 at 0.94s
+      tl.fromTo(
+        '#s7-w1',
+        { opacity: 0.15, scale: 1.08, filter: 'blur(10px)' },
+        { opacity: 1, scale: 1, filter: 'blur(0px)', duration: 0.22, ease: 'expo.out' },
+        0.00
+      );
+      tl.fromTo('#s7-b1', { opacity: 1 }, { opacity: 0, duration: 0.01, ease: 'none', immediateRender: false }, 0.93);
+
+      // Beat 2: 0.94 - 1.79s ("Plan it.") -> hard cut to Deep Charcoal, hides b2 at 1.79s
+      tl.fromTo('#s7-b2', { opacity: 0 }, { opacity: 1, duration: 0.01, ease: 'none' }, 0.94);
+      tl.fromTo(
+        '#s7-w2',
+        { opacity: 0.2, y: 24, filter: 'blur(8px)' },
+        { opacity: 1, y: 0, filter: 'blur(0px)', duration: 0.22, ease: 'expo.out' },
+        0.95
+      );
+      tl.fromTo('#s7-b2', { opacity: 1 }, { opacity: 0, duration: 0.01, ease: 'none', immediateRender: false }, 1.78);
+
+      // Beat 3: 1.79 - 2.45s ("Roam it.") -> hard cut to Pure Editorial White
+      tl.fromTo('#s7-b3', { opacity: 0 }, { opacity: 1, duration: 0.01, ease: 'none' }, 1.79);
+      tl.fromTo(
+        '#s7-w3',
+        { opacity: 0.2, scale: 0.92, filter: 'blur(8px)' },
+        { opacity: 1, scale: 1, filter: 'blur(0px)', duration: 0.22, ease: 'back.out(1.4)' },
+        1.80
+      );
+
+      // 2.16 - 2.45s: Yellow period floods full 1920x1080 frame into Scene 8 End Card
+      tl.fromTo('#s7-flood-disc', { opacity: 0 }, { opacity: 1, duration: 0.02, ease: 'none' }, 2.15);
+      tl.fromTo('#s7-flood-disc', { scale: 1 }, { scale: 135, duration: 0.27, ease: 'power3.in' }, 2.18);
+
+      window.__timelines = window.__timelines || {};
+      window.__timelines['s7-staccato-trio'] = tl;
+    })();
+  </script>
+</template>

@@ -1,0 +1,347 @@
+<template>
+  <style>
+    @font-face {
+      font-family: 'Manrope';
+      font-style: normal;
+      font-weight: 200 800;
+      src: url('assets/fonts/manrope-variable.ttf') format('truetype');
+    }
+    @font-face {
+      font-family: 'DM Sans';
+      font-style: normal;
+      font-weight: 100 1000;
+      src: url('assets/fonts/dmsans-variable.ttf') format('truetype');
+    }
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      font-family: var(--font-body, 'DM Sans'), sans-serif;
+      color: var(--color-ink, #262923);
+    }
+    .s3-bg {
+      position: absolute;
+      inset: 0;
+      background: var(--color-ground, #FAF5EA);
+    }
+    .s3-screen-wrap {
+      position: absolute;
+      left: 110px;
+      top: 56px;
+      width: 1700px;
+      height: 968px;
+      border-radius: 22px;
+      overflow: hidden;
+      background: #FFFFFF;
+      border: 2px solid #E4E4D8;
+      box-shadow: 0 32px 84px rgba(26, 29, 24, 0.18);
+    }
+    .s3-screen-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: top center;
+      display: block;
+    }
+    .s3-dim-scrim {
+      position: absolute;
+      inset: 0;
+      background: rgba(250, 245, 234, 0.62);
+    }
+
+    /* Depth-of-Field Place Cards Stage (Ref 3 style, 1:1 Roam design) */
+    .s3-cards-layer {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+    .s3-card {
+      position: absolute;
+      width: 495px;
+      background: #FFFFFF;
+      border: 2px solid #E5E6DC;
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 34px 75px rgba(26, 29, 24, 0.24);
+    }
+    #s3-card-left { left: 165px; top: 205px; }
+    #s3-card-right { left: 1260px; top: 205px; }
+    #s3-card-center { left: 692px; top: 155px; width: 536px; z-index: 5; }
+
+    .s3-card-img-box {
+      position: relative;
+      width: 100%;
+      height: 295px;
+      overflow: hidden;
+      background: #EFECE0;
+    }
+    #s3-card-center .s3-card-img-box {
+      height: 325px;
+    }
+    .s3-card-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .s3-badge {
+      position: absolute;
+      top: 18px;
+      left: 18px;
+      background: rgba(255, 253, 244, 0.96);
+      color: #46473E;
+      border-radius: 9px;
+      padding: 8px 14px;
+      font-size: 32px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 7px;
+    }
+    .s3-badge.hidden-gem {
+      background: #F8E8A9;
+      color: #5C4B16;
+    }
+    .s3-card-body {
+      padding: 24px 26px 26px;
+    }
+    .s3-cat-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 32px;
+      font-weight: 600;
+      color: #595B50;
+    }
+    .s3-rating {
+      color: #262923;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .s3-card-title {
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 800;
+      font-size: 36px;
+      line-height: 1.18;
+      letter-spacing: -0.025em;
+      color: #262923;
+      margin: 12px 0 18px;
+    }
+    .s3-card-foot {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-top: 2px solid #EFEFE8;
+      padding-top: 18px;
+    }
+    .s3-dur {
+      font-size: 32px;
+      color: #5B5E52;
+      font-weight: 600;
+    }
+    .s3-add-btn {
+      position: relative;
+      height: 60px;
+      min-width: 225px;
+      border-radius: 12px;
+      background: #FAF4DE;
+      color: #5E4C14;
+      font-size: 31px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+    .s3-add-btn-added {
+      position: absolute;
+      inset: 0;
+      background: #F5CF43;
+      color: #262923;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+
+    .s3-trip-pill {
+      position: absolute;
+      left: 775px;
+      top: 882px;
+      background: #262923;
+      color: #FAF5EA;
+      border-radius: 99px;
+      padding: 16px 34px;
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 700;
+      font-size: 30px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 18px 40px rgba(26, 29, 24, 0.30);
+      z-index: 8;
+    }
+    .s3-pill-dot {
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: var(--color-accent, #F5CF43);
+    }
+    .s3-cursor {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 68px;
+      height: 68px;
+      z-index: 12;
+      filter: drop-shadow(0 10px 18px rgba(26, 29, 24, 0.30));
+    }
+  </style>
+
+  <div id="root" data-composition-id="s3-discover-showcase" data-width="1920" data-height="1080">
+    <div class="s3-bg"></div>
+
+    <!-- Real Roam 2x Discover Screen -->
+    <div id="s3-screen-wrap" class="s3-screen-wrap" data-beat="discover-screen">
+      <img class="s3-screen-img" src="assets/images/screen-discover-cards.jpg" alt="Roam Discover Kyoto interface" />
+      <div id="s3-dim-scrim" class="s3-dim-scrim"></div>
+    </div>
+
+    <!-- Ref-3 Depth-of-Field Popping Real Roam Place Cards -->
+    <div id="s3-cards-layer" class="s3-cards-layer" data-beat="place-cards-pop">
+      <!-- Left flanking card -->
+      <div id="s3-card-left" class="s3-card">
+        <div class="s3-card-img-box">
+          <img class="s3-card-img" src="assets/images/places/kyoto-2.jpg" alt="Arashiyama Bamboo Grove" />
+          <div class="s3-badge">★ Iconic spot</div>
+        </div>
+        <div class="s3-card-body">
+          <div class="s3-cat-row">
+            <span>Nature</span>
+            <span class="s3-rating">★ 4.8</span>
+          </div>
+          <div class="s3-card-title">Arashiyama Bamboo</div>
+          <div class="s3-card-foot">
+            <span class="s3-dur">1–2 hours</span>
+            <div class="s3-add-btn">✓ Added</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right flanking card -->
+      <div id="s3-card-right" class="s3-card">
+        <div class="s3-card-img-box">
+          <img class="s3-card-img" src="assets/images/places/kyoto-3.jpg" alt="Otagi Nenbutsu-ji" />
+          <div class="s3-badge hidden-gem">✦ Hidden gem</div>
+        </div>
+        <div class="s3-card-body">
+          <div class="s3-cat-row">
+            <span>Culture</span>
+            <span class="s3-rating">★ 4.9</span>
+          </div>
+          <div class="s3-card-title">Otagi Nenbutsu-ji</div>
+          <div class="s3-card-foot">
+            <span class="s3-dur">1–2 hours</span>
+            <div class="s3-add-btn">+ Add to trip</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Center foreground hero card -->
+      <div id="s3-card-center" class="s3-card">
+        <div class="s3-card-img-box">
+          <img class="s3-card-img" src="assets/images/places/kyoto-1.jpg" alt="Fushimi Inari Shrine" />
+          <div class="s3-badge">★ Iconic spot</div>
+        </div>
+        <div class="s3-card-body">
+          <div class="s3-cat-row">
+            <span>Culture · Kyoto</span>
+            <span class="s3-rating">★ 4.9</span>
+          </div>
+          <div class="s3-card-title">Fushimi Inari Shrine</div>
+          <div class="s3-card-foot">
+            <span class="s3-dur">2–3 hours</span>
+            <div id="s3-center-add" class="s3-add-btn">
+              <span id="s3-center-add-label">+ Add to trip</span>
+              <div id="s3-center-added" class="s3-add-btn-added">✓ Added</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="s3-trip-pill" class="s3-trip-pill">
+        <span class="s3-pill-dot"></span>
+        <span>Day 1 · 3 stops</span>
+      </div>
+
+      <svg id="s3-cursor" class="s3-cursor" viewBox="0 0 48 48" fill="none" data-layout-ignore="true">
+        <path d="M9 5L39 22L24 26L18 41L9 5Z" fill="#262923" stroke="#FFFFFF" stroke-width="3.2" stroke-linejoin="round"/>
+      </svg>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+
+      // Init hidden added state before click
+      gsap.set('#s3-center-added', { opacity: 0, scale: 0.8 });
+
+      // 0.00 - 0.65s: Real Roam Discover screen enters on zoom rebound
+      tl.fromTo(
+        '#s3-screen-wrap',
+        { opacity: 0.25, scale: 1.12, filter: 'blur(6px)' },
+        { opacity: 1, scale: 1, filter: 'blur(0px)', duration: 0.45, ease: 'expo.out' },
+        0.00
+      );
+
+      // 0.56 - 1.15s: Screen recedes into background depth while 3 real Kyoto cards pop forward
+      tl.fromTo('#s3-screen-wrap', { scale: 1, filter: 'blur(0px)' }, { scale: 0.94, filter: 'blur(5px)', duration: 0.46, ease: 'power2.inOut', immediateRender: false }, 0.56);
+      tl.fromTo('#s3-dim-scrim', { opacity: 0 }, { opacity: 1, duration: 0.40, ease: 'power2.out' }, 0.56);
+
+      tl.fromTo(
+        '#s3-card-center',
+        { opacity: 0, y: 180, scale: 0.72 },
+        { opacity: 1, y: 0, scale: 1.03, duration: 0.44, ease: 'back.out(1.4)' },
+        0.60
+      );
+      tl.fromTo(
+        '#s3-card-left',
+        { opacity: 0, y: 200, x: 120, scale: 0.7, rotation: 0, filter: 'blur(0px)' },
+        { opacity: 0.95, y: 0, x: 0, scale: 0.92, rotation: -3.2, filter: 'blur(1.5px)', duration: 0.46, ease: 'back.out(1.3)' },
+        0.68
+      );
+      tl.fromTo(
+        '#s3-card-right',
+        { opacity: 0, y: 200, x: -120, scale: 0.7, rotation: 0, filter: 'blur(0px)' },
+        { opacity: 0.95, y: 0, x: 0, scale: 0.92, rotation: 3.2, filter: 'blur(1.5px)', duration: 0.46, ease: 'back.out(1.3)' },
+        0.72
+      );
+
+      // 1.18 - 1.72s: Cursor swoops to Fushimi Inari "+ Add to trip" (x=1095, y=678) and clicks at 1.64s
+      tl.fromTo('#s3-cursor', { x: 1480, y: 920, opacity: 0 }, { x: 1095, y: 678, opacity: 1, duration: 0.42, ease: 'power3.out' }, 1.18);
+      tl.fromTo('#s3-cursor', { scale: 1 }, { scale: 0.82, duration: 0.08, ease: 'power2.in', immediateRender: false }, 1.64);
+      tl.fromTo('#s3-center-add', { scale: 1 }, { scale: 0.92, duration: 0.08, ease: 'power2.in' }, 1.64);
+
+      // Click rebound -> fade out "+ Add to trip" & pop "✓ Added" + bottom Day 1 counter badge (holds 1.72s -> 3.00s = 1.28s!)
+      tl.fromTo('#s3-cursor', { scale: 0.82 }, { scale: 1, duration: 0.14, ease: 'back.out(1.8)', immediateRender: false }, 1.72);
+      tl.fromTo('#s3-center-add', { scale: 0.92 }, { scale: 1, duration: 0.16, ease: 'back.out(1.6)', immediateRender: false }, 1.72);
+      tl.fromTo('#s3-center-add-label', { opacity: 1 }, { opacity: 0, duration: 0.04, ease: 'none' }, 1.68);
+      tl.fromTo('#s3-center-added', { opacity: 0, scale: 0.8 }, { opacity: 1, scale: 1, duration: 0.16, ease: 'back.out(1.6)', immediateRender: false }, 1.72);
+      tl.fromTo('#s3-trip-pill', { opacity: 0, y: 36, scale: 0.82 }, { opacity: 1, y: 0, scale: 1, duration: 0.24, ease: 'back.out(1.5)' }, 1.70);
+
+      // 2.90 - 3.10s: Cards whip cleanly outward into Scene 4 mosaic
+      tl.fromTo('#s3-card-left', { x: 0, opacity: 0.95, filter: 'blur(1.5px)' }, { x: -420, opacity: 0, filter: 'blur(10px)', duration: 0.20, ease: 'power3.in', immediateRender: false }, 2.90);
+      tl.fromTo('#s3-card-right', { x: 0, opacity: 0.95, filter: 'blur(1.5px)' }, { x: 420, opacity: 0, filter: 'blur(10px)', duration: 0.20, ease: 'power3.in', immediateRender: false }, 2.90);
+      tl.fromTo('#s3-card-center', { scale: 1.03, opacity: 1 }, { scale: 0.84, opacity: 0, filter: 'blur(8px)', duration: 0.20, ease: 'power3.in', immediateRender: false }, 2.90);
+      tl.fromTo('#s3-trip-pill', { opacity: 1, y: 0 }, { opacity: 0, y: 40, duration: 0.18, ease: 'power3.in', immediateRender: false }, 2.92);
+      tl.fromTo('#s3-cursor', { opacity: 1 }, { opacity: 0, duration: 0.16, ease: 'power2.in', immediateRender: false }, 2.90);
+      tl.fromTo('#s3-screen-wrap', { opacity: 1 }, { opacity: 0, duration: 0.20, ease: 'power2.in', immediateRender: false }, 2.90);
+
+      window.__timelines = window.__timelines || {};
+      window.__timelines['s3-discover-showcase'] = tl;
+    })();
+  </script>
+</template>

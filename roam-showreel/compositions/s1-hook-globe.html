@@ -1,0 +1,407 @@
+<template>
+  <style>
+    @font-face {
+      font-family: 'Manrope';
+      font-style: normal;
+      font-weight: 200 800;
+      src: url('assets/fonts/manrope-variable.ttf') format('truetype');
+    }
+    @font-face {
+      font-family: 'DM Sans';
+      font-style: normal;
+      font-weight: 100 1000;
+      src: url('assets/fonts/dmsans-variable.ttf') format('truetype');
+    }
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      color: var(--color-ink, #262923);
+    }
+    .s1-bg {
+      position: absolute;
+      inset: 0;
+      background: var(--color-ground, #FAF5EA);
+    }
+    .s1-topo {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+    }
+    .s1-stage {
+      position: absolute;
+      inset: 0;
+    }
+    .s1-hook-wrap {
+      position: absolute;
+      left: 192px;
+      top: 390px;
+      width: 1536px;
+    }
+    .s1-display {
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 800;
+      font-size: 118px;
+      line-height: 1.02;
+      letter-spacing: -0.045em;
+      color: var(--color-ink, #262923);
+    }
+    .s1-accent-word {
+      display: inline-block;
+      color: var(--color-ink, #262923);
+      position: relative;
+    }
+    .s1-swoop-bar {
+      position: absolute;
+      left: 0;
+      bottom: -14px;
+      width: 635px;
+      height: 16px;
+      background: var(--color-accent, #F5CF43);
+      border-radius: 99px;
+      transform-origin: left center;
+    }
+    .s1-chaos-wrap {
+      position: absolute;
+      left: 192px;
+      top: 410px;
+      width: 1536px;
+      text-align: center;
+    }
+    .s1-chaos-title {
+      font-family: var(--font-display, 'Manrope'), sans-serif;
+      font-weight: 800;
+      font-size: 98px;
+      line-height: 1.08;
+      letter-spacing: -0.04em;
+      color: var(--color-ink, #262923);
+    }
+    .s1-chaos-highlight {
+      display: inline-block;
+      padding: 4px 22px 8px;
+      background: var(--color-accent, #F5CF43);
+      border-radius: 16px;
+    }
+    .s1-chip {
+      position: absolute;
+      background: #FFFFFF;
+      border: 2px solid #DFDFD2;
+      border-radius: 16px;
+      padding: 16px 26px;
+      font-family: var(--font-body, 'DM Sans'), sans-serif;
+      font-weight: 600;
+      font-size: 30px;
+      color: #262923;
+      box-shadow: 0 18px 40px rgba(38, 41, 35, 0.12);
+      white-space: nowrap;
+    }
+    #s1-chip-1 { left: 210px; top: 185px; }
+    #s1-chip-2 { left: 1180px; top: 195px; }
+    #s1-chip-3 { left: 260px; top: 760px; }
+    #s1-chip-4 { left: 1160px; top: 750px; }
+    .s1-globe-title {
+      position: absolute;
+      left: 192px;
+      top: 390px;
+      width: 780px;
+    }
+    .s1-globe-holder {
+      position: absolute;
+      left: 1090px;
+      top: 290px;
+      width: 500px;
+      height: 500px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .s1-globe-shadow {
+      position: absolute;
+      width: 360px;
+      height: 44px;
+      left: 70px;
+      bottom: -24px;
+      border-radius: 50%;
+      background: radial-gradient(ellipse at center, rgba(38, 41, 35, 0.24) 0%, rgba(38, 41, 35, 0) 72%);
+    }
+    #s1-globe-canvas {
+      position: relative;
+      width: 480px;
+      height: 480px;
+      display: block;
+    }
+    .s1-sun-morph {
+      position: absolute;
+      left: 180px;
+      top: 180px;
+      width: 140px;
+      height: 140px;
+      border-radius: 50%;
+      background: var(--color-accent, #F5CF43);
+      box-shadow: 0 16px 40px rgba(218, 177, 40, 0.35);
+    }
+    #s1-earth-tex {
+      position: absolute;
+      width: 2px;
+      height: 2px;
+      opacity: 0.001;
+      pointer-events: none;
+    }
+  </style>
+
+  <div id="root" data-composition-id="s1-hook-globe" data-width="1920" data-height="1080">
+    <div class="s1-bg"></div>
+
+    <!-- Authentic Roam Topographic Contours (subtle editorial ground) -->
+    <svg class="s1-topo" viewBox="0 0 1920 1080" data-layout-ignore="true" aria-hidden="true">
+      <g id="s1-topo-group" stroke="#B8A98E" stroke-width="1.4" fill="none" opacity="0.34">
+        <path d="M -60,120 C 120,145 240,220 175,340 C 110,460 280,580 185,760 C 110,900 220,1010 -40,1080" />
+        <path d="M -60,185 C 150,210 285,290 220,410 C 155,530 325,650 230,830 C 155,970 265,1050 20,1110" />
+        <path d="M -60,250 C 180,275 330,360 265,480 C 200,600 370,720 275,900" />
+        <path d="M 1640,-40 C 1740,-90 1910,-40 1970,70 C 2020,180 1970,340 1860,420 C 1740,490 1580,430 1530,300 C 1490,190 1540,40 1640,-40 Z" />
+        <path d="M 1570,-90 C 1700,-150 1940,-95 2015,40 C 2080,180 2020,380 1890,480 C 1750,570 1520,500 1460,340 C 1410,200 1470,10 1570,-90 Z" />
+        <path d="M 1490,-140 C 1660,-210 1980,-150 2065,10 C 2140,180 2070,420 1920,540 C 1760,650 1460,570 1390,380" />
+        <path d="M 1360,860 C 1490,790 1620,860 1720,805 C 1820,750 1900,800 1980,750" stroke="#B49767" stroke-width="2" stroke-dasharray="6 9" opacity="0.65" />
+      </g>
+    </svg>
+
+    <img id="s1-earth-tex" src="assets/images/earth-equirectangular.jpg" alt="" data-layout-ignore="true" />
+
+    <div class="s1-stage">
+      <!-- Beat 1: Frame 0 Hook -->
+      <div class="s1-hook-wrap" data-beat="hook-everywhere">
+        <div id="s1-hook-line1" class="s1-display">The world is</div>
+        <div style="position:relative; display:inline-block; margin-top:8px;">
+          <span id="s1-hook-word" class="s1-display s1-accent-word">everywhere.</span>
+          <div id="s1-hook-underline" class="s1-swoop-bar" data-layout-ignore="true"></div>
+        </div>
+      </div>
+
+      <!-- Beat 2: Chaos Question + Scattered Tabs -->
+      <div id="s1-chaos-wrap" class="s1-chaos-wrap" data-beat="hook-chaos">
+        <div class="s1-chaos-title">
+          <div id="s1-chaos-l1">So why does planning</div>
+          <div id="s1-chaos-l2" style="margin-top:10px;">still feel like <span class="s1-chaos-highlight">chaos?</span></div>
+        </div>
+      </div>
+      <div id="s1-chip-1" class="s1-chip" data-layout-ignore="true">47 open tabs</div>
+      <div id="s1-chip-2" class="s1-chip" data-layout-ignore="true">Saved reel #14</div>
+      <div id="s1-chip-3" class="s1-chip" data-layout-ignore="true">trip_sheet_v4.xlsx</div>
+      <div id="s1-chip-4" class="s1-chip" data-layout-ignore="true">Which train?!</div>
+
+      <!-- Beat 3: Globe Spin -> Sun Sphere Match Cut -->
+      <div id="s1-globe-title" class="s1-globe-title" data-beat="hook-globe">
+        <div id="s1-gt-1" class="s1-display" style="font-size:102px;">One place</div>
+        <div id="s1-gt-2" class="s1-display" style="font-size:102px; color:#B88B0A;">for the world.</div>
+      </div>
+
+      <div id="s1-globe-holder" class="s1-globe-holder">
+        <div id="s1-globe-shadow" class="s1-globe-shadow"></div>
+        <canvas id="s1-globe-canvas" width="480" height="480"></canvas>
+        <div id="s1-sun-morph" class="s1-sun-morph"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      const canvas = document.getElementById('s1-globe-canvas');
+      const ctx = canvas.getContext('2d');
+      const texImg = document.getElementById('s1-earth-tex');
+      const R = 216;
+      const CX = 240;
+      const CY = 240;
+
+      let texCanvas = null;
+      let texCtx = null;
+      let texPixels = null;
+      let texW = 0;
+      let texH = 0;
+      const outImg = ctx.createImageData(480, 480);
+
+      function ensureTex() {
+        if (texPixels) return true;
+        if (!texImg || !texImg.complete || texImg.naturalWidth === 0) return false;
+        texW = 512;
+        texH = 256;
+        texCanvas = document.createElement('canvas');
+        texCanvas.width = texW;
+        texCanvas.height = texH;
+        texCtx = texCanvas.getContext('2d');
+        texCtx.drawImage(texImg, 0, 0, texW, texH);
+        texPixels = texCtx.getImageData(0, 0, texW, texH).data;
+        return true;
+      }
+
+      const globeState = { rot: 1.95 }; // starts near East Asia / Pacific
+
+      function renderGlobe() {
+        const hasTex = ensureTex();
+        const data = outImg.data;
+        data.fill(0);
+        const rot = globeState.rot;
+        const tilt = 0.24; // subtle axial tilt
+        const cosTilt = Math.cos(tilt);
+        const sinTilt = Math.sin(tilt);
+        const invR = 1 / R;
+
+        // Light vector from upper-left front
+        const lx = -0.48, ly = -0.45, lz = 0.75;
+
+        for (let py = 0; py < 480; py++) {
+          const ny = (py - CY) * invR;
+          const ny2 = ny * ny;
+          if (ny2 >= 1) continue;
+          const maxX = Math.sqrt(1 - ny2);
+          const xStart = Math.max(0, Math.floor(CX - maxX * R));
+          const xEnd = Math.min(479, Math.ceil(CX + maxX * R));
+
+          for (let px = xStart; px <= xEnd; px++) {
+            const nx = (px - CX) * invR;
+            const r2 = nx * nx + ny2;
+            if (r2 >= 1) continue;
+            const nz = Math.sqrt(1 - r2);
+
+            // Axial tilt around X
+            const ty = ny * cosTilt - nz * sinTilt;
+            const tz = ny * sinTilt + nz * cosTilt;
+            const tx = nx;
+
+            // Spherical UV
+            const lon = Math.atan2(tx, tz) + rot;
+            const lat = Math.asin(Math.max(-1, Math.min(1, ty)));
+            let u = (lon / (2 * Math.PI)) % 1;
+            if (u < 0) u += 1;
+            const v = 0.5 + lat / Math.PI;
+
+            let r = 38, g = 104, b = 166;
+            if (hasTex) {
+              const sx = Math.min(texW - 1, Math.floor(u * texW));
+              const sy = Math.min(texH - 1, Math.floor(v * texH));
+              const si = (sy * texW + sx) * 4;
+              r = texPixels[si];
+              g = texPixels[si + 1];
+              b = texPixels[si + 2];
+              // Lift deep navy oceans into vivid daylight sapphire
+              if (b > r + 14 && b > g + 8 && b < 110) {
+                r = Math.min(255, Math.round(r * 1.45 + 16));
+                g = Math.min(255, Math.round(g * 1.85 + 48));
+                b = Math.min(255, Math.round(b * 1.75 + 78));
+              } else {
+                r = Math.min(255, Math.round(r * 1.12 + 8));
+                g = Math.min(255, Math.round(g * 1.12 + 8));
+                b = Math.min(255, Math.round(b * 1.06 + 6));
+              }
+            }
+
+            // Diffuse lighting + soft ambient + fresnel rim
+            const ndotl = Math.max(0, nx * lx + ny * ly + nz * lz);
+            const shade = 0.42 + 0.68 * ndotl;
+            const fresnel = Math.pow(1 - nz, 3.2) * 0.48;
+
+            const idx = (py * 480 + px) * 4;
+            data[idx] = Math.min(255, Math.round(r * shade + 125 * fresnel));
+            data[idx + 1] = Math.min(255, Math.round(g * shade + 195 * fresnel));
+            data[idx + 2] = Math.min(255, Math.round(b * shade + 245 * fresnel));
+
+            // Anti-aliased limb alpha
+            const distPx = Math.sqrt(r2) * R;
+            const alpha = distPx > R - 1.4 ? Math.max(0, Math.min(255, Math.round((R - distPx) / 1.4 * 255))) : 255;
+            data[idx + 3] = alpha;
+          }
+        }
+        ctx.putImageData(outImg, 0, 0);
+      }
+
+      if (texImg) {
+        texImg.addEventListener('load', renderGlobe);
+      }
+      renderGlobe();
+
+      const tl = gsap.timeline({ paused: true });
+
+      // Gentle ambient drift on topo contours
+      tl.fromTo('#s1-topo-group', { x: 0, y: 0 }, { x: -24, y: -12, duration: 5.5, ease: 'none' }, 0);
+
+      // BEAT 1 (0.00 - 1.65s): Frame 0 crisp hook
+      tl.fromTo('#s1-hook-line1', { opacity: 1, x: 0 }, { opacity: 1, x: 0, duration: 0.01 }, 0);
+      tl.fromTo(
+        '#s1-hook-word',
+        { opacity: 0.15, x: 70, filter: 'blur(9px)' },
+        { opacity: 1, x: 0, filter: 'blur(0px)', duration: 0.36, ease: 'expo.out' },
+        0.02
+      );
+      tl.fromTo('#s1-hook-underline', { scaleX: 0 }, { scaleX: 1, duration: 0.38, ease: 'power3.out' }, 0.20);
+      tl.fromTo(
+        '.s1-hook-wrap',
+        { opacity: 1, x: 0, filter: 'blur(0px)' },
+        { opacity: 0, x: -90, filter: 'blur(8px)', duration: 0.22, ease: 'power3.in', immediateRender: false },
+        1.42
+      );
+
+      // BEAT 2 (1.64 - 3.26s): Chaos question + floating tab pills (1.42s readable hold!)
+      tl.fromTo('#s1-chaos-wrap', { opacity: 0 }, { opacity: 1, duration: 0.06 }, 1.64);
+      tl.fromTo(
+        '#s1-chaos-l1',
+        { opacity: 0, y: 24, filter: 'blur(8px)' },
+        { opacity: 1, y: 0, filter: 'blur(0px)', duration: 0.28, ease: 'power4.out' },
+        1.64
+      );
+      tl.fromTo(
+        '#s1-chaos-l2',
+        { opacity: 0, y: 24, filter: 'blur(8px)' },
+        { opacity: 1, y: 0, filter: 'blur(0px)', duration: 0.28, ease: 'power4.out' },
+        1.72
+      );
+      tl.fromTo('#s1-chip-1', { opacity: 0, scale: 0.7, y: 40, rotation: -6 }, { opacity: 1, scale: 1, y: 0, rotation: -5, duration: 0.36, ease: 'back.out(1.4)' }, 1.78);
+      tl.fromTo('#s1-chip-2', { opacity: 0, scale: 0.7, y: 40, rotation: 5 }, { opacity: 1, scale: 1, y: 0, rotation: 4, duration: 0.36, ease: 'back.out(1.4)' }, 1.85);
+      tl.fromTo('#s1-chip-3', { opacity: 0, scale: 0.7, y: -30, rotation: 4 }, { opacity: 1, scale: 1, y: 0, rotation: 3, duration: 0.36, ease: 'back.out(1.4)' }, 1.92);
+      tl.fromTo('#s1-chip-4', { opacity: 0, scale: 0.7, y: -30, rotation: -5 }, { opacity: 1, scale: 1, y: 0, rotation: -4, duration: 0.36, ease: 'back.out(1.4)' }, 1.99);
+
+      // Exit chaos beat cleanly at 3.12s -> 3.28s
+      tl.fromTo('#s1-chaos-wrap', { opacity: 1, scale: 1, filter: 'blur(0px)' }, { opacity: 0, scale: 0.92, filter: 'blur(8px)', duration: 0.20, ease: 'power3.in', immediateRender: false }, 3.12);
+      tl.fromTo('#s1-chip-1', { opacity: 1, x: 0, y: 0 }, { opacity: 0, x: -160, y: -90, duration: 0.20, ease: 'power3.in', immediateRender: false }, 3.12);
+      tl.fromTo('#s1-chip-2', { opacity: 1, x: 0, y: 0 }, { opacity: 0, x: 160, y: -90, duration: 0.20, ease: 'power3.in', immediateRender: false }, 3.12);
+      tl.fromTo('#s1-chip-3', { opacity: 1, x: 0, y: 0 }, { opacity: 0, x: -160, y: 90, duration: 0.20, ease: 'power3.in', immediateRender: false }, 3.12);
+      tl.fromTo('#s1-chip-4', { opacity: 1, x: 0, y: 0 }, { opacity: 0, x: 160, y: 90, duration: 0.20, ease: 'power3.in', immediateRender: false }, 3.12);
+
+      // BEAT 3 (3.28 - 5.50s): Title + Spinning 3D Earth -> Center Yellow Sun Match Cut
+      tl.fromTo('#s1-globe-title', { opacity: 0 }, { opacity: 1, duration: 0.05 }, 3.28);
+      tl.fromTo('#s1-gt-1', { opacity: 0, x: -48, filter: 'blur(8px)' }, { opacity: 1, x: 0, filter: 'blur(0px)', duration: 0.36, ease: 'power4.out' }, 3.30);
+      tl.fromTo('#s1-gt-2', { opacity: 0, x: -48, filter: 'blur(8px)' }, { opacity: 1, x: 0, filter: 'blur(0px)', duration: 0.36, ease: 'power4.out' }, 3.40);
+
+      tl.fromTo(
+        '#s1-globe-holder',
+        { opacity: 0, scale: 0.45, x: 0, y: 0 },
+        { opacity: 1, scale: 1, x: 0, y: 0, duration: 0.50, ease: 'back.out(1.4)' },
+        3.30
+      );
+
+      // Single continuous deterministic globe rotation
+      tl.fromTo(
+        globeState,
+        { rot: 1.95 },
+        { rot: 8.60, duration: 2.15, ease: 'power1.in', onUpdate: renderGlobe },
+        3.30
+      );
+
+      // Title exits while globe moves cleanly to exact center (960, 540) and shrinks to 140px yellow sun
+      tl.fromTo('#s1-globe-title', { opacity: 1, x: 0, filter: 'blur(0px)' }, { opacity: 0, x: -80, filter: 'blur(8px)', duration: 0.25, ease: 'power3.in', immediateRender: false }, 4.62);
+      tl.fromTo('#s1-globe-shadow', { opacity: 1 }, { opacity: 0, duration: 0.25, ease: 'power2.out', immediateRender: false }, 4.75);
+      tl.fromTo(
+        '#s1-globe-holder',
+        { x: 0, scale: 1 },
+        { x: -380, scale: 1, duration: 0.48, ease: 'power2.inOut', immediateRender: false },
+        4.68
+      );
+      tl.fromTo('#s1-globe-canvas', { scale: 1, opacity: 1 }, { scale: 0.324, opacity: 0, duration: 0.36, ease: 'power3.inOut', immediateRender: false }, 5.10);
+      tl.fromTo('#s1-sun-morph', { opacity: 0, scale: 3.08 }, { opacity: 1, scale: 1, duration: 0.34, ease: 'power3.inOut' }, 5.12);
+
+      window.__timelines = window.__timelines || {};
+      window.__timelines['s1-hook-globe'] = tl;
+    })();
+  </script>
+</template>

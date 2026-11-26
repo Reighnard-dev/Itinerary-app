@@ -1,0 +1,218 @@
+<!doctype html>
+<html
+  lang="en"
+  data-composition-variables='[
+    {"id":"color-ground","type":"color","label":"Parchment Ground","default":"#FAF5EA"},
+    {"id":"color-dark","type":"color","label":"Charcoal Ground","default":"#1A1D18"},
+    {"id":"color-ink","type":"color","label":"Primary Ink","default":"#262923"},
+    {"id":"color-accent","type":"color","label":"Roam Sunshine","default":"#F5CF43"},
+    {"id":"color-gold","type":"color","label":"Roam Gold","default":"#B88B0A"},
+    {"id":"font-display","type":"string","label":"Display Font","default":"Manrope"},
+    {"id":"font-body","type":"string","label":"Body Font","default":"DM Sans"}
+  ]'
+>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.15.0/dist/gsap.min.js"></script>
+    <style>
+      @font-face {
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 200 800;
+        src: url('assets/fonts/manrope-variable.ttf') format('truetype');
+      }
+      @font-face {
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 100 1000;
+        src: url('assets/fonts/dmsans-variable.ttf') format('truetype');
+      }
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        background: var(--color-ground, #FAF5EA);
+        font-family: var(--font-body, 'DM Sans'), sans-serif;
+        color: var(--color-ink, #262923);
+      }
+      #root {
+        position: relative;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        background: var(--color-ground, #FAF5EA);
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="main"
+      data-start="0"
+      data-duration="25"
+      data-width="1920"
+      data-height="1080"
+      data-fps="30"
+    >
+      <!-- Track 1: Visual Scenes (back-to-back, 25.0s total) -->
+      <div
+        id="s1-hook-globe"
+        data-composition-id="s1-hook-globe"
+        data-composition-src="compositions/s1-hook-globe.html"
+        data-start="0"
+        data-duration="5.5"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+      ></div>
+
+      <div
+        id="s2-brand-morph"
+        data-composition-id="s2-brand-morph"
+        data-composition-src="compositions/s2-brand-morph.html"
+        data-start="5.5"
+        data-duration="3.7"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+      ></div>
+
+      <div
+        id="s3-discover-showcase"
+        data-composition-id="s3-discover-showcase"
+        data-composition-src="compositions/s3-discover-showcase.html"
+        data-start="9.2"
+        data-duration="3.1"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+      ></div>
+
+      <div
+        id="s4-photo-mosaic"
+        data-composition-id="s4-photo-mosaic"
+        data-composition-src="compositions/s4-photo-mosaic.html"
+        data-start="12.3"
+        data-duration="2.5"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+      ></div>
+
+      <div
+        id="s5-planner-map"
+        data-composition-id="s5-planner-map"
+        data-composition-src="compositions/s5-planner-map.html"
+        data-start="14.8"
+        data-duration="3.0"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+      ></div>
+
+      <div
+        id="s6-scenic-parallax"
+        data-composition-id="s6-scenic-parallax"
+        data-composition-src="compositions/s6-scenic-parallax.html"
+        data-start="17.8"
+        data-duration="2.4"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+      ></div>
+
+      <div
+        id="s7-staccato-trio"
+        data-composition-id="s7-staccato-trio"
+        data-composition-src="compositions/s7-staccato-trio.html"
+        data-start="20.2"
+        data-duration="2.45"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+      ></div>
+
+      <div
+        id="s8-endcard"
+        data-composition-id="s8-endcard"
+        data-composition-src="compositions/s8-endcard.html"
+        data-start="22.65"
+        data-duration="2.35"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+      ></div>
+
+      <!-- Track 2: Female Voiceover (en-US-AvaNeural, normalized -16 LUFS) -->
+      <audio id="vo-1" class="clip" src="assets/audio/voice/vo-1.wav" data-start="0.15" data-duration="1.431" data-volume="1.05" data-track-index="2"></audio>
+      <audio id="vo-2" class="clip" src="assets/audio/voice/vo-2.wav" data-start="1.80" data-duration="2.019" data-volume="1.05" data-track-index="2"></audio>
+      <audio id="vo-3" class="clip" src="assets/audio/voice/vo-3.wav" data-start="5.65" data-duration="0.752" data-volume="1.05" data-track-index="2"></audio>
+      <audio id="vo-4" class="clip" src="assets/audio/voice/vo-4.wav" data-start="7.10" data-duration="4.799" data-volume="1.05" data-track-index="2"></audio>
+      <audio id="vo-5" class="clip" src="assets/audio/voice/vo-5.wav" data-start="12.15" data-duration="2.801" data-volume="1.05" data-track-index="2"></audio>
+      <audio id="vo-6" class="clip" src="assets/audio/voice/vo-6.wav" data-start="15.05" data-duration="3.426" data-volume="1.05" data-track-index="2"></audio>
+      <audio id="vo-7" class="clip" src="assets/audio/voice/vo-7.wav" data-start="20.25" data-duration="3.958" data-volume="1.05" data-track-index="2"></audio>
+
+      <!-- Track 3: CC0 Background Music ("Little, happy tune" by cabled_mess, CC0, 120 BPM) -->
+      <audio
+        id="bgm-main"
+        class="clip"
+        src="assets/audio/bgm.mp3"
+        data-start="0"
+        data-duration="25"
+        data-volume="1"
+        data-fade-in="0.25"
+        data-fade-out="0.95"
+        data-automation='{"version":1,"lanes":[{"target":"volume","points":[{"t":0,"v":0.16},{"t":1.55,"v":0.16},{"t":1.95,"v":0.15},{"t":4.05,"v":0.22},{"t":5.40,"v":0.34},{"t":5.65,"v":0.17},{"t":6.45,"v":0.30},{"t":7.05,"v":0.16},{"t":11.90,"v":0.20},{"t":14.90,"v":0.16},{"t":18.45,"v":0.36},{"t":20.20,"v":0.22},{"t":24.00,"v":0.32},{"t":25.00,"v":0.0}]}]}'
+        data-track-index="3"
+      ></audio>
+
+      <!-- Track 4: Primary SFX (peak synced ~1 frame after hit, strictly non-overlapping) -->
+      <audio id="sfx-hook-whoosh" class="clip" src="assets/audio/sfx/whoosh-short.mp3" data-start="0.02" data-duration="0.55" data-volume="0.55" data-track-index="4"></audio>
+      <audio id="sfx-chaos-pop" class="clip" src="assets/audio/sfx/pop.mp3" data-start="1.66" data-duration="0.65" data-volume="0.55" data-track-index="4"></audio>
+      <audio id="sfx-globe-whoosh" class="clip" src="assets/audio/sfx/whoosh.mp3" data-start="3.24" data-duration="0.55" data-volume="0.52" data-track-index="4"></audio>
+      <audio id="sfx-roam-chime" class="clip" src="assets/audio/sfx/chime.mp3" data-start="5.12" data-duration="1.30" data-volume="0.45" data-track-index="4"></audio>
+      <audio id="sfx-compass-click" class="clip" src="assets/audio/sfx/click.mp3" data-start="6.81" data-duration="0.35" data-volume="0.80" data-track-index="4"></audio>
+      <audio id="sfx-kyoto-key" class="clip" src="assets/audio/sfx/key-press.mp3" data-start="7.60" data-duration="0.35" data-volume="0.72" data-track-index="4"></audio>
+      <audio id="sfx-explore-click" class="clip" src="assets/audio/sfx/click-soft.mp3" data-start="8.51" data-duration="0.35" data-volume="0.80" data-track-index="4"></audio>
+      <audio id="sfx-cards-pop" class="clip" src="assets/audio/sfx/pop.mp3" data-start="9.76" data-duration="0.65" data-volume="0.55" data-track-index="4"></audio>
+      <audio id="sfx-add-click" class="clip" src="assets/audio/sfx/click.mp3" data-start="10.76" data-duration="0.35" data-volume="0.82" data-track-index="4"></audio>
+      <audio id="sfx-mosaic-whoosh" class="clip" src="assets/audio/sfx/whoosh-short.mp3" data-start="12.17" data-duration="0.55" data-volume="0.52" data-track-index="4"></audio>
+      <audio id="sfx-charcoal-hit" class="clip" src="assets/audio/sfx/impact-bass-1.mp3" data-start="14.76" data-duration="0.65" data-volume="0.48" data-track-index="4"></audio>
+      <audio id="sfx-map-pop" class="clip" src="assets/audio/sfx/pop.mp3" data-start="15.46" data-duration="0.65" data-volume="0.55" data-track-index="4"></audio>
+      <audio id="sfx-toast-click" class="clip" src="assets/audio/sfx/click-soft.mp3" data-start="16.16" data-duration="0.35" data-volume="0.72" data-track-index="4"></audio>
+      <audio id="sfx-scenic-sparkle" class="clip" src="assets/audio/sfx/sparkle.mp3" data-start="17.98" data-duration="1.20" data-volume="0.38" data-track-index="4"></audio>
+      <audio id="sfx-trio-hit-1" class="clip" src="assets/audio/sfx/impact-bass-1.mp3" data-start="20.16" data-duration="0.55" data-volume="0.46" data-track-index="4"></audio>
+      <audio id="sfx-trio-hit-2" class="clip" src="assets/audio/sfx/whoosh-short.mp3" data-start="21.02" data-duration="0.55" data-volume="0.55" data-track-index="4"></audio>
+      <audio id="sfx-trio-hit-3" class="clip" src="assets/audio/sfx/pop.mp3" data-start="21.88" data-duration="0.35" data-volume="0.58" data-track-index="4"></audio>
+      <audio id="sfx-endcard-chime" class="clip" src="assets/audio/sfx/chime.mp3" data-start="22.26" data-duration="1.80" data-volume="0.45" data-track-index="4"></audio>
+
+      <!-- Track 5: Secondary Layered SFX (morphs & risers) -->
+      <audio id="sfx-morph-whoosh" class="clip" src="assets/audio/sfx/whoosh.mp3" data-start="6.79" data-duration="0.55" data-volume="0.50" data-track-index="5"></audio>
+      <audio id="sfx-zoom-whoosh" class="clip" src="assets/audio/sfx/whoosh-short.mp3" data-start="8.95" data-duration="0.55" data-volume="0.52" data-track-index="5"></audio>
+      <audio id="sfx-added-sparkle" class="clip" src="assets/audio/sfx/sparkle.mp3" data-start="10.86" data-duration="0.80" data-volume="0.34" data-track-index="5"></audio>
+      <audio id="sfx-iris-cinematic" class="clip" src="assets/audio/sfx/whoosh-cinematic.mp3" data-media-start="1.60" data-start="16.92" data-duration="1.40" data-volume="0.44" data-track-index="5"></audio>
+      <audio id="sfx-finale-riser" class="clip" src="assets/audio/sfx/riser.mp3" data-media-start="2.45" data-start="21.55" data-duration="1.15" data-volume="0.38" data-track-index="5"></audio>
+    </div>
+
+    <script>
+      const mainTl = gsap.timeline({ paused: true });
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = mainTl;
+    </script>
+  </body>
+</html>
