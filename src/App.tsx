@@ -61,7 +61,7 @@ const flags:Record<string,string>={Japan:'🇯🇵',Indonesia:'🇮🇩',France:
 const countryLabel=(name:string)=>name==='United States'?'USA (United States)':name;
 const stopPlace=(stop:Stop)=>stop.place||handpicked.find(p=>p.id===stop.placeId)!;
 const kindLabel=(place:Place)=>place.kind==='iconic'?'Iconic spot':place.kind==='hidden'?'Hidden gem':placeSource(place).badge==='Place'?'Mapped place':placeSource(place).badge==='Map'?'Local place':'Guide pick';
-const experienceCategories=['All experiences','Culture','Nature','Food & drink','Adventure','Restaurants','Parks & gardens','Activities','Shopping','Beaches','Hotels'];
+const experienceCategories=['All experiences','Culture','Nature','Food & drink','Adventure','Restaurants','Parks & gardens','Activities','Shopping','Beaches','Hotels','Localities'];
 const makeTrip=(country='Japan',city='Kyoto',days=5,startDate=''):Trip=>({id:crypto.randomUUID(),title:`A little escape to ${city}`,country,city,days,startDate,stops:[],updatedAt:new Date().toISOString()});
 const accountPath='/account';
 const isAccountPath=()=>window.location.pathname.replace(/\/$/,'')===accountPath;
@@ -294,7 +294,7 @@ function App(){
  const addedOnDay=useMemo(()=>new Set(trip.stops.filter(s=>s.day===day).map(s=>s.placeId)),[trip.stops,day]);
  const add=(place:Place,targetDay=day)=>{if(place.country!==trip.country){setCountry(place.country);setCity(place.city);setNewTrip(true);setToast(`Start a ${place.city} trip to add this place. Your current trip is kept in My itineraries.`);return;}if(trip.stops.some(s=>s.placeId===place.id&&s.day===targetDay)){setToast(`Already on Day ${targetDay}. Make room for another discovery.`);return;}patch({stops:[...trip.stops,{id:crypto.randomUUID(),placeId:place.id,place,day:targetDay,time:'',notes:''}]});setToast(`${place.name} added to Day ${targetDay}.`);};
  const resolveCityCandidates=async(targetCountry:string,targetCity:string):Promise<Place[]>=>{
-  const fromActive=result.country===targetCountry&&result.city===targetCity?places:[];
+  const fromActive=places.filter(p=>p.country===targetCountry&&p.city===targetCity);
   const fromHandpicked=handpicked.filter(p=>p.country===targetCountry&&p.city===targetCity);
   const merged=[...fromActive,...fromHandpicked.filter(h=>!fromActive.some(a=>a.id===h.id))];
   if(merged.length>fromHandpicked.length||merged.length>=4)return merged;

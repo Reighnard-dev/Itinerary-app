@@ -1,4 +1,4 @@
-const CACHE_NAME = 'roam-shell-v2';
+const CACHE_NAME = 'roam-shell-v3';
 const PRECACHE_URLS = [
   '/',
   '/manifest.webmanifest',
@@ -24,7 +24,7 @@ self.addEventListener('activate', (event) => {
     caches
       .keys()
       .then((keys) =>
-        Promise.all(keys.filter((key) => key !== CACHE_NAME).map((key) => caches.delete(key)))
+        Promise.all(keys.filter((key) => key.startsWith('roam-shell-') && key !== CACHE_NAME).map((key) => caches.delete(key)))
       )
       .then(() => self.clients.claim())
   );

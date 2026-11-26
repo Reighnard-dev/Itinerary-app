@@ -41,6 +41,8 @@ for(const raw of [...handpicked,...sapa,...imported,...researched,...knowledge,.
 // catalog is ready; release them before serving hundreds of thousands of rows.
 known.clear();aliases.clear();
 for(const source of [sapa,imported,researched,knowledge,mapped,overture,geographic])source.length=0;
+// Supplemental records have city-specific IDs because neighboring cities can share a sight.
+for (const place of readData<Place[]>('nearby-places.json.gz')) places.push(place);
 }
 const localById=new Map(places.map(place=>[place.id,place]));
 const hostedById=hostedCatalog?.prepare('SELECT country, city FROM place_index WHERE id = ?');

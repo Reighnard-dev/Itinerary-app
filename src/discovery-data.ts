@@ -11,7 +11,7 @@ let indexRequest: Promise<StaticIndex> | undefined;
 const placePhotos = new Map<string, PlaceImage>();
 
 async function readJson<T>(file: string, signal?: AbortSignal): Promise<T> {
-  const response = await fetch(`/discovery/${file}?v=2`, {signal});
+  const response = await fetch(`/discovery/${file}?v=3`, {signal});
   if (!response.ok) throw new Error('Could not load destination data. Please try again.');
   return response.json();
 }
@@ -45,10 +45,11 @@ export async function loadPlaces(selection: {country: string; city: string}): Pr
   const file = placeFiles[JSON.stringify([country, city])];
   if (!file) return {places:[]};
   const data = await readJson<{places: Place[]}>(`places/${file}`);
-  for (const place of data.places) {
+  const places = data.places.filter(place => place.country === country && place.city === city);
+  for (const place of places) {
     if (place.photo) placePhotos.set(place.id, place.photo);
   }
-  return data;
+  return {places};
 }
 
 export function staticPlacePhoto(id: string) {

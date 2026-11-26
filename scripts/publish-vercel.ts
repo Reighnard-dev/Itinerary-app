@@ -59,30 +59,38 @@ for (const { country, code } of worldCountries) {
   writeJson(path.join(output, 'artwork', `${code}.json`), { cities: artwork });
 }
 
-// Prioritize all handpicked cities, Sa Pa, plus top 200 cities worldwide by place count
-const priorityCities = new Set<string>(
-  handpicked.map((p) => JSON.stringify([p.country, p.city]))
-);
-priorityCities.add(JSON.stringify(['Vietnam', 'Sa Pa']));
-
-const sortedCities = [...placesByCity.entries()].sort((a, b) => b[1].length - a[1].length);
-const selectedCities = new Map<string, Place[]>();
-
-for (const key of priorityCities) {
-  const list = placesByCity.get(key);
-  if (list) selectedCities.set(key, list);
-}
-for (const [key, list] of sortedCities) {
-  if (selectedCities.size >= priorityCities.size + 200) break;
-  if (!selectedCities.has(key)) selectedCities.set(key, list);
-}
-
+/* Keep established single-city URLs usable by already-open installations.
+   Smaller cities share a same-country file to stay within the deployment file limit. */
+const standalone = new Set(handpicked.map(p => JSON.stringify([p.country, p.city])));
+standalone.add(JSON.stringify(['Vietnam', 'Sa Pa']));
 const placeFiles: Record<string, string> = Object.create(null);
-for (const [cityKey, listings] of selectedCities) {
-  const file = createHash('sha256').update(cityKey).digest('hex').slice(0, 24) + '.json';
-  placeFiles[cityKey] = file;
-  const capped = listings.slice(0, 60);
-  writeJson(path.join(output, 'places', file), { places: capped });
+let fileCount = 0;
+function publish(keys: string[], listings: Place[]) {
+  const key = keys.length === 1 ? keys[0] : JSON.stringify(keys);
+  const file = createHash('sha256').update(key).digest('hex').slice(0, 24) + '.json';
+  writeJson(path.join(output, 'places', file), {places: listings});
+  for (const city of keys) placeFiles[city] = file;
+  fileCount++;
+}
+for (const {country, cities} of worldCountries) {
+  let keys: string[] = [], batch: Place[] = [];
+  for (const city of cities) {
+    const key = JSON.stringify([country, city.name]);
+    const listings = placesByCity.get(key);
+    if (!listings?.length) throw new Error('Missing place listings for ' + key);
+    if (listings.length >= 60 || standalone.has(key)) {
+      publish([key], listings);
+      continue;
+    }
+    if (batch.length + listings.length > 160) {
+      publish(keys, batch);
+      keys = [];
+      batch = [];
+    }
+    keys.push(key);
+    batch.push(...listings);
+  }
+  if (keys.length) publish(keys, batch);
 }
 
 writeJson(path.join(output, 'destinations.json'), {
@@ -114,7 +122,8 @@ console.log(
   JSON.stringify({
     keptFeaturedImages: keptImages,
     prunedImages: removedImages,
-    discoveryCityFiles: selectedCities.size,
+    discoveryCityFiles: fileCount,
+    coveredCities: Object.keys(placeFiles).length,
     distTotalFiles: stats.files,
     distTotalMB: Number((stats.bytes / 1048576).toFixed(2)),
   })

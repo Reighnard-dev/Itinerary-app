@@ -4,7 +4,7 @@ import {geoCity} from './world.js';
 const webUrl=z.url().max(2000).refine(value=>/^https?:\/\//.test(value),'Use an HTTP or HTTPS URL.');
 export const placeSnapshotSchema=z.object({
  id:z.string().max(100),name:z.string().trim().min(1).max(160),country:z.string().min(1).max(120),city:z.string().min(1).max(200),
- category:z.enum(['Culture','Nature','Food & drink','Adventure','Restaurants','Parks & gardens','Activities','Shopping','Beaches','Hotels']),kind:z.enum(['iconic','hidden','local']),
+ category:z.enum(['Culture','Nature','Food & drink','Adventure','Restaurants','Parks & gardens','Activities','Shopping','Beaches','Hotels','Localities']),kind:z.enum(['iconic','hidden','local']),
  description:z.string().max(1000),image:z.string().regex(/^\/(images|illustrations)\/[\w.-]+\.(jpg|svg)$/),lat:z.number().min(-90).max(90),lng:z.number().min(-180).max(180),rating:z.number().min(0).max(5).nullable(),
  duration:z.string().max(80),price:z.string().max(120),bestTime:z.string().max(120),transit:z.string().max(700),driving:z.string().max(700),
  source:z.object({name:z.string().max(100),url:webUrl,retrievedAt:z.iso.datetime(),license:z.string().max(50).optional()}).optional(),
@@ -26,7 +26,8 @@ export const tripSchema = z.object({
   const snapshot=stop.place;
   const sourceValid=snapshot?.source?.name==='Wikivoyage contributors'&&snapshot.source.url.startsWith('https://en.wikivoyage.org/')&&/^guide-[a-z]{2}-[a-f0-9]{20}$/.test(snapshot.id);
   const mapSourceValid=snapshot?.source?.name==='OpenStreetMap contributors'&&/^osm-(node|way|relation)-(\d+)-[a-f0-9]{10}$/.test(snapshot.id)&&snapshot.source.url===`https://www.openstreetmap.org/${snapshot.id.split('-')[1]}/${snapshot.id.split('-')[2]}`;
-  const geographicSourceValid=snapshot?.source?.name==='GeoNames contributors'&&/^geo-[a-z]{2}-\d+$/.test(snapshot.id)&&snapshot.source.url===`https://www.geonames.org/${snapshot.id.split('-')[2]}/`;
+  const geographicId = snapshot && (/^geo-[a-z]{2}-(\d+)$/.exec(snapshot.id) ?? /^nearby-(\d+)-[a-f0-9]{12}$/.exec(snapshot.id))?.[1];
+  const geographicSourceValid=geographicId && snapshot?.source?.name==='GeoNames contributors' && snapshot.source.url===`https://www.geonames.org/${geographicId}/`;
   const overtureSourceValid=snapshot?.source?.name==='Overture Maps Foundation'&&/^overture-[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}$/.test(snapshot.id)&&snapshot.source.url.startsWith(`https://explore.overturemaps.org/?mode=inspect&feature=places.place.${snapshot.id.slice(9)}#`);
   const knowledgeSourceValid=snapshot?.source?.name==='Wikidata contributors'&&/^wikidata-Q\d+$/.test(snapshot.id)&&snapshot.source.url===`https://www.wikidata.org/wiki/${snapshot.id.slice(9)}`;
   const valid=known?known.country===trip.country:Boolean(snapshot&&snapshot.id===stop.placeId&&snapshot.country===trip.country&&geoCity(snapshot.country,snapshot.city)&&(sourceValid||mapSourceValid||geographicSourceValid||overtureSourceValid||knowledgeSourceValid));

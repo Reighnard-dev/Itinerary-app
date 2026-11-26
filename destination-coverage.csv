@@ -1,0 +1,251 @@
+Country or territory,Cities and towns,Previously with listings,Previously empty,Now with listings,Now with nearby localities only
+"Afghanistan",56,0,56,56,0
+"Aland Islands",1,0,1,1,0
+"Albania",25,0,25,25,0
+"Algeria",295,0,295,295,0
+"American Samoa",1,0,1,1,0
+"Andorra",2,0,2,2,0
+"Angola",133,0,133,133,3
+"Anguilla",1,0,1,1,0
+"Antarctica",4,0,4,4,0
+"Antigua and Barbuda",1,0,1,1,0
+"Argentina",330,0,330,330,28
+"Armenia",29,0,29,29,0
+"Aruba",4,0,4,4,0
+"Australia",313,1,312,313,0
+"Austria",66,1,65,66,0
+"Azerbaijan",65,0,65,65,0
+"Bahamas",4,0,4,4,0
+"Bahrain",8,0,8,8,0
+"Bangladesh",150,0,150,150,3
+"Barbados",1,1,0,1,0
+"Belarus",56,0,56,56,0
+"Belgium",223,2,221,223,0
+"Belize",5,0,5,5,0
+"Benin",66,0,66,66,9
+"Bermuda",1,1,0,1,0
+"Bhutan",4,0,4,4,0
+"Bolivia",39,0,39,39,1
+"Bonaire, Saint Eustatius and Saba ",1,0,1,1,0
+"Bosnia and Herzegovina",23,1,22,23,0
+"Botswana",25,0,25,25,0
+"Bouvet Island",2,0,2,2,0
+"Brazil",2378,6,2372,2378,2
+"British Indian Ocean Territory",2,0,2,2,0
+"British Virgin Islands",1,0,1,1,0
+"Brunei",7,0,7,7,0
+"Bulgaria",56,1,55,56,0
+"Burkina Faso",74,0,74,74,22
+"Burundi",14,0,14,14,0
+"Cabo Verde",4,0,4,4,0
+"Cambodia",46,1,45,46,0
+"Cameroon",87,0,87,87,1
+"Canada",517,28,489,517,0
+"Cayman Islands",2,0,2,2,0
+"Central African Republic",33,0,33,33,1
+"Chad",46,0,46,46,7
+"Chile",147,1,146,147,0
+"China",2123,0,2123,2123,413
+"Christmas Island",1,0,1,1,0
+"Cocos Islands",1,0,1,1,0
+"Colombia",319,3,316,319,0
+"Comoros",3,0,3,3,0
+"Cook Islands",1,0,1,1,0
+"Costa Rica",41,0,41,41,0
+"Croatia",26,1,25,26,0
+"Cuba",140,0,140,140,0
+"Curacao",2,0,2,2,0
+"Cyprus",15,2,13,15,0
+"Czechia",123,1,122,123,0
+"Democratic Republic of the Congo",114,0,114,114,4
+"Denmark",67,7,60,67,0
+"Djibouti",7,0,7,7,0
+"Dominica",1,0,1,1,0
+"Dominican Republic",50,0,50,50,0
+"Ecuador",71,1,70,71,0
+"Egypt",242,1,241,242,0
+"El Salvador",35,0,35,35,0
+"Equatorial Guinea",6,0,6,6,0
+"Eritrea",8,0,8,8,0
+"Estonia",15,2,13,15,0
+"Eswatini",3,0,3,3,0
+"Ethiopia",233,1,232,233,21
+"Falkland Islands",1,0,1,1,0
+"Faroe Islands",1,1,0,1,0
+"Fiji",7,0,7,7,0
+"Finland",102,18,84,102,0
+"France",692,2,690,692,0
+"French Guiana",5,0,5,5,0
+"French Polynesia",3,0,3,3,0
+"French Southern Territories",1,0,1,1,0
+"Gabon",15,0,15,15,0
+"Gambia",33,0,33,33,0
+"Georgia",17,1,16,17,0
+"Germany",1141,2,1139,1141,0
+"Ghana",102,0,102,102,0
+"Gibraltar",1,0,1,1,0
+"Greece",118,1,117,118,0
+"Greenland",1,0,1,1,0
+"Grenada",1,0,1,1,0
+"Guadeloupe",10,0,10,10,0
+"Guam",6,0,6,6,0
+"Guatemala",102,0,102,102,0
+"Guernsey",1,0,1,1,0
+"Guinea",47,0,47,47,0
+"Guinea-Bissau",15,0,15,15,0
+"Guyana",3,0,3,3,0
+"Haiti",32,0,32,32,0
+"Heard Island and McDonald Islands",2,0,2,2,0
+"Honduras",65,0,65,65,0
+"Hong Kong",141,1,140,141,0
+"Hungary",141,24,117,141,0
+"Iceland",6,1,5,6,0
+"India",3788,13,3775,3788,43
+"Indonesia",449,2,447,449,2
+"Iran",431,1,430,431,0
+"Iraq",105,1,104,105,0
+"Ireland",43,2,41,43,0
+"Isle of Man",1,0,1,1,0
+"Israel",113,5,108,113,0
+"Italy",663,2,661,663,0
+"Ivory Coast",183,0,183,183,13
+"Jamaica",13,0,13,13,0
+"Japan",1301,2,1299,1301,0
+"Jersey",1,0,1,1,0
+"Jordan",34,0,34,34,0
+"Kazakhstan",84,1,83,84,2
+"Kenya",123,2,121,123,4
+"Kiribati",1,0,1,1,0
+"Kosovo",21,1,20,21,0
+"Kuwait",18,0,18,18,0
+"Kyrgyzstan",32,0,32,32,0
+"Laos",18,0,18,18,0
+"Latvia",15,1,14,15,0
+"Lebanon",18,1,17,18,0
+"Lesotho",11,0,11,11,0
+"Liberia",16,0,16,16,0
+"Libya",59,0,59,59,1
+"Liechtenstein",1,0,1,1,0
+"Lithuania",36,2,34,36,0
+"Luxembourg",3,1,2,3,0
+"Macao",6,1,5,6,0
+"Madagascar",106,0,106,106,0
+"Malawi",23,0,23,23,0
+"Malaysia",355,2,353,355,0
+"Maldives",1,0,1,1,0
+"Mali",60,0,60,60,12
+"Malta",7,2,5,7,0
+"Marshall Islands",2,0,2,2,0
+"Martinique",8,0,8,8,0
+"Mauritania",26,0,26,26,0
+"Mauritius",14,0,14,14,0
+"Mayotte",6,0,6,6,0
+"Mexico",642,1,641,642,1
+"Micronesia",1,0,1,1,0
+"Moldova",22,0,22,22,0
+"Monaco",2,0,2,2,0
+"Mongolia",24,1,23,24,0
+"Montenegro",8,2,6,8,0
+"Montserrat",2,0,2,2,0
+"Morocco",180,2,178,180,0
+"Mozambique",66,0,66,66,0
+"Myanmar",178,1,177,178,0
+"Namibia",19,0,19,19,1
+"Nauru",1,0,1,1,0
+"Nepal",46,1,45,46,0
+"Netherlands",254,1,253,254,0
+"New Caledonia",3,0,3,3,0
+"New Zealand",59,3,56,59,0
+"Nicaragua",37,1,36,37,0
+"Niger",42,0,42,42,1
+"Nigeria",270,2,268,270,6
+"Niue",1,0,1,1,0
+"Norfolk Island",1,0,1,1,0
+"North Korea",97,0,97,97,0
+"North Macedonia",38,3,35,38,0
+"Northern Mariana Islands",1,0,1,1,0
+"Norway",42,7,35,42,0
+"Oman",28,2,26,28,0
+"Pakistan",375,0,375,375,2
+"Palau",1,0,1,1,0
+"Palestinian Territory",45,0,45,45,0
+"Panama",27,0,27,27,0
+"Papua New Guinea",13,0,13,13,0
+"Paraguay",30,0,30,30,0
+"Peru",140,0,140,140,0
+"Philippines",532,1,531,532,0
+"Pitcairn",1,0,1,1,0
+"Poland",363,0,363,363,0
+"Portugal",179,1,178,179,0
+"Puerto Rico",21,0,21,21,0
+"Qatar",26,0,26,26,0
+"Republic of the Congo",23,0,23,23,0
+"Reunion",14,0,14,14,0
+"Romania",134,0,134,134,0
+"Russia",1108,0,1108,1108,14
+"Rwanda",45,0,45,45,0
+"Saint Barthelemy",1,0,1,1,0
+"Saint Helena",1,0,1,1,0
+"Saint Kitts and Nevis",1,0,1,1,0
+"Saint Lucia",2,0,2,2,0
+"Saint Martin",1,0,1,1,0
+"Saint Pierre and Miquelon",1,0,1,1,0
+"Saint Vincent and the Grenadines",2,0,2,2,0
+"Samoa",1,0,1,1,0
+"San Marino",1,0,1,1,0
+"Sao Tome and Principe",1,0,1,1,0
+"Saudi Arabia",98,0,98,98,0
+"Senegal",71,0,71,71,6
+"Serbia",51,0,51,51,0
+"Seychelles",1,0,1,1,0
+"Sierra Leone",14,0,14,14,0
+"Singapore",65,1,64,65,0
+"Sint Maarten",1,0,1,1,0
+"Slovakia",61,0,61,61,0
+"Slovenia",9,0,9,9,0
+"Solomon Islands",7,0,7,7,0
+"Somalia",42,0,42,42,7
+"South Africa",307,0,307,307,0
+"South Georgia and the South Sandwich Islands",1,0,1,1,0
+"South Korea",149,2,147,149,0
+"South Sudan",16,0,16,16,4
+"Spain",735,2,733,735,0
+"Sri Lanka",60,0,60,60,0
+"Sudan",76,0,76,76,10
+"Suriname",12,0,12,12,0
+"Svalbard and Jan Mayen",1,0,1,1,0
+"Sweden",111,0,111,111,0
+"Switzerland",98,2,96,98,0
+"Syria",89,0,89,89,0
+"Taiwan",67,0,67,67,0
+"Tajikistan",31,0,31,31,1
+"Tanzania",228,0,228,228,5
+"Thailand",330,2,328,330,0
+"Timor Leste",10,0,10,10,0
+"Togo",20,0,20,20,1
+"Tokelau",3,0,3,3,0
+"Tonga",1,0,1,1,0
+"Trinidad and Tobago",14,0,14,14,0
+"Tunisia",130,0,130,130,0
+"Turkey",437,1,436,437,0
+"Turkmenistan",37,0,37,37,7
+"Turks and Caicos Islands",2,0,2,2,0
+"Tuvalu",1,0,1,1,0
+"U.S. Virgin Islands",2,0,2,2,0
+"Uganda",141,0,141,141,0
+"Ukraine",402,8,394,402,1
+"United Arab Emirates",63,1,62,63,0
+"United Kingdom",866,2,864,866,0
+"United States",3409,2,3407,3409,0
+"United States Minor Outlying Islands",3,0,3,3,0
+"Uruguay",31,0,31,31,0
+"Uzbekistan",112,0,112,112,12
+"Vanuatu",1,0,1,1,0
+"Vatican",1,0,1,1,0
+"Venezuela",216,0,216,216,0
+"Vietnam",315,1,314,315,0
+"Wallis and Futuna",1,0,1,1,0
+"Western Sahara",4,0,4,4,0
+"Yemen",25,0,25,25,0
+"Zambia",77,0,77,77,0
+"Zimbabwe",31,0,31,31,0

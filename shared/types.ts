@@ -1,5 +1,5 @@
 export interface Place {
-  id: string; name: string; country: string; city: string; category: 'Culture' | 'Nature' | 'Food & drink' | 'Adventure' | 'Restaurants' | 'Parks & gardens' | 'Activities' | 'Shopping' | 'Beaches' | 'Hotels';
+  id: string; name: string; country: string; city: string; category: 'Culture' | 'Nature' | 'Food & drink' | 'Adventure' | 'Restaurants' | 'Parks & gardens' | 'Activities' | 'Shopping' | 'Beaches' | 'Hotels' | 'Localities';
   kind: 'iconic' | 'hidden' | 'local'; description: string; image: string; lat: number; lng: number;
   rating: number | null; duration: string; price: string; bestTime: string; transit: string; driving: string;
   source?: {name:string;url:string;retrievedAt:string;license?:string};
