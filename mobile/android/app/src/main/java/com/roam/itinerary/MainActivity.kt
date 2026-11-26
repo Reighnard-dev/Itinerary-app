@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
             settings.useWideViewPort = true
             settings.loadWithOverviewMode = true
             settings.mediaPlaybackRequiresUserGesture = false
+            settings.userAgentString = "${settings.userAgentString} RoamAndroidApp/${BuildConfig.VERSION_NAME}"
 
             webChromeClient = WebChromeClient()
             webViewClient = object : WebViewClient() {

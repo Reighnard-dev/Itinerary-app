@@ -33,6 +33,7 @@ import MobileLandingPage from './MobileLandingPage';
 import './mobile-landing.css';
 import {
   dismissLandingForSession,
+  isAndroidInstalledApp,
   isLandingPath,
   isStandalonePwa,
   shouldShowMobileLanding,
@@ -72,7 +73,7 @@ function App(){
  const [recovering,setRecovering]=useState(false),[accountOpen,setAccountOpen]=useState(isAccountPath);
  const [landingOpen,setLandingOpen]=useState(()=>shouldShowMobileLanding(window.location,window.innerWidth));
  const [installPrompt,setInstallPrompt]=useState<BeforeInstallPromptEvent|null>(null);
- const [isInstalled,setIsInstalled]=useState(()=>isStandalonePwa());
+ const [isInstalled,setIsInstalled]=useState(()=>isStandalonePwa()||isAndroidInstalledApp());
  const [user,setUser]=useState<User|null>(null),[mode,setMode]=useState<'local'|'supabase'>('local'),[ready,setReady]=useState(false);
  const [view,setView]=useState<PlanningView>('discover');
  useEffect(()=>{

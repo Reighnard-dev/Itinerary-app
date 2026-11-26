@@ -34,10 +34,67 @@ export function isStandalonePwa(): boolean {
   return displayStandalone || iosStandalone;
 }
 
+const ANDROID_BROWSER_TOKENS =
+  /SamsungBrowser|HuaweiBrowser|MiuiBrowser|HeyTapBrowser|OppoBrowser|VivoBrowser|UCBrowser|Firefox|FxiOS|OPR\/|Opera|EdgA\/|YaBrowser|Brave|Vivaldi|DuckDuckGo|Quark|MQQBrowser|QQBrowser|SogouMobileBrowser|PetalSearch/i;
+
+const EXTERNAL_REFERRER_HOSTS = new Set([
+  'l.facebook.com',
+  'lm.facebook.com',
+  'm.facebook.com',
+  'l.instagram.com',
+  't.co',
+  'lnkd.in',
+]);
+
+function isRoamAndroidReferrer(referrer: string): boolean {
+  return /^android-app:\/\/com\.roam\.itinerary(?:\/|$)/i.test(referrer.trim());
+}
+
+function isExternalThirdPartyReferrer(referrer: string): boolean {
+  const trimmed = referrer.trim();
+  if (!trimmed) return false;
+  if (/^android-app:\/\//i.test(trimmed)) {
+    return !isRoamAndroidReferrer(trimmed);
+  }
+  try {
+    const hostname = new URL(trimmed).hostname.toLowerCase();
+    return EXTERNAL_REFERRER_HOSTS.has(hostname);
+  } catch {
+    return false;
+  }
+}
+
 export function isInAppBrowser(
   ua: string = typeof navigator !== 'undefined' ? navigator.userAgent : ''
 ): boolean {
-  return /FBAN|FBAV|Instagram|Line\/|MicroMessenger|TikTok|Snapchat|WhatsApp/i.test(ua);
+  return /FBAN|FBAV|FB_IAB|FBIOS|Orca-Android|\bMessenger\b|Instagram|Barcelona|Line\/|MicroMessenger|TikTok|BytedanceWebview|musical_ly|Snapchat|WhatsApp|\bTwitter|LinkedInApp|Pinterest|KAKAOTALK|\bViber\b|\bZalo\b|\bWeibo\b|baiduboxapp|\bQQ\/|\bGSA\//i.test(
+    ua
+  );
+}
+
+/**
+ * Detects whether Roam is running inside the installed Android/Huawei APK
+ * WebView (or a launched Android shortcut/PWA) rather than a mobile browser.
+ */
+export function isAndroidInstalledApp(
+  ua: string = typeof navigator !== 'undefined' ? navigator.userAgent : '',
+  search: string = typeof window !== 'undefined' ? window.location.search : '',
+  referrer: string = typeof document !== 'undefined' ? document.referrer : ''
+): boolean {
+  if (/\bRoamAndroidApp\//i.test(ua)) return true;
+
+  const platform = detectPlatform(ua);
+  if (platform !== 'android' && platform !== 'huawei') return false;
+
+  if (isRoamAndroidReferrer(referrer)) return true;
+
+  const params = new URLSearchParams(search);
+  const source = params.get('source');
+  if (source === 'apk' || source === 'pwa') return true;
+
+  if (isExternalThirdPartyReferrer(referrer)) return false;
+
+  return /;\s*wv\)|;\s*wv\b/i.test(ua) && !isInAppBrowser(ua) && !ANDROID_BROWSER_TOKENS.test(ua);
 }
 
 export function isLandingDismissed(): boolean {
@@ -65,6 +122,8 @@ export function shouldShowMobileLanding(
   options?: {
     dismissed?: boolean;
     standalone?: boolean;
+    androidApp?: boolean;
+    referrer?: string;
     maxTouchPoints?: number;
   }
 ): boolean {
@@ -75,6 +134,10 @@ export function shouldShowMobileLanding(
 
   const standalone = options?.standalone ?? isStandalonePwa();
   if (standalone) return false;
+
+  const androidApp =
+    options?.androidApp ?? isAndroidInstalledApp(ua, locationLike.search, options?.referrer);
+  if (androidApp) return false;
 
   const dismissed = options?.dismissed ?? isLandingDismissed();
   if (dismissed) return false;

@@ -74,4 +74,44 @@ test.describe('Mobile interactive landing page & cross-platform download hub', (
     await expect(page.getByTestId('roam-mobile-landing')).toBeVisible();
     await expect(page).toHaveURL(/\/download$/);
   });
+
+  test('Android web browser shows download landing while installed Android APK WebView lands directly on Roam', async ({
+    browser,
+  }) => {
+    const androidChromeUa =
+      'Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36';
+    const androidStockWvUa =
+      'Mozilla/5.0 (Linux; Android 14; Pixel 8 Build/AP2A.240805.005; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/128.0.6613.127 Mobile Safari/537.36';
+    const androidBrandedApkUa = `${androidStockWvUa} RoamAndroidApp/1.0.0`;
+
+    // 1. Android mobile web browser sees the download landing page
+    const webContext = await browser.newContext({
+      viewport: { width: 390, height: 844 },
+      userAgent: androidChromeUa,
+      hasTouch: true,
+    });
+    const webPage = await webContext.newPage();
+    await webPage.goto('/');
+    await expect(webPage.getByTestId('roam-mobile-landing')).toBeVisible();
+    await expect(webPage.getByRole('link', { name: /Download ROAM APK/i }).first()).toBeVisible();
+    await webContext.close();
+
+    // 2. Installed Android APK WebViews (stock v1.0.0 WebView & tagged RoamAndroidApp) land straight on Roam
+    for (const apkUa of [androidStockWvUa, androidBrandedApkUa]) {
+      const appContext = await browser.newContext({
+        viewport: { width: 390, height: 844 },
+        userAgent: apkUa,
+        hasTouch: true,
+      });
+      const appPage = await appContext.newPage();
+      const errors: string[] = [];
+      appPage.on('pageerror', (e) => errors.push(e.message));
+
+      await appPage.goto('/');
+      await expect(appPage.getByTestId('roam-mobile-landing')).toHaveCount(0);
+      await expect(appPage.getByRole('heading', { name: 'Your next somewhere.' })).toBeVisible();
+      expect(errors).toEqual([]);
+      await appContext.close();
+    }
+  });
 });
