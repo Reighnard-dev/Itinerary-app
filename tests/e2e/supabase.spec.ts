@@ -1,6 +1,16 @@
 import { test, expect } from '@playwright/test';
 import type { Trip } from '../../shared/types';
 
+test.beforeEach(async ({ page }) => {
+ await page.route('**/api/config', route => route.fulfill({
+  json: {
+   mode: 'supabase',
+   supabaseUrl: 'https://roam-test.supabase.co',
+   supabaseAnonKey: 'sb_publishable_roam_test',
+  },
+ }));
+});
+
 test('cloud auth, autosave, reload, stop edits and deletion use Supabase', async ({ page }) => {
  const errors: string[] = [];
  page.on('pageerror', error => errors.push(error.message));
