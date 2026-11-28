@@ -1,6 +1,7 @@
 const CACHE_NAME = 'roam-shell-v4';
+const APP_ROUTES = new Set(['/', '/account', '/download', '/welcome']);
 const PRECACHE_URLS = [
-  '/',
+  new Request('/', {cache: 'reload'}),
   '/manifest.webmanifest',
   '/favicon.svg',
   '/fonts.css',
@@ -8,6 +9,14 @@ const PRECACHE_URLS = [
   '/icons/icon-512.png',
   '/fallback.svg',
 ];
+
+function cacheResponse(event, key, network, isCacheable = (response) => response.ok) {
+  event.waitUntil(network.then((response) => {
+    if (!response || !isCacheable(response)) return;
+    const copy = response.clone();
+    return caches.open(CACHE_NAME).then((cache) => cache.put(key, copy));
+  }).catch(() => undefined));
+}
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
@@ -39,37 +48,22 @@ self.addEventListener('fetch', (event) => {
   if (url.pathname.startsWith('/api/')) return;
 
   if (request.mode === 'navigate') {
-    event.respondWith(
-      fetch(request)
-        .then((response) => {
-          if (response.ok) {
-            const copy = response.clone();
-            caches.open(CACHE_NAME).then((cache) => cache.put('/', copy)).catch(() => undefined);
-          }
-          return response;
-        })
-        .catch(() => caches.match('/').then((cached) => cached || Response.error()))
-    );
+    const network = fetch(request, {cache: 'no-cache'});
+    const pathname = url.pathname.replace(/\/+$/, '') || '/';
+    if (APP_ROUTES.has(pathname)) {
+      cacheResponse(event, '/', network, (response) =>
+        response.ok && response.headers.get('content-type')?.includes('text/html'));
+    }
+    event.respondWith(network.catch(() => caches.match('/').then((cached) => cached || Response.error())));
     return;
   }
 
-  const isStaticAsset =
-    url.pathname.startsWith('/assets/') ||
-    url.pathname.startsWith('/fonts/') ||
-    url.pathname.startsWith('/icons/');
-
-  if (isStaticAsset) {
-    event.respondWith(
-      caches.open(CACHE_NAME).then(async (cache) => {
-        const cached = await cache.match(request);
-        const networkPromise = fetch(request)
-          .then((response) => {
-            if (response.ok) cache.put(request, response.clone()).catch(() => undefined);
-            return response;
-          })
-          .catch(() => cached);
-        return cached || networkPromise;
-      })
-    );
+  const isBuildAsset = url.pathname.startsWith('/assets/');
+  if (isBuildAsset || url.pathname.startsWith('/fonts/') || url.pathname.startsWith('/icons/')) {
+    const cached = caches.open(CACHE_NAME).then((cache) => cache.match(request)).catch(() => undefined);
+    // Vite build filenames change with their contents, so cache hits need no network refresh.
+    const network = cached.then((response) => isBuildAsset && response ? undefined : fetch(request));
+    cacheResponse(event, request, network);
+    event.respondWith(cached.then((response) => response || network));
   }
 });
