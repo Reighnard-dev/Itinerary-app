@@ -9,7 +9,7 @@
   background: #faf5ea;
   background: radial-gradient(ellipse at center, #fcf8ef, #f7f0e4);
   color: var(--ink);
-  animation: launch-splash-reveal 350ms ease-out 950ms forwards;
+  animation: launch-splash-reveal 700ms ease-in-out 650ms forwards;
 }
 
 .launch-splash-copy {
